@@ -39,6 +39,7 @@ Or specify a different input file (CSV or parquet — detected by extension):
 from __future__ import annotations
 
 import argparse
+import hashlib
 import logging
 import os
 import sys
@@ -68,7 +69,7 @@ log = logging.getLogger("vees_loader")
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-SCHEMA_FILE = SCRIPT_DIR / "schema.sql"
+SCHEMA_FILE = PROJECT_ROOT / "Postgre_Schemes" / "schema.sql"
 
 # Updated default: points at the actual cleaned CSV location.
 DEFAULT_INPUT = PROJECT_ROOT / "Cleaned Data" / "Kabs_cleaned.csv"
@@ -223,11 +224,39 @@ def validate_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 
     df.columns = df.columns.astype(str)
 
+    # Support both the cleaned schema and the notebook's original headers.
+    column_aliases = {
+        "Id": "event_id",
+        "Date of Report": "report_date",
+        "County": "county",
+        "Sub-County": "sub_county",
+        "Ward": "ward",
+        "Locality": "locality",
+        "Species Affected": "species_affected",
+        "Number at Risk": "number_at_risk",
+        "Number Sick / Bitten": "number_sick_bitten",
+        "Number Dead": "number_dead",
+        "Disease/Condition": "disease_condition",
+        "Nature of Diagnosis": "nature_of_diagnosis",
+        "Number of Humans Affected (If zoonosis)": "humans_affected",
+        "Disease Control Method": "control_methods",
+        "Longitude": "longitude",
+        "Latitude": "latitude",
+        "Number Sick": "number_sick",
+    }
+    df = df.rename(columns=column_aliases)
+
     if "event_id" not in df.columns:
-        raise ValueError(
-            "The dataframe does not contain an 'event_id' column.\n"
-            "The upsert operation requires event_id.\n"
-            f"Columns found: {list(df.columns)}"
+        log.warning(
+            "No event_id column found; generating stable IDs from each row."
+        )
+        row_values = df.astype("string").fillna("").agg("|".join, axis=1)
+        df.insert(
+            0,
+            "event_id",
+            row_values.map(
+                lambda value: hashlib.sha256(str(value).encode("utf-8")).hexdigest()
+            ),
         )
 
     # Any list/array-valued cells (e.g. multi-select columns) break
@@ -239,6 +268,21 @@ def validate_dataframe(df: pd.DataFrame) -> pd.DataFrame:
             df[col] = df[col].apply(
                 lambda v: ", ".join(map(str, v)) if isinstance(v, list) else v
             )
+
+    if "control_methods" in df.columns:
+        def parse_control_methods(value: object) -> list[str]:
+            if isinstance(value, list):
+                return [str(item) for item in value]
+            if value is None or (isinstance(value, float) and pd.isna(value)):
+                return []
+            text_value = str(value).strip()
+            if text_value.startswith("[") and text_value.endswith("]"):
+                text_value = text_value[1:-1]
+            if not text_value:
+                return []
+            return [item.strip().strip("'\"") for item in text_value.split(",")]
+
+        df["control_methods"] = df["control_methods"].apply(parse_control_methods)
 
     # Pandas NaN doesn't play well with psycopg2 param binding for
     # non-numeric columns — normalize to None so NULLs load cleanly.
@@ -309,7 +353,11 @@ def upsert(
         with engine.begin() as connection:
             for start in range(0, total, batch_size):
                 batch = df.iloc[start:start + batch_size]
-                connection.execute(insert_sql, batch.to_dict(orient="records"))
+                records = [
+                    {str(key): value for key, value in record.items()}
+                    for record in batch.to_dict(orient="records")
+                ]
+                connection.execute(insert_sql, records)
                 log.info("  ...%s / %s rows upserted",
                          f"{min(start + batch_size, total):,}", f"{total:,}")
 
