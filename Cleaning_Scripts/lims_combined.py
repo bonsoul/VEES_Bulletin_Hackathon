@@ -23,7 +23,7 @@ FILES = [
     "Diseases_LIMS_January to 18th August 2026.xls",
 ]
 
-OUTPUT_PATH = os.path.join(FOLDER, "..", "Cleaned Data", "Diseases_LIMS_Combined.csv")
+OUTPUT_PATH = os.path.join(FOLDER, "Diseases_LIMS_Combined.csv")
 # ------------------------------------------------------
 
 
