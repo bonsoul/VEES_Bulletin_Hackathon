@@ -1,0 +1,1476 @@
+SAMPLING_PURPOSE,SAMPLING_DATE ,ORIGINAL_SPECIES,BREED,ANIMAL_TYPE,AGE_CATEGORY,SAMPLE_TYPE,SEX,AGE,ORGANISM,ANTIBIOTIC,DISEASE,INTERPRETATION
+Active AMR Surveillance,27/01/2025,Avian-Domestic, , , ,Bacterial Colony, , ,Escherichia coli,Ampicillin 10 µg, ,KO
+Active AMR Surveillance,17/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,18/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,19/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,KO
+Active AMR Surveillance,24/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nitrofurantoin, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Clindamycin, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,KO
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Linezolid (LZD) 30mcg, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,OK
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,26/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,OK
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,27/03/2025,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin 5ug, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Erythromycin 15 µg, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Tetracycline 30 µg, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Vancomycin (VA) 30ug, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,OK
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Linezolid (LZD) 30mcg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,SA
+Active AMR Surveillance,31/03/2025,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-01-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-03-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-03-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic,Improved kienyeji (dual purpose), , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-02-04 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,18/03/2025,Bovine,Cattle - Friesian,dai,adu,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,25/03/2025,Avian-Domestic, , , ,Bacterial Colony, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,18/03/2025,Bovine,Cattle - Friesian, , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,18/03/2025,Bovine,Cattle - Friesian, , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,19/03/2025,Bovine,Cattle - Friesian, , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-02-04 00:00:00,Bovine,Cattle - Friesian, , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-03-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-03-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-03-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-05-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-09-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,NI
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic,Layer , , ,Bacterial Colony, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Linezolid (LZD) 30mcg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,NE
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Linezolid (LZD) 30mcg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,NE
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Linezolid (LZD) 30mcg, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,NE
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Linezolid (LZD) 30mcg, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Linezolid (LZD) 30mcg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,NE
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Linezolid (LZD) 30mcg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,NE
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Linezolid (LZD) 30mcg, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,NE
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Linezolid (LZD) 30mcg, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,NE
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Linezolid (LZD) 30mcg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,NE
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Kienyeji chicken , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,OK
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,NI
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Linezolid (LZD) 30mcg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Quinupristin-dalfopristin15µg, ,NE
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,KO
+Active AMR Surveillance,2025-11-06 00:00:00,Avian-Domestic,Broiler , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,NI
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic,Layer , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,OK
+Active AMR Surveillance,16/06/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Meropenem 10ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,16/06/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Erythromycin 15 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Tetracycline 30 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Vancomycin (VA) 30ug, ,SA
+Active AMR Surveillance,16/06/2025,Avian-Domestic,Broiler , , ,microbial isolate, , ,Escherichia coli,Amoxicillin-clavulanate, ,OK
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Cefepime 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ceftriaxone, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Ciprofloxacin ( except salmonella spp) 5ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Gentamycin 10 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Imipenem, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Nalidixic acid 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Streptomycin, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Tetracycline, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Escherichia coli,Trimethoprim-sulfamethoxazole 1.27/23.75 ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ampicillin 10 µg, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Chloramphenical 30ug, ,SA
+Active AMR Surveillance,2025-10-06 00:00:00,Avian-Domestic, , , ,microbial isolate, , ,Enterococcus Sp.,Ciprofloxacin 5ug, ,SA
