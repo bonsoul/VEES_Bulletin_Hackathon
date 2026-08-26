@@ -39,6 +39,8 @@ Or specify a different input file (CSV or parquet — detected by extension):
 from __future__ import annotations
 
 import argparse
+import ast
+import hashlib
 import logging
 import os
 import sys
@@ -223,17 +225,69 @@ def validate_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 
     df.columns = df.columns.astype(str)
 
+    # Map the cleaned KABS display headers to the database schema headers.
+    df = df.rename(columns={
+        "Date of Report": "report_date",
+        "County": "county",
+        "Sub-County": "sub_county",
+        "Ward": "ward",
+        "Locality": "locality",
+        "Species Affected": "species_affected",
+        "Number at Risk": "number_at_risk",
+        "Number Sick / Bitten": "number_sick_bitten",
+        "Number Dead": "number_dead",
+        "Disease/Condition": "disease_condition",
+        "Nature of Diagnosis": "nature_of_diagnosis",
+        "Number of Humans Affected (If zoonosis)": "humans_affected",
+        "Disease Control Method": "control_methods",
+        "Longitude": "longitude",
+        "Latitude": "latitude",
+        "Number Sick": "number_sick",
+    })
+
     if "event_id" not in df.columns:
-        raise ValueError(
-            "The dataframe does not contain an 'event_id' column.\n"
-            "The upsert operation requires event_id.\n"
-            f"Columns found: {list(df.columns)}"
-        )
+        # The cleaned KABS file has no source ID, so derive one from row data.
+        df.insert(0, "event_id", [
+            hashlib.sha256(f"{index}|{row}".encode()).hexdigest()
+            for index, row in enumerate(df.itertuples(index=False, name=None))
+        ])
+
+    numeric_columns = [
+        "number_at_risk", "number_sick_bitten", "number_dead",
+        "humans_affected", "longitude", "latitude", "number_sick",
+    ]
+    for column in numeric_columns:
+        if column in df.columns:
+            df[column] = pd.to_numeric(df[column], errors="coerce")
+
+    if "report_date" in df.columns:
+        df["report_date"] = pd.to_datetime(
+            df["report_date"], errors="coerce"
+        ).dt.date
+
+    if "control_methods" in df.columns:
+        def parse_control_methods(value):
+            if isinstance(value, list):
+                return value
+            if value is None or pd.isna(value):
+                return []
+            text_value = str(value).strip()
+            if text_value.startswith("[") and text_value.endswith("]"):
+                try:
+                    parsed = ast.literal_eval(text_value.replace("[", "['", 1).replace("]", "']", 1))
+                    return parsed if isinstance(parsed, list) else [text_value]
+                except (SyntaxError, ValueError):
+                    return [text_value.strip("[]")]
+            return [text_value]
+
+        df["control_methods"] = df["control_methods"].apply(parse_control_methods)
 
     # Any list/array-valued cells (e.g. multi-select columns) break
     # SQL parameter binding — convert them to comma-joined strings so the
     # upsert doesn't blow up on 'unhashable type: list'.
     for col in df.columns:
+        if col == "control_methods":
+            continue
         if df[col].apply(lambda v: isinstance(v, (list,))).any():
             log.info("Converting list-valued column '%s' to string.", col)
             df[col] = df[col].apply(

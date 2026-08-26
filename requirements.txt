@@ -1,0 +1,6 @@
+pandas
+numpy
+openpyxl
+xlrd
+SQLAlchemy
+psycopg2-binary
