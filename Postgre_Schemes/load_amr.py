@@ -85,6 +85,9 @@ def read_data(input_path: Path) -> pd.DataFrame:
         dataframe["sampling_date"], dayfirst=True, errors="coerce"
     ).dt.date
     dataframe = dataframe.replace({"": None, " ": None})
+    dataframe["sampling_date"] = dataframe["sampling_date"].where(
+        dataframe["sampling_date"].notna(), None
+    )
 
     # Include the row position so identical source records remain separate rows.
     dataframe.insert(0, "amr_id", [
