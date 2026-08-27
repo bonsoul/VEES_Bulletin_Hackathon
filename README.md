@@ -2,6 +2,10 @@
 
 Cleaning pipelines and PostgreSQL loaders for the VEES Bulletin datasets.
 
+## Architecture
+
+![VEES medallion architecture](Images/vees_medallion_architecture.png)
+
 ## Project Structure
 
 - `Raw_Datasets/`: Original Excel and CSV files.
