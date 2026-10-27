@@ -1,0 +1,3312 @@
+Disease/Condition,County,No. Sick,No. Dead
+Goat Pox,Mandera,180,6
+East Coast Fever(ECF),Nyamira,1,0
+Coccidosis,Kisumu,1,0
+Helminthiasis,Kwale,2,1
+Rabies,Bungoma,1,0
+Goat Pox,Marsabit,10,2
+Anaplasmosis,Kisumu,1,0
+Pneumonia,Bungoma,1,0
+Newcastle Disease (NCD),Bungoma,5,6
+Swine Erysipelas,Nyandarua,9,1
+Coccidosis,Kisumu,1,0
+Black Quarter,Kisumu,0,1
+Mange,Bungoma,1,0
+Lumpy Skin Disease (LSD),Bungoma,1,0
+Trypanosomiasis,Busia,1,0
+Parvovirus,Bungoma,2,1
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Pneumonia,Bungoma,1,2
+Heart Water,Busia,1,0
+Foot and Mouth Disease (FMD),Bungoma,6,1
+Kennel cough,Bungoma,1,0
+Kennel cough,Bungoma,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Anaplasmosis,Bungoma,1,0
+Anaplasmosis,Bungoma,1,0
+Enterotoxaemia,Bungoma,1,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Helminthiasis,Turkana,5,0
+Foot and Mouth Disease (FMD),Bungoma,4,0
+Sheep scab,Bungoma,2,0
+Other,Wajir,1,0
+Sheep Pox,Kisumu,3,0
+Trypanosomiasis,Kisii,2,0
+Mange,Kisumu,1,0
+Anaplasmosis,Bungoma,1,0
+Helminthiasis,Bungoma,1,0
+African Swine Fever (ASF),Bungoma,1,3
+Other,Wajir,1,0
+Pneumonia,Wajir,1,0
+Animal bites,Bungoma,1,0
+East Coast Fever(ECF),Kiambu,1,0
+Helminthiasis,Bungoma,1,0
+Lumpy Skin Disease (LSD),Wajir,8,0
+Black Quarter,Siaya,1,0
+Anaplasmosis,Kisumu,1,0
+Lumpy Skin Disease (LSD),Wajir,6,0
+Trypanosomiasis,Kwale,5,0
+Other,Kwale,1,0
+Lumpy Skin Disease (LSD),Kwale,5,0
+Pneumonia,Kwale,0,0
+Pneumonia,Kwale,0,0
+Animal bites,Siaya,1,0
+Other,Nyandarua,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,10,1
+Lumpy Skin Disease (LSD),Kirinyaga,1,0
+Other,Mandera,1,0
+Other,Kwale,3,1
+Contagious Caprine Pleuropneumonia (CCPP),Mandera,2,0
+Poisoning,Siaya,3,0
+Other,Kwale,3,1
+Other,Siaya,2,0
+Other,Makueni,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,0,0
+Foot and Mouth Disease (FMD),Bomet,8,2
+Other,Nakuru,2,0
+Lumpy Skin Disease (LSD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Nakuru,3,0
+Anaplasmosis,Isiolo,1,0
+East Coast Fever(ECF),Kwale,2,0
+Other,Nyandarua,1,0
+Black Quarter,Kisumu,0,1
+Lumpy Skin Disease (LSD),Bomet,3,0
+Black Quarter,Mandera,100,50
+Helminthiasis,Kwale,1,0
+Trypanosomiasis,Kwale,1,0
+Helminthiasis,Kwale,3,0
+Trypanosomiasis,Kwale,1,0
+Lumpy Skin Disease (LSD),Makueni,3,0
+Pneumonia,Kwale,2,0
+Peste des Petit Ruminants (PPR),Kisumu,1,0
+Other,Siaya,1,0
+Lumpy Skin Disease (LSD),Kisumu,2,0
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Helminthiasis,Nyandarua,35,0
+Helminthiasis,Kisumu,5,0
+Helminthiasis,Makueni,3,0
+East Coast Fever(ECF),Kwale,1,0
+Anthrax,Embu,0,2
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Trypanosomiasis,Kwale,1,0
+Lumpy Skin Disease (LSD),Kisii,16,1
+Lumpy Skin Disease (LSD),Narok,2,0
+East Coast Fever(ECF),Kwale,2,0
+East Coast Fever(ECF),Siaya,1,0
+Rabies,Nakuru,1,0
+Helminthiasis,Kitui,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Nyandarua,2,0
+Anaplasmosis,Isiolo,1,0
+Trypanosomiasis,Siaya,1,0
+Anaplasmosis,Vihiga,1,0
+Helminthiasis,Kwale,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,0,0
+Helminthiasis,Makueni,1,0
+Black Quarter,Kisumu,1,0
+Poisoning,Nyandarua,0,1
+Other,Kwale,1,0
+Helminthiasis,Nyandarua,3,0
+Other,Nyandarua,1,0
+Helminthiasis,Nyandarua,8,0
+Anaplasmosis,Samburu,1,0
+Lumpy Skin Disease (LSD),Nyandarua,4,0
+Other,Samburu,1,0
+Goat Pox,Isiolo,2,0
+Other,Vihiga,4,0
+Lumpy Skin Disease (LSD),Nyandarua,1,0
+Coccidosis,Nakuru,200,10
+Lumpy Skin Disease (LSD),Nakuru,17,3
+Anaplasmosis,Kwale,1,0
+Trypanosomiasis,Kwale,24,0
+Tetanus,Nyandarua,1,0
+Heart Water,Siaya,1,1
+East Coast Fever(ECF),Vihiga,1,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Trypanosomiasis,Kwale,2,0
+Other,Kwale,1,0
+Foot and Mouth Disease (FMD),Kwale,1,0
+Lumpy Skin Disease (LSD),Kirinyaga,2,1
+East Coast Fever(ECF),Vihiga,1,0
+Helminthiasis,Vihiga,4,0
+African Swine Fever (ASF),Tharaka-Nithi,5,0
+Foot and Mouth Disease (FMD),Makueni,2,0
+Newcastle Disease (NCD),Siaya,30,19
+Goat Pox,Isiolo,5,0
+Heart Water,Elgeyo/Marakwet,0,0
+Helminthiasis,Kwale,0,0
+Heart Water,Kwale,0,0
+East Coast Fever(ECF),Isiolo,1,0
+Anaplasmosis,Isiolo,1,0
+Helminthiasis,Siaya,4,0
+Lumpy Skin Disease (LSD),Nakuru,2,0
+Foot and Mouth Disease (FMD),Vihiga,6,0
+Lumpy Skin Disease (LSD),Kisii,2,0
+Lumpy Skin Disease (LSD),Kisii,1,0
+Coccidosis,Elgeyo/Marakwet,5,5
+Lumpy Skin Disease (LSD),Kirinyaga,1,0
+Other,Migori,1,0
+Pneumonia,Nakuru,1,0
+Trypanosomiasis,Kwale,8,0
+Helminthiasis,Mandera,1,0
+Other,Siaya,1,0
+Lumpy Skin Disease (LSD),Kirinyaga,2,0
+Helminthiasis,Siaya,0,0
+Black Quarter,Siaya,1,0
+Trypanosomiasis,Siaya,1,0
+Other,Kwale,0,0
+Trypanosomiasis,Kwale,2,0
+Pneumonia,Kwale,0,0
+Pneumonia,Kwale,0,0
+Lumpy Skin Disease (LSD),Wajir,2,1
+Anaplasmosis,Makueni,1,0
+East Coast Fever(ECF),Kwale,1,1
+Foot and Mouth Disease (FMD),Embu,2,0
+Pneumonia,Kwale,4,0
+Other,Kwale,2,0
+Helminthiasis,Kwale,2,0
+Helminthiasis,Kwale,2,0
+Lumpy Skin Disease (LSD),Siaya,1,1
+Other,Kwale,1,0
+Lumpy Skin Disease (LSD),Kwale,1,0
+Pneumonia,Nyandarua,2,0
+Helminthiasis,Nyandarua,1,0
+Helminthiasis,Busia,2,0
+Enterotoxaemia,Busia,3,0
+East Coast Fever(ECF),Nakuru,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+East Coast Fever(ECF),Siaya,1,0
+Foot and Mouth Disease (FMD),Nakuru,4,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Other,Elgeyo/Marakwet,1,0
+Lumpy Skin Disease (LSD),Siaya,2,0
+Anaplasmosis,Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Anaplasmosis,Nyandarua,1,0
+Other,Siaya,0,0
+East Coast Fever(ECF),Nakuru,1,0
+Other,Kwale,7,0
+Trypanosomiasis,Kwale,5,0
+Contagious Caprine Pleuropneumonia (CCPP),Tana River,6,8
+Goat Pox,Tana River,4,0
+Heart Water,Siaya,1,0
+Black Quarter,Kisumu,1,0
+Foot and Mouth Disease (FMD),Kirinyaga,3,0
+Lumpy Skin Disease (LSD),Siaya,2,0
+Trypanosomiasis,Kwale,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Pneumonia,Nyandarua,1,0
+Helminthiasis,Kwale,0,0
+Lumpy Skin Disease (LSD),Tharaka-Nithi,1,0
+Lumpy Skin Disease (LSD),Tharaka-Nithi,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,1,0
+Pneumonia,Elgeyo/Marakwet,1,0
+Other,Makueni,1,0
+Other,Makueni,1,0
+Trypanosomiasis,Kwale,1,0
+Other,Kwale,1,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,1,0
+Pneumonia,Makueni,10,0
+Other,Kisumu,1,0
+Helminthiasis,Makueni,3,0
+Pneumonia,Makueni,3,1
+Pneumonia,Makueni,26,3
+Animal bites,Kwale,0,0
+Other,Siaya,1,0
+Helminthiasis,Makueni,6,0
+Heart Water,Siaya,1,0
+Poisoning,Nyandarua,1,1
+East Coast Fever(ECF),Nyandarua,1,0
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Trypanosomiasis,Kwale,1,0
+Pneumonia,Tharaka-Nithi,1,0
+Other,Nyandarua,1,0
+Lumpy Skin Disease (LSD),Wajir,5,3
+Trypanosomiasis,Siaya,2,0
+Mange,Kwale,1,0
+East Coast Fever(ECF),Kwale,1,0
+Lumpy Skin Disease (LSD),Wajir,2,0
+Black Quarter,Siaya,1,0
+Rabies,Isiolo,2,1
+Pneumonia,Baringo,12,1
+Pneumonia,Elgeyo/Marakwet,7,2
+Anaplasmosis,Elgeyo/Marakwet,1,0
+Pneumonia,Baringo,21,0
+Lumpy Skin Disease (LSD),West Pokot,1,0
+Other,Nakuru,1,1
+Helminthiasis,Trans Nzoia,0,0
+Rabies,Makueni,2,1
+Black Quarter,Siaya,1,0
+Foot and Mouth Disease (FMD),Makueni,3,1
+East Coast Fever(ECF),Makueni,1,0
+Brucellosis,Siaya,1,0
+Helminthiasis,Busia,1,0
+Other,Busia,1,1
+Other,Busia,1,0
+Anaplasmosis,Busia,1,0
+Animal bites,Busia,2,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,3,0
+Pneumonia,Vihiga,1,0
+Helminthiasis,Makueni,1,0
+Helminthiasis,Kwale,50,0
+Lumpy Skin Disease (LSD),Kiambu,1,0
+Other,Vihiga,1,0
+Other,Makueni,1,0
+Helminthiasis,Makueni,1,0
+Trypanosomiasis,Kwale,4,0
+Pneumonia,Kwale,30,0
+Brucellosis,Siaya,1,0
+Trypanosomiasis,Kwale,2,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,1,1
+Anaplasmosis,Siaya,1,0
+Other,Kakamega,1,1
+Anaplasmosis,Kwale,1,0
+Parvovirus,Vihiga,1,0
+Other,Kwale,1,0
+Pneumonia,Makueni,1,0
+Trypanosomiasis,Siaya,3,0
+Lumpy Skin Disease (LSD),Nyandarua,2,0
+Contagious Bovine Pleuropneumonia (CBPP),Kwale,42,21
+Other,Kisumu,1,0
+Foot and Mouth Disease (FMD),Tharaka-Nithi,4,0
+Lumpy Skin Disease (LSD),Kisumu,2,0
+East Coast Fever(ECF),Siaya,1,0
+Animal bites,Vihiga,1,0
+Rabies,Kirinyaga,1,0
+Trypanosomiasis,Kwale,1,0
+Heart Water,Siaya,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Other,Busia,1,0
+Helminthiasis,Vihiga,1,0
+East Coast Fever(ECF),Busia,1,0
+Helminthiasis,Nakuru,1,0
+Helminthiasis,Nakuru,1,0
+Helminthiasis,Busia,8,0
+Other,Nyandarua,1,0
+Anthrax,Nakuru,0,1
+Other,Busia,1,0
+Rabies,Bomet,1,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Other,Kwale,0,0
+Helminthiasis,Nyandarua,2,0
+Other,Kwale,4,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Black Quarter,Siaya,1,0
+Other,Makueni,1,0
+Lumpy Skin Disease (LSD),Siaya,1,0
+Other,Siaya,1,0
+Helminthiasis,Siaya,2,0
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,8,0
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,59,3
+Black Quarter,Siaya,1,0
+Helminthiasis,Turkana,3000,0
+Pneumonia,Kwale,1,0
+Lumpy Skin Disease (LSD),Vihiga,2,0
+Other,Turkana,640,0
+Other,Siaya,1,0
+Lumpy Skin Disease (LSD),Makueni,3,0
+Trypanosomiasis,Siaya,1,0
+Pneumonia,Kwale,11,2
+Anaplasmosis,Siaya,1,0
+Rabies,Bomet,0,0
+Other,Nyandarua,0,0
+Foot and Mouth Disease (FMD),Tharaka-Nithi,1,0
+Rabies,Kajiado,0,0
+Helminthiasis,Makueni,1,0
+Rabies,Kajiado,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,150,10
+Anaplasmosis,Siaya,1,0
+Other,Siaya,1,0
+Lumpy Skin Disease (LSD),Nyandarua,1,1
+Lumpy Skin Disease (LSD),Embu,10,0
+Trypanosomiasis,Kwale,3,0
+East Coast Fever(ECF),Siaya,1,0
+Pneumonia,Mombasa,5,0
+Helminthiasis,Kwale,12,0
+Anaplasmosis,Siaya,1,0
+Anaplasmosis,Kwale,2,0
+Trypanosomiasis,Busia,1,0
+Lumpy Skin Disease (LSD),Wajir,4,1
+Other,Samburu,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,0,0
+Heart Water,Siaya,1,0
+Helminthiasis,Makueni,0,0
+Anaplasmosis,Nyandarua,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,6,0
+Other,Siaya,1,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Siaya,5,0
+Lumpy Skin Disease (LSD),Nakuru,7,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Other,Siaya,5,0
+Brucellosis,Elgeyo/Marakwet,1,0
+Coccidosis,Bungoma,6,3
+Pneumonia,Nyandarua,2,0
+Anaplasmosis,Kwale,1,0
+Lumpy Skin Disease (LSD),Kirinyaga,2,1
+Camel Pox,West Pokot,3,6
+Helminthiasis,Kitui,2,0
+Lumpy Skin Disease (LSD),Embu,1,1
+East Coast Fever(ECF),Nakuru,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Goat Pox,Turkana,66,0
+Anaplasmosis,Nyandarua,2,0
+Contagious Bovine Pleuropneumonia (CBPP),Turkana,88,3
+Other,Nyandarua,0,0
+Helminthiasis,Nyandarua,0,0
+Coccidosis,Busia,20,30
+Lumpy Skin Disease (LSD),Nyandarua,5,1
+East Coast Fever(ECF),Nakuru,1,0
+Rabies,Narok,1,1
+Lumpy Skin Disease (LSD),Embu,1,0
+East Coast Fever(ECF),Busia,1,0
+Trypanosomiasis,Kwale,2,0
+Trypanosomiasis,Busia,1,0
+Other,Siaya,2,0
+Black Quarter,Busia,1,0
+Pneumonia,Vihiga,1,0
+Pneumonia,Bungoma,1,0
+East Coast Fever(ECF),Siaya,1,0
+Pneumonia,Kwale,1,1
+East Coast Fever(ECF),Kwale,0,0
+East Coast Fever(ECF),Siaya,1,0
+East Coast Fever(ECF),Kwale,1,0
+Foot and Mouth Disease (FMD),Nakuru,1,0
+Helminthiasis,Kwale,0,0
+Newcastle Disease (NCD),Kwale,6,0
+Pneumonia,Kwale,0,0
+Trypanosomiasis,Kwale,3,0
+Rabies,Kericho,1,0
+East Coast Fever(ECF),Bungoma,1,0
+Foot and Mouth Disease (FMD),Nakuru,1,0
+Lumpy Skin Disease (LSD),Nakuru,9,3
+Foot and Mouth Disease (FMD),Makueni,1,0
+Foot and Mouth Disease (FMD),Nakuru,1,0
+Trypanosomiasis,Kwale,2,0
+Lumpy Skin Disease (LSD),Kisii,1,0
+Black Quarter,Siaya,1,1
+Pneumonia,Trans Nzoia,1,0
+Helminthiasis,Kwale,2,1
+Black Quarter,Busia,1,0
+Parvovirus,Turkana,1,0
+Pneumonia,Kwale,0,0
+Foot and Mouth Disease (FMD),Nakuru,4,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,3,0
+Helminthiasis,Nyandarua,2,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Baringo,13,1
+Helminthiasis,Makueni,0,0
+Helminthiasis,Nyandarua,4,0
+Trypanosomiasis,Kwale,1,0
+Pneumonia,Nyandarua,1,0
+Newcastle Disease (NCD),Nakuru,0,0
+Other,Siaya,1,0
+Pneumonia,Kwale,2,0
+Mange,Turkana,1,0
+Other,Nyandarua,1,0
+Other,Siaya,1,0
+Helminthiasis,Nyandarua,3,0
+Helminthiasis,Kwale,1,0
+Helminthiasis,Nyandarua,5,0
+Helminthiasis,Siaya,1,0
+Other,Elgeyo/Marakwet,1,0
+Anaplasmosis,Makueni,1,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,1,2
+Trypanosomiasis,Kwale,1,0
+Lumpy Skin Disease (LSD),Kisii,1,0
+Peste des Petit Ruminants (PPR),Kwale,4,1
+Other,Kwale,11,2
+Enterotoxaemia,Nakuru,14,3
+Helminthiasis,Kwale,0,0
+Lumpy Skin Disease (LSD),Makueni,1,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Pneumonia,Trans Nzoia,1,0
+Lumpy Skin Disease (LSD),Kirinyaga,1,0
+Helminthiasis,Kwale,1,0
+Trypanosomiasis,Kwale,2,0
+Rabies,Isiolo,1,1
+Upper respiratory infections,Kwale,2,1
+East Coast Fever(ECF),Nakuru,1,0
+Lumpy Skin Disease (LSD),Siaya,1,0
+Trypanosomiasis,Kwale,1,0
+Anaplasmosis,Kwale,1,1
+Peste des Petit Ruminants (PPR),Nyandarua,1,0
+Trypanosomiasis,Kwale,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Pneumonia,Kwale,0,0
+Brucellosis,Marsabit,3,0
+Trypanosomiasis,Kwale,1,1
+Pneumonia,Nyandarua,1,0
+Kennel cough,Siaya,1,0
+Pneumonia,Nyandarua,1,0
+Foot and Mouth Disease (FMD),Tharaka-Nithi,1,0
+Haemorrhagic septicemia,Turkana,0,3
+Heart Water,Siaya,1,0
+Pneumonia,Kwale,0,0
+Other,Siaya,1,0
+Rift Valley Fever (RVF),Marsabit,1,0
+Tetanus,Marsabit,0,1
+Enterotoxaemia,Marsabit,2,0
+Other,Marsabit,1,0
+Other,Samburu,1,0
+Other,Samburu,1,0
+Helminthiasis,Kwale,0,0
+Fowl Pox,Tharaka-Nithi,20,0
+Helminthiasis,Kwale,0,0
+East Coast Fever(ECF),Nakuru,2,0
+Helminthiasis,Nyandarua,3,0
+Helminthiasis,Kwale,0,0
+Infectious Bronchitis,Nyandarua,3,1
+Black Quarter,Embu,1,0
+Helminthiasis,Samburu,1,0
+Other,Busia,1,0
+Lumpy Skin Disease (LSD),Wajir,2,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,2,0
+Peste des Petit Ruminants (PPR),Kitui,5,0
+Other,Busia,1,0
+Foot and Mouth Disease (FMD),Makueni,3,0
+Trypanosomiasis,Busia,1,0
+Pneumonia,Makueni,3,0
+Other,Busia,1,0
+East Coast Fever(ECF),Siaya,1,0
+Other,Busia,0,0
+East Coast Fever(ECF),Nakuru,1,0
+Other,Busia,1,0
+Pneumonia,Busia,2,0
+Other,Busia,2,0
+Other,Busia,8,0
+Helminthiasis,Busia,2,0
+Rabies,Samburu,1,2
+Lumpy Skin Disease (LSD),Tharaka-Nithi,1,0
+Other,Busia,1,0
+Rabies,Tharaka-Nithi,1,1
+Lumpy Skin Disease (LSD),Makueni,3,0
+Ehrlichiosis,Nyandarua,1,0
+Helminthiasis,Makueni,15,0
+Other,Kajiado,2,0
+Foot and Mouth Disease (FMD),Kajiado,10,0
+Contagious Caprine Pleuropneumonia (CCPP),Tana River,15,0
+Enterotoxaemia,Nyandarua,2,0
+Lumpy Skin Disease (LSD),Uasin Gishu,1,0
+Peste des Petit Ruminants (PPR),Turkana,65,15
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,4,0
+Anaplasmosis,Nyandarua,1,0
+Black Quarter,Kisumu,1,1
+Peste des Petit Ruminants (PPR),Migori,0,4
+Lumpy Skin Disease (LSD),Embu,1,0
+Newcastle Disease (NCD),Nakuru,10,0
+Foot and Mouth Disease (FMD),Nyamira,2,0
+Brucellosis,Nyamira,1,0
+Helminthiasis,Kakamega,1,0
+Anaplasmosis,Makueni,1,0
+Anaplasmosis,Nakuru,1,0
+Helminthiasis,Nyamira,1,0
+Anaplasmosis,Nakuru,1,0
+Other,Makueni,1,0
+Other,Makueni,1,0
+Trypanosomiasis,Kwale,1,0
+Black Quarter,Nyandarua,1,1
+Trypanosomiasis,Kwale,2,0
+East Coast Fever(ECF),Vihiga,1,0
+Foot and Mouth Disease (FMD),Embu,2,0
+Pneumonia,Trans Nzoia,1,0
+Heart Water,Kwale,1,0
+Pneumonia,Nyandarua,1,0
+Lumpy Skin Disease (LSD),Nandi,6,3
+Lumpy Skin Disease (LSD),Nandi,1,0
+Pneumonia,Kwale,1,0
+Other,Kwale,3,0
+Lumpy Skin Disease (LSD),Nakuru,5,0
+East Coast Fever(ECF),Makueni,1,0
+Helminthiasis,Makueni,0,0
+Helminthiasis,Makueni,0,0
+Other,Kwale,0,0
+Brucellosis,Tana River,8,0
+Black Quarter,Busia,1,0
+Other,Kajiado,2,0
+Trypanosomiasis,Busia,1,0
+Helminthiasis,Kwale,0,0
+Lumpy Skin Disease (LSD),Kisumu,2,0
+Other,Kajiado,3,0
+Lumpy Skin Disease (LSD),Kisumu,3,0
+Helminthiasis,Kwale,0,0
+Other,Nyamira,1,0
+Anaplasmosis,Siaya,1,0
+Foot and Mouth Disease (FMD),Kajiado,2,0
+Other,Vihiga,1,0
+Anaplasmosis,Makueni,1,0
+Lumpy Skin Disease (LSD),Kwale,3,0
+Contagious Bovine Pleuropneumonia (CBPP),West Pokot,47,5
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,225,8
+East Coast Fever(ECF),Baringo,1,0
+East Coast Fever(ECF),Baringo,1,1
+Peste des Petit Ruminants (PPR),West Pokot,14,0
+Helminthiasis,Kitui,8,0
+Goat Pox,Wajir,10,0
+Foot and Mouth Disease (FMD),Nyamira,6,0
+Other,Kitui,1,0
+Lumpy Skin Disease (LSD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Nandi,23,1
+Helminthiasis,Kitui,3,0
+Helminthiasis,Nyamira,2,0
+Poisoning,Bungoma,1,0
+Helminthiasis,Kitui,2,0
+East Coast Fever(ECF),Nyandarua,1,0
+Helminthiasis,Vihiga,1,0
+Pneumonia,Kwale,26,1
+Enterotoxaemia,Nyandarua,1,0
+Peste des Petit Ruminants (PPR),Marsabit,3,1
+Other,Busia,2,0
+Other,Nyamira,1,0
+East Coast Fever(ECF),Nyamira,1,0
+Helminthiasis,Busia,3,0
+East Coast Fever(ECF),Kwale,1,0
+Trypanosomiasis,Kwale,26,2
+Newcastle Disease (NCD),Kwale,4,0
+Pneumonia,Kwale,5,0
+Foot and Mouth Disease (FMD),Nyamira,3,0
+Foot and Mouth Disease (FMD),Makueni,2,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Marsabit,3,0
+Other,Busia,1,0
+Anaplasmosis,Vihiga,1,0
+East Coast Fever(ECF),Vihiga,1,0
+Foot and Mouth Disease (FMD),Makueni,3,0
+Helminthiasis,Vihiga,4,0
+Helminthiasis,Vihiga,1,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Anaplasmosis,Vihiga,1,0
+Other,Vihiga,1,0
+Helminthiasis,Vihiga,1,0
+Foot and Mouth Disease (FMD),Makueni,9,0
+Lumpy Skin Disease (LSD),Kwale,5,1
+East Coast Fever(ECF),Busia,1,0
+Lumpy Skin Disease (LSD),Kisumu,3,0
+Trypanosomiasis,Kwale,2,0
+Trypanosomiasis,Kwale,1,0
+Trypanosomiasis,Kwale,1,0
+Trypanosomiasis,Kwale,2,0
+Heart Water,Siaya,1,1
+Trypanosomiasis,Kwale,3,0
+Trypanosomiasis,Kwale,1,0
+Helminthiasis,Makueni,0,0
+East Coast Fever(ECF),Kwale,1,0
+Trypanosomiasis,Kwale,2,0
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Helminthiasis,Makueni,0,0
+Lumpy Skin Disease (LSD),Kisumu,4,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,2,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,1,0
+Peste des Petit Ruminants (PPR),Kwale,5,0
+Trypanosomiasis,Kwale,5,0
+Other,Vihiga,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,6,6
+Peste des Petit Ruminants (PPR),Kwale,5,0
+East Coast Fever(ECF),Kwale,1,1
+Trypanosomiasis,Kwale,1,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,2,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,20,1
+Lumpy Skin Disease (LSD),Kiambu,1,0
+Pneumonia,Vihiga,1,0
+Other,Vihiga,2,0
+Lumpy Skin Disease (LSD),Elgeyo/Marakwet,1,0
+Anaplasmosis,Elgeyo/Marakwet,1,0
+Lumpy Skin Disease (LSD),Kiambu,1,0
+Other,Elgeyo/Marakwet,1,0
+Rift Valley Fever (RVF),Nandi,6,0
+Foot and Mouth Disease (FMD),Kajiado,100,0
+Lumpy Skin Disease (LSD),Baringo,1,0
+Trypanosomiasis,Kwale,1,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,1
+Lumpy Skin Disease (LSD),Elgeyo/Marakwet,1,0
+Pneumonia,Siaya,5,1
+Lumpy Skin Disease (LSD),Tharaka-Nithi,2,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,2,0
+Helminthiasis,Kwale,1,0
+Pneumonia,Kwale,10,0
+Parvovirus,Kwale,1,1
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,1,0
+Pneumonia,Kwale,2,0
+Helminthiasis,Kwale,2,0
+Pneumonia,Kwale,2,0
+Other,Nyandarua,1,0
+Helminthiasis,Kwale,2,0
+Infectious Bronchitis,Kwale,6,0
+Brucellosis,West Pokot,2,0
+Other,West Pokot,1,0
+East Coast Fever(ECF),West Pokot,1,0
+Other,Nyandarua,1,0
+Helminthiasis,Kwale,6,0
+Trypanosomiasis,Kwale,2,0
+Anaplasmosis,Nyandarua,1,0
+Pneumonia,Kwale,1,0
+Helminthiasis,Kwale,2,0
+Pneumonia,Kwale,2,0
+Other,Kwale,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,2,0
+Helminthiasis,Kwale,2,0
+Pneumonia,Kwale,2,0
+Mange,Kwale,1,0
+Helminthiasis,Kwale,2,0
+Other,Siaya,2,0
+Helminthiasis,Kwale,2,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,3,0
+Helminthiasis,Kwale,2,0
+Heart Water,Kwale,1,0
+Fowl Pox,Siaya,7,0
+Other,Kwale,1,0
+Pneumonia,Kwale,0,0
+Other,Kwale,0,0
+Other,Siaya,3,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Makueni,4,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Makueni,6,0
+Pneumonia,Kwale,2,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Other,Siaya,1,0
+Pneumonia,Kwale,0,0
+Pneumonia,Kwale,1,0
+Heart Water,Kwale,1,0
+Pneumonia,Siaya,1,0
+Pneumonia,Kwale,2,0
+Other,Kwale,2,0
+Trypanosomiasis,Siaya,1,0
+Other,Siaya,1,0
+Helminthiasis,Makueni,8,0
+Pneumonia,Makueni,0,0
+Pneumonia,Siaya,1,0
+Rabies,Siaya,1,1
+Black Quarter,Siaya,1,0
+Helminthiasis,Makueni,0,0
+Lumpy Skin Disease (LSD),Baringo,4,0
+Trypanosomiasis,Kwale,1,0
+Other,Makueni,8,0
+Other,Makueni,1,0
+Pneumonia,Makueni,1,0
+Helminthiasis,Makueni,3,0
+Other,Makueni,1,0
+Pneumonia,Makueni,1,1
+Foot and Mouth Disease (FMD),Makueni,2,0
+Trypanosomiasis,Siaya,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Trypanosomiasis,Kwale,1,0
+East Coast Fever(ECF),Kwale,2,0
+Helminthiasis,Makueni,15,0
+Helminthiasis,Makueni,0,0
+Pneumonia,Vihiga,1,0
+Other,Makueni,1,0
+Foot and Mouth Disease (FMD),Makueni,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,3,0
+Foot and Mouth Disease (FMD),Makueni,3,0
+East Coast Fever(ECF),Kwale,1,0
+Lumpy Skin Disease (LSD),Makueni,4,0
+Other,Samburu,1,0
+Helminthiasis,Kwale,6,0
+Helminthiasis,Makueni,1,0
+Foot and Mouth Disease (FMD),Homa Bay,2,0
+Mange,Makueni,1,0
+Other,Siaya,1,0
+Lumpy Skin Disease (LSD),Kisumu,2,0
+Anaplasmosis,Samburu,1,0
+Other,Kisumu,1,0
+Lumpy Skin Disease (LSD),Kisumu,3,0
+Other,Samburu,1,0
+Other,Samburu,1,0
+Pneumonia,Vihiga,1,0
+Foot and Mouth Disease (FMD),Kirinyaga,2,0
+Rabies,Nakuru,1,1
+Pneumonia,Vihiga,1,0
+Anaplasmosis,Kwale,2,0
+Other,Siaya,0,0
+Coccidosis,Kwale,1,0
+East Coast Fever(ECF),Kwale,2,0
+East Coast Fever(ECF),Kwale,2,0
+Trypanosomiasis,Kwale,10,0
+East Coast Fever(ECF),Kwale,1,0
+East Coast Fever(ECF),Kwale,1,0
+Helminthiasis,Kwale,9,0
+Pneumonia,Kwale,4,0
+Heart Water,Kwale,1,0
+Helminthiasis,Kwale,4,0
+Anaplasmosis,Kwale,1,0
+Helminthiasis,Kwale,7,0
+Contagious Caprine Pleuropneumonia (CCPP),Marsabit,3,0
+Other,Kwale,1,0
+Trypanosomiasis,Kwale,1,0
+Coccidosis,Kwale,1,0
+Trypanosomiasis,Kwale,2,0
+Other,West Pokot,32,3
+Anaplasmosis,Kwale,1,0
+Pneumonia,Kwale,0,0
+East Coast Fever(ECF),Kwale,1,0
+Trypanosomiasis,Kwale,5,0
+Pneumonia,Kwale,1,0
+Lumpy Skin Disease (LSD),Siaya,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Coccidosis,Samburu,1,1
+Foot and Mouth Disease (FMD),Nyamira,1,0
+Trypanosomiasis,Kwale,9,0
+Pneumonia,Kwale,1,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Lamu,22,0
+Helminthiasis,Kwale,0,0
+Fowl Pox,Siaya,7,1
+Foot and Mouth Disease (FMD),Makueni,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,11,0
+Helminthiasis,Makueni,0,0
+Lumpy Skin Disease (LSD),Nyeri,10,0
+Pneumonia,Kwale,0,0
+Pneumonia,Makueni,1,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Nyeri,12,0
+Other,Kwale,1,0
+Other,Siaya,1,0
+Anthrax,Embu,0,1
+Other,Siaya,0,0
+Helminthiasis,Kwale,0,0
+Other,Kwale,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,28,0
+Foot and Mouth Disease (FMD),Kwale,1,0
+Anthrax,Bomet,0,0
+African Swine Fever (ASF),Tharaka-Nithi,1,0
+Other,Kwale,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Lumpy Skin Disease (LSD),Kiambu,1,0
+Brucellosis,Siaya,1,0
+Trypanosomiasis,Kwale,1,0
+Pneumonia,Kwale,0,0
+Lumpy Skin Disease (LSD),Wajir,4,1
+Helminthiasis,Kwale,0,0
+Helminthiasis,Makueni,6,0
+Brucellosis,Nakuru,1,0
+Animal bites,Makueni,1,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Bungoma,1,0
+Helminthiasis,Kwale,0,0
+Animal bites,Makueni,2,0
+Mange,Kwale,1,0
+Pneumonia,Makueni,29,2
+Helminthiasis,Makueni,3,0
+Pneumonia,Makueni,10,2
+East Coast Fever(ECF),Nakuru,1,0
+Helminthiasis,Makueni,2,0
+Lumpy Skin Disease (LSD),Baringo,1,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Helminthiasis,Kwale,2,0
+Other,Elgeyo/Marakwet,5,0
+Pneumonia,Kwale,2,0
+Helminthiasis,Kwale,3,0
+Trypanosomiasis,Kwale,1,0
+Helminthiasis,Kwale,4,0
+East Coast Fever(ECF),Nakuru,1,0
+Pneumonia,Kwale,3,0
+Foot and Mouth Disease (FMD),Nyamira,11,0
+Foot and Mouth Disease (FMD),Bungoma,2,2
+Foot and Mouth Disease (FMD),Nyamira,3,0
+Trypanosomiasis,Kwale,1,0
+Other,Turkana,56,0
+Foot and Mouth Disease (FMD),Nyamira,2,0
+Peste des Petit Ruminants (PPR),Marsabit,4,3
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Rabies,Kakamega,0,0
+Rabies,Nyandarua,1,1
+Trypanosomiasis,Kwale,1,0
+Helminthiasis,Kwale,2,0
+Peste des Petit Ruminants (PPR),Marsabit,5,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Pneumonia,Kwale,1,0
+Mange,Kwale,1,0
+Foot and Mouth Disease (FMD),Marsabit,2,0
+Other,Marsabit,2,0
+Lumpy Skin Disease (LSD),Kakamega,1,1
+Other,Marsabit,2,0
+Peste des Petit Ruminants (PPR),Marsabit,4,1
+Other,Kitui,48,0
+Enterotoxaemia,Marsabit,1,0
+Other,Samburu,1,0
+Other,Siaya,1,0
+Parvovirus,Siaya,1,2
+Foot and Mouth Disease (FMD),Marsabit,3,0
+Helminthiasis,Siaya,6,0
+Trypanosomiasis,Siaya,1,0
+Helminthiasis,Siaya,1,0
+Goat Pox,Marsabit,1,0
+Haemorrhagic septicemia,Marsabit,2,1
+Contagious Caprine Pleuropneumonia (CCPP),Marsabit,5,1
+Anaplasmosis,Siaya,1,0
+Trypanosomiasis,Busia,1,0
+Other,Siaya,1,0
+Lumpy Skin Disease (LSD),Siaya,3,0
+Other,Marsabit,1,0
+Poisoning,Kwale,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,1,2
+Lumpy Skin Disease (LSD),Busia,4,0
+Heart Water,Siaya,1,0
+Lumpy Skin Disease (LSD),Makueni,3,0
+Foot and Mouth Disease (FMD),Makueni,6,0
+Foot and Mouth Disease (FMD),Makueni,12,0
+Mange,Vihiga,1,0
+Helminthiasis,Vihiga,1,0
+Peste des Petit Ruminants (PPR),Kwale,11,10
+Anaplasmosis,Vihiga,1,0
+Foot and Mouth Disease (FMD),Makueni,4,0
+Poisoning,Vihiga,3,0
+Brucellosis,Turkana,35,0
+Lumpy Skin Disease (LSD),Kisumu,3,0
+Lumpy Skin Disease (LSD),Busia,1,0
+Brucellosis,Turkana,53,0
+Helminthiasis,Busia,3,0
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,54,14
+Lumpy Skin Disease (LSD),Vihiga,1,0
+Helminthiasis,Makueni,1,0
+Lumpy Skin Disease (LSD),Vihiga,2,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Siaya,0,0
+Helminthiasis,Busia,1,0
+East Coast Fever(ECF),Busia,3,0
+Rabies,Nyandarua,2,1
+Trypanosomiasis,Siaya,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,2,0
+Helminthiasis,Kakamega,1,0
+Peste des Petit Ruminants (PPR),Turkana,41,21
+Helminthiasis,Makueni,0,0
+Helminthiasis,Makueni,0,0
+Other,Kwale,0,0
+East Coast Fever(ECF),Nakuru,1,1
+Pneumonia,Kwale,0,0
+Helminthiasis,Elgeyo/Marakwet,1,0
+Helminthiasis,Kwale,0,0
+Anaplasmosis,Elgeyo/Marakwet,1,0
+Trypanosomiasis,Busia,1,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Busia,1,0
+Pneumonia,Kwale,0,0
+Lumpy Skin Disease (LSD),Kisumu,2,0
+Pneumonia,Nakuru,3,5
+Other,Samburu,1,0
+Other,Nyandarua,25,0
+Black Quarter,Narok,0,4
+Enterotoxaemia,Nakuru,18,4
+Other,Siaya,1,0
+Helminthiasis,Kwale,2,0
+Lumpy Skin Disease (LSD),Tharaka-Nithi,1,0
+Foot and Mouth Disease (FMD),Nyamira,1,0
+Other,Trans Nzoia,3,0
+Pneumonia,Bungoma,1,0
+Anaplasmosis,Trans Nzoia,1,0
+Pneumonia,Kwale,0,0
+Other,Busia,25,0
+Foot and Mouth Disease (FMD),Nyamira,1,0
+Helminthiasis,Makueni,2,0
+Helminthiasis,Kwale,0,0
+Other,Makueni,1,0
+Anthrax,Tharaka-Nithi,0,1
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,3,0
+Trypanosomiasis,Kwale,1,0
+East Coast Fever(ECF),Nandi,1,0
+Anaplasmosis,Samburu,1,0
+Foot and Mouth Disease (FMD),Nandi,2,0
+Foot and Mouth Disease (FMD),Embu,1,0
+Lumpy Skin Disease (LSD),Nandi,2,0
+East Coast Fever(ECF),Vihiga,1,0
+East Coast Fever(ECF),Nandi,1,0
+Other,Nyandarua,1,0
+Animal bites,Nyandarua,5,2
+Other,Nandi,3,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Nandi,3,0
+Foot and Mouth Disease (FMD),Makueni,3,0
+Sheep scab,Turkana,2,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Lumpy Skin Disease (LSD),Siaya,1,0
+African Swine Fever (ASF),Embu,5,1
+Other,Nakuru,2,0
+Trypanosomiasis,Kwale,1,0
+Black Quarter,Bungoma,1,0
+East Coast Fever(ECF),Kwale,1,0
+Anaplasmosis,Makueni,1,0
+Other,Makueni,1,0
+Mange,Bungoma,1,0
+Foot and Mouth Disease (FMD),Nakuru,8,0
+Newcastle Disease (NCD),Bungoma,20,15
+Heart Water,Kwale,1,0
+Peste des Petit Ruminants (PPR),West Pokot,16,3
+East Coast Fever(ECF),Nakuru,1,1
+Pneumonia,Bungoma,2,0
+Pneumonia,Kwale,21,0
+Mange,Kisumu,4,0
+Rabies,Makueni,3,0
+Trypanosomiasis,Siaya,1,0
+Peste des Petit Ruminants (PPR),West Pokot,460,2
+Other,Narok,3,0
+East Coast Fever(ECF),Kwale,1,0
+Heart Water,Kwale,10,2
+Other,Kwale,1,0
+Highly Pathogenic Avian Influenza (HPAI),Lamu,12,6
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Heart Water,Vihiga,1,0
+Foot and Mouth Disease (FMD),Nandi,1,0
+East Coast Fever(ECF),Kwale,1,0
+Helminthiasis,Siaya,3,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Lumpy Skin Disease (LSD),Marsabit,5,0
+Lumpy Skin Disease (LSD),Vihiga,1,0
+Anaplasmosis,Elgeyo/Marakwet,1,0
+East Coast Fever(ECF),Kwale,2,0
+Anaplasmosis,Siaya,1,0
+Other,Kwale,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Heart Water,Kwale,1,0
+Other,Busia,14,2
+Trypanosomiasis,Siaya,1,0
+Sheep Pox,Laikipia,1,0
+Anaplasmosis,Siaya,1,0
+Helminthiasis,Kajiado,1,1
+Other,Siaya,1,0
+Trypanosomiasis,Kwale,3,1
+Coccidosis,Busia,1,0
+Other,Laikipia,2,0
+Helminthiasis,Makueni,2,0
+Anaplasmosis,Siaya,0,1
+Other,Kajiado,1,0
+Heart Water,Siaya,1,0
+Foot and Mouth Disease (FMD),Busia,4,0
+Other,Elgeyo/Marakwet,1,0
+East Coast Fever(ECF),Nakuru,2,0
+Foot and Mouth Disease (FMD),Kakamega,1,0
+African Swine Fever (ASF),Kirinyaga,10,60
+Foot and Mouth Disease (FMD),Kakamega,5,2
+Trypanosomiasis,Kwale,1,0
+Rabies,Makueni,1,0
+Trypanosomiasis,Siaya,1,0
+Helminthiasis,Kwale,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,22,30
+Other,Siaya,36,6
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,20,3
+East Coast Fever(ECF),Kitui,1,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+East Coast Fever(ECF),Kitui,1,0
+Helminthiasis,Makueni,2,0
+Pneumonia,Kitui,2,0
+Pneumonia,Kwale,0,0
+Other,Kwale,0,0
+Helminthiasis,Kwale,0,0
+East Coast Fever(ECF),Nyandarua,1,0
+Trypanosomiasis,Kwale,2,0
+Trypanosomiasis,Kwale,6,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,1,0
+Anaplasmosis,Nyandarua,1,0
+Pneumonia,Kwale,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Trypanosomiasis,Kwale,2,0
+Heart Water,Siaya,1,0
+Lumpy Skin Disease (LSD),Makueni,3,0
+Other,Makueni,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Mandera,3,0
+Lumpy Skin Disease (LSD),Siaya,2,0
+Foot and Mouth Disease (FMD),Bungoma,4,0
+Other,Vihiga,1,0
+Trypanosomiasis,Kwale,3,0
+East Coast Fever(ECF),Kwale,1,0
+Other,Vihiga,1,0
+Foot and Mouth Disease (FMD),Kisumu,1,0
+Peste des Petit Ruminants (PPR),Tana River,2,1
+Lumpy Skin Disease (LSD),Kakamega,1,0
+Other,Makueni,0,0
+Foot and Mouth Disease (FMD),Makueni,2,0
+Heart Water,Makueni,1,0
+Other,Makueni,1,0
+Foot and Mouth Disease (FMD),Bungoma,7,0
+East Coast Fever(ECF),Kwale,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Contagious Caprine Pleuropneumonia (CCPP),Kitui,0,0
+Helminthiasis,Kitui,3,0
+Contagious Caprine Pleuropneumonia (CCPP),Kitui,50,0
+Helminthiasis,Kitui,6,0
+Lumpy Skin Disease (LSD),Siaya,10,0
+Other,Siaya,1,0
+Animal bites,Siaya,0,1
+Lumpy Skin Disease (LSD),Siaya,1,0
+Helminthiasis,Kitui,1,0
+East Coast Fever(ECF),Siaya,1,0
+Helminthiasis,Kwale,0,0
+Other,Siaya,1,0
+Helminthiasis,Kwale,0,0
+Other,Busia,1,0
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Other,Siaya,1,0
+Helminthiasis,Busia,2,0
+Foot and Mouth Disease (FMD),Bungoma,4,0
+Other,Busia,4,0
+Foot and Mouth Disease (FMD),Kisumu,21,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Helminthiasis,Makueni,0,0
+Fowl Pox,Kisii,20,5
+Pneumonia,Kwale,2,0
+Foot and Mouth Disease (FMD),Kisumu,15,0
+East Coast Fever(ECF),Busia,1,0
+Infectious Bronchitis,Kwale,6,0
+Other,Kwale,2,0
+Trypanosomiasis,Kisumu,15,3
+Pneumonia,Kwale,0,0
+Other,Busia,1,0
+Helminthiasis,Kwale,2,0
+Canine Distemper (CD),Kwale,1,0
+East Coast Fever(ECF),Vihiga,1,0
+Helminthiasis,Kwale,2,0
+Helminthiasis,Kwale,0,0
+Lumpy Skin Disease (LSD),Uasin Gishu,2,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,2,0
+Animal bites,Kwale,0,0
+Foot and Mouth Disease (FMD),Makueni,5,0
+Foot and Mouth Disease (FMD),Makueni,6,0
+Pneumonia,Makueni,12,0
+Foot and Mouth Disease (FMD),Makueni,2,0
+Foot and Mouth Disease (FMD),Makueni,4,0
+Brucellosis,Bungoma,1,0
+Pneumonia,Bungoma,1,0
+Tetanus,Bungoma,1,0
+Upper respiratory infections,Bungoma,1,0
+Black Quarter,Narok,0,1
+Pneumonia,Isiolo,1,0
+Other,Makueni,1,1
+Pneumonia,Bungoma,1,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,3,0
+Mange,Bungoma,2,0
+Black Quarter,Bungoma,1,0
+Infectious Bronchitis,Bungoma,7,3
+Animal bites,Bungoma,2,1
+Other,Kwale,3,1
+Animal bites,Bungoma,1,0
+Other,Elgeyo/Marakwet,1,0
+Pneumonia,Bungoma,1,0
+Other,Kwale,0,0
+Animal bites,Bungoma,1,0
+Helminthiasis,Makueni,6,1
+East Coast Fever(ECF),Kwale,3,0
+Trypanosomiasis,Kwale,8,0
+Other,Embu,5,2
+Anaplasmosis,Makueni,1,0
+Trypanosomiasis,Makueni,2,0
+Helminthiasis,Makueni,23,3
+Helminthiasis,Siaya,1,0
+Foot and Mouth Disease (FMD),West Pokot,6,0
+Other,Siaya,1,0
+Pneumonia,Kisumu,0,1
+Pneumonia,Isiolo,1,0
+Other,Trans Nzoia,1,0
+Enterotoxaemia,Siaya,1,0
+Helminthiasis,Siaya,3,0
+Pneumonia,Isiolo,1,0
+Foot and Mouth Disease (FMD),Kakamega,7,0
+Animal bites,Siaya,4,0
+Helminthiasis,Kwale,2,0
+Pneumonia,Kwale,23,0
+Pneumonia,Makueni,1,0
+Rabies,Kakamega,1,0
+Trypanosomiasis,Kwale,6,0
+Lumpy Skin Disease (LSD),Embu,1,0
+Pneumonia,Kwale,51,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,8,1
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Kisii,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Coccidosis,Makueni,6,0
+Contagious Caprine Pleuropneumonia (CCPP),Kitui,14,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Trypanosomiasis,Siaya,1,0
+Helminthiasis,Siaya,1,0
+Helminthiasis,Kitui,1,0
+Other,Kwale,1,0
+Pneumonia,Kitui,1,0
+Helminthiasis,Kitui,2,0
+Helminthiasis,Kitui,21,0
+Helminthiasis,Kitui,16,0
+Contagious Caprine Pleuropneumonia (CCPP),Kitui,0,0
+Helminthiasis,Kitui,5,0
+Helminthiasis,Kitui,2,0
+Helminthiasis,Kitui,1,0
+Helminthiasis,Kitui,4,0
+Helminthiasis,Kitui,2,0
+Other,Kitui,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kitui,12,0
+Peste des Petit Ruminants (PPR),Kitui,4,0
+Helminthiasis,Kitui,2,0
+Enterotoxaemia,Kitui,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kitui,0,0
+Pneumonia,Elgeyo/Marakwet,5,2
+Other,Kwale,1,0
+Lumpy Skin Disease (LSD),Tharaka-Nithi,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Nakuru,2,0
+Foot and Mouth Disease (FMD),Nakuru,3,0
+Trypanosomiasis,Kwale,2,0
+Helminthiasis,Kwale,0,0
+Other,Kwale,1,0
+Pneumonia,Kwale,0,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Animal bites,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Trypanosomiasis,Busia,1,0
+Lumpy Skin Disease (LSD),Elgeyo/Marakwet,1,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Other,Kwale,0,0
+Heart Water,Kisumu,1,0
+Helminthiasis,Kwale,0,0
+Other,Siaya,2,0
+Trypanosomiasis,Kwale,1,0
+Pneumonia,Siaya,1,0
+Pneumonia,Kwale,0,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Trypanosomiasis,Kwale,3,0
+Rabies,Siaya,0,2
+Trypanosomiasis,Kwale,1,0
+Trypanosomiasis,Kwale,2,0
+Pneumonia,Kwale,1,0
+Trypanosomiasis,Siaya,1,0
+Kennel cough,Kwale,1,0
+East Coast Fever(ECF),Kwale,1,0
+Helminthiasis,Kwale,3,0
+Trypanosomiasis,Kwale,1,0
+Pneumonia,Siaya,2,2
+Trypanosomiasis,Kwale,1,0
+Helminthiasis,Kwale,2,0
+Rabies,Siaya,2,2
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,1,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Nakuru,20,6
+Heart Water,Siaya,1,0
+Pneumonia,Kwale,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,3,0
+Other,Kwale,1,0
+East Coast Fever(ECF),Kwale,2,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,1,0
+Lumpy Skin Disease (LSD),Nandi,2,0
+Foot and Mouth Disease (FMD),Nandi,5,0
+Lumpy Skin Disease (LSD),Nandi,1,0
+Lumpy Skin Disease (LSD),Nandi,0,0
+Lumpy Skin Disease (LSD),Vihiga,1,0
+Foot and Mouth Disease (FMD),Siaya,4,0
+Lumpy Skin Disease (LSD),Kwale,2,0
+Foot and Mouth Disease (FMD),Kisii,2,0
+Other,Samburu,1,0
+Other,Samburu,1,0
+Other,Kwale,1,0
+Lumpy Skin Disease (LSD),Nandi,2,1
+Black Quarter,Kisumu,1,0
+Helminthiasis,Kwale,0,0
+Other,Siaya,2,0
+Other,Busia,1,0
+Contagious Bovine Pleuropneumonia (CBPP),Makueni,0,0
+Foot and Mouth Disease (FMD),Tharaka-Nithi,20,0
+Lumpy Skin Disease (LSD),Tharaka-Nithi,3,0
+Helminthiasis,Kwale,0,0
+Feline herpes virus,Tharaka-Nithi,1,0
+Helminthiasis,Kwale,0,0
+Lumpy Skin Disease (LSD),Kisumu,4,0
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,0,0
+Trypanosomiasis,Busia,1,0
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Lumpy Skin Disease (LSD),Kiambu,1,0
+Pneumonia,Kwale,0,0
+Trypanosomiasis,Kwale,1,0
+Foot and Mouth Disease (FMD),Kakamega,1,0
+Coccidosis,Siaya,20,2
+Anaplasmosis,Kisumu,1,0
+Pneumonia,Kwale,18,0
+Other,Samburu,1,0
+Anaplasmosis,Samburu,1,0
+Foot and Mouth Disease (FMD),Tana River,6,0
+Contagious Caprine Pleuropneumonia (CCPP),Tana River,3,1
+Foot and Mouth Disease (FMD),Kiambu,2,0
+Helminthiasis,Kwale,2,0
+Haemorrhagic septicemia,Mandera,468,350
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Other,Busia,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Tetanus,Mandera,98,98
+Contagious Caprine Pleuropneumonia (CCPP),Mandera,1,0
+Other,Samburu,1,0
+Other,Busia,1,0
+Pneumonia,Makueni,3,0
+Trypanosomiasis,Kwale,1,0
+Foot and Mouth Disease (FMD),Embu,2,0
+Anaplasmosis,Kisumu,1,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Trypanosomiasis,Kwale,1,0
+Pneumonia,Kwale,0,0
+Anaplasmosis,Kisumu,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,6,1
+Helminthiasis,Kwale,0,0
+Peste des Petit Ruminants (PPR),Mandera,10,2
+Other,Vihiga,3,0
+Other,Kilifi,8,3
+Pneumonia,Kwale,6,0
+Peste des Petit Ruminants (PPR),Tana River,56,13
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,6,0
+Lumpy Skin Disease (LSD),Makueni,3,0
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Other,Kisumu,1,0
+Helminthiasis,Kisumu,3,0
+Peste des Petit Ruminants (PPR),Tana River,600,4
+Other,Kisumu,1,0
+Other,Makueni,1,0
+Helminthiasis,Makueni,5,0
+Contagious Bovine Pleuropneumonia (CBPP),Kwale,2,0
+Pneumonia,Kwale,2,0
+Kennel cough,Kisumu,1,0
+Lumpy Skin Disease (LSD),Kisumu,3,0
+Newcastle Disease (NCD),Mandera,59,28
+African Swine Fever (ASF),Vihiga,6,12
+Lumpy Skin Disease (LSD),Nyeri,1,0
+Trypanosomiasis,Siaya,1,0
+Sheep Pox,Laikipia,15,0
+Goat Pox,Laikipia,8,0
+Helminthiasis,Nyamira,1,0
+Foot and Mouth Disease (FMD),Nyamira,3,2
+Sheep Pox,Mandera,11000,528
+Coccidosis,Makueni,6,0
+Haemorrhagic septicemia,Mandera,9845,5980
+Goat Pox,Kwale,1,0
+Helminthiasis,Kwale,0,0
+Heart Water,Kisumu,1,0
+Anaplasmosis,Kwale,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kakamega,3,0
+Contagious Caprine Pleuropneumonia (CCPP),Embu,20,5
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,0,0
+Helminthiasis,Kisumu,3,0
+Pneumonia,Mandera,2,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Mandera,2,0
+Helminthiasis,Kisumu,1,0
+Trypanosomiasis,Busia,1,0
+Peste des Petit Ruminants (PPR),Mandera,15,2
+Peste des Petit Ruminants (PPR),Mandera,21,2
+Peste des Petit Ruminants (PPR),Mandera,13,4
+Peste des Petit Ruminants (PPR),Mandera,5,2
+Foot and Mouth Disease (FMD),Makueni,4,0
+East Coast Fever(ECF),Makueni,1,0
+East Coast Fever(ECF),Siaya,1,0
+Foot and Mouth Disease (FMD),Kwale,3,0
+Other,Kisumu,1,0
+Pneumonia,Trans Nzoia,1,0
+Other,Busia,3,0
+Poisoning,Elgeyo/Marakwet,3,1
+Pneumonia,Elgeyo/Marakwet,2,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Infectious Bursai Disease (Gumboro),Nakuru,5,0
+Trypanosomiasis,Kwale,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Mandera,2,0
+East Coast Fever(ECF),Kwale,1,0
+Animal bites,Mandera,2,0
+Heart Water,Kwale,1,0
+Helminthiasis,Makueni,2,0
+Rabies,Kwale,0,0
+Helminthiasis,Siaya,2,0
+Other,Busia,16,2
+Black Quarter,Mandera,59,18
+Infectious Bursai Disease (Gumboro),Nandi,22,16
+Pneumonia,Siaya,1,0
+Lumpy Skin Disease (LSD),Kisumu,1,0
+East Coast Fever(ECF),Kakamega,1,0
+Helminthiasis,Samburu,25,2
+Helminthiasis,Makueni,0,0
+Pneumonia,Kwale,0,0
+Pneumonia,Makueni,0,0
+Foot and Mouth Disease (FMD),Makueni,2,0
+East Coast Fever(ECF),Makueni,1,0
+Helminthiasis,Makueni,21,2
+Other,Siaya,1,0
+Pneumonia,Siaya,2,0
+Helminthiasis,Siaya,1,0
+Other,Siaya,3,0
+Helminthiasis,Kwale,0,0
+Anaplasmosis,Siaya,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Other,Siaya,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Baringo,105,25
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Kakamega,5,0
+Trypanosomiasis,Lamu,1,0
+Helminthiasis,Makueni,1,0
+Helminthiasis,Makueni,1,0
+Other,Makueni,4,0
+Animal bites,Kisumu,7,0
+Foot and Mouth Disease (FMD),Trans Nzoia,1,0
+Lumpy Skin Disease (LSD),Kisumu,8,2
+Foot and Mouth Disease (FMD),Kisumu,1,0
+Pneumonia,Kisumu,1,0
+Rabies,Siaya,3,1
+Lumpy Skin Disease (LSD),Narok,4,0
+Lumpy Skin Disease (LSD),Kisumu,2,1
+Anaplasmosis,Narok,2,7
+Goat Pox,Wajir,3,0
+Helminthiasis,Siaya,1,0
+Trypanosomiasis,Busia,1,0
+Helminthiasis,Busia,2,0
+Animal bites,Kisumu,6,0
+Pneumonia,Trans Nzoia,1,0
+Anaplasmosis,Siaya,2,0
+Helminthiasis,Trans Nzoia,1,0
+Other,Siaya,1,0
+Other,Elgeyo/Marakwet,1,0
+Foot and Mouth Disease (FMD),Kwale,3,2
+Other,Kwale,4,0
+East Coast Fever(ECF),Kwale,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Animal bites,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Anaplasmosis,Kwale,1,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,4,0
+Brucellosis,Elgeyo/Marakwet,1,0
+Other,West Pokot,1,2
+Brucellosis,Elgeyo/Marakwet,0,0
+Helminthiasis,Nakuru,5,3
+Pneumonia,Kwale,1,0
+East Coast Fever(ECF),Kwale,1,0
+Helminthiasis,Elgeyo/Marakwet,5,4
+Heart Water,Siaya,1,0
+Pneumonia,Trans Nzoia,1,0
+Foot and Mouth Disease (FMD),Narok,12,0
+Pneumonia,Trans Nzoia,1,0
+Pneumonia,Trans Nzoia,4,0
+Pneumonia,Trans Nzoia,1,0
+Mange,Trans Nzoia,1,0
+Newcastle Disease (NCD),Mandera,0,9
+Lumpy Skin Disease (LSD),Narok,3,0
+Poisoning,Mandera,0,5
+Other,Kisumu,1,0
+Camel Pox,Mandera,115,20
+Infectious Bursai Disease (Gumboro),Mandera,2,9
+Trypanosomiasis,Kisumu,1,0
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Goat Pox,Mandera,125,5
+Other,Bungoma,1,0
+Other,Bungoma,1,0
+Foot and Mouth Disease (FMD),Trans Nzoia,2,0
+Helminthiasis,Bungoma,1,0
+Other,Mandera,9,0
+Other,Bungoma,1,0
+Anaplasmosis,Bungoma,1,0
+Helminthiasis,Kwale,2,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Tuberculosis,Kisumu,1,0
+Other,Kwale,1,0
+Foot and Mouth Disease (FMD),Trans Nzoia,1,0
+Other,Siaya,4,0
+East Coast Fever(ECF),Nakuru,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Johnes Disease,Elgeyo/Marakwet,1,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Pneumonia,Kwale,0,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Anaplasmosis,Mandera,12,1
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Helminthiasis,Kwale,0,0
+African Swine Fever (ASF),Siaya,1,1
+Foot and Mouth Disease (FMD),Bungoma,1,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Helminthiasis,Kwale,0,0
+Enterotoxaemia,Nakuru,3,0
+Foot and Mouth Disease (FMD),Nakuru,2,0
+Helminthiasis,Trans Nzoia,0,0
+Other,Makueni,1,0
+Foot and Mouth Disease (FMD),Trans Nzoia,2,0
+Sheep Pox,Kajiado,7,3
+Contagious Caprine Pleuropneumonia (CCPP),Wajir,3,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Kajiado,6,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Wajir,6,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Contagious Caprine Pleuropneumonia (CCPP),Mandera,3,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Other,Kisumu,1,0
+Parvovirus,Kisumu,1,0
+Foot and Mouth Disease (FMD),Trans Nzoia,5,0
+Trypanosomiasis,Kwale,1,0
+Foot and Mouth Disease (FMD),Makueni,2,0
+East Coast Fever(ECF),Trans Nzoia,1,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Foot and Mouth Disease (FMD),Nyamira,7,0
+Other,Makueni,0,0
+East Coast Fever(ECF),Makueni,1,0
+Coccidosis,Nakuru,7,2
+Trypanosomiasis,Kwale,3,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Nyamira,30,1
+Foot and Mouth Disease (FMD),Nyamira,5,0
+Mange,Makueni,1,0
+Black Quarter,Nyandarua,2,2
+Black Quarter,Nyandarua,2,1
+Helminthiasis,Makueni,5,0
+Anthrax,Nyandarua,0,1
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+East Coast Fever(ECF),Nyandarua,10,3
+Other,Nyandarua,1,0
+East Coast Fever(ECF),Trans Nzoia,1,0
+Anthrax,Embu,0,1
+Fowl Pox,Nakuru,0,0
+East Coast Fever(ECF),Nyandarua,1,0
+Helminthiasis,Vihiga,2,0
+Poisoning,Elgeyo/Marakwet,0,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Anaplasmosis,Elgeyo/Marakwet,1,0
+Other,Elgeyo/Marakwet,1,0
+Pneumonia,Elgeyo/Marakwet,1,0
+Trypanosomiasis,Busia,1,0
+Rabies,Elgeyo/Marakwet,0,0
+Anaplasmosis,Kwale,1,0
+Sheep scab,Bungoma,3,0
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Other,Nakuru,1,0
+Lumpy Skin Disease (LSD),Makueni,2,0
+Heart Water,Makueni,1,0
+Lumpy Skin Disease (LSD),Nakuru,1,0
+Other,Kisumu,1,0
+Helminthiasis,Bungoma,2,0
+Foot and Mouth Disease (FMD),Busia,1,0
+Brucellosis,Bungoma,1,0
+Foot and Mouth Disease (FMD),Nakuru,1,0
+Other,Siaya,1,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Pneumonia,Siaya,1,0
+Foot and Mouth Disease (FMD),Bungoma,8,0
+Pneumonia,Nakuru,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,4
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Animal bites,Mandera,2,0
+Foot and Mouth Disease (FMD),Bungoma,4,0
+East Coast Fever(ECF),West Pokot,1,0
+Lumpy Skin Disease (LSD),Kisumu,3,0
+Helminthiasis,Makueni,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Helminthiasis,Trans Nzoia,1,0
+Brucellosis,Trans Nzoia,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Baringo,50,5
+Foot and Mouth Disease (FMD),Siaya,10,0
+Foot and Mouth Disease (FMD),Laikipia,3,0
+Anaplasmosis,Samburu,1,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,2,0
+Peste des Petit Ruminants (PPR),Mandera,21,10
+Infectious Bronchitis,Kwale,9,4
+Foot and Mouth Disease (FMD),Vihiga,2,0
+Peste des Petit Ruminants (PPR),Mandera,15,4
+Foot and Mouth Disease (FMD),Vihiga,6,0
+Mange,Kwale,1,0
+Foot and Mouth Disease (FMD),Baringo,8,2
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,2,1
+Foot and Mouth Disease (FMD),Vihiga,1,0
+Lumpy Skin Disease (LSD),Baringo,1,0
+Foot and Mouth Disease (FMD),Bomet,9,1
+Other,Baringo,1,0
+Pneumonia,Kwale,0,0
+East Coast Fever(ECF),Busia,1,0
+Foot and Mouth Disease (FMD),Bungoma,4,0
+Helminthiasis,Busia,8,0
+Helminthiasis,Busia,10,0
+Lumpy Skin Disease (LSD),Nandi,2,0
+Other,Siaya,1,0
+Pneumonia,Siaya,1,0
+Helminthiasis,Siaya,1,1
+Foot and Mouth Disease (FMD),Nakuru,10,1
+Other,Siaya,1,0
+Lumpy Skin Disease (LSD),Nandi,4,1
+Black Quarter,Nandi,1,1
+Helminthiasis,Nyandarua,10,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Foot and Mouth Disease (FMD),Baringo,12,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Enterotoxaemia,Kirinyaga,1,0
+Other,Siaya,1,0
+Other,Siaya,1,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Peste des Petit Ruminants (PPR),Turkana,11,0
+Mange,Turkana,2,0
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,10,0
+Helminthiasis,Nyandarua,100,3
+Trypanosomiasis,Kisumu,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,13,1
+Other,Kisumu,6,0
+Foot and Mouth Disease (FMD),Kiambu,3,0
+Anaplasmosis,Kisumu,1,0
+Foot and Mouth Disease (FMD),Bungoma,10,0
+Foot and Mouth Disease (FMD),Kisumu,20,1
+Foot and Mouth Disease (FMD),Kiambu,40,2
+Peste des Petit Ruminants (PPR),Turkana,35,0
+Trypanosomiasis,Kisumu,1,0
+East Coast Fever(ECF),Kisumu,1,0
+Mange,Turkana,5,0
+Pneumonia,Kwale,0,0
+Pneumonia,Trans Nzoia,1,0
+Lumpy Skin Disease (LSD),Kirinyaga,1,0
+East Coast Fever(ECF),Kisumu,1,0
+Helminthiasis,Kwale,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,19,3
+Rabies,Kisumu,1,0
+Pneumonia,Nyandarua,3,0
+Johnes Disease,Elgeyo/Marakwet,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Mandera,1,0
+Enterotoxaemia,Turkana,21,4
+Foot and Mouth Disease (FMD),Kakamega,2,0
+Other,Lamu,4,4
+Other,Turkana,9,1
+Other,Samburu,1,0
+Foot and Mouth Disease (FMD),Kakamega,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,2,2
+Foot and Mouth Disease (FMD),Kakamega,1,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Other,Makueni,1,0
+East Coast Fever(ECF),Trans Nzoia,1,0
+Lumpy Skin Disease (LSD),West Pokot,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Other,Nakuru,2,0
+Foot and Mouth Disease (FMD),Kakamega,3,1
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,3,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Lumpy Skin Disease (LSD),Nakuru,1,0
+Lumpy Skin Disease (LSD),Embu,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Other,Trans Nzoia,1,0
+Anaplasmosis,Siaya,1,0
+Other,Bungoma,1,0
+Rabies,Siaya,1,0
+Enterotoxaemia,Bungoma,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Baringo,50,21
+African Swine Fever (ASF),Busia,500,300
+Pneumonia,Makueni,1,0
+Heart Water,Siaya,1,0
+Other,Trans Nzoia,2,0
+Foot and Mouth Disease (FMD),Kitui,14,0
+Infectious Bronchitis,Bungoma,18,10
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,12,3
+Other,Siaya,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,9,2
+Infectious Bronchitis,Nakuru,4,0
+Tetanus,Bungoma,1,0
+Foot and Mouth Disease (FMD),Trans Nzoia,1,0
+Helminthiasis,Kwale,0,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Trans Nzoia,4,0
+East Coast Fever(ECF),West Pokot,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Other,Kisumu,1,0
+Other,Bungoma,1,0
+Foot and Mouth Disease (FMD),Trans Nzoia,1,0
+Pneumonia,Kwale,0,0
+East Coast Fever(ECF),Isiolo,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Lumpy Skin Disease (LSD),Tharaka-Nithi,1,0
+Helminthiasis,Kwale,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Tana River,50,50
+Pneumonia,Tana River,20,17
+Helminthiasis,Kwale,0,0
+Brucellosis,Tana River,20,0
+Other,Elgeyo/Marakwet,1,0
+Foot and Mouth Disease (FMD),Bungoma,4,0
+Pneumonia,Siaya,2,1
+Anaplasmosis,Trans Nzoia,1,0
+Other,Vihiga,1,0
+Other,Vihiga,1,0
+Helminthiasis,Vihiga,6,0
+East Coast Fever(ECF),Elgeyo/Marakwet,3,0
+Foot and Mouth Disease (FMD),Kwale,6,3
+Pneumonia,Kwale,2,0
+Other,Vihiga,0,0
+East Coast Fever(ECF),Trans Nzoia,1,0
+Peste des Petit Ruminants (PPR),Mandera,2,0
+Helminthiasis,Kwale,3,0
+Parvovirus,Trans Nzoia,1,1
+Trypanosomiasis,Kwale,2,0
+Newcastle Disease (NCD),Kwale,180,180
+East Coast Fever(ECF),Vihiga,1,0
+Lumpy Skin Disease (LSD),Kwale,5,3
+Other,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,0,0
+Foot and Mouth Disease (FMD),Mandera,1,0
+Trypanosomiasis,Kisumu,1,0
+Pneumonia,Trans Nzoia,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,69,3
+Peste des Petit Ruminants (PPR),Mandera,5,0
+Foot and Mouth Disease (FMD),Kakamega,1,0
+Foot and Mouth Disease (FMD),Kakamega,1,0
+Trypanosomiasis,Kwale,1,0
+East Coast Fever(ECF),West Pokot,1,0
+Foot and Mouth Disease (FMD),Kakamega,1,0
+East Coast Fever(ECF),Makueni,1,0
+Helminthiasis,Nyandarua,14,2
+Foot and Mouth Disease (FMD),Siaya,4,0
+East Coast Fever(ECF),Kisumu,1,0
+Lumpy Skin Disease (LSD),West Pokot,2,0
+Brucellosis,Kisumu,1,0
+East Coast Fever(ECF),Siaya,1,0
+Brucellosis,Mandera,589,96
+Infectious Bursai Disease (Gumboro),Mandera,8,9
+Other,Siaya,1,0
+Foot and Mouth Disease (FMD),Bungoma,6,1
+Anthrax,Bungoma,0,2
+Helminthiasis,Laikipia,3,0
+Black Quarter,Mandera,18,6
+Other,Samburu,1,0
+Mange,Bungoma,3,0
+Foot and Mouth Disease (FMD),Kisumu,3,0
+Coccidosis,Bungoma,3,1
+Rabies,Nakuru,2,0
+Anaplasmosis,Nakuru,1,0
+Lumpy Skin Disease (LSD),Siaya,1,0
+Other,Siaya,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Feline herpes virus,Tharaka-Nithi,1,0
+Enterotoxaemia,Tharaka-Nithi,1,0
+Other,Nakuru,1,0
+Pneumonia,Bungoma,2,0
+Other,Nakuru,1,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Lumpy Skin Disease (LSD),Makueni,3,0
+East Coast Fever(ECF),Nakuru,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Trans Nzoia,2,3
+Foot and Mouth Disease (FMD),Bungoma,8,0
+Foot and Mouth Disease (FMD),Bungoma,8,0
+Foot and Mouth Disease (FMD),Nandi,6,0
+Other,Nakuru,1,0
+Helminthiasis,Kwale,9,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+East Coast Fever(ECF),Vihiga,1,0
+Lumpy Skin Disease (LSD),Embu,5,0
+Contagious Caprine Pleuropneumonia (CCPP),Lamu,4,1
+Helminthiasis,Elgeyo/Marakwet,1,1
+African Swine Fever (ASF),Tharaka-Nithi,1,0
+African Swine Fever (ASF),Tharaka-Nithi,0,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Bungoma,8,0
+Foot and Mouth Disease (FMD),Nakuru,3,0
+Lumpy Skin Disease (LSD),Busia,21,0
+Enterotoxaemia,Siaya,3,4
+East Coast Fever(ECF),Kwale,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Animal bites,Marsabit,1,1
+Poisoning,Marsabit,0,1
+Foot and Mouth Disease (FMD),Makueni,3,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Baringo,10,0
+Foot and Mouth Disease (FMD),Baringo,100,1
+Foot and Mouth Disease (FMD),Homa Bay,2,0
+Helminthiasis,Trans Nzoia,7,0
+Newcastle Disease (NCD),Siaya,5,30
+Helminthiasis,Kwale,1,0
+Foot and Mouth Disease (FMD),Kakamega,5,0
+Foot and Mouth Disease (FMD),Homa Bay,4,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,6,3
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,5,0
+Foot and Mouth Disease (FMD),Busia,15,0
+Helminthiasis,Kwale,3,0
+Foot and Mouth Disease (FMD),Kakamega,5,3
+Other,Makueni,1,0
+African Swine Fever (ASF),Busia,59,56
+Pneumonia,Makueni,2,0
+Foot and Mouth Disease (FMD),Bungoma,10,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,4,0
+Pneumonia,Trans Nzoia,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,25,0
+Other,Trans Nzoia,2,0
+Other,Bungoma,1,0
+Other,Elgeyo/Marakwet,1,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Lumpy Skin Disease (LSD),Nakuru,1,0
+Poisoning,Elgeyo/Marakwet,2,1
+Heart Water,Trans Nzoia,1,0
+Lumpy Skin Disease (LSD),Nakuru,1,0
+Helminthiasis,Kwale,1,0
+Foot and Mouth Disease (FMD),Bungoma,5,0
+Foot and Mouth Disease (FMD),Trans Nzoia,2,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Kakamega,3,0
+Other,Nyandarua,1,0
+Pneumonia,Bungoma,2,0
+Contagious Bovine Pleuropneumonia (CBPP),Makueni,0,0
+Trypanosomiasis,Kwale,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Mandera,3,0
+Pneumonia,Bungoma,2,1
+East Coast Fever(ECF),Siaya,2,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Helminthiasis,Makueni,0,0
+Mange,Siaya,1,0
+Helminthiasis,Kitui,14,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,3,0
+East Coast Fever(ECF),Kwale,2,0
+Lumpy Skin Disease (LSD),Kwale,3,2
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Foot and Mouth Disease (FMD),Kakamega,5,0
+Other,Narok,5,0
+Helminthiasis,Trans Nzoia,4,0
+Helminthiasis,Makueni,7,0
+Helminthiasis,Trans Nzoia,4,0
+Enterotoxaemia,Elgeyo/Marakwet,1,3
+East Coast Fever(ECF),Trans Nzoia,1,0
+Other,Vihiga,4,0
+African Swine Fever (ASF),Tharaka-Nithi,2,1
+Rabies,Siaya,1,0
+Other,Siaya,1,0
+Enterotoxaemia,Trans Nzoia,1,0
+Pneumonia,Trans Nzoia,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Helminthiasis,Trans Nzoia,0,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Other,Elgeyo/Marakwet,0,0
+Helminthiasis,Trans Nzoia,0,0
+Lumpy Skin Disease (LSD),Kakamega,1,0
+Other,Kwale,1,1
+Helminthiasis,Turkana,5,0
+Anaplasmosis,Kisumu,1,0
+Helminthiasis,Kisumu,27,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Tana River,11,15
+East Coast Fever(ECF),Nakuru,1,0
+Anaplasmosis,Kisumu,1,0
+Other,Kisumu,2,0
+Anaplasmosis,Wajir,2,1
+Pneumonia,Kisumu,1,0
+Anaplasmosis,Wajir,5,10
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Foot and Mouth Disease (FMD),Kakamega,1,0
+Helminthiasis,Trans Nzoia,5,0
+Contagious Bovine Pleuropneumonia (CBPP),Makueni,1,0
+Anaplasmosis,Wajir,8,6
+Anaplasmosis,Wajir,2,2
+Anaplasmosis,Vihiga,1,0
+Foot and Mouth Disease (FMD),Busia,2,0
+Other,Samburu,1,0
+East Coast Fever(ECF),West Pokot,1,0
+Foot and Mouth Disease (FMD),Kirinyaga,9,0
+Anaplasmosis,West Pokot,1,0
+East Coast Fever(ECF),West Pokot,1,0
+Coccidosis,Nakuru,9,0
+Peste des Petit Ruminants (PPR),Turkana,10,0
+Helminthiasis,Trans Nzoia,1,0
+Helminthiasis,Makueni,6,0
+Foot and Mouth Disease (FMD),Kirinyaga,1,1
+Foot and Mouth Disease (FMD),Wajir,13,0
+Foot and Mouth Disease (FMD),Baringo,16,3
+Foot and Mouth Disease (FMD),Nandi,1,1
+Pneumonia,Trans Nzoia,1,0
+Foot and Mouth Disease (FMD),Wajir,8,0
+Pneumonia,Trans Nzoia,1,0
+Other,Vihiga,1,0
+Foot and Mouth Disease (FMD),Wajir,15,0
+Kennel cough,Kisumu,1,0
+Foot and Mouth Disease (FMD),Wajir,5,0
+Other,Wajir,16,0
+Foot and Mouth Disease (FMD),Bungoma,1,1
+Other,Wajir,8,0
+Other,Wajir,1,8
+Goat Pox,Wajir,5,0
+Other,Wajir,2,0
+Other,Wajir,2,0
+Other,Wajir,9,0
+Other,Wajir,15,0
+Other,Wajir,2,0
+Foot and Mouth Disease (FMD),Wajir,19,0
+Other,Trans Nzoia,1,0
+Other,Wajir,9,0
+Anaplasmosis,Trans Nzoia,2,0
+Other,Wajir,10,0
+Other,Wajir,3,0
+Other,Wajir,6,0
+Other,Wajir,12,0
+Other,Wajir,18,0
+Helminthiasis,Trans Nzoia,2,0
+Other,Wajir,2,0
+Foot and Mouth Disease (FMD),Tharaka-Nithi,0,0
+Animal bites,Mandera,2,0
+Anthrax,Tharaka-Nithi,0,0
+Rabies,Makueni,0,1
+Foot and Mouth Disease (FMD),Baringo,15,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Anaplasmosis,Siaya,7,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Rabies,Embu,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Foot and Mouth Disease (FMD),Tharaka-Nithi,0,0
+Other,Wajir,5,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Helminthiasis,Kwale,0,0
+East Coast Fever(ECF),Siaya,1,0
+Other,Wajir,1,0
+Anaplasmosis,Siaya,1,0
+Helminthiasis,Vihiga,3,0
+Helminthiasis,Siaya,1,0
+Pneumonia,Kwale,0,0
+Trypanosomiasis,Siaya,2,0
+Foot and Mouth Disease (FMD),Nakuru,10,0
+Anaplasmosis,Kisumu,1,0
+Helminthiasis,Makueni,1,0
+Coccidosis,Bungoma,4,0
+Pneumonia,Makueni,2,0
+Other,Siaya,1,0
+Helminthiasis,Kwale,12,0
+Pneumonia,Kwale,0,0
+Foot and Mouth Disease (FMD),Nyamira,4,2
+Pneumonia,Trans Nzoia,1,0
+Other,Kisumu,5,0
+Other,Trans Nzoia,1,0
+Foot and Mouth Disease (FMD),Nyamira,3,0
+Foot and Mouth Disease (FMD),Samburu,1,0
+Helminthiasis,Kwale,0,0
+Lumpy Skin Disease (LSD),Kakamega,1,0
+Anaplasmosis,Trans Nzoia,1,0
+Helminthiasis,Trans Nzoia,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Infectious Bronchitis,Tharaka-Nithi,30,2
+Brucellosis,Turkana,3,2
+Peste des Petit Ruminants (PPR),Turkana,31,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,1,0
+Other,Makueni,1,0
+Foot and Mouth Disease (FMD),Busia,5,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Other,Samburu,3,0
+Other,Samburu,1,0
+Helminthiasis,Nakuru,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Helminthiasis,Trans Nzoia,2,0
+Other,Makueni,1,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Foot and Mouth Disease (FMD),Busia,6,0
+Helminthiasis,Kwale,0,0
+Lumpy Skin Disease (LSD),Elgeyo/Marakwet,2,1
+Anaplasmosis,Nyandarua,1,0
+Foot and Mouth Disease (FMD),Busia,6,0
+Lumpy Skin Disease (LSD),Nyandarua,3,0
+Other,Busia,1,0
+Pullorium disease,Nyandarua,30,10
+Other,Trans Nzoia,3,0
+Helminthiasis,Trans Nzoia,8,0
+Goat Pox,Trans Nzoia,3,0
+Helminthiasis,Siaya,2,0
+East Coast Fever(ECF),Nakuru,1,0
+Other,Siaya,1,0
+Foot and Mouth Disease (FMD),Kakamega,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Newcastle Disease (NCD),Kisumu,1,0
+Foot and Mouth Disease (FMD),Nakuru,2,0
+Helminthiasis,Nyandarua,4,0
+Anaplasmosis,Kisumu,1,0
+Lumpy Skin Disease (LSD),Kisumu,15,4
+Lumpy Skin Disease (LSD),Makueni,2,0
+Mange,Kisumu,1,0
+Trypanosomiasis,Siaya,1,0
+Other,Nandi,1,1
+Helminthiasis,Kwale,0,0
+Helminthiasis,Siaya,1,0
+Helminthiasis,Kwale,0,0
+African Swine Fever (ASF),Kisumu,0,1
+Other,Nandi,1,0
+Other,Tharaka-Nithi,0,1
+Animal bites,Kwale,0,0
+East Coast Fever(ECF),Kisumu,2,1
+Pneumonia,Nyandarua,1,0
+Helminthiasis,Makueni,0,0
+Pneumonia,Nyandarua,1,0
+Coccidosis,Nakuru,5,2
+Heart Water,Siaya,1,0
+Pneumonia,Kwale,0,0
+East Coast Fever(ECF),Siaya,1,1
+Foot and Mouth Disease (FMD),Busia,2,0
+Other,Siaya,1,0
+Other,Nakuru,1,0
+Helminthiasis,Kisumu,6,1
+Pneumonia,Makueni,2,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+East Coast Fever(ECF),Makueni,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Animal bites,Bomet,1,0
+Other,Siaya,1,0
+Other,Mombasa,1,1
+Pneumonia,Nakuru,1,0
+Foot and Mouth Disease (FMD),Vihiga,2,1
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Anaplasmosis,Siaya,1,0
+Foot and Mouth Disease (FMD),Vihiga,2,0
+Other,Makueni,1,0
+Pneumonia,Kirinyaga,1,0
+East Coast Fever(ECF),Makueni,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Pneumonia,Makueni,13,0
+Pneumonia,Makueni,2,0
+East Coast Fever(ECF),Kwale,1,0
+Helminthiasis,Makueni,23,2
+Pneumonia,Makueni,2,0
+Helminthiasis,Makueni,15,1
+Foot and Mouth Disease (FMD),Nakuru,2,0
+Lumpy Skin Disease (LSD),Kakamega,1,0
+Pneumonia,Nakuru,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Pneumonia,Bungoma,5,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,13,5
+Foot and Mouth Disease (FMD),Kakamega,2,0
+Other,Bungoma,1,0
+Foot and Mouth Disease (FMD),Makueni,2,0
+Helminthiasis,Makueni,0,0
+Helminthiasis,Kwale,0,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Makueni,1,0
+Helminthiasis,Kwale,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Mandera,2,1
+Foot and Mouth Disease (FMD),Baringo,41,0
+Helminthiasis,Makueni,3,0
+East Coast Fever(ECF),Nakuru,2,0
+Foot and Mouth Disease (FMD),Kakamega,3,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,17,3
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,17,3
+Pneumonia,Nakuru,1,0
+Infectious Bursai Disease (Gumboro),Bungoma,8,3
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,9,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,1,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,4,0
+Other,Makueni,1,0
+Foot and Mouth Disease (FMD),Trans Nzoia,2,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Poisoning,Tana River,13,33
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Newcastle Disease (NCD),Kisumu,30,5
+Other,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Marsabit,0,0
+Anthrax,Bomet,0,1
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Baringo,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Marsabit,2,0
+Brucellosis,Marsabit,4,0
+East Coast Fever(ECF),Nakuru,1,0
+Pneumonia,Kwale,0,0
+East Coast Fever(ECF),Marsabit,3,1
+Helminthiasis,Kwale,0,0
+Other,Marsabit,5,0
+Goat Pox,Nakuru,1,0
+Pneumonia,Trans Nzoia,2,0
+Haemorrhagic septicemia,Marsabit,2,4
+Helminthiasis,Makueni,1,0
+Anaplasmosis,Trans Nzoia,1,0
+East Coast Fever(ECF),Nakuru,3,0
+Foot and Mouth Disease (FMD),Narok,3,0
+Helminthiasis,Makueni,0,0
+Goat Pox,Trans Nzoia,3,0
+Helminthiasis,Trans Nzoia,1,0
+Foot and Mouth Disease (FMD),Siaya,1,0
+Helminthiasis,Trans Nzoia,6,0
+Heart Water,Trans Nzoia,1,0
+Foot and Mouth Disease (FMD),Baringo,10,0
+Foot and Mouth Disease (FMD),Trans Nzoia,3,0
+African Swine Fever (ASF),Siaya,1,1
+Other,Siaya,1,0
+Helminthiasis,Siaya,2,0
+Poisoning,Nyandarua,1,0
+Heart Water,Siaya,1,0
+Infectious Bronchitis,Nakuru,5,2
+Other,Siaya,1,0
+Mange,Siaya,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,8,3
+Pneumonia,Nakuru,50,4
+Foot and Mouth Disease (FMD),Siaya,1,0
+Foot and Mouth Disease (FMD),Baringo,20,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Lumpy Skin Disease (LSD),Siaya,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+East Coast Fever(ECF),Nakuru,1,0
+Foot and Mouth Disease (FMD),Baringo,30,0
+Enterotoxaemia,Siaya,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Garissa,9,5
+Pneumonia,Vihiga,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Garissa,15,4
+Contagious Caprine Pleuropneumonia (CCPP),Garissa,9,5
+Other,Vihiga,1,0
+Other,Vihiga,1,0
+Trypanosomiasis,Garissa,6,0
+Pneumonia,Vihiga,2,0
+Trypanosomiasis,Garissa,8,0
+Lumpy Skin Disease (LSD),Nyandarua,1,0
+Helminthiasis,Nyandarua,8,0
+Other,Nyandarua,2,0
+Pneumonia,Vihiga,1,0
+Pneumonia,Kwale,0,0
+Animal bites,Vihiga,1,0
+Foot and Mouth Disease (FMD),Kwale,1,0
+Other,Trans Nzoia,2,0
+Pneumonia,Trans Nzoia,1,0
+Helminthiasis,Trans Nzoia,1,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+East Coast Fever(ECF),Busia,1,0
+Helminthiasis,Kwale,0,0
+Heart Water,Busia,1,0
+Pneumonia,Nyandarua,1,0
+Helminthiasis,Kisumu,1,0
+Other,Tharaka-Nithi,1,0
+Trypanosomiasis,Kisumu,1,0
+Other,Bungoma,8,0
+Anaplasmosis,Bungoma,1,0
+Helminthiasis,Bungoma,2,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Trypanosomiasis,Kisumu,1,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Other,Kisumu,2,1
+East Coast Fever(ECF),Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Goat Pox,Marsabit,10,0
+Sheep Pox,Marsabit,7,0
+Other,Kirinyaga,10,0
+Animal bites,Busia,1,0
+Anaplasmosis,Nyandarua,1,0
+Anaplasmosis,Nyandarua,1,0
+Pneumonia,Nyandarua,1,0
+Anaplasmosis,Nyandarua,1,0
+Mange,Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Helminthiasis,Nyandarua,8,0
+Foot and Mouth Disease (FMD),Kwale,2,0
+Pneumonia,Nyandarua,1,0
+Anaplasmosis,Samburu,3,1
+East Coast Fever(ECF),Nyandarua,1,0
+Pneumonia,Nyandarua,3,0
+Sheep Pox,Samburu,3,2
+Pneumonia,Nyandarua,1,0
+Other,Turkana,3,0
+Tetanus,Nakuru,7,2
+Other,Turkana,6,0
+Pneumonia,Nyandarua,1,0
+Anaplasmosis,Kisumu,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,25,0
+Foot and Mouth Disease (FMD),Kisumu,2,0
+Mange,Samburu,6,0
+Foot and Mouth Disease (FMD),Nakuru,2,0
+Pneumonia,Kitui,2,2
+Lumpy Skin Disease (LSD),Kwale,2,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Embu,1,0
+Anaplasmosis,Siaya,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Marsabit,5,0
+Peste des Petit Ruminants (PPR),Marsabit,2,0
+Other,Nakuru,1,0
+Pneumonia,Makueni,2,0
+Other,Makueni,1,0
+Helminthiasis,Makueni,1,0
+Foot and Mouth Disease (FMD),Nakuru,3,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Other,Makueni,4,0
+Foot and Mouth Disease (FMD),Kisumu,55,0
+Lumpy Skin Disease (LSD),Trans Nzoia,1,0
+Helminthiasis,Kwale,0,0
+Rabies,Embu,1,0
+Other,Vihiga,1,0
+East Coast Fever(ECF),Vihiga,1,0
+Animal bites,Kisumu,1,0
+East Coast Fever(ECF),Vihiga,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Other,Kisumu,1,1
+Pneumonia,Kwale,0,0
+Foot and Mouth Disease (FMD),Kwale,7,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Helminthiasis,Nyandarua,10,0
+Helminthiasis,Makueni,2,0
+East Coast Fever(ECF),Makueni,1,0
+Trypanosomiasis,Busia,1,0
+Rabies,Vihiga,1,0
+Anaplasmosis,Siaya,1,0
+Peste des Petit Ruminants (PPR),Bungoma,6,2
+Trypanosomiasis,Busia,1,0
+Anaplasmosis,Kisumu,1,0
+Animal bites,Samburu,1,0
+Helminthiasis,Busia,6,0
+Other,Samburu,0,0
+Trypanosomiasis,Kisumu,1,0
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Coccidosis,Samburu,2,0
+Lumpy Skin Disease (LSD),Kisumu,2,0
+Pneumonia,Nakuru,1,0
+Lumpy Skin Disease (LSD),Trans Nzoia,1,0
+Newcastle Disease (NCD),Nakuru,32,20
+Anaplasmosis,Kisumu,1,0
+Black Quarter,Nandi,0,1
+Other,Kwale,20,5
+Rabies,Makueni,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Helminthiasis,Makueni,1,0
+Pneumonia,Bungoma,3,0
+Newcastle Disease (NCD),Nakuru,2,0
+Coccidosis,Makueni,20,0
+Brucellosis,Nakuru,1,0
+East Coast Fever(ECF),Nakuru,2,0
+Other,Bungoma,3,0
+Rabies,Nakuru,1,0
+Helminthiasis,Bungoma,1,0
+Lumpy Skin Disease (LSD),Makueni,2,0
+African Swine Fever (ASF),Trans Nzoia,3,5
+Rabies,Nakuru,1,0
+Other,Busia,1,0
+Other,Makueni,3,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Makueni,16,2
+Helminthiasis,Trans Nzoia,1,0
+Mange,Nakuru,1,0
+Other,Trans Nzoia,1,0
+East Coast Fever(ECF),Trans Nzoia,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Trans Nzoia,2,0
+Helminthiasis,Busia,5,0
+Foot and Mouth Disease (FMD),Trans Nzoia,1,0
+Helminthiasis,Marsabit,0,0
+Lumpy Skin Disease (LSD),Busia,2,0
+Helminthiasis,Marsabit,0,0
+Pneumonia,Nakuru,1,0
+Helminthiasis,Marsabit,1,0
+Other,Marsabit,1,0
+Helminthiasis,Marsabit,0,0
+Helminthiasis,Nakuru,7,1
+Helminthiasis,Marsabit,0,0
+Helminthiasis,Marsabit,1,0
+Helminthiasis,Marsabit,1,0
+Helminthiasis,Marsabit,1,0
+Helminthiasis,Marsabit,1,0
+Helminthiasis,Marsabit,2,0
+Helminthiasis,Marsabit,0,0
+Helminthiasis,Marsabit,0,0
+Helminthiasis,Marsabit,0,0
+Helminthiasis,Marsabit,1,0
+Helminthiasis,Marsabit,0,0
+Helminthiasis,Marsabit,0,0
+Helminthiasis,Makueni,4,0
+Pneumonia,Bungoma,1,0
+East Coast Fever(ECF),Kitui,1,0
+East Coast Fever(ECF),Kitui,1,0
+East Coast Fever(ECF),Kitui,1,0
+East Coast Fever(ECF),Kitui,1,0
+Animal bites,Kitui,1,0
+Foot and Mouth Disease (FMD),Garissa,6,0
+Rabies,Siaya,1,0
+Trypanosomiasis,Siaya,2,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Foot and Mouth Disease (FMD),Baringo,11,0
+Foot and Mouth Disease (FMD),Makueni,3,0
+Helminthiasis,Trans Nzoia,1,0
+Goat Pox,Trans Nzoia,2,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+East Coast Fever(ECF),Makueni,1,0
+East Coast Fever(ECF),Makueni,2,0
+East Coast Fever(ECF),Trans Nzoia,1,0
+Foot and Mouth Disease (FMD),Vihiga,1,0
+Other,Nyandarua,1,0
+Other,Makueni,1,0
+Other,Kisumu,4,1
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,1,0
+Goat Pox,Makueni,6,2
+Helminthiasis,Makueni,1,0
+Goat Pox,Kisumu,2,0
+Fowl Pox,Nandi,58,8
+Other,Makueni,1,0
+Other,Kitui,1,0
+Trypanosomiasis,Kitui,1,0
+Other,Elgeyo/Marakwet,2,1
+Foot and Mouth Disease (FMD),Nandi,12,0
+Foot and Mouth Disease (FMD),Nandi,16,0
+Trypanosomiasis,Kisumu,1,0
+Other,Kisumu,1,0
+Swine Erysipelas,Nakuru,4,0
+Newcastle Disease (NCD),Nakuru,15,6
+Pneumonia,Nakuru,1,0
+Mange,Trans Nzoia,1,0
+East Coast Fever(ECF),Isiolo,1,0
+Other,Trans Nzoia,1,1
+Helminthiasis,Kwale,0,0
+Helminthiasis,Trans Nzoia,1,0
+Anaplasmosis,Isiolo,1,0
+Brucellosis,Elgeyo/Marakwet,1,0
+Ehrlichiosis,Nyandarua,1,1
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,1,0
+East Coast Fever(ECF),Trans Nzoia,1,0
+Pneumonia,Kwale,0,0
+Foot and Mouth Disease (FMD),Kakamega,10,0
+Helminthiasis,Kwale,0,0
+Other,Vihiga,2,0
+Pneumonia,Makueni,1,0
+Other,Makueni,1,0
+Lumpy Skin Disease (LSD),West Pokot,2,0
+Foot and Mouth Disease (FMD),Kakamega,2,0
+Other,West Pokot,0,1
+Heart Water,Makueni,1,0
+East Coast Fever(ECF),Trans Nzoia,1,0
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Other,Makueni,5,2
+Pneumonia,Trans Nzoia,2,0
+Other,Trans Nzoia,1,0
+Pneumonia,Trans Nzoia,1,0
+Helminthiasis,Kwale,0,0
+Black Quarter,Kisumu,1,0
+Sheep Pox,Tana River,12,3
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Anaplasmosis,Samburu,1,0
+Helminthiasis,Kwale,0,0
+Lumpy Skin Disease (LSD),Vihiga,1,0
+Kennel cough,Kisumu,1,0
+Brucellosis,Nakuru,1,0
+Infectious Bursai Disease (Gumboro),Trans Nzoia,7,3
+Lumpy Skin Disease (LSD),Vihiga,2,0
+Pneumonia,Samburu,1,0
+Goat Pox,Tana River,6,0
+Sheep Pox,Tana River,13,0
+Foot and Mouth Disease (FMD),Nakuru,0,0
+Other,Narok,6,0
+Helminthiasis,Trans Nzoia,2,0
+Other,Kirinyaga,2,0
+East Coast Fever(ECF),Vihiga,1,0
+Foot and Mouth Disease (FMD),Trans Nzoia,3,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+East Coast Fever(ECF),Kwale,1,0
+Kennel cough,Kisii,1,0
+Rabies,Nandi,2,2
+Goat Pox,Kwale,2,0
+Pneumonia,Vihiga,1,0
+Helminthiasis,Kwale,2,0
+Pneumonia,Kwale,0,0
+Lumpy Skin Disease (LSD),Trans Nzoia,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,2,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,0,0
+Helminthiasis,Trans Nzoia,1,0
+Goat Pox,Kwale,0,0
+Helminthiasis,Kwale,3,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Makueni,1,0
+Coccidosis,Trans Nzoia,1,0
+Poisoning,Bungoma,0,1
+Trypanosomiasis,Busia,2,0
+Rabies,Makueni,1,0
+Helminthiasis,Busia,9,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Anaplasmosis,Nakuru,1,0
+Other,Kisumu,1,0
+Helminthiasis,Busia,6,0
+East Coast Fever(ECF),Nakuru,1,0
+Other,Kisumu,3,0
+Foot and Mouth Disease (FMD),Kakamega,3,0
+Helminthiasis,Trans Nzoia,1,0
+Anaplasmosis,Samburu,2,0
+East Coast Fever(ECF),Nakuru,1,0
+Other,Samburu,1,0
+Other,Bungoma,1,0
+Foot and Mouth Disease (FMD),Homa Bay,1,0
+East Coast Fever(ECF),Kakamega,1,0
+Helminthiasis,Makueni,0,0
+Brucellosis,Marsabit,3,0
+Other,Wajir,50,0
+Other,Wajir,13,0
+Haemorrhagic septicemia,Marsabit,2,0
+Pneumonia,Kwale,0,0
+Pneumonia,Kirinyaga,1,0
+Peste des Petit Ruminants (PPR),Marsabit,5,1
+Helminthiasis,Kwale,0,0
+Helminthiasis,Nakuru,2,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Makueni,5,0
+Foot and Mouth Disease (FMD),Kakamega,1,0
+Helminthiasis,Kwale,0,0
+Anaplasmosis,Nyandarua,1,0
+Helminthiasis,Makueni,2,0
+Newcastle Disease (NCD),Nakuru,1,1
+Pneumonia,Nyandarua,1,0
+Helminthiasis,Kwale,0,0
+Newcastle Disease (NCD),Nyandarua,15,10
+East Coast Fever(ECF),Makueni,1,0
+Foot and Mouth Disease (FMD),Samburu,12,0
+Helminthiasis,Marsabit,8,2
+Brucellosis,Makueni,6,0
+Pneumonia,Nyandarua,2,0
+East Coast Fever(ECF),Kisumu,0,0
+Foot and Mouth Disease (FMD),Nakuru,2,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,4,1
+Foot and Mouth Disease (FMD),Nandi,12,0
+Pneumonia,Makueni,26,1
+East Coast Fever(ECF),Makueni,1,0
+Foot and Mouth Disease (FMD),Nakuru,50,38
+Pneumonia,Kisumu,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Anaplasmosis,Makueni,1,0
+Trypanosomiasis,Kisumu,1,0
+Helminthiasis,Makueni,5,1
+Helminthiasis,Nakuru,3,0
+Helminthiasis,Makueni,1,0
+Helminthiasis,Makueni,6,0
+Anaplasmosis,Kisumu,1,0
+Lumpy Skin Disease (LSD),Bomet,1,0
+Helminthiasis,Kirinyaga,1,0
+Rabies,Baringo,1,0
+East Coast Fever(ECF),Bungoma,1,0
+Lumpy Skin Disease (LSD),Kisumu,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Rabies,Baringo,1,0
+Foot and Mouth Disease (FMD),Nandi,9,0
+Foot and Mouth Disease (FMD),Bungoma,8,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,5,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,4,1
+Brucellosis,Kisumu,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Foot and Mouth Disease (FMD),Bungoma,2,1
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,1
+Helminthiasis,Makueni,1,0
+Helminthiasis,Makueni,1,0
+Lumpy Skin Disease (LSD),Kakamega,1,0
+Other,Kisumu,4,0
+Pneumonia,Makueni,2,0
+East Coast Fever(ECF),Makueni,1,0
+Foot and Mouth Disease (FMD),Kisii,2,0
+Coccidosis,Kisumu,15,5
+Fowl Pox,Nakuru,5,0
+Lumpy Skin Disease (LSD),Nakuru,1,0
+Anaplasmosis,Nakuru,1,0
+Pneumonia,Trans Nzoia,1,0
+Foot and Mouth Disease (FMD),Busia,2,0
+Helminthiasis,Kakamega,1,0
+Foot and Mouth Disease (FMD),Busia,4,0
+Other,Kakamega,1,0
+Pneumonia,Nakuru,3,0
+Anthrax,Tharaka-Nithi,0,1
+Other,Kisii,1,0
+Goat Pox,West Pokot,57,3
+Camel Pox,West Pokot,3,0
+Poisoning,Nyandarua,1,0
+Peste des Petit Ruminants (PPR),West Pokot,20,0
+Other,Kisii,1,0
+Sheep Pox,West Pokot,2,0
+Other,Nyandarua,20,5
+Pneumonia,Nakuru,1,0
+Peste des Petit Ruminants (PPR),West Pokot,30,14
+Pneumonia,Nakuru,1,0
+Sheep Pox,West Pokot,7,3
+Lumpy Skin Disease (LSD),Makueni,1,0
+Trypanosomiasis,Kwale,1,0
+Other,Kisii,1,0
+Goat Pox,Kwale,2,0
+Lumpy Skin Disease (LSD),Siaya,1,0
+Anaplasmosis,Elgeyo/Marakwet,1,0
+Helminthiasis,Kwale,1,0
+East Coast Fever(ECF),Kisii,1,0
+Coccidosis,Nakuru,3,3
+Pneumonia,Kwale,0,0
+Rabies,Nakuru,1,0
+Other,Garissa,1,0
+Pneumonia,Bungoma,2,0
+Parvovirus,Turkana,1,3
+Black Quarter,Kisumu,1,1
+Helminthiasis,Kwale,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Tharaka-Nithi,5,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Nyamira,10,1
+Helminthiasis,Nakuru,4,0
+Helminthiasis,Nakuru,5,0
+Pneumonia,Nakuru,1,0
+Foot and Mouth Disease (FMD),Trans Nzoia,3,0
+Pneumonia,Nakuru,1,0
+Other,Nakuru,5,2
+Black Quarter,Kisumu,1,0
+Other,Nakuru,1,0
+Foot and Mouth Disease (FMD),Bungoma,4,0
+East Coast Fever(ECF),Nakuru,1,0
+Enterotoxaemia,Nakuru,2,2
+Highly Pathogenic Avian Influenza (HPAI),Bungoma,10,3
+Coccidosis,Tharaka-Nithi,25,2
+Animal bites,Bungoma,3,0
+Foot and Mouth Disease (FMD),Busia,1,0
+Pneumonia,Nakuru,4,0
+Pneumonia,Makueni,1,0
+Other,Nakuru,1,0
+Anaplasmosis,Bungoma,1,0
+Helminthiasis,Kwale,2,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,3,0
+Pneumonia,Makueni,1,1
+Helminthiasis,Makueni,0,0
+East Coast Fever(ECF),Kisii,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,3,3
+Pneumonia,Makueni,1,0
+Helminthiasis,Kwale,2,0
+Helminthiasis,Kwale,3,0
+Lumpy Skin Disease (LSD),Lamu,1,0
+Goat Pox,Trans Nzoia,2,0
+Helminthiasis,Makueni,0,0
+Heart Water,Trans Nzoia,1,0
+Anaplasmosis,Kwale,1,0
+Enterotoxaemia,Nakuru,2,0
+Trypanosomiasis,Kwale,2,0
+Helminthiasis,Trans Nzoia,3,0
+Poisoning,Nyandarua,1,0
+Anaplasmosis,Trans Nzoia,1,0
+Helminthiasis,Trans Nzoia,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Pneumonia,Nyandarua,1,0
+Pneumonia,Kwale,16,18
+Mange,Trans Nzoia,2,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Busia,3,0
+Rabies,Makueni,1,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Other,Kisumu,1,0
+East Coast Fever(ECF),Kakamega,1,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Other,Kisumu,1,0
+Foot and Mouth Disease (FMD),Kiambu,7,0
+Other,Kisumu,1,0
+Coccidosis,Bungoma,1,0
+Brucellosis,Baringo,2,0
+Other,Kwale,0,0
+Foot and Mouth Disease (FMD),Trans Nzoia,2,0
+Helminthiasis,Kwale,0,0
+Goat Pox,Kirinyaga,1,0
+Pneumonia,Makueni,1,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Nyandarua,1,0
+East Coast Fever(ECF),Nandi,1,0
+Anaplasmosis,Tana River,1,0
+Peste des Petit Ruminants (PPR),Lamu,10,2
+Helminthiasis,Marsabit,1,0
+Anaplasmosis,Tana River,1,0
+Peste des Petit Ruminants (PPR),Marsabit,2,1
+Haemorrhagic septicemia,Marsabit,3,1
+Other,Nyandarua,1,0
+Pneumonia,Marsabit,2,0
+Animal bites,Marsabit,2,0
+Brucellosis,Marsabit,1,0
+Foot and Mouth Disease (FMD),Kitui,5,0
+Rabies,Embu,1,1
+Foot and Mouth Disease (FMD),Embu,1,0
+Anaplasmosis,Vihiga,1,0
+Other,Nakuru,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Mandera,3,0
+Other,Nyandarua,1,0
+Pneumonia,Makueni,6,0
+Anaplasmosis,Makueni,2,0
+Trypanosomiasis,Kwale,1,0
+Helminthiasis,Makueni,2,0
+Other,Marsabit,4,0
+Helminthiasis,Makueni,0,0
+Helminthiasis,Marsabit,10,0
+Helminthiasis,Marsabit,11,0
+Other,Makueni,0,0
+Heart Water,Marsabit,1,0
+Peste des Petit Ruminants (PPR),Marsabit,11,2
+Helminthiasis,Makueni,43,2
+Contagious Caprine Pleuropneumonia (CCPP),Marsabit,4,0
+Pneumonia,Marsabit,3,0
+Haemorrhagic septicemia,Marsabit,1,0
+Peste des Petit Ruminants (PPR),Marsabit,2,0
+Helminthiasis,Nyandarua,1,0
+Peste des Petit Ruminants (PPR),Marsabit,3,0
+Pneumonia,Marsabit,1,0
+Lumpy Skin Disease (LSD),Lamu,2,0
+Other,Nyandarua,1,0
+Other,Kisii,1,0
+Helminthiasis,Nyandarua,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Other,Trans Nzoia,3,0
+Pneumonia,Nyandarua,1,0
+Pneumonia,Trans Nzoia,1,0
+Animal bites,Trans Nzoia,1,0
+Pneumonia,Kwale,0,0
+Newcastle Disease (NCD),Nyandarua,2,0
+Helminthiasis,Kwale,0,0
+Other,Makueni,1,0
+Other,Nyandarua,1,0
+East Coast Fever(ECF),Vihiga,1,0
+Other,Baringo,1,0
+Helminthiasis,Trans Nzoia,1,0
+Enterotoxaemia,Nyandarua,2,1
+Pneumonia,Nakuru,1,0
+Poisoning,Marsabit,3,3
+Pneumonia,Marsabit,3,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Bungoma,5,0
+Trypanosomiasis,Kitui,1,0
+Other,Nyandarua,1,0
+Other,Bungoma,1,0
+Pneumonia,Kisii,1,0
+Helminthiasis,Nakuru,0,0
+Goat Pox,Kwale,0,0
+Foot and Mouth Disease (FMD),Makueni,2,0
+Anaplasmosis,Nyandarua,1,0
+Heart Water,Trans Nzoia,1,0
+Helminthiasis,Kwale,0,0
+Lumpy Skin Disease (LSD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Helminthiasis,Samburu,3,1
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Pneumonia,Nakuru,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Other,Siaya,5,0
+Peste des Petit Ruminants (PPR),Trans Nzoia,11,1
+Pneumonia,Bungoma,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Other,Nakuru,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Other,Nyandarua,3,0
+Helminthiasis,Kwale,2,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+East Coast Fever(ECF),Nyandarua,1,0
+Animal bites,Embu,1,0
+Peste des Petit Ruminants (PPR),Trans Nzoia,2,0
+Peste des Petit Ruminants (PPR),Garissa,15,2
+Foot and Mouth Disease (FMD),Marsabit,3,0
+Foot and Mouth Disease (FMD),Kwale,20,0
+Helminthiasis,Kwale,3,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,2,0
+Rabies,Elgeyo/Marakwet,1,0
+Foot and Mouth Disease (FMD),Kwale,1,0
+East Coast Fever(ECF),Kwale,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Trypanosomiasis,Makueni,2,0
+Trypanosomiasis,Kwale,1,0
+Brucellosis,Marsabit,2,0
+Lumpy Skin Disease (LSD),Tharaka-Nithi,1,0
+Brucellosis,Marsabit,2,0
+Other,Nakuru,2,7
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Rabies,Busia,9,9
+Foot and Mouth Disease (FMD),Embu,4,0
+Trypanosomiasis,Kwale,1,0
+Trypanosomiasis,Wajir,1,0
+Other,Wajir,1,0
+Pneumonia,Kwale,1,0
+Trypanosomiasis,Kwale,2,0
+Pneumonia,Kwale,1,0
+Trypanosomiasis,Kwale,1,0
+Coccidosis,Makueni,3,0
+Helminthiasis,Makueni,8,0
+Helminthiasis,Bungoma,2,0
+Coccidosis,Bungoma,5,0
+Fowl Pox,Tharaka-Nithi,20,5
+Other,Kakamega,1,0
+Animal bites,Siaya,2,0
+Newcastle Disease (NCD),Bungoma,2,1
+Lumpy Skin Disease (LSD),Nakuru,1,0
+African Swine Fever (ASF),Bungoma,4,0
+Pneumonia,Bungoma,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Other,Nakuru,2,0
+Poisoning,Bungoma,4,1
+Foot and Mouth Disease (FMD),Siaya,7,2
+Brucellosis,Bungoma,1,0
+Pneumonia,Bungoma,1,0
+Helminthiasis,Elgeyo/Marakwet,2,2
+East Coast Fever(ECF),Nyandarua,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Makueni,4,0
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,4,0
+Helminthiasis,Makueni,1,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Makueni,1,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Parvovirus,Trans Nzoia,2,1
+Other,Nakuru,1,0
+Other,Makueni,0,0
+Pneumonia,Kwale,0,0
+Animal bites,Makueni,2,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Makueni,0,0
+Other,Kwale,0,0
+Helminthiasis,Makueni,1,0
+Pneumonia,Kirinyaga,1,0
+Poisoning,Makueni,0,5
+Other,Nyandarua,1,0
+Other,Nyandarua,0,0
+Helminthiasis,Nyandarua,2,0
+Lumpy Skin Disease (LSD),Nandi,1,0
+Other,Nyandarua,1,0
+Pneumonia,Makueni,2,0
+Goat Pox,Makueni,1,0
+Anaplasmosis,Meru,1,0
+East Coast Fever(ECF),Bungoma,1,0
+Pneumonia,Turkana,0,0
+Helminthiasis,Nakuru,4,0
+Helminthiasis,Makueni,1,0
+Foot and Mouth Disease (FMD),Nakuru,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,0,0
+Brucellosis,Bungoma,1,0
+Helminthiasis,Nakuru,1,0
+Anaplasmosis,Siaya,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,9,0
+Contagious Bovine Pleuropneumonia (CBPP),Turkana,3,0
+Helminthiasis,Makueni,6,0
+Other,Laikipia,4,0
+East Coast Fever(ECF),Nakuru,1,0
+Pneumonia,Nyandarua,0,0
+East Coast Fever(ECF),Kwale,1,0
+Other,Makueni,1,0
+Black Quarter,Bomet,6,6
+Heart Water,Kwale,1,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Pneumonia,Kwale,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,200,50
+Foot and Mouth Disease (FMD),Nakuru,2,0
+Rabies,Bomet,1,0
+Helminthiasis,Makueni,2,0
+Helminthiasis,Makueni,2,0
+Trypanosomiasis,Kwale,1,0
+Rabies,Marsabit,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Samburu,5,1
+Foot and Mouth Disease (FMD),Bomet,3,0
+Contagious Caprine Pleuropneumonia (CCPP),Samburu,5,1
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,0,1
+Peste des Petit Ruminants (PPR),Garissa,8,5
+Contagious Caprine Pleuropneumonia (CCPP),Samburu,5,1
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Other,Baringo,1,0
+Other,Wajir,1,0
+Helminthiasis,Kwale,0,0
+Other,Nakuru,1,0
+Brucellosis,Baringo,2,0
+Other,Makueni,0,0
+Other,Baringo,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,1,0
+Coccidosis,Kwale,11,2
+Helminthiasis,Kwale,2,0
+Helminthiasis,Trans Nzoia,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,2,0
+Helminthiasis,Kwale,0,0
+Anaplasmosis,Vihiga,1,0
+Other,Narok,15,0
+Foot and Mouth Disease (FMD),Kwale,2,0
+Other,Vihiga,1,0
+African Swine Fever (ASF),Kakamega,0,0
+Lumpy Skin Disease (LSD),Makueni,1,0
+Other,Vihiga,3,0
+Pneumonia,Makueni,1,0
+East Coast Fever(ECF),Vihiga,1,0
+Helminthiasis,Makueni,1,0
+Parvovirus,Vihiga,1,0
+Anaplasmosis,Vihiga,1,0
+Coccidosis,Makueni,3,0
+Brucellosis,Vihiga,1,0
+Newcastle Disease (NCD),Nakuru,17,6
+Helminthiasis,Vihiga,1,0
+East Coast Fever(ECF),Vihiga,1,0
+Helminthiasis,Vihiga,1,0
+Pneumonia,Nakuru,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Pneumonia,Bungoma,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Rabies,West Pokot,1,1
+Sheep scab,Nakuru,3,0
+Pneumonia,Nakuru,2,0
+Mange,Nakuru,2,0
+African Swine Fever (ASF),Siaya,1,1
+East Coast Fever(ECF),Makueni,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Trypanosomiasis,Kwale,1,0
+Foot and Mouth Disease (FMD),Vihiga,1,0
+Pneumonia,Nyandarua,1,1
+East Coast Fever(ECF),Trans Nzoia,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Other,Elgeyo/Marakwet,3,0
+Foot and Mouth Disease (FMD),Bungoma,7,1
+East Coast Fever(ECF),Mombasa,15,2
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Garissa,132,170
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Other,Marsabit,1,0
+Lumpy Skin Disease (LSD),Bungoma,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Anaplasmosis,Elgeyo/Marakwet,1,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Anaplasmosis,Vihiga,1,0
+Foot and Mouth Disease (FMD),Kajiado,9,0
+Anaplasmosis,Makueni,1,0
+Other,Nakuru,1,0
+Pneumonia,Kwale,0,0
+Pneumonia,Kisumu,1,0
+Helminthiasis,Kwale,0,0
+Other,Marsabit,2,1
+Helminthiasis,Vihiga,2,0
+Pneumonia,Vihiga,0,0
+Pneumonia,Kwale,0,0
+Trypanosomiasis,Kwale,2,0
+Helminthiasis,Vihiga,3,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Kwale,11,0
+Trypanosomiasis,Kwale,1,0
+Foot and Mouth Disease (FMD),Kwale,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Rabies,Nakuru,2,0
+Poisoning,Marsabit,1,0
+Animal bites,Kwale,0,0
+Enterotoxaemia,Marsabit,2,0
+Trypanosomiasis,Marsabit,3,0
+Camel Pox,Marsabit,2,0
+Rabies,West Pokot,1,0
+Pneumonia,Nyandarua,0,0
+Helminthiasis,Kwale,0,0
+Fowl Pox,Marsabit,6,1
+Anaplasmosis,Nyandarua,1,0
+Foot and Mouth Disease (FMD),Kakamega,7,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+East Coast Fever(ECF),Kisii,1,0
+Heart Water,Kakamega,2,0
+Helminthiasis,Makueni,0,0
+East Coast Fever(ECF),Narok,2,6
+East Coast Fever(ECF),Nyandarua,1,0
+Helminthiasis,Kisii,2,0
+Pneumonia,Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Other,Nyandarua,1,0
+Other,Nyandarua,1,0
+East Coast Fever(ECF),Kisii,2,0
+Other,Isiolo,0,0
+Poisoning,Elgeyo/Marakwet,1,0
+Heart Water,Siaya,1,0
+Lumpy Skin Disease (LSD),Busia,3,0
+Other,Nakuru,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Foot and Mouth Disease (FMD),Bomet,1,0
+African Swine Fever (ASF),Tharaka-Nithi,3,0
+Pneumonia,Kisii,1,0
+Helminthiasis,Nakuru,2,0
+Foot and Mouth Disease (FMD),Nakuru,5,0
+Foot and Mouth Disease (FMD),Kisumu,5,1
+Other,Bungoma,1,0
+Foot and Mouth Disease (FMD),Nandi,2,0
+Helminthiasis,Trans Nzoia,0,0
+Rabies,Makueni,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Other,Nakuru,1,0
+Pneumonia,Kirinyaga,1,0
+Helminthiasis,Nyandarua,1,0
+Helminthiasis,Nyandarua,2,0
+Helminthiasis,Nyandarua,1,0
+Anaplasmosis,Makueni,1,0
+Foot and Mouth Disease (FMD),Kisii,5,0
+Trypanosomiasis,Kwale,1,0
+Helminthiasis,Nyandarua,1,0
+Anaplasmosis,Kakamega,1,0
+Helminthiasis,Nakuru,1,0
+Helminthiasis,Nyandarua,3,0
+Pneumonia,Kwale,1,0
+Heart Water,Kwale,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Other,Makueni,1,0
+Other,Siaya,1,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Heart Water,Siaya,1,0
+Pneumonia,Siaya,1,0
+Lumpy Skin Disease (LSD),Nandi,2,0
+Pneumonia,Kwale,1,0
+East Coast Fever(ECF),Siaya,0,1
+Foot and Mouth Disease (FMD),Bungoma,5,1
+Black Quarter,Siaya,1,0
+East Coast Fever(ECF),Makueni,1,0
+Trypanosomiasis,Kwale,1,0
+East Coast Fever(ECF),Siaya,1,0
+Heart Water,Makueni,1,0
+Anaplasmosis,Siaya,1,0
+Trypanosomiasis,Kwale,2,0
+Anaplasmosis,Trans Nzoia,1,0
+Coccidosis,Nakuru,12,4
+Other,Siaya,7,0
+Heart Water,Trans Nzoia,1,0
+Helminthiasis,Makueni,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Nyandarua,1,0
+Other,Nyandarua,3,0
+Pneumonia,Makueni,1,0
+Helminthiasis,Nyandarua,1,0
+Helminthiasis,Kwale,0,0
+Parvovirus,Tharaka-Nithi,1,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Other,Makueni,1,0
+Other,Nyandarua,1,0
+Helminthiasis,Lamu,30,10
+Pneumonia,Kwale,0,0
+Helminthiasis,Makueni,1,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,1,0
+Other,Tharaka-Nithi,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,2,0
+East Coast Fever(ECF),Kisumu,1,0
+Foot and Mouth Disease (FMD),Nakuru,5,0
+Other,Nakuru,0,0
+Lumpy Skin Disease (LSD),Nandi,1,0
+Black Quarter,Nakuru,2,0
+Lumpy Skin Disease (LSD),Nandi,1,0
+Foot and Mouth Disease (FMD),Nakuru,2,0
+Foot and Mouth Disease (FMD),Nakuru,2,0
+Foot and Mouth Disease (FMD),Nakuru,3,0
+Helminthiasis,Mombasa,109,10
+Helminthiasis,Makueni,2,2
+Foot and Mouth Disease (FMD),Nakuru,3,0
+Helminthiasis,Makueni,0,0
+Helminthiasis,Makueni,50,2
+Foot and Mouth Disease (FMD),Nakuru,3,0
+Other,Makueni,3,0
+Other,Nyandarua,1,0
+East Coast Fever(ECF),Kisii,1,0
+Other,Nyandarua,1,0
+Foot and Mouth Disease (FMD),Nandi,22,6
+East Coast Fever(ECF),Nyandarua,1,0
+Pullorium disease,Nakuru,0,0
+Lumpy Skin Disease (LSD),Trans Nzoia,1,0
+East Coast Fever(ECF),Trans Nzoia,1,0
+Lumpy Skin Disease (LSD),Nakuru,1,0
+Brucellosis,Tharaka-Nithi,1,0
+Other,Elgeyo/Marakwet,1,0
+Anaplasmosis,Siaya,1,0
+Foot and Mouth Disease (FMD),Bomet,1,0
+Pneumonia,Nyandarua,1,1
+Foot and Mouth Disease (FMD),Bomet,1,0
+Foot and Mouth Disease (FMD),Nakuru,2,0
+Helminthiasis,Vihiga,1,1
+Helminthiasis,Makueni,5,0
+Helminthiasis,Makueni,5,0
+Pneumonia,Makueni,0,0
+Poisoning,Elgeyo/Marakwet,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+East Coast Fever(ECF),Nyandarua,1,0
+Heart Water,Kwale,2,1
+Animal bites,Nakuru,2,0
+Helminthiasis,Makueni,0,0
+Pneumonia,Kwale,0,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Nakuru,2,0
+Foot and Mouth Disease (FMD),Baringo,2,0
+Anaplasmosis,Nyandarua,1,0
+Anthrax,Bomet,0,1
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,10,3
+Other,Nyandarua,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Makueni,12,5
+Anaplasmosis,Trans Nzoia,1,0
+East Coast Fever(ECF),Elgeyo/Marakwet,1,0
+Trypanosomiasis,Kwale,0,0
+Other,Baringo,1,0
+Lumpy Skin Disease (LSD),Bomet,20,0
+Heart Water,Trans Nzoia,1,0
+Helminthiasis,Kwale,2,0
+Other,Baringo,1,0
+East Coast Fever(ECF),Kwale,1,0
+Other,Baringo,1,0
+Helminthiasis,Trans Nzoia,3,0
+Foot and Mouth Disease (FMD),Isiolo,2,0
+Anaplasmosis,Kisumu,1,0
+East Coast Fever(ECF),Nakuru,10,0
+Other,Kisumu,4,0
+Peste des Petit Ruminants (PPR),Siaya,1,1
+Sheep Pox,Isiolo,200,3
+Pneumonia,Isiolo,2,0
+Other,Vihiga,2,0
+Pneumonia,Nakuru,2,0
+Mange,Kisumu,2,0
+Other,Isiolo,6,0
+Helminthiasis,Bungoma,5,0
+Other,Makueni,0,4
+Other,Kisumu,1,0
+Pneumonia,Bungoma,3,0
+Other,Nyandarua,1,0
+Black Quarter,Homa Bay,0,1
+Trypanosomiasis,Kwale,1,0
+East Coast Fever(ECF),Nakuru,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Heart Water,Kwale,4,0
+Other,Elgeyo/Marakwet,1,0
+Haemorrhagic septicemia,Marsabit,3,0
+Helminthiasis,Kwale,0,0
+Anaplasmosis,Kwale,4,0
+Helminthiasis,Kwale,0,0
+Sheep Pox,Isiolo,20,0
+Other,Kwale,2,0
+Pneumonia,Kwale,1,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Other,Nyandarua,1,0
+Goat Pox,Isiolo,0,0
+Goat Pox,Isiolo,5,0
+Helminthiasis,Isiolo,3,0
+Pneumonia,Kwale,0,0
+Contagious Caprine Pleuropneumonia (CCPP),Kwale,3,1
+Contagious Caprine Pleuropneumonia (CCPP),Tharaka-Nithi,1,0
+Sheep Pox,Isiolo,21,0
+Foot and Mouth Disease (FMD),Tharaka-Nithi,2,0
+Pneumonia,Isiolo,2,0
+Helminthiasis,Makueni,1,0
+Foot and Mouth Disease (FMD),Tharaka-Nithi,1,0
+East Coast Fever(ECF),Kwale,1,0
+Haemorrhagic septicemia,Marsabit,4,0
+East Coast Fever(ECF),Nakuru,1,0
+Helminthiasis,Nyandarua,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Sheep Pox,Isiolo,8,0
+Other,Isiolo,2,0
+East Coast Fever(ECF),Nakuru,1,0
+Pneumonia,Isiolo,3,0
+Other,Vihiga,1,0
+Helminthiasis,Vihiga,1,0
+Other,Vihiga,3,0
+Pneumonia,Makueni,1,0
+Other,Vihiga,1,0
+Other,Vihiga,1,0
+Helminthiasis,Siaya,4,0
+Other,Vihiga,1,0
+Other,Vihiga,1,0
+Animal bites,Siaya,1,1
+Peste des Petit Ruminants (PPR),Trans Nzoia,1,0
+Rabies,Makueni,1,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,1,0
+Johnes Disease,Kwale,1,0
+Enterotoxaemia,Bungoma,3,0
+Foot and Mouth Disease (FMD),Bomet,7,1
+Pneumonia,Bungoma,1,0
+Enterotoxaemia,Bomet,1,28
+Other,Tharaka-Nithi,1,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Kirinyaga,1,0
+Pneumonia,Kwale,0,0
+Pneumonia,Makueni,2,0
+Helminthiasis,Kwale,0,0
+Infectious Bronchitis,Bungoma,50,2
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Other,Siaya,1,0
+Brucellosis,Bungoma,1,0
+Other,Siaya,2,0
+Lumpy Skin Disease (LSD),Makueni,1,0
+Helminthiasis,Nyandarua,1,0
+Mange,Makueni,4,0
+Coccidosis,Makueni,6,0
+Helminthiasis,Makueni,0,0
+Pneumonia,Kirinyaga,1,0
+Helminthiasis,Makueni,5,0
+Helminthiasis,Nakuru,1,0
+Foot and Mouth Disease (FMD),Bomet,1,1
+Animal bites,Nakuru,1,0
+Rabies,Bomet,2,1
+Lumpy Skin Disease (LSD),Bungoma,1,0
+East Coast Fever(ECF),Nakuru,1,0
+Helminthiasis,Nakuru,7,0
+Sheep Pox,Isiolo,28,0
+Other,Kwale,1,0
+Pneumonia,Nakuru,2,0
+Helminthiasis,Nakuru,1,0
+Enterotoxaemia,Nakuru,1,0
+Goat Pox,Isiolo,28,0
+Helminthiasis,Makueni,5,0
+Helminthiasis,Nakuru,3,0
+Pneumonia,Makueni,3,0
+East Coast Fever(ECF),Nakuru,1,0
+Mange,Nakuru,1,0
+Helminthiasis,Makueni,2,0
+Helminthiasis,Nyandarua,1,0
+Pneumonia,Makueni,2,0
+East Coast Fever(ECF),Makueni,1,0
+East Coast Fever(ECF),Makueni,1,0
+Pneumonia,Nakuru,5,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Nyandarua,1,0
+Helminthiasis,Kwale,0,0
+Animal bites,Kisumu,1,0
+Other,Trans Nzoia,1,0
+Lumpy Skin Disease (LSD),Tharaka-Nithi,2,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Narok,25,0
+East Coast Fever(ECF),Kisii,1,0
+Foot and Mouth Disease (FMD),Makueni,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Turkana,23,0
+Helminthiasis,Turkana,17,0
+Foot and Mouth Disease (FMD),Nakuru,8,0
+Lumpy Skin Disease (LSD),Nyandarua,2,1
+Anaplasmosis,Trans Nzoia,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Pneumonia,Nyandarua,1,0
+East Coast Fever(ECF),Nandi,1,0
+Pneumonia,Nyandarua,4,0
+Foot and Mouth Disease (FMD),Nyandarua,2,1
+African Swine Fever (ASF),Bungoma,1,0
+Helminthiasis,Trans Nzoia,1,1
+Anaplasmosis,Nyandarua,1,0
+Pneumonia,Nyandarua,4,0
+Helminthiasis,Nyandarua,1,0
+Pneumonia,Nyandarua,1,0
+Infectious Bronchitis,Nyandarua,9,0
+East Coast Fever(ECF),Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,1
+East Coast Fever(ECF),Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Foot and Mouth Disease (FMD),Nyandarua,1,1
+Poisoning,Siaya,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Anaplasmosis,Siaya,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+East Coast Fever(ECF),Nyandarua,1,0
+Anaplasmosis,Makueni,1,0
+Lumpy Skin Disease (LSD),Nyandarua,1,1
+Contagious Caprine Pleuropneumonia (CCPP),Kitui,82,0
+Brucellosis,Nakuru,1,0
+Animal bites,Kisumu,1,0
+Contagious Bovine Pleuropneumonia (CBPP),Makueni,1,0
+Trypanosomiasis,Kwale,2,0
+Newcastle Disease (NCD),Nakuru,4,2
+Lumpy Skin Disease (LSD),Makueni,1,0
+Lumpy Skin Disease (LSD),Trans Nzoia,1,0
+Brucellosis,Tharaka-Nithi,2,2
+Foot and Mouth Disease (FMD),Bungoma,28,0
+Pneumonia,Vihiga,1,0
+Trypanosomiasis,Kwale,1,0
+Other,Vihiga,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+East Coast Fever(ECF),Makueni,1,0
+Trypanosomiasis,Bungoma,1,0
+Rabies,Kirinyaga,1,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Foot and Mouth Disease (FMD),Kajiado,10,0
+Helminthiasis,Makueni,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Kajiado,3,1
+Other,Siaya,1,0
+Anaplasmosis,Trans Nzoia,1,0
+Pneumonia,Kwale,1,0
+Other,Trans Nzoia,2,0
+Helminthiasis,Kwale,0,0
+Trypanosomiasis,Garissa,4,0
+Other,Baringo,350,30
+Pneumonia,Kwale,0,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Black Quarter,Vihiga,0,1
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,4,0
+Anthrax,Vihiga,0,1
+Anaplasmosis,Kisumu,1,0
+Mange,Tharaka-Nithi,1,0
+Lumpy Skin Disease (LSD),Nandi,3,0
+Helminthiasis,Trans Nzoia,1,0
+Foot and Mouth Disease (FMD),Vihiga,3,1
+Mange,Bungoma,2,0
+Anaplasmosis,Vihiga,1,0
+Lumpy Skin Disease (LSD),Tharaka-Nithi,2,1
+Other,Makueni,1,0
+Anthrax,Tharaka-Nithi,0,1
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Other,Tharaka-Nithi,1,0
+Other,Makueni,4,0
+Sheep Pox,Isiolo,5,0
+Helminthiasis,Kwale,0,0
+Parvovirus,Kiambu,3,1
+Helminthiasis,Makueni,6,0
+Helminthiasis,Kiambu,1,0
+Helminthiasis,Kwale,0,0
+East Coast Fever(ECF),Trans Nzoia,1,0
+East Coast Fever(ECF),Narok,3,5
+East Coast Fever(ECF),Kwale,1,0
+Other,Kwale,0,0
+Helminthiasis,Kwale,7,0
+Helminthiasis,Kwale,0,0
+Trypanosomiasis,Kwale,2,0
+Pneumonia,Kwale,0,0
+Brucellosis,Bungoma,10,0
+Helminthiasis,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Foot and Mouth Disease (FMD),Bungoma,3,0
+East Coast Fever(ECF),Nyandarua,1,0
+Other,Makueni,2,0
+Lumpy Skin Disease (LSD),Kitui,3,0
+Lumpy Skin Disease (LSD),Kisumu,4,0
+Foot and Mouth Disease (FMD),Kisii,6,0
+East Coast Fever(ECF),Kisii,1,0
+Foot and Mouth Disease (FMD),Bungoma,2,0
+Other,Nyandarua,1,0
+Contagious Caprine Pleuropneumonia (CCPP),Nakuru,70,30
+Heart Water,Bungoma,1,0
+Pneumonia,Nyandarua,1,0
+Rabies,Marsabit,1,1
+Other,Nyandarua,1,0
+Helminthiasis,Marsabit,70,0
+Trypanosomiasis,Makueni,3,0
+Other,Bungoma,5,0
+East Coast Fever(ECF),Kisumu,1,0
+Other,Vihiga,1,0
+Peste des Petit Ruminants (PPR),Marsabit,3,2
+Anthrax,Tharaka-Nithi,0,1
+Pneumonia,Vihiga,1,0
+Other,Makueni,1,0
+Helminthiasis,Makueni,6,0
+Helminthiasis,Makueni,1,0
+African Swine Fever (ASF),Vihiga,1,2
+Other,Trans Nzoia,8,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Other,Makueni,1,3
+East Coast Fever(ECF),Makueni,1,0
+Pneumonia,Makueni,3,0
+Contagious Caprine Pleuropneumonia (CCPP),Makueni,19,7
+Lumpy Skin Disease (LSD),Makueni,1,0
+Rabies,Makueni,1,0
+Foot and Mouth Disease (FMD),Makueni,3,0
+Pneumonia,Kirinyaga,1,0
+Lumpy Skin Disease (LSD),Makueni,1,0
+Helminthiasis,Makueni,20,0
+Helminthiasis,Kwale,0,0
+Other,Busia,1,0
+Pneumonia,Kwale,0,0
+Pneumonia,Busia,1,0
+Pneumonia,Kwale,0,0
+Pneumonia,Kwale,0,0
+Helminthiasis,Kwale,0,0
+Pneumonia,Kwale,0,0
+Foot and Mouth Disease (FMD),Bungoma,1,0
+Other,Garissa,1,1
+Other,Kirinyaga,6,0
+Helminthiasis,Kwale,0,0
+Brucellosis,Makueni,250,100
+Lumpy Skin Disease (LSD),Kisii,1,0
+Poisoning,Bungoma,1,0
+Other,Nakuru,3,0
+Other,Nakuru,10,4
+Coccidosis,Nakuru,2,2
+Anthrax,Kakamega,4,1
+Lumpy Skin Disease (LSD),Nandi,1,0
+Other,Siaya,1,0
+Foot and Mouth Disease (FMD),Elgeyo/Marakwet,3,0
+Enterotoxaemia,Narok,48,3
+Newcastle Disease (NCD),Narok,7,1
+Goat Pox,Isiolo,10,0
+East Coast Fever(ECF),Nakuru,1,0
+Lumpy Skin Disease (LSD),Bungoma,6,0
+Foot and Mouth Disease (FMD),Baringo,5,0
+Mange,Bungoma,2,0
+Trypanosomiasis,Siaya,2,0
+Other,Kwale,5,0
+Helminthiasis,Kwale,0,0
+Other,Kwale,3,0
+Contagious Caprine Pleuropneumonia (CCPP),Kitui,3,7
+Foot and Mouth Disease (FMD),Bungoma,3,0
+Rabies,Makueni,0,0
+East Coast Fever(ECF),Kwale,1,0
+Anaplasmosis,Nakuru,1,0
+Wax Moth,Nakuru,0,0
+Heart Water,Kwale,1,1
+Parvovirus,Nakuru,1,1
+East Coast Fever(ECF),Nakuru,1,0
+Lumpy Skin Disease (LSD),Kwale,1,0
+Goat Pox,Tana River,8,3
+Contagious Caprine Pleuropneumonia (CCPP),Isiolo,100,0
+East Coast Fever(ECF),Kwale,2,0
+Coccidosis,Nakuru,2,0
