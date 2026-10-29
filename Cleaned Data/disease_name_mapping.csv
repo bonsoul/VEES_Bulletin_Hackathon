@@ -1,0 +1,2505 @@
+raw_value,harmonised,method,rows
+Helminthiasis,Helminthiasis,dictionary,10094
+Pneumonia,Pneumonia,dictionary,6944
+East Coast Fever(ECF),East Coast Fever (ECF),dictionary,5971
+Trypanosomiasis,Trypanosomiasis,dictionary,4907
+Contagious Caprine Pleuropneumonia (CCPP),Contagious Caprine Pleuropneumonia (CCPP),dictionary,4413
+Foot and Mouth Disease (FMD),Foot and Mouth Disease (FMD),dictionary,3909
+Anaplasmosis,Anaplasmosis,dictionary,3645
+Lumpy Skin Disease (LSD),Lumpy Skin Disease (LSD),dictionary,2916
+Peste des Petit Ruminants (PPR),Peste des Petits Ruminants (PPR),dictionary,2662
+Rabies,Rabies,dictionary,2432
+Brucellosis,Brucellosis,dictionary,1820
+Mange,Mange,dictionary,1630
+Rift Valley Fever (RVF),Rift Valley Fever (RVF),dictionary,1433
+Mastitis,Mastitis,dictionary,1125
+Animal bites,Animal Bites,dictionary,1049
+Heart Water,Heartwater,dictionary,1041
+Anthrax,Anthrax,dictionary,1037
+Goat Pox,Sheep and Goat Pox,dictionary,1035
+Coccidosis,Coccidiosis,dictionary,866
+Enterotoxaemia,Enterotoxaemia,dictionary,834
+Black Quarter,Black Quarter,dictionary,781
+Newcastle Disease (NCD),Newcastle Disease (ND),dictionary,681
+Poisoning,Poisoning,dictionary,656
+ECF,East Coast Fever (ECF),dictionary,646
+0,Unknown,placeholder,626
+FMD,Foot and Mouth Disease (FMD),dictionary,563
+RVF,Rift Valley Fever (RVF),dictionary,519
+Sheep Pox,Sheep and Goat Pox,dictionary,507
+Contagious Bovine Pleuropneumonia (CBPP),Contagious Bovine Pleuropneumonia (CBPP),dictionary,453
+Haemorrhagic septicemia,Haemorrhagic Septicaemia,dictionary,423
+Fowl Pox,Fowl Pox,dictionary,419
+I Don't Know,Unknown,placeholder,393
+Orf,Orf (Contagious Ecthyma),dictionary,384
+Foot Rot,Foot Rot,dictionary,349
+Parvovirus,Parvovirus,dictionary,312
+LSD,Lumpy Skin Disease (LSD),dictionary,306
+Footrot,Foot Rot,dictionary,292
+Babesiosis,Babesiosis (Redwater),dictionary,261
+CCPP,Contagious Caprine Pleuropneumonia (CCPP),dictionary,246
+Bloat,Bloat,dictionary,215
+Infectious Bronchitis,Infectious Bronchitis,dictionary,203
+Camel Pox,Camel Pox,dictionary,187
+Abscess,Abscess,dictionary,172
+Enteritis,Enteritis,dictionary,171
+Tetanus,Tetanus,dictionary,169
+Pink Eye,Pink Eye (Infectious Keratoconjunctivitis),dictionary,164
+East Coast Fever,East Coast Fever (ECF),dictionary,145
+Other,Unknown,placeholder,141
+Canine Distemper (CD),Canine Distemper,dictionary,138
+PPR,Peste des Petits Ruminants (PPR),dictionary,128
+Dystocia,Dystocia,dictionary,127
+Milk Fever,Milk Fever (Hypocalcaemia),dictionary,121
+Wound,Trauma / Injury,dictionary,121
+CBPP,Contagious Bovine Pleuropneumonia (CBPP),dictionary,118
+Ephemeral Fever,Bovine Ephemeral Fever,dictionary,114
+African Swine Fever (ASF),African Swine Fever (ASF),dictionary,114
+Infectious Coryza,Infectious Coryza,dictionary,113
+NCD,Newcastle Disease (ND),dictionary,109
+Myiasis,Myiasis,dictionary,109
+Diarrhoea,Diarrhoea / Scours,dictionary,107
+Injury,Trauma / Injury,dictionary,106
+Hydatidosis,Hydatidosis (Echinococcosis),dictionary,106
+Sheep scab,Sheep Scab,dictionary,102
+Ecf,East Coast Fever (ECF),dictionary,102
+Johnes Disease,Johne's Disease,dictionary,94
+Ehrlichiosis,Ehrlichiosis,dictionary,94
+Foot and Mouth Disease,Foot and Mouth Disease (FMD),dictionary,88
+Retained Placenta,Retained Placenta,dictionary,85
+Eye Infection,Eye Infection,dictionary,84
+Infectious Bursai Disease (Gumboro),Infectious Bursal Disease (Gumboro),dictionary,77
+Kennel cough,Kennel Cough,dictionary,75
+Foot rot,Foot Rot,dictionary,73
+RAB,Rab,unmatched,71
+Salmonellosis,Salmonellosis,dictionary,69
+Trauma,Trauma / Injury,dictionary,66
+Pullorium disease,Pullorum Disease,dictionary,63
+Fasciolosis,Fasciolosis (Liver Fluke),dictionary,60
+Dog bites,Animal Bites,dictionary,59
+Hypocalcemia,Milk Fever (Hypocalcaemia),dictionary,59
+Retained After Birth,Retained Placenta,dictionary,58
+Wounds,Trauma / Injury,dictionary,58
+Streptothricosis,Dermatophilosis (Streptothricosis),dictionary,56
+Fracture,Trauma / Injury,dictionary,55
+Camel Cough,Camel Respiratory Disease,dictionary,52
+Laminitis,Laminitis,dictionary,52
+Diarrhea,Diarrhoea / Scours,dictionary,52
+Heartwater,Heartwater,dictionary,50
+Abortion,Abortion,dictionary,50
+Contagious Ecthyma,Orf (Contagious Ecthyma),dictionary,49
+Retained Afterbirth,Retained Placenta,dictionary,49
+Colic,Colic,dictionary,49
+Dermatitis,Dermatitis / Skin Infection,dictionary,47
+No,Unknown,placeholder,47
+Metritis,Metritis,dictionary,46
+orf,Orf (Contagious Ecthyma),dictionary,46
+Ketosis,Ketosis,dictionary,43
+Unknown,Unknown,placeholder,42
+Contagious Capine Pleuropneumonia (CCPP),Contagious Caprine Pleuropneumonia (CCPP),dictionary,41
+Swine Erysipelas,Swine Erysipelas,dictionary,41
+Small hive beetle,Small Hive Beetle,dictionary,41
+Wax Moth,Wax Moth,dictionary,41
+mastitis,Mastitis,dictionary,40
+Traumatic Injury,Trauma / Injury,dictionary,40
+Malnutrition,Nutritional Deficiency,dictionary,39
+Skin Abscess,Abscess,dictionary,38
+Lameness,Lameness,dictionary,38
+Abcess,Abscess,dictionary,38
+Conjunctivitis,Eye Infection,dictionary,37
+Arthritis,Arthritis,dictionary,36
+Hydatid,Hydatidosis (Echinococcosis),dictionary,35
+Newcastle,Newcastle Disease (ND),dictionary,35
+Calf Scours,Diarrhoea / Scours,dictionary,34
+Clinical Mastitis,Mastitis,dictionary,34
+Avitaminosis,Nutritional Deficiency,dictionary,34
+Ringworm,Ringworm (Dermatophytosis),dictionary,34
+Haemorrhagic Septicaemia,Haemorrhagic Septicaemia,dictionary,33
+Animal Bites,Animal Bites,dictionary,33
+Bee Sting,Bee Sting,dictionary,32
+Trichomoniasis,Trichomoniasis,dictionary,32
+Bovine Ephemeral Fever,Bovine Ephemeral Fever,dictionary,31
+Leptospirosis,Leptospirosis,dictionary,30
+ORF,Orf (Contagious Ecthyma),dictionary,29
+Worm Infestation,Helminthiasis,dictionary,29
+Fowl Typhoid,Fowl Typhoid,dictionary,28
+Dog Bite,Animal Bites,dictionary,28
+Castration,Routine Procedure (non-disease),dictionary,28
+Septic Wound,Trauma / Injury,dictionary,28
+Coenurosis,Coenurosis,dictionary,28
+Fascioliasis,Fasciolosis (Liver Fluke),dictionary,28
+Worms,Helminthiasis,dictionary,27
+Mange Infestation,Mange,dictionary,27
+Mineral Deficiency,Nutritional Deficiency,dictionary,27
+Blue Tongue,Bluetongue,dictionary,26
+Bacterial Enteritis,Enteritis,dictionary,26
+Stomatitis,Stomatitis,dictionary,26
+Actinobacillosis,Actinobacillosis (Wooden Tongue),dictionary,26
+Not Known,Unknown,placeholder,26
+Manges,Mange,dictionary,26
+Foot Rote,Foot Rot,dictionary,25
+Myasis,Myiasis,dictionary,25
+Uterine Prolapse,Prolapse,dictionary,25
+Fungal Infection,Fungal Infection,dictionary,24
+salmonelosis,Salmonellosis,dictionary,24
+Pink eye,Pink Eye (Infectious Keratoconjunctivitis),dictionary,23
+Abscesses,Abscess,dictionary,23
+Grain Overload,Ruminal Acidosis,dictionary,23
+Retained afterbirth,Retained Placenta,dictionary,23
+Downer Cow Syndrome,Downer Cow Syndrome,dictionary,23
+Dehorning,Routine Procedure (non-disease),dictionary,23
+Sweating Sickness,Sweating Sickness,dictionary,23
+Vaginal Prolapse,Prolapse,dictionary,23
+Skin Infection,Dermatitis / Skin Infection,dictionary,23
+Varroosis,Varroosis,dictionary,22
+Photosensitization,Photosensitisation,dictionary,22
+Equine influenza,Equine Influenza,dictionary,22
+Warts,Papillomatosis (Warts),dictionary,22
+Acute Trypanosomiasis,Trypanosomiasis,dictionary,21
+Snake Bite,Snake Bite,dictionary,21
+Milk fever,Milk Fever (Hypocalcaemia),dictionary,21
+Actinomycosis,Actinomycosis (Lumpy Jaw),dictionary,21
+Haemonchosis,Helminthiasis,dictionary,21
+Anaemia,Anaemia,dictionary,21
+Hydronephrosis,Hydronephrosis,unmatched,21
+Tick Paralysis,Tick Paralysis,dictionary,20
+Papillomatosis,Papillomatosis (Warts),dictionary,20
+Dermatophytosis,Ringworm (Dermatophytosis),dictionary,20
+Tick Fever,Tick-borne Disease,dictionary,20
+Dermatophilosis,Dermatophilosis (Streptothricosis),dictionary,19
+Coccidiosis,Coccidiosis,dictionary,19
+O,Unknown,placeholder,19
+Prolapse,Prolapse,dictionary,19
+Spontaneous Abortion,Abortion,dictionary,19
+Scours,Diarrhoea / Scours,dictionary,19
+Stress,Heat Stress,dictionary,19
+Dermatomycosis,Ringworm (Dermatophytosis),dictionary,18
+Liver Cirrhosis,Liver Cirrhosis,unmatched,18
+Upper respiratory infections,Respiratory Infection (unspecified),dictionary,18
+Nutritional Diarrhoea,Diarrhoea / Scours,dictionary,18
+Conjuctivitis,Eye Infection,dictionary,18
+Constipation,Impaction / Constipation,dictionary,18
+Helmenthiasis,Helminthiasis,dictionary,18
+Hernia,Hernia,dictionary,17
+Menge,Mange,dictionary,16
+R.A.B,R.A.B,unmatched,16
+Septicemia,Septicaemia,dictionary,16
+Iron Deficiency,Nutritional Deficiency,dictionary,16
+Blackquarter,Black Quarter,dictionary,16
+Helminth,Helminthiasis,dictionary,16
+Ringworms,Ringworm (Dermatophytosis),dictionary,16
+Rectal Prolapse,Prolapse,dictionary,16
+Pasteulosis,Pasteurellosis,dictionary,15
+streptothricosis,Dermatophilosis (Streptothricosis),dictionary,15
+Hypocalcaemia,Milk Fever (Hypocalcaemia),dictionary,15
+Collibacillosis,Colibacillosis,dictionary,15
+Lumpy Skin Disease,Lumpy Skin Disease (LSD),dictionary,15
+Pyometra,Metritis,dictionary,15
+Photosensitivity,Photosensitisation,dictionary,15
+Ascites,Ascites,unmatched,15
+Boil,Boil,unmatched,15
+Fowl paralysis,Marek's Disease (Fowl Paralysis),dictionary,15
+Parasitic,Parasitic Infestation (unspecified),dictionary,14
+Bee Stings,Bee Sting,dictionary,14
+Bovine Ephemeral fever,Bovine Ephemeral Fever,dictionary,14
+Keratoconjunctivitis,Pink Eye (Infectious Keratoconjunctivitis),dictionary,14
+CRD,Chronic Respiratory Disease (CRD),dictionary,14
+Salmonella,Salmonellosis,dictionary,14
+Absess,Abscess,dictionary,14
+Gumboro,Infectious Bursal Disease (Gumboro),dictionary,13
+Piglet Anaemia,Anaemia,dictionary,13
+Orf Disease,Orf (Contagious Ecthyma),dictionary,13
+Hardware,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,13
+Hydatid Cysts,Hydatidosis (Echinococcosis),dictionary,13
+Hypersensitivity,Allergy,dictionary,13
+Tryps,Trypanosomiasis,dictionary,13
+Helmithiasis,Helminthiasis,dictionary,13
+Coryza,Infectious Coryza,dictionary,13
+Nsd,Nairobi Sheep Disease (NSD),dictionary,13
+Helminths,Helminthiasis,dictionary,13
+Cysticercosis,Cysticercosis,dictionary,13
+Sprain,Trauma / Injury,dictionary,12
+Flea Allergy Dermatitis,Flea Infestation; Dermatitis / Skin Infection; Allergy,dictionary,12
+Listeriosis,Listeriosis,dictionary,12
+Gastroenteritis,Enteritis,dictionary,12
+Retain After Birth,Retained Placenta,dictionary,12
+Cenorus,Coenurosis,dictionary,12
+Tickfever,Tick-borne Disease,dictionary,12
+Wry Neck,Wry Neck,dictionary,12
+Non Specific,Unknown,placeholder,12
+Lactic acidosis,Ruminal Acidosis,dictionary,12
+Repeat Breeder Syndrome,Infertility / Reproductive Disorder,dictionary,11
+Atrophic rhinitis,Atrophic Rhinitis,dictionary,11
+Pregnancy Diagnosis,Routine Procedure (non-disease),dictionary,11
+Plant Poisoning,Poisoning,dictionary,11
+Q-fever,Q Fever,dictionary,11
+Tuberculosis,Tuberculosis,dictionary,11
+Chronic Respiratory Disease,Chronic Respiratory Disease (CRD),dictionary,11
+Choke,Choke,dictionary,11
+Helminthosis,Helminthiasis,dictionary,11
+Orfs,Orf (Contagious Ecthyma),dictionary,11
+Bloating,Bloat,dictionary,11
+Hardware Disease,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,11
+Avian Coryza,Infectious Coryza,dictionary,11
+Predation,Predation / Wildlife Attack,dictionary,11
+Diarhoea,Diarrhoea / Scours,dictionary,11
+Dermatophylosis,Dermatophilosis (Streptothricosis),dictionary,11
+Dog Bites,Animal Bites,dictionary,11
+Red Water,Babesiosis (Redwater),dictionary,10
+Haemorrhagic Septicemia,Haemorrhagic Septicaemia,dictionary,10
+Ephimeral Fever,Bovine Ephemeral Fever,dictionary,10
+Mange Mites,Mange,dictionary,10
+Malaria,Malaria,unmatched,10
+Fowl typhoid,Fowl Typhoid,dictionary,10
+Canine Distemper,Canine Distemper,dictionary,10
+1,Unknown,placeholder,10
+Scouring,Diarrhoea / Scours,dictionary,10
+Wart Infection,Papillomatosis (Warts),dictionary,10
+Postpartum Infection,Metritis,dictionary,10
+Nil,Unknown,placeholder,10
+Hydatid Disease,Hydatidosis (Echinococcosis),dictionary,10
+Worms Infestation,Helminthiasis,dictionary,10
+Iron Injection,Routine Procedure (non-disease),dictionary,10
+Enterotoxemia,Enterotoxaemia,dictionary,10
+Peritonitis,Peritonitis,unmatched,10
+Calcium Deficiency,Milk Fever (Hypocalcaemia),dictionary,9
+Sheep And Goat Pox,Sheep and Goat Pox,dictionary,9
+Redwater,Babesiosis (Redwater),dictionary,9
+Rab,Rab,unmatched,9
+Nonspecific,Unknown,placeholder,9
+Camel Mange,Mange,dictionary,9
+Fotrot,Foot Rot,dictionary,9
+Hydatid Cyst,Hydatidosis (Echinococcosis),dictionary,9
+Downer Cow,Downer Cow Syndrome,dictionary,9
+Sarcoid,Tumour,dictionary,9
+Strangle,Strangles,dictionary,9
+Botulism,Botulism,dictionary,9
+R A B,R A B,unmatched,9
+Endometriosis,Metritis,dictionary,9
+Aflatoxicosis,Poisoning,dictionary,9
+Babesios,Babesiosis (Redwater),dictionary,9
+Infectious coryza,Infectious Coryza,dictionary,9
+Wooden Tongue,Actinobacillosis (Wooden Tongue),dictionary,9
+Intestines Blockage,Impaction / Constipation,dictionary,8
+Ruminal Acidosis,Ruminal Acidosis,dictionary,8
+Anaemic,Anaemia,dictionary,8
+Third Eye Lid Carcinoma,Tumour,dictionary,8
+Parvo Virus,Parvovirus,dictionary,8
+Fructure,Trauma / Injury,dictionary,8
+Pasteurellosis,Pasteurellosis,dictionary,8
+Cellulitis,Cellulitis,unmatched,8
+Keratoconjuctivitis,Pink Eye (Infectious Keratoconjunctivitis),dictionary,8
+Liver Flukes,Fasciolosis (Liver Fluke),dictionary,8
+Bovine Papillomatosis,Papillomatosis (Warts),dictionary,8
+helminthiasis,Helminthiasis,dictionary,8
+Respiratory Infection,Respiratory Infection (unspecified),dictionary,8
+Suspected Poisoning,Poisoning,dictionary,8
+Non Specific Diarrhoea,Diarrhoea / Scours,dictionary,8
+Dietary Diarrhoea,Diarrhoea / Scours,dictionary,8
+Bluetongue,Bluetongue,dictionary,8
+Transmissible Venereal Tumor,Transmissible Venereal Tumour,dictionary,8
+Maggots Infestation,Myiasis,dictionary,8
+Open Castration,Routine Procedure (non-disease),dictionary,8
+Fleas Infestation,Flea Infestation,dictionary,8
+Alopecia,Dermatitis / Skin Infection,dictionary,8
+Suspected Brucellosis,Brucellosis,dictionary,8
+Sinusitis,Respiratory Infection (unspecified),dictionary,8
+Fungal,Fungal Infection,dictionary,8
+Caseous Lymphadenitis,Caseous Lymphadenitis,dictionary,8
+Newcastle Disease,Newcastle Disease (ND),dictionary,8
+TRP,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,8
+GIT Infection,Enteritis,dictionary,8
+Ephemeral fever,Bovine Ephemeral Fever,dictionary,8
+Potato Choke,Choke,dictionary,7
+East  Coast  Fever,East Coast Fever (ECF),dictionary,7
+mange,Mange,dictionary,7
+Sheep,Unknown,placeholder,7
+Allergy,Allergy,dictionary,7
+grain overload,Ruminal Acidosis,dictionary,7
+Contagious Ecthyma (ORF),Orf (Contagious Ecthyma),dictionary,7
+Endometritis,Metritis,dictionary,7
+Deficiency,Nutritional Deficiency,dictionary,7
+Dystochia,Dystocia,dictionary,7
+Bovine Papilloma Virus,Papillomatosis (Warts),dictionary,7
+Pink Eye Infection,Pink Eye (Infectious Keratoconjunctivitis),dictionary,7
+Accident,Trauma / Injury,dictionary,7
+Seizures,Seizures,unmatched,7
+Not Confirmed,Unknown,placeholder,7
+babesiosis,Babesiosis (Redwater),dictionary,7
+Skin Wound,Trauma / Injury,dictionary,7
+Bovine Babesiosis,Babesiosis (Redwater),dictionary,7
+Non Specific Disease,Unknown,placeholder,7
+Ringworm Infection,Ringworm (Dermatophytosis),dictionary,7
+Hypocaliceamia,Milk Fever (Hypocalcaemia),dictionary,7
+Retain Placenta,Retained Placenta,dictionary,7
+Flea Infestation,Flea Infestation,dictionary,7
+Burns,Trauma / Injury,dictionary,7
+Tricomoniasis,Trichomoniasis,dictionary,7
+Abomasal Impaction,Impaction / Constipation,dictionary,7
+Dystokia,Dystocia,dictionary,7
+pinc eye,Pink Eye (Infectious Keratoconjunctivitis),dictionary,7
+Food Poisoning,Poisoning,dictionary,7
+Suffocation,Suffocation,unmatched,7
+Ventral Hernia,Hernia,dictionary,7
+Parasites,Parasitic Infestation (unspecified),dictionary,7
+Orf Fever,Orf (Contagious Ecthyma),dictionary,7
+Shipping Fever,Respiratory Infection (unspecified),dictionary,7
+Umbilical Hernia,Hernia,dictionary,7
+Mulnutrition,Nutritional Deficiency,dictionary,7
+Foot Abscess,Abscess,dictionary,7
+Aflatoxin,Poisoning,dictionary,7
+African Swine Fever,African Swine Fever (ASF),dictionary,7
+Cutaneous Fungal Infection,Fungal Infection,dictionary,7
+Starvation,Nutritional Deficiency,dictionary,7
+Salmonelosis,Salmonellosis,dictionary,7
+Poor Body Condition,Nutritional Deficiency,dictionary,7
+Rumen Acidosis,Ruminal Acidosis,dictionary,7
+Fowltyphoid,Fowl Typhoid,dictionary,7
+Cutaneous Myiasis,Myiasis,dictionary,7
+Metrisis,Metritis,dictionary,7
+Lice Infestation,Lice Infestation,dictionary,7
+footrot,Foot Rot,dictionary,6
+Acute Mastitis,Mastitis,dictionary,6
+Ruminal Impaction,Impaction / Constipation,dictionary,6
+Calf Diphtheria,Calf Diphtheria,unmatched,6
+Theileriosis,Theileriosis,dictionary,6
+Tick Infestation,Tick Infestation,dictionary,6
+Indigestible Plants,Indigestible Plants,unmatched,6
+Camel Flu,Camel Respiratory Disease,dictionary,6
+Dysentery,Diarrhoea / Scours,dictionary,6
+Bee Bites,Bee Sting,dictionary,6
+Non,Unknown,placeholder,6
+Poison,Poisoning,dictionary,6
+Follicular Cysts,Infertility / Reproductive Disorder,dictionary,6
+Fracture Of The Femur,Trauma / Injury,dictionary,6
+Laceration,Trauma / Injury,dictionary,6
+American foulbrood,Foulbrood,dictionary,6
+Bovine Respiratory Disease,Respiratory Infection (unspecified),dictionary,6
+Three Day Sickness,Bovine Ephemeral Fever,dictionary,6
+Nutritional Diarrhea,Diarrhoea / Scours,dictionary,6
+Plant Poison,Poisoning,dictionary,6
+Anaplamosis,Anaplasmosis,dictionary,6
+Eye Infections,Eye Infection,dictionary,6
+Avian Coryza Disease,Infectious Coryza,dictionary,6
+BEF,Bovine Ephemeral Fever,dictionary,6
+Foreign Body Syndrome,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,6
+Blue Tongue Disease,Bluetongue,dictionary,6
+NewCastle Disease (ND),Newcastle Disease (ND),dictionary,6
+Physical Injury,Trauma / Injury,dictionary,6
+Photosensitisation,Photosensitisation,dictionary,6
+Inflammation,Inflammation,unmatched,6
+Colibacillosis,Colibacillosis,dictionary,6
+Frothy bloat,Bloat,dictionary,6
+enteritis,Enteritis,dictionary,6
+ephemeral fever,Bovine Ephemeral Fever,dictionary,6
+Paraphimosis,Paraphimosis,unmatched,6
+Hemorrhagic Septicemia,Haemorrhagic Septicaemia,dictionary,6
+Ephemeral  Fever,Bovine Ephemeral Fever,dictionary,6
+Calf Dysentery,Diarrhoea / Scours,dictionary,6
+Helmethiasis,Helminthiasis,dictionary,6
+Milk Climb,Milk Climb,unmatched,6
+Pink Eye Disease,Pink Eye (Infectious Keratoconjunctivitis),dictionary,6
+Physical Trauma,Trauma / Injury,dictionary,6
+Unspecified,Unknown,placeholder,6
+Carcinoma Of The 3th Eyelid,Tumour,dictionary,6
+Equine trypanosomiasis,Trypanosomiasis,dictionary,6
+Fasciolasis,Fasciolosis (Liver Fluke),dictionary,6
+Rhinitis,Respiratory Infection (unspecified),dictionary,6
+Prophylaxis Therapy Against Worm Infestation And Tryps,Trypanosomiasis; Helminthiasis; Routine Procedure (non-disease),dictionary,5
+Oestrus ovina,Oestrosis (Nasal Bot),dictionary,5
+Anaestrus/follicular Cysts,Infertility / Reproductive Disorder,dictionary,5
+Salmanallosis,Salmonellosis,dictionary,5
+Verminous Pneumonia,Pneumonia,dictionary,5
+Warts Infestation,Papillomatosis (Warts),dictionary,5
+Cervical Cancer,Tumour,dictionary,5
+Prophylaxis Therapy Against Worm Infestation And Castration,Helminthiasis; Routine Procedure (non-disease),dictionary,5
+Fracture Of Tibia,Trauma / Injury,dictionary,5
+Broken Horn,Trauma / Injury,dictionary,5
+Streptococcis,Streptococcis,unmatched,5
+Emphemeral Fever,Bovine Ephemeral Fever,dictionary,5
+Docking,Routine Procedure (non-disease),dictionary,5
+Nephritis,Nephritis,unmatched,5
+Miscarriage,Abortion,dictionary,5
+Bee sting,Bee Sting,dictionary,5
+Pox,Pox (unspecified),dictionary,5
+Trypsonomiasis,Trypanosomiasis,dictionary,5
+Anaestrus,Infertility / Reproductive Disorder,dictionary,5
+High Altitude Disease,High Altitude Disease,unmatched,5
+Caseous Lymphangitis,Caseous Lymphadenitis,dictionary,5
+Teat Injury,Trauma / Injury,dictionary,5
+Ring Worms,Ringworm (Dermatophytosis),dictionary,5
+Tetenus,Tetanus,dictionary,5
+Haebronomiasis,Habronemiasis,dictionary,5
+Highly Pathogenic Avian Influenza,Avian Influenza,dictionary,5
+Still Birth,Stillbirth,dictionary,5
+Acds,Acute Camel Death Syndrome (ACDS),dictionary,5
+Streptothriscosis,Dermatophilosis (Streptothricosis),dictionary,5
+3 Day Sickness,Bovine Ephemeral Fever,dictionary,5
+Keratitis,Eye Infection,dictionary,5
+Footrote,Foot Rot,dictionary,5
+Na,Unknown,placeholder,5
+00,Unknown,placeholder,5
+Dislocation,Trauma / Injury,dictionary,5
+Trp,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,5
+Recumbency,Recumbency,unmatched,5
+tetanus,Tetanus,dictionary,5
+Bovine Dermatophytosis,Ringworm (Dermatophytosis),dictionary,5
+Vitamin deficiency,Nutritional Deficiency,dictionary,5
+Epheneral Fever,Bovine Ephemeral Fever,dictionary,5
+Helmenthesis,Helminthiasis,dictionary,5
+Cow Pox Virus,Cowpox / Pseudocowpox,dictionary,5
+myiasis,Myiasis,dictionary,5
+salmonellosis,Salmonellosis,dictionary,5
+Multiple Abscesses,Abscess,dictionary,5
+bloat,Bloat,dictionary,5
+Deep Cut,Trauma / Injury,dictionary,5
+Retained After birth,Retained Placenta,dictionary,5
+Minerals Deficiency,Nutritional Deficiency,dictionary,5
+Oestrus Ovis,Oestrosis (Nasal Bot),dictionary,5
+Silent Heat,Infertility / Reproductive Disorder,dictionary,5
+Foul In The Foot,Foot Rot,dictionary,5
+Skin Disease,Dermatitis / Skin Infection,dictionary,5
+Subclinical Mastitis,Mastitis,dictionary,5
+Strepthrothricosis,Dermatophilosis (Streptothricosis),dictionary,5
+Hyadatidosis,Hydatidosis (Echinococcosis),dictionary,5
+Pox Mamillitis,Cowpox / Pseudocowpox,dictionary,5
+Toxoplasmosis,Toxoplasmosis,dictionary,5
+Allergies,Allergy,dictionary,5
+Injuries,Trauma / Injury,dictionary,5
+Distomatosis,Fasciolosis (Liver Fluke),dictionary,5
+Heart water,Heartwater,dictionary,5
+Food Poison,Poisoning,dictionary,5
+Ccpp,Contagious Caprine Pleuropneumonia (CCPP),dictionary,5
+Cenorus cebralis,Coenurosis,dictionary,5
+Anaplasmosi,Anaplasmosis,dictionary,5
+Tick Disease,Tick-borne Disease,dictionary,5
+Transmissible Veneral Tumour In Dogs,Transmissible Venereal Tumour,dictionary,5
+Papilomatosis,Papillomatosis (Warts),dictionary,5
+Dermatophytosis (Ringworm),Ringworm (Dermatophytosis),dictionary,5
+Injured Hind Limb,Trauma / Injury,dictionary,5
+blue tongue,Bluetongue,dictionary,5
+Infertility,Infertility / Reproductive Disorder,dictionary,5
+0hysical Injury,Trauma / Injury,dictionary,5
+Hyena bite,Predation / Wildlife Attack,dictionary,5
+Fasciola Hepatica,Fasciolosis (Liver Fluke),dictionary,5
+Ring Worm,Ringworm (Dermatophytosis),dictionary,5
+Pimply Guts,Pimply Guts,unmatched,5
+Q Fever,Q Fever,dictionary,5
+Three Days Sickness,Bovine Ephemeral Fever,dictionary,5
+Puncture Wound,Trauma / Injury,dictionary,5
+Stelesia,Helminthiasis,dictionary,5
+Kidney Stones,Urinary Tract Infection,dictionary,5
+Cutaneous Myasis,Myiasis,dictionary,5
+Hypomagnesemia,Hypomagnesaemia (Grass Tetany),dictionary,5
+Tripanosomiasis,Trypanosomiasis,dictionary,5
+calf scour,Diarrhoea / Scours,dictionary,5
+Orfe,Orf (Contagious Ecthyma),dictionary,5
+Infectious Keratoconjunctivitis,Pink Eye (Infectious Keratoconjunctivitis),dictionary,5
+Non Specific Diagnosis,Unknown,placeholder,5
+Anaphylaxis,Allergy,dictionary,5
+Elminthiasis,Helminthiasis,dictionary,5
+Fever,Fever,unmatched,5
+Eye injury,Trauma / Injury,dictionary,5
+Fowlpox,Fowl Pox,dictionary,5
+Salminelosis/colibacillosis,Colibacillosis; Salmonellosis,dictionary,4
+Indigestion,Indigestion,unmatched,4
+Fracture Of Metacarpals,Trauma / Injury,dictionary,4
+Bovine Enteritis,Enteritis,dictionary,4
+None,Unknown,placeholder,4
+Faciolisis,Fasciolosis (Liver Fluke),dictionary,4
+Black quarter,Black Quarter,dictionary,4
+Respiratory  Complications,Respiratory Infection (unspecified),dictionary,4
+Traumatic Injuries,Trauma / Injury,dictionary,4
+Liver Abcess,Abscess,dictionary,4
+Right Frontleg Fracture,Trauma / Injury,dictionary,4
+Limping,Lameness,dictionary,4
+Peste des petits ruminants (PPR),Peste des Petits Ruminants (PPR),dictionary,4
+Animal Bite,Animal Bites,dictionary,4
+Occulitis,Eye Infection,dictionary,4
+Leg Wounds,Trauma / Injury,dictionary,4
+New Castle,Newcastle Disease (ND),dictionary,4
+Teat Stenosis,Teat Stenosis,unmatched,4
+Eczema,Dermatitis / Skin Infection,dictionary,4
+Salt Poisoning,Poisoning,dictionary,4
+Clinical mastitis,Mastitis,dictionary,4
+Blister,Blister,unmatched,4
+Pastular Dermatitis (ORF,Orf (Contagious Ecthyma),dictionary,4
+Traumatic effect leading to necrosis,Trauma / Injury,dictionary,4
+Acidosis,Ruminal Acidosis,dictionary,4
+Ectoparasites,Ectoparasite Infestation,dictionary,4
+Cenorus Cebralis,Coenurosis,dictionary,4
+Acaricide Poisoning,Poisoning,dictionary,4
+Hypocalceamia,Milk Fever (Hypocalcaemia),dictionary,4
+Hemorrhagic Septicaemia,Haemorrhagic Septicaemia,dictionary,4
+Dietary Diarrhea,Diarrhoea / Scours,dictionary,4
+E C F,East Coast Fever (ECF),dictionary,4
+hydatidosis,Hydatidosis (Echinococcosis),dictionary,4
+External Parasite,Ectoparasite Infestation,dictionary,4
+Foot Rot & Orf,Orf (Contagious Ecthyma); Foot Rot,dictionary,4
+Acute Camel Disease Syndrome,Acute Camel Death Syndrome (ACDS),dictionary,4
+Hypomagnesemea,Hypomagnesaemia (Grass Tetany),dictionary,4
+Ocaties,Ocaties,unmatched,4
+Infected Wound,Trauma / Injury,dictionary,4
+BREECH,Dystocia,dictionary,4
+Dermatophillosis,Dermatophilosis (Streptothricosis),dictionary,4
+Congestion,Congestion,unmatched,4
+Systemic Infection,Systemic Infection,unmatched,4
+Hynes Predation [Bites at Tail],Predation / Wildlife Attack,dictionary,4
+Erhlichiosis,Ehrlichiosis,dictionary,4
+Postpartum Uterine Infection,Metritis,dictionary,4
+Strepthricosis,Dermatophilosis (Streptothricosis),dictionary,4
+Stomach Enteritis,Enteritis,dictionary,4
+"Ecf,tryps",East Coast Fever (ECF); Trypanosomiasis,dictionary,4
+Recumbent,Recumbent,unmatched,4
+Parvo virus,Parvovirus,dictionary,4
+Echinoccocus,Hydatidosis (Echinococcosis),dictionary,4
+Fasiolasis,Fasciolosis (Liver Fluke),dictionary,4
+Eye Problem,Eye Infection,dictionary,4
+For Rot,Foot Rot,dictionary,4
+Dirhoea,Diarrhoea / Scours,dictionary,4
+Blacken fern poisoning,Poisoning,dictionary,4
+Leg Fracture,Trauma / Injury,dictionary,4
+Hydatidiosis,Hydatidosis (Echinococcosis),dictionary,4
+Cysts,Cysts,unmatched,4
+Premature Birth,Abortion,dictionary,4
+Urinogenital Infection,Urinary Tract Infection,dictionary,4
+Vaginal Prolaps,Prolapse,dictionary,4
+Thorn Prick,Trauma / Injury,dictionary,4
+Enteritis And Respiratory Infection(U.R.I And Mild Pneumonia),Enteritis; Pneumonia; Respiratory Infection (unspecified),dictionary,4
+Vibriosis,Vibriosis,unmatched,4
+European foulbrood,Foulbrood,dictionary,4
+Sterisia hepatica,Helminthiasis,dictionary,4
+B/Q and Anthrax,Anthrax,dictionary,4
+Suspected RVF,Rift Valley Fever (RVF),dictionary,4
+Breach,Dystocia,dictionary,4
+Overgrown Cornual Buds,Overgrown Cornual Buds,unmatched,4
+Sheep And Goats Pox,Sheep and Goat Pox,dictionary,4
+wound,Trauma / Injury,dictionary,4
+Not Know,Unknown,placeholder,4
+Fowl Typhoid.,Fowl Typhoid,dictionary,4
+Traumatic Reticuloperitonitis,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,4
+Retained  after birth,Retained Placenta,dictionary,4
+Tumor,Tumour,dictionary,4
+Absces,Abscess,dictionary,4
+Papilloma,Papillomatosis (Warts),dictionary,4
+Helminthes,Helminthiasis,dictionary,4
+Helmethiosis,Helminthiasis,dictionary,4
+Wound Treatment,Trauma / Injury,dictionary,4
+Calf Scour,Diarrhoea / Scours,dictionary,4
+Hynes Predation,Predation / Wildlife Attack,dictionary,4
+Hormonal Imbalance,Infertility / Reproductive Disorder,dictionary,4
+Hemonchosis,Helminthiasis,dictionary,4
+DDX : Babesia/ Cancer,Babesiosis (Redwater); Tumour,dictionary,4
+abscess,Abscess,dictionary,4
+Mange infestation,Mange,dictionary,4
+Streptotricosis,Dermatophilosis (Streptothricosis),dictionary,4
+Difficult Calving,Dystocia,dictionary,4
+Downer Syndrome,Downer Cow Syndrome,dictionary,4
+Hypocalicemia,Milk Fever (Hypocalcaemia),dictionary,4
+Navel ill,Navel Ill,dictionary,4
+Electrocuted,Trauma / Injury,dictionary,4
+Nutritional Deficiency,Nutritional Deficiency,dictionary,4
+NSD,Nairobi Sheep Disease (NSD),dictionary,4
+camel cough,Camel Respiratory Disease,dictionary,4
+Fot Rot,Foot Rot,dictionary,4
+Teat warts,Papillomatosis (Warts),dictionary,4
+Foot And Mouth,Foot and Mouth Disease (FMD),dictionary,4
+Abortions,Abortion,dictionary,4
+Pediculosis,Lice Infestation,dictionary,4
+H.S,Haemorrhagic Septicaemia,dictionary,4
+Udder edema,Udder Edema,unmatched,4
+Blue tongue,Bluetongue,dictionary,4
+anaplasmosis,Anaplasmosis,dictionary,4
+Joint Dislocation,Trauma / Injury,dictionary,4
+Breechr,Dystocia,dictionary,4
+After Birth Bleeding,After Birth Bleeding,unmatched,4
+Postpertum Prophylaxis,Routine Procedure (non-disease),dictionary,4
+"Fowl Typhoid,",Fowl Typhoid,dictionary,4
+Wildlife Attacked and Injuries,Predation / Wildlife Attack; Trauma / Injury,dictionary,4
+RTB,Rtb,unmatched,4
+Faciolosis,Fasciolosis (Liver Fluke),dictionary,4
+"Black Leg, Leg Injury",Black Quarter; Trauma / Injury,dictionary,4
+Impending uterine prolapse,Prolapse,dictionary,4
+Beaten,Trauma / Injury,dictionary,4
+Babesiosis(Red Urine),Babesiosis (Redwater),dictionary,4
+Injury By An Arrow,Trauma / Injury,dictionary,4
+Navel Ill,Navel Ill,dictionary,4
+Dry Cow Therapy,Routine Procedure (non-disease),dictionary,4
+Anaestrus/ Luteal Cysts,Infertility / Reproductive Disorder,dictionary,4
+Cow Pox,Cowpox / Pseudocowpox,dictionary,4
+"Fowltyphoid,",Fowl Typhoid,dictionary,4
+Change Of Climate,Change Of Climate,unmatched,4
+Injured Horn,Trauma / Injury,dictionary,4
+Stiresia Hepatica,Stiresia Hepatica,unmatched,4
+"Enteritis, Suspected Ingestion Of Toxic Plants/Spoilt Hay.",Enteritis; Poisoning,dictionary,4
+pink eye,Pink Eye (Infectious Keratoconjunctivitis),dictionary,4
+Mycotic Pneumonia,Pneumonia; Fungal Infection,dictionary,3
+Bite,Animal Bites,dictionary,3
+Milkfever,Milk Fever (Hypocalcaemia),dictionary,3
+Skins Dse,Skins Dse,unmatched,3
+Gangrenous Mastitis,Mastitis,dictionary,3
+Wound Dressing,Trauma / Injury,dictionary,3
+Blackquater,Black Quarter,dictionary,3
+Conjictivitis,Eye Infection,dictionary,3
+Wound From a Cut,Trauma / Injury,dictionary,3
+Uterine Infection,Metritis,dictionary,3
+Overgrown Hooves,Overgrown Hooves,unmatched,3
+Bacterial Scours,Diarrhoea / Scours,dictionary,3
+Superficial Skin Scratch,Superficial Skin Scratch,unmatched,3
+Retained placenta,Retained Placenta,dictionary,3
+Traumatic Reticulopericarditis,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,3
+Cutaneous Streprothricosis,Dermatophilosis (Streptothricosis),dictionary,3
+Acute Bloat,Bloat,dictionary,3
+Ectoparasite,Ectoparasite Infestation,dictionary,3
+Diarrohea,Diarrhoea / Scours,dictionary,3
+Miaces Infestation,Myiasis,dictionary,3
+Scabies,Mange,dictionary,3
+Papiloma/Warts,Papillomatosis (Warts),dictionary,3
+Transmissible General Tumour,Tumour,dictionary,3
+Abdominal Distension,Abdominal Distension,unmatched,3
+Fasciolaisis,Fasciolosis (Liver Fluke),dictionary,3
+Animals  Bites,Animal Bites,dictionary,3
+Herd Health Management,Routine Procedure (non-disease),dictionary,3
+mineral deficiency,Nutritional Deficiency,dictionary,3
+Caceous Lymphadenitis,Caseous Lymphadenitis,dictionary,3
+Uterine Prolaps,Prolapse,dictionary,3
+Stilezia,Helminthiasis,dictionary,3
+Ephermeral,Bovine Ephemeral Fever,dictionary,3
+Hepatitis,Hepatitis,unmatched,3
+Wound Infection,Trauma / Injury,dictionary,3
+Iron Supplementation In Piglets,Routine Procedure (non-disease),dictionary,3
+"Pseudo Cow Pox, Salmonellosis0",Cowpox / Pseudocowpox; Salmonellosis,dictionary,3
+Jaundice,Jaundice,unmatched,3
+Rabbies,Rabies,dictionary,3
+Hot Weather Stress,Heat Stress,dictionary,3
+Parvo,Parvovirus,dictionary,3
+Urinary Tract Infection,Urinary Tract Infection,dictionary,3
+Red Water/babesiosis,Babesiosis (Redwater),dictionary,3
+Kid Scores,Diarrhoea / Scours,dictionary,3
+Absecess,Abscess,dictionary,3
+Intussusception,Impaction / Constipation,dictionary,3
+Aflatoxin Poisoning,Poisoning,dictionary,3
+"Suspected Campylobacter Or Leptospirosis, Afflatoxins",Leptospirosis; Poisoning,dictionary,3
+Streptotrichosis,Dermatophilosis (Streptothricosis),dictionary,3
+Infectious Bovine Keratoconjuctivitis,Pink Eye (Infectious Keratoconjunctivitis),dictionary,3
+Black Head,Black Head,unmatched,3
+Staphylococcal Mastitis,Mastitis,dictionary,3
+botfly infestion,Myiasis,dictionary,3
+Hormonal,Infertility / Reproductive Disorder,dictionary,3
+Drought Related Condition,Nutritional Deficiency,dictionary,3
+Mammary Tumour,Tumour,dictionary,3
+Oedema,Oedema,unmatched,3
+Suspected Copper Deficiency,Nutritional Deficiency,dictionary,3
+Nitrate Poisoning,Poisoning,dictionary,3
+Pd,Routine Procedure (non-disease),dictionary,3
+Bovine papiloma,Papillomatosis (Warts),dictionary,3
+Poiso,Poisoning,dictionary,3
+Brisket Disease,Brisket Disease,unmatched,3
+trauma,Trauma / Injury,dictionary,3
+Injured on the road,Trauma / Injury,dictionary,3
+Watts,Papillomatosis (Warts),dictionary,3
+Strangles,Strangles,dictionary,3
+Trypanosomiaosis,Trypanosomiasis,dictionary,3
+Ceratoconjuctivitis,Pink Eye (Infectious Keratoconjunctivitis),dictionary,3
+Grass Tetany,Hypomagnesaemia (Grass Tetany),dictionary,3
+Sub Acute Mastitis,Mastitis,dictionary,3
+Bovine Ephimeral Fever,Bovine Ephemeral Fever,dictionary,3
+Wounds and Bruises,Trauma / Injury,dictionary,3
+Dietary diarrhea,Diarrhoea / Scours,dictionary,3
+Foreign objects,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,3
+Varginitis,Varginitis,unmatched,3
+Myocarditis,Myocarditis,unmatched,3
+Traumatic injury-cut.,Trauma / Injury,dictionary,3
+Traumatic effect,Trauma / Injury,dictionary,3
+Bee stings,Bee Sting,dictionary,3
+Absence,Absence,unmatched,3
+Emaciation,Nutritional Deficiency,dictionary,3
+Camel coughs,Camel Respiratory Disease,dictionary,3
+Uterine Prolaps Injury,Prolapse; Trauma / Injury,dictionary,3
+Rvf?,Rift Valley Fever (RVF),dictionary,3
+miscarriage,Abortion,dictionary,3
+Cutaneous Streptithricosis,Dermatophilosis (Streptothricosis),dictionary,3
+Fetal Mamimification,Fetal Mamimification,unmatched,3
+contagious bovine opthalamia,Pink Eye (Infectious Keratoconjunctivitis),dictionary,3
+Athritis,Arthritis,dictionary,3
+Abdominal harnia,Hernia,dictionary,3
+Parasites infestation,Parasitic Infestation (unspecified),dictionary,3
+Mammilitis,Mastitis,dictionary,3
+Wound Injury,Trauma / Injury,dictionary,3
+Compound Fracture,Trauma / Injury,dictionary,3
+Bacterial Infections,Bacterial Infections,unmatched,3
+Sprain On Right hind Limb,Trauma / Injury,dictionary,3
+Mycotic endometritis,Metritis; Fungal Infection,dictionary,3
+Hynes Bites,Predation / Wildlife Attack,dictionary,3
+Liverfluke Infestation,Fasciolosis (Liver Fluke),dictionary,3
+Limb Fracture,Trauma / Injury,dictionary,3
+Dermatophyllosis,Dermatophilosis (Streptothricosis),dictionary,3
+Atresia Ani,Atresia Ani,unmatched,3
+Anestrus,Infertility / Reproductive Disorder,dictionary,3
+Traumatic Wound,Trauma / Injury,dictionary,3
+Fracture Of Humeral Bone,Trauma / Injury,dictionary,3
+Ear Cancar,Tumour,dictionary,3
+Necrotic Wound,Trauma / Injury,dictionary,3
+Wounds Stabs,Trauma / Injury,dictionary,3
+Distocia,Dystocia,dictionary,3
+Open Wound,Trauma / Injury,dictionary,3
+Physiological Oedema,Physiological Oedema,unmatched,3
+Sepsis,Septicaemia,dictionary,3
+Epivag,Epivag,unmatched,3
+Enterites,Enteritis,dictionary,3
+Dermathophytosis,Dermathophytosis,unmatched,3
+Mycosis,Mycosis,unmatched,3
+Helminthisiasis,Helminthiasis,dictionary,3
+Foot  Rot,Foot Rot,dictionary,3
+Metabolic Disorders,Metabolic Disorders,unmatched,3
+Kids Score,Diarrhoea / Scours,dictionary,3
+V.Prolapse,Prolapse,dictionary,3
+Faecal Impaction,Impaction / Constipation,dictionary,3
+Fractured Carpals,Trauma / Injury,dictionary,3
+Eye Injury,Trauma / Injury,dictionary,3
+TBD +Helminthiasis,Tick-borne Disease; Helminthiasis,dictionary,3
+Lung Hidatidosis,Hydatidosis (Echinococcosis),dictionary,3
+Entritis,Enteritis,dictionary,3
+nerve damage,Nerve Damage,unmatched,3
+Ectoparasites Infestation,Ectoparasite Infestation,dictionary,3
+Naval Ill,Navel Ill,dictionary,3
+Horn Injury,Trauma / Injury,dictionary,3
+Normal bite from another Dog,Animal Bites,dictionary,3
+Bees Sting,Bee Sting,dictionary,3
+Lymphadenitis,Lymphadenitis,unmatched,3
+Mamelitis,Mastitis,dictionary,3
+Nutritional deficiency,Nutritional Deficiency,dictionary,3
+Bees Bite,Bee Sting,dictionary,3
+Haemorrhagic Cepticemia,Haemorrhagic Septicaemia,dictionary,3
+Bacterial Mastitis,Mastitis,dictionary,3
+MASTITIS,Mastitis,dictionary,3
+Decubitus Ulcer,Decubitus Ulcer,unmatched,3
+Teat Turmor,Teat Turmor,unmatched,3
+Unthriftiness,Unthriftiness,unmatched,3
+Foot Abscesses,Abscess,dictionary,3
+"Mastitis, Septic Wounds",Mastitis; Trauma / Injury,dictionary,3
+Coeneurosis,Coenurosis,dictionary,3
+Warble,Warble,unmatched,3
+Dytocia,Dystocia,dictionary,3
+Telengiastis,Telengiastis,unmatched,3
+Contagious Agalactia,Contagious Agalactia,dictionary,3
+Pinkeye,Pink Eye (Infectious Keratoconjunctivitis),dictionary,3
+Swine Pox,Swine Pox,dictionary,3
+Fowl Paralysis,Marek's Disease (Fowl Paralysis),dictionary,3
+"Emaciation,recumbency( Nutritional Deficiency)",Nutritional Deficiency,dictionary,3
+Gangrene Mastitis,Mastitis,dictionary,3
+Wildlife Conflict,Wildlife Conflict,unmatched,3
+Bot fly Infestation,Myiasis,dictionary,3
+Calf scours,Diarrhoea / Scours,dictionary,3
+Aggressiveness due to loneliness,Aggressiveness Due To Loneliness,unmatched,3
+Abcese,Abscess,dictionary,3
+Demedicosis,Demedicosis,unmatched,3
+Suspected TRP,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,3
+5,Unknown,placeholder,3
+Avian Coriza Disease,Infectious Coryza,dictionary,3
+Caseous Lymphad,Caseous Lymphadenitis,dictionary,3
+Bee Bite,Bee Sting,dictionary,3
+Allergic Cough,Allergy,dictionary,3
+Horn Piercing,Horn Piercing,unmatched,3
+Growth On The Vulva,Growth On The Vulva,unmatched,3
+Ulcerative Dermatitis,Dermatitis / Skin Infection,dictionary,3
+Respiratory Complications,Respiratory Infection (unspecified),dictionary,3
+Cancer,Tumour,dictionary,3
+Beating,Trauma / Injury,dictionary,3
+Camel Mastitis,Mastitis,dictionary,3
+Ketosis/Enterotoxaemia,Ketosis; Enterotoxaemia,dictionary,3
+Bite Injury,Animal Bites,dictionary,3
+Downer cow syndrome,Downer Cow Syndrome,dictionary,3
+Matitis,Mastitis,dictionary,3
+Plants Poisonous,Poisoning,dictionary,3
+Septic Wounds,Trauma / Injury,dictionary,3
+Glanuloma,Glanuloma,unmatched,3
+Fowltyphiod,Fowl Typhoid,dictionary,3
+haemorrhagic septicemia,Haemorrhagic Septicaemia,dictionary,3
+Mastitis and arthritis,Mastitis; Arthritis,dictionary,3
+Pica,Pica,unmatched,3
+leopard attack,Predation / Wildlife Attack,dictionary,3
+Abscesses External,Abscess,dictionary,3
+Stress Abortion,Abortion; Heat Stress,dictionary,3
+Pruritus,Pruritus,unmatched,3
+"Hydadithosis,ln Lungs Of An Ovine",Hydatidosis (Echinococcosis),dictionary,3
+4,Unknown,placeholder,3
+External Parasites,Ectoparasite Infestation,dictionary,3
+Ecfecf,East Coast Fever (ECF),dictionary,3
+Healmithiosis,Helminthiasis,dictionary,3
+Rolling Tongue,Rolling Tongue,unmatched,3
+Git Infection,Enteritis,dictionary,3
+Stick Tight Fleas,Flea Infestation,dictionary,3
+parturition eodema,Parturition Eodema,unmatched,3
+Vaginitis,Vaginitis,unmatched,3
+Uterus Prolapse,Prolapse,dictionary,3
+Limbnaintis,Limbnaintis,unmatched,3
+Trypanosomosis,Trypanosomiasis,dictionary,3
+Abscy,Abscess,dictionary,3
+Skin Papillomas,Papillomatosis (Warts),dictionary,3
+Protecting Puppies,Protecting Puppies,unmatched,3
+Canine Parvo Virus Disease,Parvovirus,dictionary,3
+Lyme Disease,Lyme Disease,unmatched,3
+Leopard Bite,Predation / Wildlife Attack,dictionary,3
+Hypocaceamia,Milk Fever (Hypocalcaemia),dictionary,3
+Goat Dystentry,Goat Dystentry,unmatched,3
+Feline Dermatitis,Dermatitis / Skin Infection,dictionary,3
+Infectous Corryza,Infectious Coryza,dictionary,3
+Dematophylosis,Dematophylosis,unmatched,3
+heartwater,Heartwater,dictionary,3
+Malignant Catarrh fever,Malignant Catarrhal Fever,dictionary,3
+Parasites(Sucking Lice),Lice Infestation; Parasitic Infestation (unspecified),dictionary,3
+BQ,Black Quarter,dictionary,3
+Anaplas,Anaplasmosis,dictionary,3
+Hypocalcemia/Vitamin E and Selenium Deficiency,Milk Fever (Hypocalcaemia); Nutritional Deficiency,dictionary,3
+Hoof Injury,Trauma / Injury,dictionary,3
+Lumpy Jaw,Actinomycosis (Lumpy Jaw),dictionary,3
+Infectious Bovine Kerato-conjuctivitis,Pink Eye (Infectious Keratoconjunctivitis),dictionary,3
+Porcine Bacterial Diarrhea,Diarrhoea / Scours,dictionary,3
+Ascaris Suum,Helminthiasis,dictionary,3
+Anaplasma,Anaplasmosis,dictionary,3
+Retained Pacenta,Retained Placenta,dictionary,3
+fracture,Trauma / Injury,dictionary,3
+Foitrot,Foot Rot,dictionary,3
+Fascioliasis And Haemonchosis,Fasciolosis (Liver Fluke); Helminthiasis,dictionary,3
+Tripanosomiasis.,Trypanosomiasis,dictionary,3
+Herbicide Poisoning,Poisoning,dictionary,3
+Ncd,Newcastle Disease (ND),dictionary,3
+Iron Defficiency,Iron Defficiency,unmatched,3
+Camphylobacteriosis/ Traumatic,Trauma / Injury,dictionary,3
+Head Swelling,Head Swelling,unmatched,3
+Dermatocossis,Dermatocossis,unmatched,3
+Bow Legged,Bow Legged,unmatched,3
+Malignant Catarrh fever.,Malignant Catarrhal Fever,dictionary,3
+E.C.F,East Coast Fever (ECF),dictionary,3
+Nasal discharge,Nasal Discharge,unmatched,3
+Naval Infection,Navel Ill,dictionary,3
+Orf Disease Was Diagnosed,Orf (Contagious Ecthyma),dictionary,3
+TBD,Tick-borne Disease,dictionary,3
+Fractured Tibia,Trauma / Injury,dictionary,3
+Bacterial Type Suspect,Bacterial Type Suspect,unmatched,3
+Highly Pathogenic Avian Influenza (HPAI),Avian Influenza,dictionary,3
+Ear Canker,Ear Canker,unmatched,3
+Unspecified Diarrhoea,Diarrhoea / Scours,dictionary,3
+Malnutrition And Hypocalcemia,Milk Fever (Hypocalcaemia); Nutritional Deficiency,dictionary,3
+2,Unknown,placeholder,3
+collibacillosis,Colibacillosis,dictionary,3
+Keratoconjunctivities,Pink Eye (Infectious Keratoconjunctivitis),dictionary,3
+Retained after birth,Retained Placenta,dictionary,3
+Ecf.Ncd,East Coast Fever (ECF); Newcastle Disease (ND),dictionary,3
+Chronic Resp.disease,Chronic Respiratory Disease (CRD),dictionary,3
+Eye Inflamation,Eye Infection,dictionary,3
+Bee Stink,Bee Sting,dictionary,3
+Hydited Cyst,Hydatidosis (Echinococcosis),dictionary,3
+Retained aftre,Retained Aftre,unmatched,3
+Reproductive,Reproductive,unmatched,3
+B.E.Fever,Bovine Ephemeral Fever,dictionary,3
+Hyenas Predation,Predation / Wildlife Attack,dictionary,3
+Skin Punture Wounds,Trauma / Injury,dictionary,3
+Haematoma,Haematoma,unmatched,3
+Hydatid  Disease,Hydatidosis (Echinococcosis),dictionary,3
+Interstitial Torsion,Interstitial Torsion,unmatched,3
+Babesiosi,Babesiosis (Redwater),dictionary,3
+Defeathered,Defeathered,unmatched,3
+Traumatic,Trauma / Injury,dictionary,3
+Fabiola Hepatica,Fasciolosis (Liver Fluke),dictionary,3
+"Abortion, Diarrhoea",Abortion; Diarrhoea / Scours,dictionary,3
+Tibial Fracture,Trauma / Injury,dictionary,2
+Agalactia,Contagious Agalactia,dictionary,2
+Foot injured by thorn,Trauma / Injury,dictionary,2
+Monkey Bites,Animal Bites,dictionary,2
+Dysyocia,Dystocia,dictionary,2
+Avian Leucosis,Avian Leukosis,dictionary,2
+No Idea,Unknown,placeholder,2
+Goat Pneumonia,Pneumonia,dictionary,2
+Respiratory,Respiratory Infection (unspecified),dictionary,2
+Abses,Abscess,dictionary,2
+Traumatic Injury with maggots,Myiasis; Trauma / Injury,dictionary,2
+hydatid,Hydatidosis (Echinococcosis),dictionary,2
+Vaginal Infection,Vaginal Infection,unmatched,2
+Contagious ecthyma,Orf (Contagious Ecthyma),dictionary,2
+Stomach Abcess,Abscess,dictionary,2
+Bees Stings,Bee Sting,dictionary,2
+Lamb White Scours,Diarrhoea / Scours,dictionary,2
+Helminthaesis,Helminthiasis,dictionary,2
+Nutrition Imbalance,Nutritional Deficiency,dictionary,2
+Piglets Dysentery,Diarrhoea / Scours,dictionary,2
+Traumatic injury,Trauma / Injury,dictionary,2
+Insects Bite,Animal Bites,dictionary,2
+Acute Pulmonary Edema Or Poisoning,Poisoning,dictionary,2
+Injury On Ribs,Trauma / Injury,dictionary,2
+Bovine Papillomas,Papillomatosis (Warts),dictionary,2
+Dourine,Dourine,unmatched,2
+Respiratoy,Respiratory Infection (unspecified),dictionary,2
+Bees bites,Bee Sting,dictionary,2
+Test,Unknown,placeholder,2
+Liver Parasitic,Parasitic Infestation (unspecified),dictionary,2
+Rotavirus,Rotavirus,unmatched,2
+Metabolic Condition,Metabolic Condition,unmatched,2
+Drought Stress,Nutritional Deficiency; Heat Stress,dictionary,2
+Hematuria,Hematuria,unmatched,2
+Chemical  Poisoning,Poisoning,dictionary,2
+Mange and Trypanosomiasis,Trypanosomiasis; Mange,dictionary,2
+Liver Fluke,Fasciolosis (Liver Fluke),dictionary,2
+Maggots infestation,Myiasis,dictionary,2
+Three-day sickness (Bovine Ephemeral Fever),Bovine Ephemeral Fever,dictionary,2
+Breech Dystocia,Dystocia,dictionary,2
+Breathing Difficulties,Breathing Difficulties,unmatched,2
+Wooden Jaw,Wooden Jaw,unmatched,2
+Absses,Abscess,dictionary,2
+Multiple Abuses,Multiple Abuses,unmatched,2
+Wormload,Helminthiasis,dictionary,2
+mistitis,Mastitis,dictionary,2
+Growths On Oral membrane,Growths On Oral Membrane,unmatched,2
+Colonic Obstruction,Colonic Obstruction,unmatched,2
+Skin Fungal Infection,Fungal Infection,dictionary,2
+Hementhiasis,Helminthiasis,dictionary,2
+Atopic Dermatitis,Dermatitis / Skin Infection,dictionary,2
+Babesia,Babesiosis (Redwater),dictionary,2
+Systemic Mastitis,Mastitis,dictionary,2
+Chronic  abscess,Abscess,dictionary,2
+Cutaneous Streptothricosis,Dermatophilosis (Streptothricosis),dictionary,2
+Paralysis,Paralysis,unmatched,2
+Sub clinical Mastitis,Mastitis,dictionary,2
+Mammary Gland Tumour And Helminthiasis,Helminthiasis; Tumour,dictionary,2
+Bacterial/Dietary Diarrhoea,Diarrhoea / Scours,dictionary,2
+Malnourished,Nutritional Deficiency,dictionary,2
+Edema Disease,Edema Disease,unmatched,2
+Deslocation of Hind Leg,Deslocation Of Hind Leg,unmatched,2
+Caseous Lympanitis,Caseous Lymphadenitis,dictionary,2
+Albcess,Abscess,dictionary,2
+Contagious Ecythma,Contagious Ecythma,unmatched,2
+ABSECCESS,Abscess,dictionary,2
+Bovine Traumatic Reticulopericarditis,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,2
+Multiple Abscess On The Liver,Abscess,dictionary,2
+Overloading,Overloading,unmatched,2
+Malice,Malice,unmatched,2
+Grain overload (bloat),Bloat; Ruminal Acidosis,dictionary,2
+Habronemiasis,Habronemiasis,dictionary,2
+Fracture Of Metatarsal,Trauma / Injury,dictionary,2
+Brucellosis/Q Fever,Brucellosis; Q Fever,dictionary,2
+Cutaneous Warts,Papillomatosis (Warts),dictionary,2
+Orchitis,Orchitis,unmatched,2
+Mites Infestation,Mange,dictionary,2
+Sheep and Goatpox,Sheep and Goat Pox,dictionary,2
+Mangoe Worm,Myiasis,dictionary,2
+Mastity,Mastitis,dictionary,2
+Cysticercus Tenucolis,Cysticercosis,dictionary,2
+Abdominal Pains,Abdominal Pains,unmatched,2
+Shock,Shock,unmatched,2
+Foot Rot Disease,Foot Rot,dictionary,2
+Synchronization,Routine Procedure (non-disease),dictionary,2
+Ovarian Cyst,Ovarian Cyst,unmatched,2
+Peste des Petits Ruminants (PPR),Peste des Petits Ruminants (PPR),dictionary,2
+Identification,Identification,unmatched,2
+Mating,Mating,unmatched,2
+Bovine Keratoconjunctivitis,Pink Eye (Infectious Keratoconjunctivitis),dictionary,2
+Bot Flies,Bot Flies,unmatched,2
+metabolic disorder,Metabolic Disorder,unmatched,2
+Bleeding Cut Wound,Trauma / Injury,dictionary,2
+Postpartum Prophylaxis,Routine Procedure (non-disease),dictionary,2
+CONTAGIOUS ECTHYMA,Orf (Contagious Ecthyma),dictionary,2
+Capal Joint  Dislocation,Trauma / Injury,dictionary,2
+"Collibacillosis, Malnutrition (Selenium Deficiency",Colibacillosis; Nutritional Deficiency,dictionary,2
+"Stress, Long Distance Trek",Heat Stress,dictionary,2
+Pinkeye Eye,Pink Eye (Infectious Keratoconjunctivitis),dictionary,2
+Burrowing Mites And Manges,Mange,dictionary,2
+"Mange, Abscess",Mange; Abscess,dictionary,2
+Superficial Wound,Trauma / Injury,dictionary,2
+Foot-rot,Foot Rot,dictionary,2
+Traumatic wound,Trauma / Injury,dictionary,2
+Fracture Of Radius And Ulna,Trauma / Injury,dictionary,2
+Suspected Case Of Nitrate Poisoning,Poisoning,dictionary,2
+Naval Infection With Maggot Infestation,Myiasis; Navel Ill,dictionary,2
+Warbles,Warbles,unmatched,2
+Abscess in the ear,Abscess,dictionary,2
+FootRot Disease,Foot Rot,dictionary,2
+Woundse,Trauma / Injury,dictionary,2
+Wound Management,Trauma / Injury,dictionary,2
+Hydatidoses,Hydatidosis (Echinococcosis),dictionary,2
+Suspected Milk Fever,Milk Fever (Hypocalcaemia),dictionary,2
+Post Pertun Unoestrus,Post Pertun Unoestrus,unmatched,2
+General Castration,Routine Procedure (non-disease),dictionary,2
+Dog Scabies,Mange,dictionary,2
+Traumatic cut -,Trauma / Injury,dictionary,2
+Sheep Nasal Bot Myasis,Myiasis; Oestrosis (Nasal Bot),dictionary,2
+Intermittent Vaginal Prolapse,Prolapse,dictionary,2
+Babesiosis And Pink Eye,Babesiosis (Redwater); Pink Eye (Infectious Keratoconjunctivitis),dictionary,2
+Cowdowner,Downer Cow Syndrome,dictionary,2
+Darmatitis,Darmatitis,unmatched,2
+Rabies And Worm Infestation,Rabies; Helminthiasis,dictionary,2
+Retained after Birth,Retained Placenta,dictionary,2
+Labour,Labour,unmatched,2
+Worms Infestation and Trypanosomiasis,Trypanosomiasis; Helminthiasis,dictionary,2
+Prophylaxis For Iron,Routine Procedure (non-disease),dictionary,2
+Warble Infestation,Warble Infestation,unmatched,2
+HS,Haemorrhagic Septicaemia,dictionary,2
+Traumatic Disease,Trauma / Injury,dictionary,2
+Hypocslceamia,Hypocslceamia,unmatched,2
+Bovine Pa0ilpima Virus,Bovine Pa0ilpima Virus,unmatched,2
+Cyst,Cyst,unmatched,2
+Pinkeye Disease,Pink Eye (Infectious Keratoconjunctivitis),dictionary,2
+Transmissible Venereal Tumour,Transmissible Venereal Tumour,dictionary,2
+Cut wounds,Trauma / Injury,dictionary,2
+Swelling at the belly,Swelling At The Belly,unmatched,2
+Bee Stinging,Bee Sting,dictionary,2
+Stomach Abscess,Abscess,dictionary,2
+Acute Camel Diesease,Acute Camel Death Syndrome (ACDS),dictionary,2
+MCF,Mcf,unmatched,2
+Cut,Trauma / Injury,dictionary,2
+Bacterial Eye Infections,Eye Infection,dictionary,2
+Foot And Rot,Foot And Rot,unmatched,2
+Camel Sudden Death,Camel Sudden Death,unmatched,2
+Eccolli Infection,Eccolli Infection,unmatched,2
+Casoues Lymphdanities,Casoues Lymphdanities,unmatched,2
+INJURY,Trauma / Injury,dictionary,2
+Navel Joint,Navel Ill,dictionary,2
+Teat Injuries,Trauma / Injury,dictionary,2
+Leg FRACTURE,Trauma / Injury,dictionary,2
+Ruminal Atony,Ruminal Atony,unmatched,2
+Wound On Leg And Upper/Lower Lpis,Trauma / Injury,dictionary,2
+Healminthiasis,Helminthiasis,dictionary,2
+Sand Impaction,Impaction / Constipation,dictionary,2
+Impaction,Impaction / Constipation,dictionary,2
+Othet,Othet,unmatched,2
+Ringwarm,Ringwarm,unmatched,2
+Vitamin D deficiency,Nutritional Deficiency,dictionary,2
+Laryngotracheitis,Laryngotracheitis,unmatched,2
+Torticolis,Torticolis,unmatched,2
+Spontaneous abortion,Abortion,dictionary,2
+Fracture Of The Mandible,Trauma / Injury,dictionary,2
+Diarhroea,Diarhroea,unmatched,2
+Pheumonia,Pheumonia,unmatched,2
+Bloat And Constipation,Bloat; Impaction / Constipation,dictionary,2
+Skin Wounds,Trauma / Injury,dictionary,2
+Knee Bruises,Knee Bruises,unmatched,2
+Otitis Externer,Otitis Externer,unmatched,2
+Strangulation,Strangulation,unmatched,2
+Hynes Attacked and Killed 1 Bovine /Left 1 Injuries,Predation / Wildlife Attack; Trauma / Injury,dictionary,2
+Trichomonas,Trichomoniasis,dictionary,2
+Dysentry,Diarrhoea / Scours,dictionary,2
+Hapatitis,Hapatitis,unmatched,2
+Parvo Virus Disease,Parvovirus,dictionary,2
+Goat Mange,Mange,dictionary,2
+Diahorrea,Diahorrea,unmatched,2
+Wryneck,Wry Neck,dictionary,2
+Food Borne Allergic Reactions,Allergy,dictionary,2
+Pruritis,Pruritis,unmatched,2
+ORF FEVER,Orf (Contagious Ecthyma),dictionary,2
+Bee Sting Venom,Bee Sting,dictionary,2
+Infectious Condition,Infectious Condition,unmatched,2
+Caparris Tormentosa Poisoning,Poisoning,dictionary,2
+strepthricosi,Strepthricosi,unmatched,2
+Twisted Stomach,Twisted Stomach,unmatched,2
+Torticollis,Torticollis,unmatched,2
+Non Specific Diarrhea,Diarrhoea / Scours,dictionary,2
+Pyometria,Metritis,dictionary,2
+Predation Leopard,Predation / Wildlife Attack,dictionary,2
+Spleen Abscess,Abscess,dictionary,2
+Post Pertum Agalactia,Contagious Agalactia,dictionary,2
+Bovine Respiratory disease,Respiratory Infection (unspecified),dictionary,2
+Un Known Disease,Un Known Disease,unmatched,2
+Mummified Fetus,Mummified Fetus,unmatched,2
+hayena bite,Predation / Wildlife Attack,dictionary,2
+Chronic respiratory disease,Chronic Respiratory Disease (CRD),dictionary,2
+Aural Hematoma,Aural Hematoma,unmatched,2
+Boils,Boils,unmatched,2
+Avian Coryiza,Avian Coryiza,unmatched,2
+injury,Trauma / Injury,dictionary,2
+Killed By Lion,Predation / Wildlife Attack,dictionary,2
+Knee Sprain,Trauma / Injury,dictionary,2
+Limb Injury,Trauma / Injury,dictionary,2
+Clipping Of Teeth,Clipping Of Teeth,unmatched,2
+Iron Inj,Iron Inj,unmatched,2
+Eperthrozoonosis,Eperthrozoonosis,unmatched,2
+Ankylosis,Ankylosis,unmatched,2
+Food Borne Infection.,Food Borne Infection,unmatched,2
+Bruises,Bruises,unmatched,2
+Cryptorchidism,Cryptorchidism,unmatched,2
+Fracture Of Tibia And Fibula,Trauma / Injury,dictionary,2
+Photosensitive,Photosensitisation,dictionary,2
+Post Pertum Infection,Metritis,dictionary,2
+Maggot Infestation,Myiasis,dictionary,2
+Canine Babesiosis,Babesiosis (Redwater),dictionary,2
+Blood In Urine,Blood In Urine,unmatched,2
+Negative Energy Balance,Negative Energy Balance,unmatched,2
+Acute Camel Death Syndrome,Acute Camel Death Syndrome (ACDS),dictionary,2
+pincEye,Pink Eye (Infectious Keratoconjunctivitis),dictionary,2
+Acsd,Acsd,unmatched,2
+Pimples Guts,Pimples Guts,unmatched,2
+Pregnancy Toxiemia,Pregnancy Toxiemia,unmatched,2
+Rap,Rap,unmatched,2
+System Infection,System Infection,unmatched,2
+Dermatomycosis/dermatophytosis,Ringworm (Dermatophytosis),dictionary,2
+Torsion,Torsion,unmatched,2
+parturition Oedama,Parturition Oedama,unmatched,2
+Haemoncolis,Haemoncolis,unmatched,2
+Ascitis/Abcess,Abscess,dictionary,2
+0rf,0rf,unmatched,2
+Anuria,Anuria,unmatched,2
+Metal Cut Wound,Trauma / Injury,dictionary,2
+Acute Camel Cough,Acute Camel Death Syndrome (ACDS),dictionary,2
+Diarrhoear,Diarrhoea / Scours,dictionary,2
+Malnuration,Malnuration,unmatched,2
+nonspecific diarrehea,Nonspecific Diarrehea,unmatched,2
+Miasis,Miasis,unmatched,2
+Lameness/Limping,Lameness,dictionary,2
+Babeosis,Babeosis,unmatched,2
+Feline herpes virus,Feline Herpes Virus,unmatched,2
+Liver Abscess,Abscess,dictionary,2
+High Temperature,High Temperature,unmatched,2
+papilloma,Papillomatosis (Warts),dictionary,2
+Keratoconjutivitis,Pink Eye (Infectious Keratoconjunctivitis),dictionary,2
+Virginal Prolapse,Prolapse,dictionary,2
+Fasioliasis,Fasciolosis (Liver Fluke),dictionary,2
+Cyst Echinococcosis,Hydatidosis (Echinococcosis),dictionary,2
+High Fever,High Fever,unmatched,2
+Orf Infection,Orf (Contagious Ecthyma),dictionary,2
+Pseudopox,Pseudopox,unmatched,2
+Carpal Flexion Dystocia,Dystocia,dictionary,2
+Wildlife Predation [Hynes Attack],Predation / Wildlife Attack,dictionary,2
+Pimply Gut,Pimply Gut,unmatched,2
+Photosynthetisation,Photosynthetisation,unmatched,2
+"Anaplasmosis, Pink Eye Infection",Anaplasmosis; Pink Eye (Infectious Keratoconjunctivitis),dictionary,2
+Stomach Abscesses,Abscess,dictionary,2
+Mammary Gland tumor,Tumour,dictionary,2
+Hyena,Predation / Wildlife Attack,dictionary,2
+Acute clinical mastitis,Mastitis,dictionary,2
+Canine Pneumonia,Pneumonia,dictionary,2
+Q-fever/Stress Abortion,Q Fever; Abortion; Heat Stress,dictionary,2
+Masty,Masty,unmatched,2
+Calfscour,Diarrhoea / Scours,dictionary,2
+Toxins,Toxins,unmatched,2
+Malnutrition Especially Protein Deficiency,Nutritional Deficiency,dictionary,2
+Plastic Disease,Plastic Disease,unmatched,2
+Sprain On Left Hind Limb,Trauma / Injury,dictionary,2
+CRDB(chronic Respiratory Disease),Chronic Respiratory Disease (CRD),dictionary,2
+Myopericarditis,Myopericarditis,unmatched,2
+Calving,Calving,unmatched,2
+Hoof Trimming,Hoof Trimming,unmatched,2
+Syphilis,Syphilis,unmatched,2
+Malignant Cuttehral Fever,Malignant Cuttehral Fever,unmatched,2
+O0,O0,unmatched,2
+Kennel Cough,Kennel Cough,dictionary,2
+Fot rot,Foot Rot,dictionary,2
+Pink Eyes,Pink Eye (Infectious Keratoconjunctivitis),dictionary,2
+Stinging,Stinging,unmatched,2
+TBDs,Tbds,unmatched,2
+Lung Abscess,Abscess,dictionary,2
+Predation {Hynes},Predation / Wildlife Attack,dictionary,2
+Liverfluke,Fasciolosis (Liver Fluke),dictionary,2
+Wild Life Attacked,Predation / Wildlife Attack,dictionary,2
+White Muscle,White Muscle,unmatched,2
+Frothy Bloat,Bloat,dictionary,2
+Mammary Gland Tumor,Tumour,dictionary,2
+African Horse Sickness,African Horse Sickness,unmatched,2
+Skin Rashes And Manges,Mange,dictionary,2
+Fetal Mummification,Fetal Mummification,unmatched,2
+Wildlife(Hynes Attacked),Predation / Wildlife Attack,dictionary,2
+Third eyelid  carcinoma,Tumour,dictionary,2
+Locked Jaw/ Tetanus,Tetanus,dictionary,2
+Traumatic Soft Tissue Injury,Trauma / Injury,dictionary,2
+Horn Buds,Horn Buds,unmatched,2
+Eperythrozoon Bactreria,Eperythrozoon Bactreria,unmatched,2
+Carpus Sprain,Trauma / Injury,dictionary,2
+Old Age,Old Age,unmatched,2
+Fungul,Fungal Infection,dictionary,2
+Auricular Hematoma,Auricular Hematoma,unmatched,2
+Septicaemia/Salmonella,Salmonellosis; Septicaemia,dictionary,2
+Tumbu Fly Infestation,Tumbu Fly Infestation,unmatched,2
+DHLP,Dhlp,unmatched,2
+Urine genital Infection,Urine Genital Infection,unmatched,2
+Oedema And Abscess,Abscess,dictionary,2
+Infectious Corrhiza,Infectious Corrhiza,unmatched,2
+Teeth Clipping,Teeth Clipping,unmatched,2
+Wrinkles Nack,Wrinkles Nack,unmatched,2
+Infertility Diseases,Infertility / Reproductive Disorder,dictionary,2
+Lumpy Skin disease,Lumpy Skin Disease (LSD),dictionary,2
+Urinary And Fecal Incontinence,Urinary Tract Infection,dictionary,2
+Hypertrophic Osteopathy,Hypertrophic Osteopathy,unmatched,2
+Management Practice In Piglets.,Management Practice In Piglets,unmatched,2
+Bovine Herpes Mammilitis,Mastitis,dictionary,2
+Dislocation Of Fore Limb At Hog Joint,Trauma / Injury,dictionary,2
+Disease Characterized By General Elongation Of Hooves Leading To Lameness,Lameness,dictionary,2
+Helmithosis,Helminthiasis,dictionary,2
+Haemorrahic Septicimea,Haemorrahic Septicimea,unmatched,2
+Heartwater Disease,Heartwater,dictionary,2
+Dermatocosis,Dermatocosis,unmatched,2
+IBK,Pink Eye (Infectious Keratoconjunctivitis),dictionary,2
+Balanitis,Balanitis,unmatched,2
+Malicious Strangulation,Malicious Strangulation,unmatched,2
+Avian Coliza,Avian Coliza,unmatched,2
+Menstrual Blood,Menstrual Blood,unmatched,2
+Fowl typhoid0,Fowl Typhoid,dictionary,2
+Parturition,Parturition,unmatched,2
+Porcine Laminitis,Laminitis,dictionary,2
+Bovine  Ketosis,Ketosis,dictionary,2
+B.Q,Black Quarter,dictionary,2
+Dislocation Of Bone,Trauma / Injury,dictionary,2
+pink eye.,Pink Eye (Infectious Keratoconjunctivitis),dictionary,2
+Black Q,Black Q,unmatched,2
+Stilezia Hepatica,Helminthiasis,dictionary,2
+Fowl  Pox,Fowl Pox,dictionary,2
+Canine Parvo Virus,Parvovirus,dictionary,2
+Suspect Tetanus,Tetanus,dictionary,2
+Difficult Breathing,Difficult Breathing,unmatched,2
+Hypercalcaemia,Hypercalcaemia,unmatched,2
+Haemonchus,Helminthiasis,dictionary,2
+Pyometritis,Metritis,dictionary,2
+Detained  Placenta,Detained Placenta,unmatched,2
+Mange/ Bacterial Pneumonia,Mange; Pneumonia,dictionary,2
+Malnutrition Condition,Nutritional Deficiency,dictionary,2
+Copper Deficiency,Nutritional Deficiency,dictionary,2
+foreign object.,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,2
+Facioliasis,Fasciolosis (Liver Fluke),dictionary,2
+Blue Tounge,Blue Tounge,unmatched,2
+Trichomonas Vaginalis,Trichomoniasis,dictionary,2
+Trypanosonomiasis,Trypanosomiasis,dictionary,2
+Echnococcus,Echnococcus,unmatched,2
+Lungworms,Lungworms,unmatched,2
+Paramiphistomiasis,Paramiphistomiasis,unmatched,2
+Accident Victim,Trauma / Injury,dictionary,2
+AfflactoxinePoisoning,Poisoning,dictionary,2
+"Stelesia,fasciolisis",Fasciolosis (Liver Fluke); Helminthiasis,dictionary,2
+Panleukemia (Distemper),Canine Distemper,dictionary,2
+D/ Enteris,D/ Enteris,unmatched,2
+Natural Enmity,Natural Enmity,unmatched,2
+Fowl. Pox,Fowl Pox,dictionary,2
+Porcine Enteritis,Enteritis,dictionary,2
+dog bite,Animal Bites,dictionary,2
+Bronchitis,Bronchitis,unmatched,2
+Abscessation,Abscess,dictionary,2
+Habrenomiasis,Habrenomiasis,unmatched,2
+Ritain After Birth,Ritain After Birth,unmatched,2
+Pneumonia /Tripanosomiasis,Trypanosomiasis; Pneumonia,dictionary,2
+Coryza0,Infectious Coryza,dictionary,2
+Third Eyelid Carcinoma,Tumour,dictionary,2
+Leopard attack,Predation / Wildlife Attack,dictionary,2
+Fowl Typhoid  Disease,Fowl Typhoid,dictionary,2
+Traumatic head injury causing shock.,Trauma / Injury,dictionary,2
+Septicaemic Wound,Trauma / Injury,dictionary,2
+Torsion Of Abomasum,Torsion Of Abomasum,unmatched,2
+Bloody Diarrhea,Diarrhoea / Scours,dictionary,2
+Myisis,Myisis,unmatched,2
+cystic overy,Cystic Overy,unmatched,2
+coound fracture,Trauma / Injury,dictionary,2
+Leg Injury,Trauma / Injury,dictionary,2
+selenium deficiency,Nutritional Deficiency,dictionary,2
+Skin Condition,Skin Condition,unmatched,2
+Atrophic Rhinitis,Atrophic Rhinitis,dictionary,2
+Rumen Impaction,Impaction / Constipation,dictionary,2
+Fowl Cholera,Fowl Cholera,unmatched,2
+Bovine Papilloma,Papillomatosis (Warts),dictionary,2
+Third Eye Carcinoma,Tumour,dictionary,2
+Nasal Bot,Oestrosis (Nasal Bot),dictionary,2
+Bovine. ketosis,Ketosis,dictionary,2
+Leopar attack,Predation / Wildlife Attack,dictionary,2
+Extreme Weakness As A Result Of Devastating Drought Effect,Nutritional Deficiency,dictionary,2
+non specific diarrohea,Diarrhoea / Scours,dictionary,2
+Hypoglycemia,Hypoglycemia,unmatched,2
+Bovine. Ephemeral. Fever,Bovine Ephemeral Fever,dictionary,2
+Foreign  Bodies,Foreign Bodies,unmatched,2
+Nervous  Problem,Nervous Problem,unmatched,2
+corneal opacity,Corneal Opacity,unmatched,2
+Abnormal Posture,Abnormal Posture,unmatched,2
+E.Coli,Colibacillosis,dictionary,2
+Infectiouscoryza,Infectious Coryza,dictionary,2
+Giardia,Giardia,unmatched,2
+Cannibalism,Cannibalism,unmatched,2
+Faciolliasis,Fasciolosis (Liver Fluke),dictionary,2
+Mulnitrition,Mulnitrition,unmatched,2
+CutenousMyasis,Cutenousmyasis,unmatched,2
+Cutanious Mysiasis,Cutanious Mysiasis,unmatched,2
+Natural Abortion,Abortion,dictionary,2
+SalmonelosiEnteritis),Salmonellosis,dictionary,2
+Hayenas attàck,Predation / Wildlife Attack,dictionary,2
+selenium def.,Selenium Def,unmatched,2
+Abortion and stiibirth,Abortion,dictionary,2
+Scab,Scab,unmatched,2
+Q-Fever/ Brucellosis,Brucellosis; Q Fever,dictionary,2
+ECF0,East Coast Fever (ECF),dictionary,2
+Collibacilosis,Colibacillosis,dictionary,2
+Hs,Haemorrhagic Septicaemia,dictionary,2
+Camel Respiratory Disease Complex,Respiratory Infection (unspecified),dictionary,2
+Babesiosis With Anaplasmosis,Babesiosis (Redwater); Anaplasmosis,dictionary,2
+Photosyntizisation,Photosyntizisation,unmatched,2
+Strangli,Strangli,unmatched,2
+Malicious Cut By Panga,Trauma / Injury,dictionary,2
+Teten,Teten,unmatched,2
+overgrown hooves,Overgrown Hooves,unmatched,2
+Anaestrous,Anaestrous,unmatched,2
+Vaginal  prolapse,Prolapse,dictionary,2
+Feline Immunodeficiency Virus (FIV),Nutritional Deficiency,dictionary,2
+Hyena Attack.,Predation / Wildlife Attack,dictionary,2
+Uteritis,Uteritis,unmatched,2
+Luminol Acidocis,Luminol Acidocis,unmatched,2
+Paralysis Of the hind leg,Paralysis Of The Hind Leg,unmatched,2
+Fungul Infection,Fungal Infection,dictionary,2
+Hoof Elongation,Hoof Elongation,unmatched,2
+Test Woulds,Test Woulds,unmatched,2
+Limb Distension,Limb Distension,unmatched,2
+Mamillitis,Mastitis,dictionary,2
+Anal Blockage,Impaction / Constipation,dictionary,2
+Sacamstantial,Sacamstantial,unmatched,2
+Infectious Bovine Keratoconjunctivitis,Pink Eye (Infectious Keratoconjunctivitis),dictionary,2
+Acute Rumen Grain Encrogement Grain Overload,Ruminal Acidosis,dictionary,2
+Malicious Cuts,Malicious Cuts,unmatched,2
+Hemiathiasis,Hemiathiasis,unmatched,2
+Skin Lesions,Skin Lesions,unmatched,2
+Unspecified Infection,Unspecified Infection,unmatched,2
+Suspected anthrax,Anthrax,dictionary,2
+Pinky eye disease,Pinky Eye Disease,unmatched,2
+Fungal Infections,Fungal Infection,dictionary,2
+Pink Eye And Foot Rot,Foot Rot; Pink Eye (Infectious Keratoconjunctivitis),dictionary,2
+Downer Cow  Syndrome,Downer Cow Syndrome,dictionary,2
+Heat Stress,Heat Stress,dictionary,2
+Dystoc,Dystoc,unmatched,2
+Degeration Of Sciatic Nerve,Degeration Of Sciatic Nerve,unmatched,2
+Emmaciation,Emmaciation,unmatched,2
+Superficial Cut Wound,Trauma / Injury,dictionary,2
+High Infestation Of Worms,Helminthiasis,dictionary,2
+Per Acute Pneumonia,Pneumonia,dictionary,2
+Calf Score,Diarrhoea / Scours,dictionary,2
+Orf0,Orf0,unmatched,2
+Water Intoxication,Poisoning,dictionary,2
+Hydatid Cysist,Hydatidosis (Echinococcosis),dictionary,2
+Locusts,Locusts,unmatched,2
+Joint Problem Caused by myasis,Myiasis,dictionary,2
+Hormonal Disorder,Infertility / Reproductive Disorder,dictionary,2
+Bovine Viral Diarrhoea,Diarrhoea / Scours,dictionary,2
+Stellesia Hepatica,Stellesia Hepatica,unmatched,2
+Sallomonelosis,Sallomonelosis,unmatched,2
+Paramphistomiasis,Paramphistomiasis,unmatched,2
+Anaaplasmosis,Anaaplasmosis,unmatched,2
+Carcinoma,Tumour,dictionary,2
+Mange Infection,Mange,dictionary,2
+Fleas,Flea Infestation,dictionary,2
+Vitamin Deficiencies Why,Nutritional Deficiency,dictionary,2
+Cyanocobalamin Difficiency,Cyanocobalamin Difficiency,unmatched,2
+Caseous Abscess,Caseous Lymphadenitis; Abscess,dictionary,2
+Whatts,Whatts,unmatched,2
+Ovine Babesia,Babesiosis (Redwater),dictionary,2
+Laminitis/Enterotoxemia,Enterotoxaemia; Laminitis,dictionary,2
+newcastle,Newcastle Disease (ND),dictionary,2
+Milk Fever/ Calcium Deficiency Syndrome,Milk Fever (Hypocalcaemia),dictionary,2
+Choking,Choking,unmatched,2
+"Perforated Uterus, due to dystocia",Dystocia,dictionary,2
+Ruminal Stasis,Ruminal Stasis,unmatched,2
+Actnomycosis,Actnomycosis,unmatched,2
+lamanitis,Lamanitis,unmatched,2
+Canine   CsnineDistemper,Canine Distemper,dictionary,2
+Fish Disease,Fish Disease,unmatched,2
+Woundd,Trauma / Injury,dictionary,2
+Colliform Bacillosis,Colliform Bacillosis,unmatched,2
+pasteulosis,Pasteurellosis,dictionary,2
+Not Specific,Not Specific,unmatched,2
+Ppr,Peste des Petits Ruminants (PPR),dictionary,2
+Condition,Condition,unmatched,2
+strees,Strees,unmatched,2
+Abseces,Abscess,dictionary,2
+Diarrhoea With Blood,Diarrhoea / Scours,dictionary,2
+Injury by a sharp Object,Trauma / Injury,dictionary,2
+Mareks,Marek's Disease (Fowl Paralysis),dictionary,2
+Congenital Deformity,Congenital Deformity,unmatched,2
+Wild Animal Bites And Killing.,Animal Bites,dictionary,2
+Mycoplasma,Mycoplasma,unmatched,2
+Abortion Of Unknown Cause,Abortion,dictionary,2
+Tick Toxaemia,Tick Infestation,dictionary,2
+Allergic Rhinitis,Respiratory Infection (unspecified); Allergy,dictionary,2
+Clostridiosis,Clostridiosis,unmatched,2
+"Foot Abscess,",Abscess,dictionary,2
+Haemochosis,Haemochosis,unmatched,2
+Strepthotricosis,Dermatophilosis (Streptothricosis),dictionary,2
+metritis,Metritis,dictionary,2
+Bloated,Bloat,dictionary,2
+Not Applicable,Not Applicable,unmatched,2
+Sucking Fleas,Flea Infestation,dictionary,2
+EÇF,EÇF,unmatched,2
+Poisoning?,Poisoning,dictionary,2
+Suspect Plant Poisoning,Poisoning,dictionary,2
+Pulpy Kidney,Pulpy Kidney,unmatched,2
+Traumatic bruises,Trauma / Injury,dictionary,2
+Bot Fly infestation,Myiasis,dictionary,2
+Emesis,Emesis,unmatched,2
+Trypanosomia sis,Trypanosomiasis,dictionary,2
+leptospirosis,Leptospirosis,dictionary,2
+Abscess on neck muscle,Abscess,dictionary,2
+Vitamin Deficiencies,Nutritional Deficiency,dictionary,2
+Footrod,Footrod,unmatched,2
+intastetial progressive pneaumonia,Intastetial Progressive Pneaumonia,unmatched,2
+wood injuries,Trauma / Injury,dictionary,2
+Tick Bite,Tick Infestation; Animal Bites,dictionary,2
+Warm Infestion,Warm Infestion,unmatched,2
+Allergic Dermatitis,Dermatitis / Skin Infection; Allergy,dictionary,2
+Foot Injury,Trauma / Injury,dictionary,2
+Overgrown Horns,Overgrown Horns,unmatched,2
+Babesiosis And Anaplasmosis,Babesiosis (Redwater); Anaplasmosis,dictionary,2
+Lamness,Lamness,unmatched,2
+Hypocalicaemia,Milk Fever (Hypocalcaemia),dictionary,2
+Babisiosis,Babisiosis,unmatched,2
+Qfever,Q Fever,dictionary,2
+Skin Lessons,Skin Lessons,unmatched,2
+Suspected Plant Poisoning,Poisoning,dictionary,2
+Mycotoxicosis,Poisoning,dictionary,2
+Pneumonitis,Pneumonia,dictionary,2
+Suspected Infectious Coryza,Infectious Coryza,dictionary,2
+Traumatic effect falling in the ditch.,Trauma / Injury,dictionary,2
+parvavirus,Parvavirus,unmatched,2
+Hypocalcimia,Milk Fever (Hypocalcaemia),dictionary,2
+Dystocia(Fetal Malpresentation),Dystocia,dictionary,2
+calf score,Diarrhoea / Scours,dictionary,2
+Haelminthiasis,Helminthiasis,dictionary,2
+Injury Of Spinal Cord,Trauma / Injury,dictionary,2
+Foot Wound Due Tick Bite,Tick Infestation; Animal Bites; Trauma / Injury,dictionary,2
+suspected clinical Mastitis,Mastitis,dictionary,2
+dislocation.,Trauma / Injury,dictionary,2
+Avian leucosis,Avian Leukosis,dictionary,2
+FAD,Fad,unmatched,2
+No Specific diagnosis,No Specific Diagnosis,unmatched,2
+Inflamed Kidney,Inflamed Kidney,unmatched,2
+Moraxella infection,Moraxella Infection,unmatched,2
+case deworming.,Routine Procedure (non-disease),dictionary,2
+ANAPLASMOSIS,Anaplasmosis,dictionary,2
+TVT,Tvt,unmatched,1
+Teat Laceration,Trauma / Injury,dictionary,1
+Oral Orf,Orf (Contagious Ecthyma),dictionary,1
+Oral Lesions,Oral Lesions,unmatched,1
+Camel Abscess,Abscess,dictionary,1
+Cowdriosis and ECF,East Coast Fever (ECF),dictionary,1
+Anaplasmosis Babesiosis and Eperythrozoon Bacteria,Babesiosis (Redwater); Anaplasmosis,dictionary,1
+Std Infection,Std Infection,unmatched,1
+Sweating  sickness,Sweating Sickness,dictionary,1
+Tagging,Tagging,unmatched,1
+Par vovirus,Par Vovirus,unmatched,1
+Payometra,Payometra,unmatched,1
+Attack By Stray Dogs,Predation / Wildlife Attack,dictionary,1
+Theirleriosis,Theirleriosis,unmatched,1
+Nervous TBD,Tick-borne Disease,dictionary,1
+Knocked By A Person,Knocked By A Person,unmatched,1
+Predators,Predation / Wildlife Attack,dictionary,1
+Protozoa Diseases Babesiosis,Babesiosis (Redwater),dictionary,1
+Omphalitis,Omphalitis,unmatched,1
+Caprine Keratoconjunctivitis,Pink Eye (Infectious Keratoconjunctivitis),dictionary,1
+Unknown00,Unknown00,unmatched,1
+Wartd,Wartd,unmatched,1
+Circling Syndrome,Circling Syndrome,unmatched,1
+Postpertum Uterine Infection,Metritis,dictionary,1
+Swollen Edema With Pus,Swollen Edema With Pus,unmatched,1
+Malignant Edema,Malignant Edema,unmatched,1
+Threaned Anortion,Threaned Anortion,unmatched,1
+Bite By Dog,Animal Bites,dictionary,1
+Taeniasis (T. hydatigena),Taeniasis (T. Hydatigena),unmatched,1
+Trypanosomiasis....ddx Respiratory Infection,Trypanosomiasis; Respiratory Infection (unspecified),dictionary,1
+Feed Poisoning,Poisoning,dictionary,1
+RAT,Rat,unmatched,1
+Digestion Disorder,Digestion Disorder,unmatched,1
+Avian Influenza,Avian Influenza,dictionary,1
+Thelezia,Thelezia,unmatched,1
+Ijury,Ijury,unmatched,1
+Mummified foetus,Mummified Foetus,unmatched,1
+Tick  Fever,Tick-borne Disease,dictionary,1
+Yes,Unknown,placeholder,1
+none,Unknown,placeholder,1
+Flies Infestation,Flies Infestation,unmatched,1
+Lumpy skin disease,Lumpy Skin Disease (LSD),dictionary,1
+Cutaneous Wounds(Fungal),Trauma / Injury; Fungal Infection,dictionary,1
+Bluetoungue,Bluetoungue,unmatched,1
+Endo metritis,Metritis,dictionary,1
+Pulpy Kidney/Enterotoxemia,Enterotoxaemia,dictionary,1
+keratoconjuctivitis,Pink Eye (Infectious Keratoconjunctivitis),dictionary,1
+Chicks Weak At Arrival,Chicks Weak At Arrival,unmatched,1
+Keratoconjuctivities,Pink Eye (Infectious Keratoconjunctivitis),dictionary,1
+Eye Cancerous,Tumour,dictionary,1
+Benign tumour of mammary gland,Tumour,dictionary,1
+Traumatic Pericarditis,Trauma / Injury,dictionary,1
+Nerve injury,Trauma / Injury,dictionary,1
+Trycominisis,Trycominisis,unmatched,1
+Cenorus  Cebralis,Coenurosis,dictionary,1
+White Muscles Disease,White Muscles Disease,unmatched,1
+Gastritis,Gastritis,unmatched,1
+Swine dysentery,Diarrhoea / Scours,dictionary,1
+Footroot,Footroot,unmatched,1
+Ulceration,Ulceration,unmatched,1
+Foot Decay,Foot Decay,unmatched,1
+Ophthalmitis,Ophthalmitis,unmatched,1
+Liver Necrosis,Liver Necrosis,unmatched,1
+Hind right limbFracture,Trauma / Injury,dictionary,1
+Musculoskeletal,Musculoskeletal,unmatched,1
+Tumor at the perinium,Tumour,dictionary,1
+Hesrtwater,Hesrtwater,unmatched,1
+Bloody Diarrhoea,Diarrhoea / Scours,dictionary,1
+Mulnutrition Disorder,Nutritional Deficiency,dictionary,1
+Typhoid,Typhoid,unmatched,1
+Injuries [fracture],Trauma / Injury,dictionary,1
+Helmethias,Helminthiasis,dictionary,1
+Uterine Tear,Uterine Tear,unmatched,1
+Herpes Mammalitis,Herpes Mammalitis,unmatched,1
+Bacterial Septicaenia,Bacterial Septicaenia,unmatched,1
+Plant Toxicity,Poisoning,dictionary,1
+Dermatitis With Otitis,Dermatitis / Skin Infection,dictionary,1
+Injurues,Trauma / Injury,dictionary,1
+Mange/Ear Cancer,Mange; Tumour,dictionary,1
+Haemorrhagic Septiceamia,Haemorrhagic Septicaemia,dictionary,1
+Helmets,Helminthiasis,dictionary,1
+Swelling Lymph Nodes,Swelling Lymph Nodes,unmatched,1
+Off Disease,Off Disease,unmatched,1
+Bursitis,Bursitis,unmatched,1
+Routine Check Up,Routine Check Up,unmatched,1
+Rapture Of Uterus,Rapture Of Uterus,unmatched,1
+Tick Fevet,Tick Infestation,dictionary,1
+Eye infection,Eye Infection,dictionary,1
+Footdecay,Footdecay,unmatched,1
+Weak Joint,Weak Joint,unmatched,1
+Grain Acidosis,Ruminal Acidosis,dictionary,1
+Post Parturient Treatment,Post Parturient Treatment,unmatched,1
+Heat Synchronization,Routine Procedure (non-disease),dictionary,1
+Gangrenous Disease,Gangrenous Disease,unmatched,1
+Bottle Jow Oedema(malnutrition),Nutritional Deficiency,dictionary,1
+Bulling,Bulling,unmatched,1
+Post Partum,Post Partum,unmatched,1
+Feline Herpes Virus,Feline Herpes Virus,unmatched,1
+Anapla,Anaplasmosis,dictionary,1
+Severed Artery,Severed Artery,unmatched,1
+Injury By Another Goat,Trauma / Injury,dictionary,1
+Leeches,Leeches,unmatched,1
+abcess,Abscess,dictionary,1
+Phothosethezization,Phothosethezization,unmatched,1
+Inflammation of Abomesum,Inflammation Of Abomesum,unmatched,1
+Ectoparasites infestation,Ectoparasite Infestation,dictionary,1
+Blocked teat,Blocked Teat,unmatched,1
+tumour,Tumour,dictionary,1
+Salivation,Salivation,unmatched,1
+liver cirrhosis,Liver Cirrhosis,unmatched,1
+Diphtheria,Diphtheria,unmatched,1
+Gape Worm Infestation,Helminthiasis,dictionary,1
+Lack Of Minerals,Lack Of Minerals,unmatched,1
+Scrotal enlargement,Scrotal Enlargement,unmatched,1
+Bitten By Dog,Bitten By Dog,unmatched,1
+Camel Orf,Orf (Contagious Ecthyma),dictionary,1
+"Respiratory Infection, Helminthiasis",Helminthiasis; Respiratory Infection (unspecified),dictionary,1
+Bloat Due to lush pastures,Bloat,dictionary,1
+Glossitis,Glossitis,unmatched,1
+Dihorea,Dihorea,unmatched,1
+Orf disease,Orf (Contagious Ecthyma),dictionary,1
+Tick Bite Fever,Tick Infestation; Animal Bites,dictionary,1
+Helminthias,Helminthiasis,dictionary,1
+Respiratory infections,Respiratory Infection (unspecified),dictionary,1
+hemorrhagic septicemia,Haemorrhagic Septicaemia,dictionary,1
+Bacterial Infection,Bacterial Infection,unmatched,1
+Traumatic Reticulopercarditis,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,1
+Bovine Filariasis,Bovine Filariasis,unmatched,1
+Suspected CCPP,Contagious Caprine Pleuropneumonia (CCPP),dictionary,1
+Trpanosomiasis,Trpanosomiasis,unmatched,1
+Foot rote,Foot Rot,dictionary,1
+Vomiting,Vomiting,unmatched,1
+Unknown animal killing the cow,Unknown Animal Killing The Cow,unmatched,1
+Dog bite,Animal Bites,dictionary,1
+Post Partum Illness,Post Partum Illness,unmatched,1
+Caecous Lymphadenitis,Caecous Lymphadenitis,unmatched,1
+Annaplasmosis,Annaplasmosis,unmatched,1
+Malicious Panga wound On Lower Left Hind Limb.,Trauma / Injury,dictionary,1
+Arbotion/Malnutrition,Nutritional Deficiency,dictionary,1
+Non specific,Unknown,placeholder,1
+Teat Warts,Papillomatosis (Warts),dictionary,1
+Ephemeral,Bovine Ephemeral Fever,dictionary,1
+Liver cyrrhosis,Liver Cyrrhosis,unmatched,1
+Wry neck,Wry Neck,dictionary,1
+Exophthalmos,Exophthalmos,unmatched,1
+Closed Wound,Trauma / Injury,dictionary,1
+Dermetitis,Dermetitis,unmatched,1
+Bivine papilloma virus,Papillomatosis (Warts),dictionary,1
+Magnesium Deficiency,Nutritional Deficiency,dictionary,1
+Pustular Dermatitis,Orf (Contagious Ecthyma),dictionary,1
+Cattle Oedema,Cattle Oedema,unmatched,1
+Unspecified Abortion,Abortion,dictionary,1
+Sheep Diarhoea,Diarrhoea / Scours,dictionary,1
+Bestiality,Bestiality,unmatched,1
+Organophosphate,Organophosphate,unmatched,1
+Bacteria Pneumonia,Pneumonia,dictionary,1
+Lice,Lice Infestation,dictionary,1
+Hyena Attack,Predation / Wildlife Attack,dictionary,1
+orf Disease,Orf (Contagious Ecthyma),dictionary,1
+Haematuria,Haematuria,unmatched,1
+Otitis externa,Otitis Externa,unmatched,1
+Calcified Cyst,Calcified Cyst,unmatched,1
+camel  coughing,Camel Respiratory Disease,dictionary,1
+Delayed Heat,Delayed Heat,unmatched,1
+"Iron Deficiency,tooth & Tail Clipping",Nutritional Deficiency,dictionary,1
+Skin Nodules,Skin Nodules,unmatched,1
+Parvo Virus Infection,Parvovirus,dictionary,1
+"The Goat Kids Dies After 24 Hrs , It Produce Mucurish Discharge From The Unus And Dies","The Goat Kids Dies After 24 Hrs , It Produce Mucurish Discharge From The Unus And Dies",unmatched,1
+ringworms,Ringworm (Dermatophytosis),dictionary,1
+Envenomation,Envenomation,unmatched,1
+Retained,Retained,unmatched,1
+Haemorhagic Septicaemia,Haemorrhagic Septicaemia,dictionary,1
+Trypanosoma,Trypanosomiasis,dictionary,1
+Dse,Dse,unmatched,1
+Ticks Toxicosis,Tick Infestation; Poisoning,dictionary,1
+Colibacllosis,Colibacllosis,unmatched,1
+Diqrrhoea due lush pasture,Diqrrhoea Due Lush Pasture,unmatched,1
+Death,Death,unmatched,1
+Eye Infection/Keratoconjunctivitis,Pink Eye (Infectious Keratoconjunctivitis); Eye Infection,dictionary,1
+Fowl Cholera.,Fowl Cholera,unmatched,1
+Traumatic Deep Cut,Trauma / Injury,dictionary,1
+Ceasous Lymphadenitis,Ceasous Lymphadenitis,unmatched,1
+Trapnomiasis,Trapnomiasis,unmatched,1
+Gape Worm,Helminthiasis,dictionary,1
+Rectal And Prolabse,Rectal And Prolabse,unmatched,1
+Stella  hepatica infestation,Stella Hepatica Infestation,unmatched,1
+Mastitis/blocked Teat,Mastitis,dictionary,1
+Nutrition Deficiy,Nutrition Deficiy,unmatched,1
+Suspected Fmd,Foot and Mouth Disease (FMD),dictionary,1
+Retained  Afterbirth,Retained Placenta,dictionary,1
+Rumen acidosis,Ruminal Acidosis,dictionary,1
+Foot Rit,Foot Rit,unmatched,1
+Food Poisoming,Poisoning,dictionary,1
+Skin Cancer,Tumour,dictionary,1
+Acute MASTITIS,Mastitis,dictionary,1
+E.fever,E.Fever,unmatched,1
+Anorexic,Anorexic,unmatched,1
+Suspected Rabies,Rabies,dictionary,1
+Pregnancy Diagnostic,Pregnancy Diagnostic,unmatched,1
+Demertophylosis,Demertophylosis,unmatched,1
+Reproductive Disorder,Reproductive Disorder,unmatched,1
+Predation {Hyena},Predation / Wildlife Attack,dictionary,1
+Canine Distempter,Canine Distempter,unmatched,1
+Teat laceration,Trauma / Injury,dictionary,1
+Caseous Lymphanginitis,Caseous Lymphadenitis,dictionary,1
+Route Management Program,Route Management Program,unmatched,1
+Infectious Avian Coryza,Infectious Coryza,dictionary,1
+Muscles,Muscles,unmatched,1
+Eye Disease,Eye Disease,unmatched,1
+Canine Diste mperr,Canine Diste Mperr,unmatched,1
+Overgrown hoof,Overgrown Hoof,unmatched,1
+Intestinal Hemorrhage,Intestinal Hemorrhage,unmatched,1
+Lacerated teat in a cow,Lacerated Teat In A Cow,unmatched,1
+Hyena bites,Predation / Wildlife Attack,dictionary,1
+Hematoma,Hematoma,unmatched,1
+Hydatidosis.,Hydatidosis (Echinococcosis),dictionary,1
+Myaisis,Myaisis,unmatched,1
+Acute bloat,Bloat,dictionary,1
+Respiratory Complex,Respiratory Infection (unspecified),dictionary,1
+Malignant Catterral Feverish,Malignant Catterral Feverish,unmatched,1
+Klebsiella Mastitis,Mastitis,dictionary,1
+Coneurosis,Coenurosis,dictionary,1
+Bottlt Jaw,Bottlt Jaw,unmatched,1
+Normal,Normal,unmatched,1
+Tumour,Tumour,dictionary,1
+TB,Tuberculosis,dictionary,1
+Marekels,Marek's Disease (Fowl Paralysis),dictionary,1
+General Condition,General Condition,unmatched,1
+Lobular Pneumonia,Pneumonia,dictionary,1
+Cloudy Eye,Cloudy Eye,unmatched,1
+Septic Arthritis,Arthritis,dictionary,1
+Epimeralfever,Epimeralfever,unmatched,1
+Fracture Of Hind Limb,Trauma / Injury,dictionary,1
+Injury/trauma,Trauma / Injury,dictionary,1
+Feed Stress,Heat Stress,dictionary,1
+Control Breeding,Control Breeding,unmatched,1
+Broken horn,Trauma / Injury,dictionary,1
+Male Castration,Routine Procedure (non-disease),dictionary,1
+Udder Dermertitis,Udder Dermertitis,unmatched,1
+Acariside Poisoning,Poisoning,dictionary,1
+Bovine ephemeral fever,Bovine Ephemeral Fever,dictionary,1
+Blaclquarter,Blaclquarter,unmatched,1
+Three days Sickness,Bovine Ephemeral Fever,dictionary,1
+Dietery Diarrhoe,Dietery Diarrhoe,unmatched,1
+Epemeralfever,Epemeralfever,unmatched,1
+Pneumonia And Diahrea,Pneumonia,dictionary,1
+Broken left hindleg,Broken Left Hindleg,unmatched,1
+Femoral Fracture,Trauma / Injury,dictionary,1
+Bq,Black Quarter,dictionary,1
+Mysias,Mysias,unmatched,1
+Black Quater,Black Quarter,dictionary,1
+Squamous Cell Carcinoma Of Third Eyelid,Tumour,dictionary,1
+ppr,Peste des Petits Ruminants (PPR),dictionary,1
+DIARRHEA,Diarrhoea / Scours,dictionary,1
+Soft Tissue Injury,Trauma / Injury,dictionary,1
+Deep Wound Created By Rope,Trauma / Injury,dictionary,1
+Pulmonary Oedema,Pulmonary Oedema,unmatched,1
+Laceration Wound,Trauma / Injury,dictionary,1
+Colicosis,Colicosis,unmatched,1
+Septicaemia,Septicaemia,dictionary,1
+Avian Aflatoxicosis,Poisoning,dictionary,1
+Mite Infection,Mange,dictionary,1
+Sciatic Nerve Injury,Trauma / Injury,dictionary,1
+Bacterial Septecemia,Bacterial Septecemia,unmatched,1
+Third Eyelid Squamous Cell Carcinoma,Tumour,dictionary,1
+"PPR, CCPP",Contagious Caprine Pleuropneumonia (CCPP); Peste des Petits Ruminants (PPR),dictionary,1
+Warms Overload,Warms Overload,unmatched,1
+Suspected Rabid Dog,Suspected Rabid Dog,unmatched,1
+Trauma and Mismanagement,Trauma / Injury,dictionary,1
+3rd Eye Lid Prolapse,Prolapse,dictionary,1
+Helminthiosis,Helminthiasis,dictionary,1
+Afflatoxicosis,Poisoning,dictionary,1
+Pneumoniae,Pneumonia,dictionary,1
+Bone Fructure,Trauma / Injury,dictionary,1
+Intestinal Torsion,Intestinal Torsion,unmatched,1
+Suspected Toxicity,Poisoning,dictionary,1
+Retained Foetal Membrane,Retained Foetal Membrane,unmatched,1
+Fungal infection,Fungal Infection,dictionary,1
+Mites,Mange,dictionary,1
+Helminthiasis/Pneumonia,Helminthiasis; Pneumonia,dictionary,1
+Rumenatomy,Rumenatomy,unmatched,1
+Tetnus,Tetnus,unmatched,1
+Empemeral Fever,Empemeral Fever,unmatched,1
+Asepsis,Septicaemia,dictionary,1
+Recumbency/ Cowdowner,Downer Cow Syndrome,dictionary,1
+Compaction,Compaction,unmatched,1
+Analasmosis,Analasmosis,unmatched,1
+Pink eye disease,Pink Eye (Infectious Keratoconjunctivitis),dictionary,1
+Teat Mammilitis,Mastitis,dictionary,1
+Emaciated,Nutritional Deficiency,dictionary,1
+Chronic Abscess,Abscess,dictionary,1
+Bloat[ Flothy],Bloat,dictionary,1
+Penine Prolapse,Prolapse,dictionary,1
+ephimerial fever,Ephimerial Fever,unmatched,1
+Dystocia Condition,Dystocia,dictionary,1
+Deformity,Deformity,unmatched,1
+Empysema,Empysema,unmatched,1
+Cowdriosis,Cowdriosis,unmatched,1
+Anal Gland Impaction,Impaction / Constipation,dictionary,1
+Egg York Peritonitis,Egg York Peritonitis,unmatched,1
+ecf,East Coast Fever (ECF),dictionary,1
+ASF,African Swine Fever (ASF),dictionary,1
+Fleece Infestation,Fleece Infestation,unmatched,1
+Enterotoximia,Enterotoxaemia,dictionary,1
+Atrauma,Trauma / Injury,dictionary,1
+Dod Bites,Animal Bites,dictionary,1
+Bite Wound,Animal Bites; Trauma / Injury,dictionary,1
+Sub Clinical Mastitis,Mastitis,dictionary,1
+Cough,Cough,unmatched,1
+Pneomonia,Pneomonia,unmatched,1
+Acute Camel Disease,Acute Camel Death Syndrome (ACDS),dictionary,1
+Unspecified Pneumonia,Pneumonia,dictionary,1
+Coneal Opacity,Coneal Opacity,unmatched,1
+Tick fever,Tick-borne Disease,dictionary,1
+Painful Udder,Painful Udder,unmatched,1
+Pneumonia /Anaplasmosis,Anaplasmosis; Pneumonia,dictionary,1
+Anal Glands,Anal Glands,unmatched,1
+Cut Wound,Trauma / Injury,dictionary,1
+Contagious Keratocontivitis,Contagious Keratocontivitis,unmatched,1
+Foot Rot and Mange,Mange; Foot Rot,dictionary,1
+Mycoplasmosis,Mycoplasmosis,unmatched,1
+Tatenus,Tatenus,unmatched,1
+Squamous Cell Carcinoma,Tumour,dictionary,1
+Prophylaxis For Piglet Anaemia,Anaemia; Routine Procedure (non-disease),dictionary,1
+Canine Hemorrhagic Diarrhea,Diarrhoea / Scours,dictionary,1
+Canine Mastitis,Mastitis,dictionary,1
+Skin Infestions,Skin Infestions,unmatched,1
+Ecf.,East Coast Fever (ECF),dictionary,1
+Gout,Gout,unmatched,1
+Bite From. Unknown. Source,Animal Bites,dictionary,1
+Bite. From. Unknown. Sources,Animal Bites,dictionary,1
+Joint And Navel Illness,Navel Ill,dictionary,1
+The Hydatid Disease,Hydatidosis (Echinococcosis),dictionary,1
+Joint Sprain,Trauma / Injury,dictionary,1
+Cankers,Cankers,unmatched,1
+Echnococi,Echnococi,unmatched,1
+FOOT ROT,Foot Rot,dictionary,1
+Red Urine After Taking A lot Of Water,Babesiosis (Redwater),dictionary,1
+Hooves Overgrown,Hooves Overgrown,unmatched,1
+Arbotion,Arbotion,unmatched,1
+Retained Afterbirth(RAB),Retained Placenta,dictionary,1
+Osteomyelitis,Osteomyelitis,unmatched,1
+Aseptic Wound,Trauma / Injury,dictionary,1
+pericarditis,Pericarditis,unmatched,1
+Anplasmosis,Anplasmosis,unmatched,1
+Pregnancy,Pregnancy,unmatched,1
+Canine Anaplasmosis,Anaplasmosis,dictionary,1
+Hypocaemia,Milk Fever (Hypocalcaemia),dictionary,1
+Khediosis,Khediosis,unmatched,1
+Diorrhea,Diorrhea,unmatched,1
+Tick Infestations,Tick Infestation,dictionary,1
+Mange Mite,Mange,dictionary,1
+"Animals Reluctant To Move,Swelling And Pain Around Hooves","Animals Reluctant To Move,Swelling And Pain Around Hooves",unmatched,1
+Blue Tongue Dse,Bluetongue,dictionary,1
+Chronic Mastitis,Mastitis,dictionary,1
+Sheep Nasal Bot,Oestrosis (Nasal Bot),dictionary,1
+(ECF) EAST COAST FEVER,East Coast Fever (ECF),dictionary,1
+Abcesses,Abscess,dictionary,1
+Gastrointestinal Worms,Helminthiasis,dictionary,1
+Eperythrozoonosis,Eperythrozoonosis,unmatched,1
+Helminthiaosis,Helminthiasis,dictionary,1
+Mastii,Mastii,unmatched,1
+Helminths And  Ticks,Helminthiasis; Tick Infestation,dictionary,1
+Theileria,Theileriosis,dictionary,1
+Hip dysplasia,Hip Dysplasia,unmatched,1
+Cyst In  the Liver,Cyst In The Liver,unmatched,1
+Tumor In the liver,Tumour,dictionary,1
+Pox Mammilitis,Cowpox / Pseudocowpox,dictionary,1
+Worm infestation,Helminthiasis,dictionary,1
+Monkey Bite,Animal Bites,dictionary,1
+Transmissible Venerial Tumor,Transmissible Venereal Tumour,dictionary,1
+Hynes Attacked/Injuries,Predation / Wildlife Attack; Trauma / Injury,dictionary,1
+Wrhy Neck Disease,Wrhy Neck Disease,unmatched,1
+Whry Neck Disease,Whry Neck Disease,unmatched,1
+Tickborne Diseases,Tick-borne Disease,dictionary,1
+Malignant Tumor,Tumour,dictionary,1
+Brackenfern Poisoning,Poisoning,dictionary,1
+Soiled Vent,Soiled Vent,unmatched,1
+CNS,Cns,unmatched,1
+Muskuloskeltal,Muskuloskeltal,unmatched,1
+Cosmetic dehorning,Routine Procedure (non-disease),dictionary,1
+Emphimeral Fever,Bovine Ephemeral Fever,dictionary,1
+Ghhnn,Unknown,placeholder,1
+Inflicted  Wound,Trauma / Injury,dictionary,1
+Worm Infectation,Helminthiasis,dictionary,1
+Lampy skin disese,Lumpy Skin Disease (LSD),dictionary,1
+Bovine Tuberculosis (BTB),Tuberculosis,dictionary,1
+Avian influenza,Avian Influenza,dictionary,1
+Echinococus,Hydatidosis (Echinococcosis),dictionary,1
+Physical injury,Trauma / Injury,dictionary,1
+pnemonia,Pnemonia,unmatched,1
+Git Disturbances,Git Disturbances,unmatched,1
+Hydatids Cyst Lungs And Liver,Hydatidosis (Echinococcosis),dictionary,1
+Pox Lession,Pox (unspecified),dictionary,1
+CNs Signs,Cns Signs,unmatched,1
+Sarcoptic Mange,Mange,dictionary,1
+Mixed Infections Of CCPP And Suspected Q Fever,Contagious Caprine Pleuropneumonia (CCPP); Q Fever,dictionary,1
+Hypoglycaemia,Hypoglycaemia,unmatched,1
+Papillimatosis,Papillimatosis,unmatched,1
+Lacrimation,Lacrimation,unmatched,1
+OP Poisoning,Poisoning,dictionary,1
+Trypanosomoasis,Trypanosomiasis,dictionary,1
+Warfarin Poisoning,Poisoning,dictionary,1
+Ascariasis,Helminthiasis,dictionary,1
+Ammonia Toxicity,Poisoning,dictionary,1
+Transmissible venereal Tumor,Transmissible Venereal Tumour,dictionary,1
+New. Castle.,Newcastle Disease (ND),dictionary,1
+Milk Scour,Diarrhoea / Scours,dictionary,1
+Fracture  Of Left Thigh,Trauma / Injury,dictionary,1
+Clostridia enterotoxaemia,Enterotoxaemia,dictionary,1
+High Gait  and cycling,High Gait And Cycling,unmatched,1
+Feed  Poison,Poisoning,dictionary,1
+Phemonia,Phemonia,unmatched,1
+Middle East Respiratory Syndrome Coronavirus (MERS-COV),MERS-CoV; Respiratory Infection (unspecified),dictionary,1
+Contagious caprice pluropneumonia,Contagious Caprine Pleuropneumonia (CCPP),dictionary,1
+Coccidiociss,Coccidiosis,dictionary,1
+Peste  des Petit Ruminants (PPR),Peste des Petits Ruminants (PPR),dictionary,1
+Handware Disease,Handware Disease,unmatched,1
+E Coli Infection,Colibacillosis,dictionary,1
+Parakeratosis,Parakeratosis,unmatched,1
+Helminthiasi,Helminthiasis,dictionary,1
+Testing,Testing,unmatched,1
+Brogitis,Brogitis,unmatched,1
+Triachnomiosis,Triachnomiosis,unmatched,1
+Facial Paralysis,Facial Paralysis,unmatched,1
+Left Displacement of The Abomasum,Left Displacement Of The Abomasum,unmatched,1
+Abrasion Wounds,Trauma / Injury,dictionary,1
+"Mange, Gut Edema",Mange,dictionary,1
+Digestive And Respiratory,Respiratory Infection (unspecified),dictionary,1
+Nutritional Bloat,Bloat,dictionary,1
+Hemolactia,Hemolactia,unmatched,1
+Papilloma Virus,Papillomatosis (Warts),dictionary,1
+Wound In The Leg,Trauma / Injury,dictionary,1
+Dog recently recently bitten by neighbouring dogs,Dog Recently Recently Bitten By Neighbouring Dogs,unmatched,1
+Uterine Torsion,Uterine Torsion,unmatched,1
+Clostridium Type A,Clostridium Type A,unmatched,1
+Hernia and Abscess.Hygiene to be observed,Abscess; Hernia,dictionary,1
+Nasalbot,Oestrosis (Nasal Bot),dictionary,1
+Post Parturition Infection,Post Parturition Infection,unmatched,1
+Bone Fracture,Trauma / Injury,dictionary,1
+Clostridium,Clostridium,unmatched,1
+Orth,Orth,unmatched,1
+Navel Ill With Myiasis,Myiasis; Navel Ill,dictionary,1
+Blowfly Myasis,Myiasis,dictionary,1
+No Disease,No Disease,unmatched,1
+Piglet Anemia Prophylaxis,Anaemia; Routine Procedure (non-disease),dictionary,1
+Warbles External Parasites,Ectoparasite Infestation,dictionary,1
+Mamge,Mamge,unmatched,1
+Malnutrion,Nutritional Deficiency,dictionary,1
+No Other Disease,No Other Disease,unmatched,1
+"T Vivax,tryoanosimiasis","T Vivax,Tryoanosimiasis",unmatched,1
+Helminthoosis,Helminthiasis,dictionary,1
+Helminthiasis And Starvation,Helminthiasis; Nutritional Deficiency,dictionary,1
+Traumatic Eye Injury,Trauma / Injury,dictionary,1
+GIT disorder,Enteritis,dictionary,1
+Ppr suspect,Peste des Petits Ruminants (PPR),dictionary,1
+Pericarditis,Pericarditis,unmatched,1
+Infectious bronchitis,Infectious Bronchitis,dictionary,1
+Lacerated Woundnd,Trauma / Injury,dictionary,1
+Retrained After birth,Retrained After Birth,unmatched,1
+"Infectious Coriza, Infectious Bronchitis",Infectious Coryza; Infectious Bronchitis,dictionary,1
+Agalactiae,Contagious Agalactia,dictionary,1
+Unknown Cause,Unknown Cause,unmatched,1
+infectious Bronchitis,Infectious Bronchitis,dictionary,1
+Ib,Ib,unmatched,1
+Bite/sting,Animal Bites,dictionary,1
+Udder Abscess,Abscess,dictionary,1
+Prophylaxis Against Iron Deficiency,Nutritional Deficiency; Routine Procedure (non-disease),dictionary,1
+Bee Strike Allergy,Allergy,dictionary,1
+Infectious Brochiti,Infectious Brochiti,unmatched,1
+Infectious Brochities,Infectious Brochities,unmatched,1
+Porcine  Cysticercosis,Cysticercosis,dictionary,1
+Foreign Object (Thorn),Traumatic Reticuloperitonitis (Hardware Disease); Trauma / Injury,dictionary,1
+Gerd Health Management,Gerd Health Management,unmatched,1
+Emersesion,Emersesion,unmatched,1
+CPV,Cpv,unmatched,1
+Mummification,Mummification,unmatched,1
+"Malnutrition,M",Nutritional Deficiency,dictionary,1
+Ruminal Tympany,Ruminal Tympany,unmatched,1
+Snakes Bite,Snake Bite,dictionary,1
+Bluetongue Disease,Bluetongue,dictionary,1
+Camel,Camel,unmatched,1
+Tab,Tab,unmatched,1
+S&G,S&G,unmatched,1
+C.Bovis,C.Bovis,unmatched,1
+Photosensition,Photosensitisation,dictionary,1
+Post Parturient Complications,Post Parturient Complications,unmatched,1
+Parasites(Ticks And Camel Red Fly).,Tick Infestation; Parasitic Infestation (unspecified),dictionary,1
+Grain Engorgement,Grain Engorgement,unmatched,1
+Calf Entritis,Enteritis,dictionary,1
+milk fever,Milk Fever (Hypocalcaemia),dictionary,1
+Equine Babesiosis,Babesiosis (Redwater),dictionary,1
+Distocis,Distocis,unmatched,1
+Sneck Spitting,Sneck Spitting,unmatched,1
+Swine Dysentery,Diarrhoea / Scours,dictionary,1
+Digestive Disorder,Digestive Disorder,unmatched,1
+Pelvic Bone Injury,Trauma / Injury,dictionary,1
+Twitching Of Intestine,Twitching Of Intestine,unmatched,1
+Lock Jaw,Lock Jaw,unmatched,1
+Antihelminthics,Antihelminthics,unmatched,1
+Red Water /babesiosis,Babesiosis (Redwater),dictionary,1
+Eye Lid Carcinoma,Tumour,dictionary,1
+Rainfall Effect,Rainfall Effect,unmatched,1
+Temporal Infertility,Infertility / Reproductive Disorder,dictionary,1
+Camel Couph,Camel Couph,unmatched,1
+Cystic Hydatidosis,Hydatidosis (Echinococcosis),dictionary,1
+Electrocution,Trauma / Injury,dictionary,1
+Hypoglycaemic,Hypoglycaemic,unmatched,1
+Camel Fly And Ticks,Tick Infestation,dictionary,1
+Chocking,Chocking,unmatched,1
+Kidney Nephritis,Kidney Nephritis,unmatched,1
+Bone obstraction,Bone Obstraction,unmatched,1
+Early Embryonic Death,Early Embryonic Death,unmatched,1
+Sweatingsickness,Sweatingsickness,unmatched,1
+Cystic Ovary/ Infertility,Infertility / Reproductive Disorder,dictionary,1
+Johnes,Johne's Disease,dictionary,1
+Parasitosis Ascaris Galinarium,Helminthiasis; Parasitic Infestation (unspecified),dictionary,1
+lesions,Lesions,unmatched,1
+Gastero-enteritis,Enteritis,dictionary,1
+Cud dropping,Cud Dropping,unmatched,1
+Non specific diarrohea.,Diarrhoea / Scours,dictionary,1
+Parasites Infestation,Parasitic Infestation (unspecified),dictionary,1
+Fowltyphoid disease,Fowl Typhoid,dictionary,1
+Castrationc,Routine Procedure (non-disease),dictionary,1
+Deworming Overdose,Routine Procedure (non-disease),dictionary,1
+Liver Multiple Abscesses,Abscess,dictionary,1
+Avitaminosis And Shipping Fever.,Respiratory Infection (unspecified); Nutritional Deficiency,dictionary,1
+Foreign Material In The Rumen,Foreign Material In The Rumen,unmatched,1
+Predation Leopard Kill 1 and 4 Left With Serious Injuries,Predation / Wildlife Attack; Trauma / Injury,dictionary,1
+Demodectic Mange,Mange,dictionary,1
+Diseases Of Non_specific Causes,Diseases Of Non_Specific Causes,unmatched,1
+"Infectious Coryza,",Infectious Coryza,dictionary,1
+Dystocia Due to twinning and mulpresentation,Dystocia,dictionary,1
+Pneumonic Pasterellosis,Pasteurellosis; Pneumonia,dictionary,1
+Flea Allergy Dermatitis/Pulicosis (Flea Infestation),Flea Infestation; Dermatitis / Skin Infection; Allergy,dictionary,1
+Urinary Stasis,Urinary Tract Infection,dictionary,1
+Sheep Babesiosis,Babesiosis (Redwater),dictionary,1
+Equine Treps,Equine Treps,unmatched,1
+Bottle Jaw,Bottle Jaw,unmatched,1
+Chocolate Poisoning,Poisoning,dictionary,1
+Mineral Difficiency,Mineral Difficiency,unmatched,1
+diarrhoea,Diarrhoea / Scours,dictionary,1
+Lion attack,Predation / Wildlife Attack,dictionary,1
+Lioness attacj,Lioness Attacj,unmatched,1
+Transmissible Gastroenteritis,Enteritis,dictionary,1
+Trapanosomiasi,Trapanosomiasi,unmatched,1
+Sheep and goats Pox,Sheep and Goat Pox,dictionary,1
+bee sting.,Bee Sting,dictionary,1
+Typanosomiasis,Typanosomiasis,unmatched,1
+Vaginal Cyst,Vaginal Cyst,unmatched,1
+3rd Eye Lid Carcinoma,Tumour,dictionary,1
+Carcinoma Of Third Eyelid,Tumour,dictionary,1
+Hemorrhagic Sepcaemia,Hemorrhagic Sepcaemia,unmatched,1
+Downercowsyndrome,Downer Cow Syndrome,dictionary,1
+Repeat Breeders Syndrome,Infertility / Reproductive Disorder,dictionary,1
+Bee bite,Bee Sting,dictionary,1
+Calf Scours/Bacterial Enteritis,Diarrhoea / Scours; Enteritis,dictionary,1
+Elongated Horns,Elongated Horns,unmatched,1
+leg injury,Trauma / Injury,dictionary,1
+Hypermagnesium,Hypermagnesium,unmatched,1
+Dystocea,Dystocea,unmatched,1
+Infectious Corryza,Infectious Coryza,dictionary,1
+Reproductive Discharge,Reproductive Discharge,unmatched,1
+Physical injury due to overloading/overworked,Trauma / Injury,dictionary,1
+Lumpy  Skin Disease,Lumpy Skin Disease (LSD),dictionary,1
+Ortitis,Ortitis,unmatched,1
+Camel Diarrhoea,Diarrhoea / Scours,dictionary,1
+Redwater Disease,Babesiosis (Redwater),dictionary,1
+DHLP Vaccine,Dhlp Vaccine,unmatched,1
+Long Horn,Long Horn,unmatched,1
+Still Birt Andh,Still Birt Andh,unmatched,1
+retain afterbirth.,Retained Placenta,dictionary,1
+Postpartum Distress,Heat Stress,dictionary,1
+RBS,Rbs,unmatched,1
+Absesses,Abscess,dictionary,1
+East Cost Fever,East Cost Fever,unmatched,1
+Skin Cut,Trauma / Injury,dictionary,1
+Bovine Stress,Heat Stress,dictionary,1
+Swallowed An Avocado Seed,Swallowed An Avocado Seed,unmatched,1
+Vaccination Against Rabies Disease,Rabies; Routine Procedure (non-disease),dictionary,1
+Bovine  Ephemeral  Fever,Bovine Ephemeral Fever,dictionary,1
+Malpresentation,Malpresentation,unmatched,1
+Cow Down Syndrome,Cow Down Syndrome,unmatched,1
+Anaplasmosis And Babesiosis,Babesiosis (Redwater); Anaplasmosis,dictionary,1
+Cenorus (Parasitism),Coenurosis; Parasitic Infestation (unspecified),dictionary,1
+Navel  Ill,Navel Ill,dictionary,1
+Stimatitis,Stimatitis,unmatched,1
+Phosithesensitization,Phosithesensitization,unmatched,1
+Broken Cornea,Broken Cornea,unmatched,1
+Photosensitision,Photosensitisation,dictionary,1
+Photosynthesation,Photosynthesation,unmatched,1
+Suspected Anaplasmosis,Anaplasmosis,dictionary,1
+Phosensitization,Phosensitization,unmatched,1
+Photo Sensitization,Photosensitisation,dictionary,1
+Prolapse of the third eyelid,Prolapse,dictionary,1
+Hardware  Diseases,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,1
+Cercinoma Of Third Eyelid,Cercinoma Of Third Eyelid,unmatched,1
+Orff,Orff,unmatched,1
+Carcinoma Of Third Lead Eye,Tumour,dictionary,1
+Ankylosed Knee Joint,Ankylosed Knee Joint,unmatched,1
+Fungal Infection/Ring Worm,Ringworm (Dermatophytosis); Fungal Infection,dictionary,1
+Parasitosis,Parasitic Infestation (unspecified),dictionary,1
+E.C.f,East Coast Fever (ECF),dictionary,1
+Diarhae,Diarrhoea / Scours,dictionary,1
+Intestinal  Displacement,Intestinal Displacement,unmatched,1
+Swelling,Swelling,unmatched,1
+STI,Sti,unmatched,1
+Traumatic Reticular Pericarditis,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,1
+Interstitual Progressive Pneummonia,Interstitual Progressive Pneummonia,unmatched,1
+Lesteriosis,Lesteriosis,unmatched,1
+General Prophylaxis Treatment,Routine Procedure (non-disease),dictionary,1
+Albendazole Overdose,Albendazole Overdose,unmatched,1
+Foot Poison,Poisoning,dictionary,1
+Cattle Diarrhoea,Diarrhoea / Scours,dictionary,1
+Canker,Canker,unmatched,1
+Fracture Of Left Hind Limb,Trauma / Injury,dictionary,1
+Trypanosomiasus,Trypanosomiasis,dictionary,1
+Twin Dystocia,Dystocia,dictionary,1
+Vaccination Against Fowl Typhoid.,Fowl Typhoid; Routine Procedure (non-disease),dictionary,1
+Vitamin Supplement,Vitamin Supplement,unmatched,1
+Traumatic couputary effect,Trauma / Injury,dictionary,1
+Intestinal impaction,Impaction / Constipation,dictionary,1
+Transportation Stress,Heat Stress,dictionary,1
+Injury On the Jaw,Trauma / Injury,dictionary,1
+"Anaplasmosis and Babesiosis,",Babesiosis (Redwater); Anaplasmosis,dictionary,1
+Bacterial infection and liver cirosis,Bacterial Infection And Liver Cirosis,unmatched,1
+Limping Of Hind Limp,Lameness,dictionary,1
+dog Bite.,Animal Bites,dictionary,1
+Poor Baby Condition,Poor Baby Condition,unmatched,1
+BS,Bs,unmatched,1
+pyometritis,Metritis,dictionary,1
+Acarapisosis,Acarapisosis,unmatched,1
+Cyanide Poisoning,Poisoning,dictionary,1
+dermaphilosis,Dermaphilosis,unmatched,1
+Eye Carcinoma,Tumour,dictionary,1
+progressive interstisual pnemonea,Progressive Interstisual Pnemonea,unmatched,1
+Contracted Tibia,Contracted Tibia,unmatched,1
+Muscle Dystrophy,Muscle Dystrophy,unmatched,1
+Lympadonophathy,Lympadonophathy,unmatched,1
+Wooden Tongue.,Actinobacillosis (Wooden Tongue),dictionary,1
+Hypophosophotemia,Hypophosophotemia,unmatched,1
+Nerves,Nerves,unmatched,1
+Contaminated Wound,Trauma / Injury,dictionary,1
+3 days Sick Ness,Bovine Ephemeral Fever,dictionary,1
+Water Poisoning,Poisoning,dictionary,1
+Eye Worm,Helminthiasis,dictionary,1
+Plant Posoining,Plant Posoining,unmatched,1
+Neck Fracture,Trauma / Injury,dictionary,1
+Interstetial Torsion,Interstetial Torsion,unmatched,1
+Pneumatic,Pneumatic,unmatched,1
+Suspected Rabies Case,Rabies,dictionary,1
+injuries,Trauma / Injury,dictionary,1
+Multiple Abscesses In the Lungs,Abscess,dictionary,1
+Dropsical Back Part Of The Carcass,Dropsical Back Part Of The Carcass,unmatched,1
+Good Condition,Good Condition,unmatched,1
+Femur Fracture,Trauma / Injury,dictionary,1
+Udder Oedema,Udder Oedema,unmatched,1
+Fracture Of The Carpal Bones,Trauma / Injury,dictionary,1
+Vaccination,Routine Procedure (non-disease),dictionary,1
+Sheep Myasisi,Myiasis,dictionary,1
+Cattle Dipping,Cattle Dipping,unmatched,1
+canine distemper in puppies,Canine Distemper,dictionary,1
+Bacillosis,Bacillosis,unmatched,1
+constipation,Impaction / Constipation,dictionary,1
+Control Of External Parasites,Ectoparasite Infestation,dictionary,1
+Photosyntization,Photosyntization,unmatched,1
+Insect Bite,Animal Bites,dictionary,1
+foot rot,Foot Rot,dictionary,1
+Pathological,Pathological,unmatched,1
+Cutenous Anthrax,Anthrax,dictionary,1
+Asphaxia,Asphaxia,unmatched,1
+Pink Eye 0,Pink Eye (Infectious Keratoconjunctivitis),dictionary,1
+Anàemia,AnàEmia,unmatched,1
+Sudden Death,Sudden Death,unmatched,1
+GIT Discomfort,Git Discomfort,unmatched,1
+Sinusitis + Pneumonia,Pneumonia; Respiratory Infection (unspecified),dictionary,1
+helminthiasis and  wound management,Helminthiasis; Trauma / Injury,dictionary,1
+Trauma From Injury,Trauma / Injury,dictionary,1
+Infertility Problem,Infertility / Reproductive Disorder,dictionary,1
+Genetic Disorder,Genetic Disorder,unmatched,1
+Wart,Papillomatosis (Warts),dictionary,1
+Manages,Manages,unmatched,1
+Conge,Conge,unmatched,1
+Malnutritive Disorders,Nutritional Deficiency,dictionary,1
+Cat Mange,Mange,dictionary,1
+Fraacture,Fraacture,unmatched,1
+Pasteurella Pneumonia,Pneumonia,dictionary,1
+Poste Parturition Treatment,Poste Parturition Treatment,unmatched,1
+Broken Wing,Broken Wing,unmatched,1
+Bone Weakness,Bone Weakness,unmatched,1
+Sharp Object Injury,Trauma / Injury,dictionary,1
+HELMINTHIASIS,Helminthiasis,dictionary,1
+Lactic Acidosis,Ruminal Acidosis,dictionary,1
+non specific cow scour,Diarrhoea / Scours,dictionary,1
+bites by bees,Animal Bites,dictionary,1
+Urinary tract Infection,Urinary Tract Infection,dictionary,1
+Dystocia due to fetal maldisproportion,Dystocia,dictionary,1
+Traumatically kicked by adonkey.,Trauma / Injury,dictionary,1
+Enterotoxeamia,Enterotoxaemia,dictionary,1
+nonspecific diarrohea,Diarrhoea / Scours,dictionary,1
+Spleenomegaly,Spleenomegaly,unmatched,1
+Maggots,Myiasis,dictionary,1
+Ephimerral Fever,Bovine Ephemeral Fever,dictionary,1
+"Malnutrition Deficiency, Brucellosis",Brucellosis; Nutritional Deficiency,dictionary,1
+Synchronisation,Routine Procedure (non-disease),dictionary,1
+Uteral Prolapse,Prolapse,dictionary,1
+Overgrowth Hooves,Overgrowth Hooves,unmatched,1
+Pregnancy Confirmation,Pregnancy Confirmation,unmatched,1
+Mineral Deficiency Of Minerals,Nutritional Deficiency,dictionary,1
+Wooden tongue,Actinobacillosis (Wooden Tongue),dictionary,1
+cannibalism,Cannibalism,unmatched,1
+Encephalitis,Encephalitis,unmatched,1
+Tick Infestations And Infections,Tick Infestation,dictionary,1
+Trauma/TRP,Traumatic Reticuloperitonitis (Hardware Disease); Trauma / Injury,dictionary,1
+Suspected Enzootic Abortion,Abortion,dictionary,1
+Bovine Pasteurellosis,Pasteurellosis,dictionary,1
+Compound fracture.,Trauma / Injury,dictionary,1
+Hip Joint Injuries,Trauma / Injury,dictionary,1
+bee sting,Bee Sting,dictionary,1
+cystic ovary,Cystic Ovary,unmatched,1
+tick born disease,Tick Infestation,dictionary,1
+Degenerative Arthritis,Arthritis,dictionary,1
+Eyes infection,Eyes Infection,unmatched,1
+unkown,Unkown,unmatched,1
+Masitis,Masitis,unmatched,1
+Lice infestation,Lice Infestation,dictionary,1
+"Not Known May be Due to Stress,",Heat Stress,dictionary,1
+Vitamin Deficiency,Nutritional Deficiency,dictionary,1
+Parturent Paresis,Parturent Paresis,unmatched,1
+Tick Borne,Tick Infestation,dictionary,1
+Overgrown Teeth,Overgrown Teeth,unmatched,1
+Fractured Hind Leg,Trauma / Injury,dictionary,1
+Breeding Disease/Overloading,Breeding Disease/Overloading,unmatched,1
+Dermatatis,Dermatatis,unmatched,1
+Traumatic cut by asharp objected,Trauma / Injury,dictionary,1
+traumatic eye injury.,Trauma / Injury,dictionary,1
+Haemorrhage At The,Haemorrhage At The,unmatched,1
+Open wound,Trauma / Injury,dictionary,1
+Muscle Strain,Muscle Strain,unmatched,1
+DHLP Vaccination,Routine Procedure (non-disease),dictionary,1
+Retainplacenta,Retained Placenta,dictionary,1
+Respiratory With Excess Cough,Respiratory Infection (unspecified),dictionary,1
+Post Vaccination Reaction,Routine Procedure (non-disease),dictionary,1
+stress of stavationn,Heat Stress,dictionary,1
+CBPjj,Cbpjj,unmatched,1
+Mouth Wound,Trauma / Injury,dictionary,1
+Inflammation Of Eye,Inflammation Of Eye,unmatched,1
+Foot Wound,Trauma / Injury,dictionary,1
+Dystocia/hypocalceamia,Dystocia; Milk Fever (Hypocalcaemia),dictionary,1
+Nk,Nk,unmatched,1
+Hermorragic Septicemia,Septicaemia,dictionary,1
+Sub clinical mastitis,Mastitis,dictionary,1
+Pink Eyr,Pink Eyr,unmatched,1
+"External Parasite( Lice, Ticks and Fleas)",Flea Infestation; Lice Infestation; Tick Infestation; Ectoparasite Infestation,dictionary,1
+Jones' Disease,Jones' Disease,unmatched,1
+Nerve Injury,Trauma / Injury,dictionary,1
+Abscess.,Abscess,dictionary,1
+Liver fluke,Fasciolosis (Liver Fluke),dictionary,1
+"Insect Stings, Bees","Insect Stings, Bees",unmatched,1
+External Parasite and Vitamin Deficiency,Ectoparasite Infestation; Nutritional Deficiency,dictionary,1
+Uterine Irrigation,Uterine Irrigation,unmatched,1
+Sarcoids,Tumour,dictionary,1
+Contagious Skin Necrosis,Contagious Skin Necrosis,unmatched,1
+Bacterial Diarrhoea,Diarrhoea / Scours,dictionary,1
+Emphemeral Fever.,Bovine Ephemeral Fever,dictionary,1
+Mange Condition,Mange,dictionary,1
+Canine Dermatophytosis,Ringworm (Dermatophytosis),dictionary,1
+Flea Infestation.Respiratory Infection,Flea Infestation; Respiratory Infection (unspecified),dictionary,1
+Ephemeral  F,Bovine Ephemeral Fever,dictionary,1
+Punctured Jugular Vein,Punctured Jugular Vein,unmatched,1
+E.coli,Colibacillosis,dictionary,1
+Mastitis The,Mastitis,dictionary,1
+Kidney Failure,Kidney Failure,unmatched,1
+Egg Yolk Peritonitis,Egg Yolk Peritonitis,unmatched,1
+Infectious Abortion,Abortion,dictionary,1
+Bite Woundd,Animal Bites; Trauma / Injury,dictionary,1
+Steptothricosis,Steptothricosis,unmatched,1
+R,R,unmatched,1
+Ephemeral. Fever,Bovine Ephemeral Fever,dictionary,1
+Pin Eye,Pin Eye,unmatched,1
+Joint Il,Joint Il,unmatched,1
+Suspected Chlamydia,Suspected Chlamydia,unmatched,1
+Bumblefoot,Bumblefoot,unmatched,1
+Injury  Of  Penis,Trauma / Injury,dictionary,1
+Meng,Meng,unmatched,1
+Congenital defect,Congenital Defect,unmatched,1
+Calf diphtheria,Calf Diphtheria,unmatched,1
+Calf Diphderia,Calf Diphderia,unmatched,1
+ACDS,Acute Camel Death Syndrome (ACDS),dictionary,1
+Hemorrhagic Enteritis,Enteritis,dictionary,1
+Hard Ware,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,1
+Cancerous Tumor,Tumour,dictionary,1
+Foul Typhoid,Foul Typhoid,unmatched,1
+E. C. F,East Coast Fever (ECF),dictionary,1
+Pododermatitis,Dermatitis / Skin Infection,dictionary,1
+Buren  By Suspected Rabid Dog,Buren By Suspected Rabid Dog,unmatched,1
+Actinobacillus,Actinobacillosis (Wooden Tongue),dictionary,1
+Test Laceration,Trauma / Injury,dictionary,1
+Retained Placenta And Abortions,Retained Placenta; Abortion,dictionary,1
+vaginal prolapse,Prolapse,dictionary,1
+vagus disorder,Vagus Disorder,unmatched,1
+Placenta Retention,Placenta Retention,unmatched,1
+Bottle jaw,Bottle Jaw,unmatched,1
+Testicle Tumor,Tumour,dictionary,1
+Papilloma virus,Papillomatosis (Warts),dictionary,1
+Breeding  diseases/mineralization,Breeding Diseases/Mineralization,unmatched,1
+Camel cough,Camel Respiratory Disease,dictionary,1
+Postpertum Infection,Postpertum Infection,unmatched,1
+Left Front Limb Broken,Left Front Limb Broken,unmatched,1
+Fructue,Fructue,unmatched,1
+Helminthais,Helminthiasis,dictionary,1
+Difficult Kidding,Difficult Kidding,unmatched,1
+Incalf,Incalf,unmatched,1
+eye trauma,Trauma / Injury,dictionary,1
+Kidney stones,Urinary Tract Infection,dictionary,1
+Hydatid cysts,Hydatidosis (Echinococcosis),dictionary,1
+Cs In Cow,Cs In Cow,unmatched,1
+Spleen abscess,Abscess,dictionary,1
+foul in the foot,Foot Rot,dictionary,1
+simple indigestion,Simple Indigestion,unmatched,1
+Lameness/Laminitis,Laminitis; Lameness,dictionary,1
+Uterine prolapse,Prolapse,dictionary,1
+Calve Scour,Diarrhoea / Scours,dictionary,1
+Hernia ring,Hernia,dictionary,1
+Diarrhoea In Kids,Diarrhoea / Scours,dictionary,1
+Dermatosis,Dermatosis,unmatched,1
+MycoplasmosIs,Mycoplasmosis,unmatched,1
+Iron Sheet Cut,Trauma / Injury,dictionary,1
+General Body Weakness,General Body Weakness,unmatched,1
+Milk fever/ketosis,Milk Fever (Hypocalcaemia); Ketosis,dictionary,1
+Three Days Fever Disease,Three Days Fever Disease,unmatched,1
+Bloody Diarrhea Associated with Plant poisoning,Diarrhoea / Scours; Poisoning,dictionary,1
+Downer Cow syndrome,Downer Cow Syndrome,dictionary,1
+Necrotic Hepatitis,Necrotic Hepatitis,unmatched,1
+Heamatima,Heamatima,unmatched,1
+Fowl Typoid,Fowl Typoid,unmatched,1
+Red Urine,Babesiosis (Redwater),dictionary,1
+Skin Puncture Wound,Trauma / Injury,dictionary,1
+caseous Lymphad,Caseous Lymphadenitis,dictionary,1
+Oversized Abscess At Prescapular Area Tissue,Abscess,dictionary,1
+Urinary Truct Infections,Urinary Tract Infection,dictionary,1
+Unknown Camel Death,Unknown Camel Death,unmatched,1
+Afkatoxicosis,Poisoning,dictionary,1
+Foot Rot/orf,Orf (Contagious Ecthyma); Foot Rot,dictionary,1
+Wild Dog,Wild Dog,unmatched,1
+Foreign Body Laceration On the animals,Traumatic Reticuloperitonitis (Hardware Disease); Trauma / Injury,dictionary,1
+Aspiration Pneumonia,Pneumonia,dictionary,1
+Growth,Growth,unmatched,1
+Teat Wart,Papillomatosis (Warts),dictionary,1
+Calf  Scours,Diarrhoea / Scours,dictionary,1
+calf scours,Diarrhoea / Scours,dictionary,1
+Bottle Jow,Bottle Jow,unmatched,1
+Blue  Tongue,Bluetongue,dictionary,1
+Urogenital Infection,Urogenital Infection,unmatched,1
+Parasite Infestation,Parasitic Infestation (unspecified),dictionary,1
+Trypanasomiasis,Trypanosomiasis,dictionary,1
+Pregnancy Test,Pregnancy Test,unmatched,1
+Early Embronic Death,Early Embronic Death,unmatched,1
+Hynes Attacked,Predation / Wildlife Attack,dictionary,1
+Ectoparasite Infestation,Ectoparasite Infestation,dictionary,1
+Pg,Pg,unmatched,1
+Cutenous Myiasis,Myiasis,dictionary,1
+Taeniosis,Taeniosis,unmatched,1
+Not Confirmed Yet,Not Confirmed Yet,unmatched,1
+Ketosis/Hypocalcaemia,Milk Fever (Hypocalcaemia); Ketosis,dictionary,1
+Contagious Abortion,Abortion,dictionary,1
+Premature Delivery And Foot Rot,Foot Rot,dictionary,1
+Fungal Skin Infections,Fungal Infection; Dermatitis / Skin Infection,dictionary,1
+Dermatitis /Wounds,Trauma / Injury; Dermatitis / Skin Infection,dictionary,1
+Fot  rot,Foot Rot,dictionary,1
+Traumatic ReticuloPericarditis (TRP),Traumatic Reticuloperitonitis (Hardware Disease),dictionary,1
+Tongue Abscesses,Abscess,dictionary,1
+"Bacterial Infections, HS, Heart Water, Moraxella Infection",Haemorrhagic Septicaemia; Heartwater,dictionary,1
+Gastrointestinal Intestinal Enteritis,Enteritis,dictionary,1
+Predations,Predation / Wildlife Attack,dictionary,1
+Gassy Bloat,Bloat,dictionary,1
+Photosensation,Photosensation,unmatched,1
+Wry neck syndrome,Wry Neck,dictionary,1
+Lung Parasitic,Parasitic Infestation (unspecified),dictionary,1
+Contegious Ecthyma( Off Disease),Contegious Ecthyma( Off Disease),unmatched,1
+Acute Laminitis,Laminitis,dictionary,1
+Surgical Intervention,Surgical Intervention,unmatched,1
+Conjuctivakeratitis,Eye Infection,dictionary,1
+Infection,Infection,unmatched,1
+Babesiosis And Eperythrozoon Bacteria,Babesiosis (Redwater),dictionary,1
+Acute Camel Sudden Death,Acute Camel Death Syndrome (ACDS),dictionary,1
+Helmiths,Helminthiasis,dictionary,1
+Pleurisy,Pleurisy,unmatched,1
+Not  Sure,Not Sure,unmatched,1
+Anaplsmosis,Anaplsmosis,unmatched,1
+Non specific diarrhea,Diarrhoea / Scours,dictionary,1
+Brisket Swelling,Brisket Swelling,unmatched,1
+bovine preputial injury,Trauma / Injury,dictionary,1
+Respiratory Infections,Respiratory Infection (unspecified),dictionary,1
+Not Confirmed Disease,Not Confirmed Disease,unmatched,1
+Ectopic Pregnancy,Ectopic Pregnancy,unmatched,1
+Boat,Boat,unmatched,1
+Ovine interstitial pneumonia,Pneumonia,dictionary,1
+Camel Wrey Kneck,Camel Wrey Kneck,unmatched,1
+FootRot,Foot Rot,dictionary,1
+Calfscours,Diarrhoea / Scours,dictionary,1
+Mascle Strain Following An Injuri.,Trauma / Injury,dictionary,1
+Avian Corryza,Infectious Coryza,dictionary,1
+"Anaplasmosis, Babesiosis,Eperthrozoon Bacteria",Babesiosis (Redwater); Anaplasmosis,dictionary,1
+Vaccination Against Fowl Typhoid Disease.,Fowl Typhoid; Routine Procedure (non-disease),dictionary,1
+collic,Collic,unmatched,1
+non specific,Unknown,placeholder,1
+Mycotic abortion,Abortion; Fungal Infection,dictionary,1
+Dog  Bite,Animal Bites,dictionary,1
+Udder Edema,Udder Edema,unmatched,1
+venearal infection (Tricomoniasis),Trichomoniasis,dictionary,1
+Contagious Ecthyma/Orf,Orf (Contagious Ecthyma),dictionary,1
+Cutanious Disease,Cutanious Disease,unmatched,1
+pinck eye,Pinck Eye,unmatched,1
+Meningitis,Meningitis,unmatched,1
+Cutenous Abscess,Abscess,dictionary,1
+Abrasive Irritant,Abrasive Irritant,unmatched,1
+Intergital Cyst,Intergital Cyst,unmatched,1
+Sheep Mange,Mange,dictionary,1
+Cl Cysts,Cl Cysts,unmatched,1
+Cutaneous,Cutaneous,unmatched,1
+Bovine Viral Papimalotosis,Bovine Viral Papimalotosis,unmatched,1
+"Pink Eye, Helminths N Enteritis",Helminthiasis; Enteritis; Pink Eye (Infectious Keratoconjunctivitis),dictionary,1
+Bacterial Scour,Diarrhoea / Scours,dictionary,1
+Traumatic effect on internal organs,Trauma / Injury,dictionary,1
+Congenital,Congenital,unmatched,1
+Tarsal Joint Ankylosis,Tarsal Joint Ankylosis,unmatched,1
+Acute Tryps,Trypanosomiasis,dictionary,1
+Contagious Echzema,Contagious Echzema,unmatched,1
+Abseses,Abscess,dictionary,1
+Retained  After Birth,Retained Placenta,dictionary,1
+Knee Join Edema,Knee Join Edema,unmatched,1
+Bruise/Injury,Trauma / Injury,dictionary,1
+Haemorrhage Septicemia,Septicaemia,dictionary,1
+Empherial Fever,Empherial Fever,unmatched,1
+Anaplasmosis0,Anaplasmosis,dictionary,1
+Ephimoral Fever,Bovine Ephemeral Fever,dictionary,1
+Lack Of Vitamin D,Lack Of Vitamin D,unmatched,1
+Bovine Papular Stomatitis,Stomatitis,dictionary,1
+Bloat/ Septic Wound,Bloat; Trauma / Injury,dictionary,1
+Obstruction  By Foreign materials In The Rumen,Obstruction By Foreign Materials In The Rumen,unmatched,1
+Infectious Corrhyza,Infectious Corrhyza,unmatched,1
+matitis,Mastitis,dictionary,1
+Scoures,Diarrhoea / Scours,dictionary,1
+Campylobacterios,Campylobacterios,unmatched,1
+Breech,Dystocia,dictionary,1
+Bovine Ephemeral Fev,Bovine Ephemeral Fever,dictionary,1
+Umbilical Cord/Navel Heamorrhage Of Unknown Cause,Navel Ill,dictionary,1
+suspected cbpp,Contagious Bovine Pleuropneumonia (CBPP),dictionary,1
+Cutaneous Abscess,Abscess,dictionary,1
+Q-Fever,Q Fever,dictionary,1
+Mated While Pregnant,Mated While Pregnant,unmatched,1
+Raped By Ram,Raped By Ram,unmatched,1
+Traumatic Reticuloperitis,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,1
+Bovine respiratory distress,Respiratory Infection (unspecified); Heat Stress,dictionary,1
+Blockage,Impaction / Constipation,dictionary,1
+Red water,Babesiosis (Redwater),dictionary,1
+Nsd .,Nairobi Sheep Disease (NSD),dictionary,1
+Postnatal Complications,Postnatal Complications,unmatched,1
+Cuprine Babesiosis,Babesiosis (Redwater),dictionary,1
+Interstitual Progressive Pneumonia,Pneumonia,dictionary,1
+Parasites Infection,Parasitic Infestation (unspecified),dictionary,1
+Deworming,Routine Procedure (non-disease),dictionary,1
+Bacteria Enteritis,Enteritis,dictionary,1
+Virginal Prolaps,Prolapse,dictionary,1
+Oedema And Injury,Trauma / Injury,dictionary,1
+Mastitis and Foot Rot,Mastitis; Foot Rot,dictionary,1
+Hardware/TRP,Traumatic Reticuloperitonitis (Hardware Disease),dictionary,1
+Warts/Bovine Pappilloma,Papillomatosis (Warts),dictionary,1
+Trichonosomiasis,Trichonosomiasis,unmatched,1
+Mange Infection.,Mange,dictionary,1
+Cutaneous Streptothricosis.,Dermatophilosis (Streptothricosis),dictionary,1
+Ventral Hernial,Hernia,dictionary,1
+3dayssickness,Bovine Ephemeral Fever,dictionary,1
+Hemorrhagic bowel syndrome,Hemorrhagic Bowel Syndrome,unmatched,1
+Fracture of left hind leg,Trauma / Injury,dictionary,1
+couph,Couph,unmatched,1
+Tryps And TBD(Anaplasmosis),Anaplasmosis; Tick-borne Disease; Trypanosomiasis,dictionary,1
+hayena,Predation / Wildlife Attack,dictionary,1
+pinc eye disease,Pink Eye (Infectious Keratoconjunctivitis),dictionary,1
+Prophylaxis Therapy,Routine Procedure (non-disease),dictionary,1
+Uterine Prolapse With RAB,Prolapse,dictionary,1
+Camel mastitis,Mastitis,dictionary,1
+Erythema And Wounds,Trauma / Injury,dictionary,1
+Anal Sacculitis,Anal Sacculitis,unmatched,1
+Alopesia,Alopesia,unmatched,1
+Difficult Calving.,Dystocia,dictionary,1
+Hydronephritis,Hydronephritis,unmatched,1
+Wound Infection with Maggots,Myiasis; Trauma / Injury,dictionary,1
+Fracture Of Metatarsal Bone,Trauma / Injury,dictionary,1
+Iron Supplementation,Routine Procedure (non-disease),dictionary,1
+Abortion Suspected to be caused by stressed during transit,Abortion; Heat Stress,dictionary,1
+Eye Cataract,Eye Cataract,unmatched,1
+Gastrointestinal parasitism,Parasitic Infestation (unspecified),dictionary,1
+Virginitis,Virginitis,unmatched,1
+Foot Rot/Foot Abscess,Foot Rot; Abscess,dictionary,1
+RETAINED AFTER BIRTH,Retained Placenta,dictionary,1
+Colibacillosi/Salmonelosis,Colibacillosis; Salmonellosis,dictionary,1
+Metabolic disorder,Metabolic Disorder,unmatched,1
+Killed by Lion,Predation / Wildlife Attack,dictionary,1
+Apisination,Apisination,unmatched,1
+Bacterial pneumonia,Pneumonia,dictionary,1
+concrete floor injuries,Trauma / Injury,dictionary,1
+Skin Rapture By Barbed Wire,Skin Rapture By Barbed Wire,unmatched,1
+Mineral deficiancy,Mineral Deficiancy,unmatched,1
+Cowdowner syndrome,Downer Cow Syndrome,dictionary,1
+Broken Bone,Broken Bone,unmatched,1
+Bovine Ephemeral Fever Virus,Bovine Ephemeral Fever,dictionary,1
+Infertility diseases,Infertility / Reproductive Disorder,dictionary,1
+Necrotic Mastitis,Mastitis,dictionary,1
+Keratoconjuctivitis / Pink Eye,Pink Eye (Infectious Keratoconjunctivitis),dictionary,1
+Mange Infestation As Well As Dermatophytosis,Ringworm (Dermatophytosis); Mange,dictionary,1
+Oestrus ovis,Oestrosis (Nasal Bot),dictionary,1
+Anthracosis,Anthracosis,unmatched,1
+Broken Hind Limb,Broken Hind Limb,unmatched,1
+Camel Cough/ Flu,Camel Respiratory Disease,dictionary,1
+Retained Placenta After Premature birth,Retained Placenta; Abortion,dictionary,1
+Suspected Swayback,Suspected Swayback,unmatched,1
+A Deep Cut At The Pelvic Bone,Trauma / Injury,dictionary,1
+Eye Infection Due Cyanocobalamin Sufficiency,Eye Infection,dictionary,1
+Bovine Papular Stomatitis /Teeth aches,Stomatitis,dictionary,1
+Overgrown hooves,Overgrown Hooves,unmatched,1
+Tick Fiver,Tick Infestation,dictionary,1
+Not Specified,Not Specified,unmatched,1
+Foot Lot,Foot Lot,unmatched,1
+Traumatic Open Wound,Trauma / Injury,dictionary,1
+Ear Infection,Ear Infection,unmatched,1
+Nutrition,Nutrition,unmatched,1
+Unknow,Unknow,unmatched,1
+Ascariosis,Helminthiasis,dictionary,1
+Pinc eye,Pink Eye (Infectious Keratoconjunctivitis),dictionary,1
+Tossion,Tossion,unmatched,1
+Rickets,Rickets,unmatched,1
+Flea Bite Dermatitis,Flea Infestation; Animal Bites; Dermatitis / Skin Infection,dictionary,1
+Helminthoses,Helminthiasis,dictionary,1
+Septic Wound and fungal Infection,Trauma / Injury; Fungal Infection,dictionary,1
+Splenomegaly,Splenomegaly,unmatched,1
+Lymph Node Abscess,Abscess,dictionary,1
+Canine Parvovirus Enteritis,Enteritis; Parvovirus,dictionary,1
+Fistula and Recetal Prolapse,Prolapse,dictionary,1
+aural hematoma,Aural Hematoma,unmatched,1
+Erythema,Erythema,unmatched,1
+Wounded,Trauma / Injury,dictionary,1
