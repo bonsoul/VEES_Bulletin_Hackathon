@@ -1,0 +1,4057 @@
+"county","sub_county","Species","value"
+"Baringo","Baringo","Camels",38500
+"Baringo","Baringo","Cattle(Beef)",16157
+"Baringo","Baringo","Cattle(Dairy)",46244
+"Baringo","Baringo","Cattle(Indigenous)",347445
+"Baringo","Baringo","Chicken(Broilers)",17317
+"Baringo","Baringo","Chicken(Indigenous)",536949
+"Baringo","Baringo","Chicken(Layers)",29239
+"Baringo","Baringo","Donkeys",18109
+"Baringo","Baringo","Goats",933727
+"Baringo","Baringo","Pigs",432
+"Baringo","Baringo","Rabbits",2700
+"Baringo","Baringo","Sheep",343343
+"Baringo","Baringo Central","Camels",20
+"Baringo","Baringo Central","Cattle(Beef)",1985
+"Baringo","Baringo Central","Cattle(Dairy)",6244
+"Baringo","Baringo Central","Cattle(Indigenous)",17033
+"Baringo","Baringo Central","Chicken(Broilers)",4660
+"Baringo","Baringo Central","Chicken(Indigenous)",74246
+"Baringo","Baringo Central","Chicken(Layers)",8062
+"Baringo","Baringo Central","Donkeys",324
+"Baringo","Baringo Central","Goats",39128
+"Baringo","Baringo Central","Pigs",8
+"Baringo","Baringo Central","Rabbits",347
+"Baringo","Baringo Central","Sheep",19264
+"Baringo","Baringo North","Camels",119
+"Baringo","Baringo North","Cattle(Beef)",1372
+"Baringo","Baringo North","Cattle(Dairy)",4935
+"Baringo","Baringo North","Cattle(Indigenous)",32600
+"Baringo","Baringo North","Chicken(Broilers)",1734
+"Baringo","Baringo North","Chicken(Indigenous)",82930
+"Baringo","Baringo North","Chicken(Layers)",3797
+"Baringo","Baringo North","Donkeys",143
+"Baringo","Baringo North","Goats",110967
+"Baringo","Baringo North","Pigs",39
+"Baringo","Baringo North","Rabbits",256
+"Baringo","Baringo North","Sheep",30493
+"Baringo","Tiaty","Camels",38175
+"Baringo","Tiaty","Cattle(Beef)",8308
+"Baringo","Tiaty","Cattle(Dairy)",9323
+"Baringo","Tiaty","Cattle(Indigenous)",185840
+"Baringo","Tiaty","Chicken(Broilers)",2359
+"Baringo","Tiaty","Chicken(Indigenous)",76662
+"Baringo","Tiaty","Chicken(Layers)",3794
+"Baringo","Tiaty","Donkeys",10752
+"Baringo","Tiaty","Goats",537843
+"Baringo","Tiaty","Pigs",46
+"Baringo","Tiaty","Rabbits",330
+"Baringo","Tiaty","Sheep",161992
+"Baringo","Eldama Ravine","Camels",43
+"Baringo","Eldama Ravine","Cattle(Beef)",2073
+"Baringo","Eldama Ravine","Cattle(Dairy)",20136
+"Baringo","Eldama Ravine","Cattle(Indigenous)",25743
+"Baringo","Eldama Ravine","Chicken(Broilers)",4019
+"Baringo","Eldama Ravine","Chicken(Indigenous)",117807
+"Baringo","Eldama Ravine","Chicken(Layers)",9001
+"Baringo","Eldama Ravine","Donkeys",2926
+"Baringo","Eldama Ravine","Goats",14023
+"Baringo","Eldama Ravine","Pigs",198
+"Baringo","Eldama Ravine","Rabbits",1425
+"Baringo","Eldama Ravine","Sheep",37828
+"Baringo","Baringo South","Camels",75
+"Baringo","Baringo South","Cattle(Beef)",1135
+"Baringo","Baringo South","Cattle(Dairy)",1869
+"Baringo","Baringo South","Cattle(Indigenous)",38291
+"Baringo","Baringo South","Chicken(Broilers)",915
+"Baringo","Baringo South","Chicken(Indigenous)",82561
+"Baringo","Baringo South","Chicken(Layers)",1951
+"Baringo","Baringo South","Donkeys",1568
+"Baringo","Baringo South","Goats",137577
+"Baringo","Baringo South","Pigs",29
+"Baringo","Baringo South","Rabbits",136
+"Baringo","Baringo South","Sheep",51516
+"Baringo","Mogotio","Camels",68
+"Baringo","Mogotio","Cattle(Beef)",1284
+"Baringo","Mogotio","Cattle(Dairy)",3737
+"Baringo","Mogotio","Cattle(Indigenous)",47938
+"Baringo","Mogotio","Chicken(Broilers)",3630
+"Baringo","Mogotio","Chicken(Indigenous)",102743
+"Baringo","Mogotio","Chicken(Layers)",2634
+"Baringo","Mogotio","Donkeys",2396
+"Baringo","Mogotio","Goats",94189
+"Baringo","Mogotio","Pigs",112
+"Baringo","Mogotio","Rabbits",206
+"Baringo","Mogotio","Sheep",42250
+"Bomet","Bomet","Camels",0
+"Bomet","Bomet","Cattle(Beef)",7342
+"Bomet","Bomet","Cattle(Dairy)",99188
+"Bomet","Bomet","Cattle(Indigenous)",211679
+"Bomet","Bomet","Chicken(Broilers)",12917
+"Bomet","Bomet","Chicken(Indigenous)",816840
+"Bomet","Bomet","Chicken(Layers)",87282
+"Bomet","Bomet","Donkeys",10985
+"Bomet","Bomet","Goats",76459
+"Bomet","Bomet","Pigs",306
+"Bomet","Bomet","Rabbits",5940
+"Bomet","Bomet","Sheep",80492
+"Bomet","Bomet Central","Camels",0
+"Bomet","Bomet Central","Cattle(Beef)",1069
+"Bomet","Bomet Central","Cattle(Dairy)",19907
+"Bomet","Bomet Central","Cattle(Indigenous)",31885
+"Bomet","Bomet Central","Chicken(Broilers)",3109
+"Bomet","Bomet Central","Chicken(Indigenous)",122262
+"Bomet","Bomet Central","Chicken(Layers)",14659
+"Bomet","Bomet Central","Donkeys",1298
+"Bomet","Bomet Central","Goats",6903
+"Bomet","Bomet Central","Pigs",104
+"Bomet","Bomet Central","Rabbits",776
+"Bomet","Bomet Central","Sheep",10947
+"Bomet","Bomet East","Camels",0
+"Bomet","Bomet East","Cattle(Beef)",1568
+"Bomet","Bomet East","Cattle(Dairy)",11505
+"Bomet","Bomet East","Cattle(Indigenous)",40425
+"Bomet","Bomet East","Chicken(Broilers)",1830
+"Bomet","Bomet East","Chicken(Indigenous)",123663
+"Bomet","Bomet East","Chicken(Layers)",9732
+"Bomet","Bomet East","Donkeys",5092
+"Bomet","Bomet East","Goats",24251
+"Bomet","Bomet East","Pigs",45
+"Bomet","Bomet East","Rabbits",1311
+"Bomet","Bomet East","Sheep",6876
+"Bomet","Chepalungu","Camels",0
+"Bomet","Chepalungu","Cattle(Beef)",1689
+"Bomet","Chepalungu","Cattle(Dairy)",21179
+"Bomet","Chepalungu","Cattle(Indigenous)",58279
+"Bomet","Chepalungu","Chicken(Broilers)",1348
+"Bomet","Chepalungu","Chicken(Indigenous)",252408
+"Bomet","Chepalungu","Chicken(Layers)",14015
+"Bomet","Chepalungu","Donkeys",3160
+"Bomet","Chepalungu","Goats",32285
+"Bomet","Chepalungu","Pigs",13
+"Bomet","Chepalungu","Rabbits",1394
+"Bomet","Chepalungu","Sheep",29403
+"Bomet","Konoin","Camels",0
+"Bomet","Konoin","Cattle(Beef)",843
+"Bomet","Konoin","Cattle(Dairy)",13991
+"Bomet","Konoin","Cattle(Indigenous)",20863
+"Bomet","Konoin","Chicken(Broilers)",2053
+"Bomet","Konoin","Chicken(Indigenous)",77642
+"Bomet","Konoin","Chicken(Layers)",19772
+"Bomet","Konoin","Donkeys",326
+"Bomet","Konoin","Goats",3519
+"Bomet","Konoin","Pigs",23
+"Bomet","Konoin","Rabbits",406
+"Bomet","Konoin","Sheep",10495
+"Bomet","Sotik","Camels",0
+"Bomet","Sotik","Cattle(Beef)",2173
+"Bomet","Sotik","Cattle(Dairy)",32606
+"Bomet","Sotik","Cattle(Indigenous)",60227
+"Bomet","Sotik","Chicken(Broilers)",4577
+"Bomet","Sotik","Chicken(Indigenous)",240865
+"Bomet","Sotik","Chicken(Layers)",29104
+"Bomet","Sotik","Donkeys",1109
+"Bomet","Sotik","Goats",9501
+"Bomet","Sotik","Pigs",121
+"Bomet","Sotik","Rabbits",2053
+"Bomet","Sotik","Sheep",22771
+"Bungoma","Bumula","Camels",0
+"Bungoma","Bumula","Cattle(Beef)",1209
+"Bungoma","Bumula","Cattle(Dairy)",5463
+"Bungoma","Bumula","Cattle(Indigenous)",45079
+"Bungoma","Bumula","Chicken(Broilers)",2732
+"Bungoma","Bumula","Chicken(Indigenous)",185036
+"Bungoma","Bumula","Chicken(Layers)",6373
+"Bungoma","Bumula","Donkeys",122
+"Bungoma","Bumula","Goats",17673
+"Bungoma","Bumula","Pigs",3573
+"Bungoma","Bumula","Rabbits",1118
+"Bungoma","Bumula","Sheep",3856
+"Bungoma","Bungoma","Camels",0
+"Bungoma","Bungoma","Cattle(Beef)",9822
+"Bungoma","Bungoma","Cattle(Dairy)",62009
+"Bungoma","Bungoma","Cattle(Indigenous)",279428
+"Bungoma","Bungoma","Chicken(Broilers)",28328
+"Bungoma","Bungoma","Chicken(Indigenous)",1191092
+"Bungoma","Bungoma","Chicken(Layers)",73189
+"Bungoma","Bungoma","Donkeys",6058
+"Bungoma","Bungoma","Goats",109693
+"Bungoma","Bungoma","Pigs",15930
+"Bungoma","Bungoma","Rabbits",12911
+"Bungoma","Bungoma","Sheep",78494
+"Bungoma","Kabuchai","Camels",0
+"Bungoma","Kabuchai","Cattle(Beef)",1029
+"Bungoma","Kabuchai","Cattle(Dairy)",7446
+"Bungoma","Kabuchai","Cattle(Indigenous)",29586
+"Bungoma","Kabuchai","Chicken(Broilers)",2654
+"Bungoma","Kabuchai","Chicken(Indigenous)",133170
+"Bungoma","Kabuchai","Chicken(Layers)",6716
+"Bungoma","Kabuchai","Donkeys",271
+"Bungoma","Kabuchai","Goats",12202
+"Bungoma","Kabuchai","Pigs",2004
+"Bungoma","Kabuchai","Rabbits",1835
+"Bungoma","Kabuchai","Sheep",5279
+"Bungoma","Webuye East","Camels",0
+"Bungoma","Webuye East","Cattle(Beef)",688
+"Bungoma","Webuye East","Cattle(Dairy)",4263
+"Bungoma","Webuye East","Cattle(Indigenous)",19734
+"Bungoma","Webuye East","Chicken(Broilers)",1327
+"Bungoma","Webuye East","Chicken(Indigenous)",74115
+"Bungoma","Webuye East","Chicken(Layers)",3114
+"Bungoma","Webuye East","Donkeys",4
+"Bungoma","Webuye East","Goats",4915
+"Bungoma","Webuye East","Pigs",924
+"Bungoma","Webuye East","Rabbits",972
+"Bungoma","Webuye East","Sheep",3365
+"Bungoma","Kimilili","Camels",0
+"Bungoma","Kimilili","Cattle(Beef)",1907
+"Bungoma","Kimilili","Cattle(Dairy)",12795
+"Bungoma","Kimilili","Cattle(Indigenous)",39348
+"Bungoma","Kimilili","Chicken(Broilers)",4434
+"Bungoma","Kimilili","Chicken(Indigenous)",193879
+"Bungoma","Kimilili","Chicken(Layers)",13789
+"Bungoma","Kimilili","Donkeys",96
+"Bungoma","Kimilili","Goats",9552
+"Bungoma","Kimilili","Pigs",1672
+"Bungoma","Kimilili","Rabbits",2211
+"Bungoma","Kimilili","Sheep",13292
+"Bungoma","Kanduyi","Camels",0
+"Bungoma","Kanduyi","Cattle(Beef)",1300
+"Bungoma","Kanduyi","Cattle(Dairy)",10124
+"Bungoma","Kanduyi","Cattle(Indigenous)",32869
+"Bungoma","Kanduyi","Chicken(Broilers)",8750
+"Bungoma","Kanduyi","Chicken(Indigenous)",192987
+"Bungoma","Kanduyi","Chicken(Layers)",23616
+"Bungoma","Kanduyi","Donkeys",167
+"Bungoma","Kanduyi","Goats",17513
+"Bungoma","Kanduyi","Pigs",3312
+"Bungoma","Kanduyi","Rabbits",2739
+"Bungoma","Kanduyi","Sheep",4990
+"Bungoma","Sirisia","Camels",0
+"Bungoma","Sirisia","Cattle(Beef)",539
+"Bungoma","Sirisia","Cattle(Dairy)",2960
+"Bungoma","Sirisia","Cattle(Indigenous)",24285
+"Bungoma","Sirisia","Chicken(Broilers)",525
+"Bungoma","Sirisia","Chicken(Indigenous)",103155
+"Bungoma","Sirisia","Chicken(Layers)",3858
+"Bungoma","Sirisia","Donkeys",221
+"Bungoma","Sirisia","Goats",15882
+"Bungoma","Sirisia","Pigs",918
+"Bungoma","Sirisia","Rabbits",665
+"Bungoma","Sirisia","Sheep",3173
+"Bungoma","Cheptais","Camels",0
+"Bungoma","Cheptais","Cattle(Beef)",1134
+"Bungoma","Cheptais","Cattle(Dairy)",4499
+"Bungoma","Cheptais","Cattle(Indigenous)",22446
+"Bungoma","Cheptais","Chicken(Broilers)",641
+"Bungoma","Cheptais","Chicken(Indigenous)",72910
+"Bungoma","Cheptais","Chicken(Layers)",2522
+"Bungoma","Cheptais","Donkeys",3260
+"Bungoma","Cheptais","Goats",8941
+"Bungoma","Cheptais","Pigs",1035
+"Bungoma","Cheptais","Rabbits",349
+"Bungoma","Cheptais","Sheep",11575
+"Bungoma","Mt. Elgon","Camels",0
+"Bungoma","Mt. Elgon","Cattle(Beef)",543
+"Bungoma","Mt. Elgon","Cattle(Dairy)",3323
+"Bungoma","Mt. Elgon","Cattle(Indigenous)",17857
+"Bungoma","Mt. Elgon","Chicken(Broilers)",265
+"Bungoma","Mt. Elgon","Chicken(Indigenous)",43839
+"Bungoma","Mt. Elgon","Chicken(Layers)",1595
+"Bungoma","Mt. Elgon","Donkeys",1366
+"Bungoma","Mt. Elgon","Goats",7041
+"Bungoma","Mt. Elgon","Pigs",182
+"Bungoma","Mt. Elgon","Rabbits",243
+"Bungoma","Mt. Elgon","Sheep",11065
+"Bungoma","Mt. Elgon forest","Camels",0
+"Bungoma","Mt. Elgon forest","Cattle(Beef)",0
+"Bungoma","Mt. Elgon forest","Cattle(Dairy)",1
+"Bungoma","Mt. Elgon forest","Cattle(Indigenous)",6949
+"Bungoma","Mt. Elgon forest","Chicken(Broilers)",0
+"Bungoma","Mt. Elgon forest","Chicken(Indigenous)",3382
+"Bungoma","Mt. Elgon forest","Chicken(Layers)",5
+"Bungoma","Mt. Elgon forest","Donkeys",509
+"Bungoma","Mt. Elgon forest","Goats",4606
+"Bungoma","Mt. Elgon forest","Pigs",0
+"Bungoma","Mt. Elgon forest","Rabbits",6
+"Bungoma","Mt. Elgon forest","Sheep",9394
+"Bungoma","Tongaren","Camels",0
+"Bungoma","Tongaren","Cattle(Beef)",619
+"Bungoma","Tongaren","Cattle(Dairy)",5350
+"Bungoma","Tongaren","Cattle(Indigenous)",13969
+"Bungoma","Tongaren","Chicken(Broilers)",4795
+"Bungoma","Tongaren","Chicken(Indigenous)",78128
+"Bungoma","Tongaren","Chicken(Layers)",7160
+"Bungoma","Tongaren","Donkeys",32
+"Bungoma","Tongaren","Goats",2210
+"Bungoma","Tongaren","Pigs",636
+"Bungoma","Tongaren","Rabbits",440
+"Bungoma","Tongaren","Sheep",8854
+"Bungoma","Webuye west","Camels",0
+"Bungoma","Webuye west","Cattle(Beef)",854
+"Bungoma","Webuye west","Cattle(Dairy)",5785
+"Bungoma","Webuye west","Cattle(Indigenous)",27306
+"Bungoma","Webuye west","Chicken(Broilers)",2205
+"Bungoma","Webuye west","Chicken(Indigenous)",110491
+"Bungoma","Webuye west","Chicken(Layers)",4441
+"Bungoma","Webuye west","Donkeys",10
+"Bungoma","Webuye west","Goats",9158
+"Bungoma","Webuye west","Pigs",1674
+"Bungoma","Webuye west","Rabbits",2333
+"Bungoma","Webuye west","Sheep",3651
+"Busia","Budalangi","Camels",0
+"Busia","Budalangi","Cattle(Beef)",280
+"Busia","Budalangi","Cattle(Dairy)",707
+"Busia","Budalangi","Cattle(Indigenous)",18712
+"Busia","Budalangi","Chicken(Broilers)",944
+"Busia","Budalangi","Chicken(Indigenous)",53730
+"Busia","Budalangi","Chicken(Layers)",1733
+"Busia","Budalangi","Donkeys",19
+"Busia","Budalangi","Goats",12558
+"Busia","Budalangi","Pigs",4797
+"Busia","Budalangi","Rabbits",136
+"Busia","Budalangi","Sheep",1841
+"Busia","Matayos","Camels",0
+"Busia","Matayos","Cattle(Beef)",5506
+"Busia","Matayos","Cattle(Dairy)",14017
+"Busia","Matayos","Cattle(Indigenous)",214106
+"Busia","Matayos","Chicken(Broilers)",19074
+"Busia","Matayos","Chicken(Indigenous)",827931
+"Busia","Matayos","Chicken(Layers)",36859
+"Busia","Matayos","Donkeys",271
+"Busia","Matayos","Goats",89676
+"Busia","Matayos","Pigs",67278
+"Busia","Matayos","Rabbits",5621
+"Busia","Matayos","Sheep",24994
+"Busia","Butula","Camels",0
+"Busia","Butula","Cattle(Beef)",749
+"Busia","Butula","Cattle(Dairy)",1949
+"Busia","Butula","Cattle(Indigenous)",31982
+"Busia","Butula","Chicken(Broilers)",2296
+"Busia","Butula","Chicken(Indigenous)",119666
+"Busia","Butula","Chicken(Layers)",6475
+"Busia","Butula","Donkeys",17
+"Busia","Butula","Goats",6960
+"Busia","Butula","Pigs",5753
+"Busia","Butula","Rabbits",810
+"Busia","Butula","Sheep",4049
+"Busia","Nambale","Camels",0
+"Busia","Nambale","Cattle(Beef)",632
+"Busia","Nambale","Cattle(Dairy)",2281
+"Busia","Nambale","Cattle(Indigenous)",27678
+"Busia","Nambale","Chicken(Broilers)",1443
+"Busia","Nambale","Chicken(Indigenous)",98539
+"Busia","Nambale","Chicken(Layers)",4947
+"Busia","Nambale","Donkeys",52
+"Busia","Nambale","Goats",6203
+"Busia","Nambale","Pigs",5225
+"Busia","Nambale","Rabbits",543
+"Busia","Nambale","Sheep",2945
+"Busia","Funyula","Camels",0
+"Busia","Funyula","Cattle(Beef)",272
+"Busia","Funyula","Cattle(Dairy)",970
+"Busia","Funyula","Cattle(Indigenous)",27040
+"Busia","Funyula","Chicken(Broilers)",882
+"Busia","Funyula","Chicken(Indigenous)",97567
+"Busia","Funyula","Chicken(Layers)",1925
+"Busia","Funyula","Donkeys",12
+"Busia","Funyula","Goats",15138
+"Busia","Funyula","Pigs",10297
+"Busia","Funyula","Rabbits",881
+"Busia","Funyula","Sheep",4025
+"Busia","Teso North","Camels",0
+"Busia","Teso North","Cattle(Beef)",697
+"Busia","Teso North","Cattle(Dairy)",1494
+"Busia","Teso North","Cattle(Indigenous)",28453
+"Busia","Teso North","Chicken(Broilers)",678
+"Busia","Teso North","Chicken(Indigenous)",132271
+"Busia","Teso North","Chicken(Layers)",3406
+"Busia","Teso North","Donkeys",74
+"Busia","Teso North","Goats",18304
+"Busia","Teso North","Pigs",6735
+"Busia","Teso North","Rabbits",635
+"Busia","Teso North","Sheep",2479
+"Busia","Teso South","Camels",0
+"Busia","Teso South","Cattle(Beef)",1210
+"Busia","Teso South","Cattle(Dairy)",2062
+"Busia","Teso South","Cattle(Indigenous)",32459
+"Busia","Teso South","Chicken(Broilers)",2663
+"Busia","Teso South","Chicken(Indigenous)",133544
+"Busia","Teso South","Chicken(Layers)",6719
+"Busia","Teso South","Donkeys",21
+"Busia","Teso South","Goats",15767
+"Busia","Teso South","Pigs",13923
+"Busia","Teso South","Rabbits",966
+"Busia","Teso South","Sheep",3075
+"Elgeyo-Marakwet","Elgeyo-Marakwet","Camels",89
+"Elgeyo-Marakwet","Elgeyo-Marakwet","Cattle(Beef)",5273
+"Elgeyo-Marakwet","Elgeyo-Marakwet","Cattle(Dairy)",38735
+"Elgeyo-Marakwet","Elgeyo-Marakwet","Cattle(Indigenous)",106445
+"Elgeyo-Marakwet","Elgeyo-Marakwet","Chicken(Broilers)",8042
+"Elgeyo-Marakwet","Elgeyo-Marakwet","Chicken(Indigenous)",267674
+"Elgeyo-Marakwet","Elgeyo-Marakwet","Chicken(Layers)",21742
+"Elgeyo-Marakwet","Elgeyo-Marakwet","Donkeys",2766
+"Elgeyo-Marakwet","Elgeyo-Marakwet","Goats",99926
+"Elgeyo-Marakwet","Elgeyo-Marakwet","Pigs",412
+"Elgeyo-Marakwet","Elgeyo-Marakwet","Rabbits",1982
+"Elgeyo-Marakwet","Elgeyo-Marakwet","Sheep",190031
+"Elgeyo-Marakwet","Keiyo North","Camels",18
+"Elgeyo-Marakwet","Keiyo North","Cattle(Beef)",544
+"Elgeyo-Marakwet","Keiyo North","Cattle(Dairy)",4943
+"Elgeyo-Marakwet","Keiyo North","Cattle(Indigenous)",18471
+"Elgeyo-Marakwet","Keiyo North","Chicken(Broilers)",3665
+"Elgeyo-Marakwet","Keiyo North","Chicken(Indigenous)",58120
+"Elgeyo-Marakwet","Keiyo North","Chicken(Layers)",7033
+"Elgeyo-Marakwet","Keiyo North","Donkeys",247
+"Elgeyo-Marakwet","Keiyo North","Goats",17296
+"Elgeyo-Marakwet","Keiyo North","Pigs",158
+"Elgeyo-Marakwet","Keiyo North","Rabbits",597
+"Elgeyo-Marakwet","Keiyo North","Sheep",26746
+"Elgeyo-Marakwet","Keiyo South","Camels",15
+"Elgeyo-Marakwet","Keiyo South","Cattle(Beef)",2102
+"Elgeyo-Marakwet","Keiyo South","Cattle(Dairy)",15426
+"Elgeyo-Marakwet","Keiyo South","Cattle(Indigenous)",33276
+"Elgeyo-Marakwet","Keiyo South","Chicken(Broilers)",2256
+"Elgeyo-Marakwet","Keiyo South","Chicken(Indigenous)",92143
+"Elgeyo-Marakwet","Keiyo South","Chicken(Layers)",8599
+"Elgeyo-Marakwet","Keiyo South","Donkeys",891
+"Elgeyo-Marakwet","Keiyo South","Goats",28792
+"Elgeyo-Marakwet","Keiyo South","Pigs",57
+"Elgeyo-Marakwet","Keiyo South","Rabbits",529
+"Elgeyo-Marakwet","Keiyo South","Sheep",41228
+"Elgeyo-Marakwet","Marakwet East","Camels",52
+"Elgeyo-Marakwet","Marakwet East","Cattle(Beef)",1342
+"Elgeyo-Marakwet","Marakwet East","Cattle(Dairy)",5364
+"Elgeyo-Marakwet","Marakwet East","Cattle(Indigenous)",25193
+"Elgeyo-Marakwet","Marakwet East","Chicken(Broilers)",600
+"Elgeyo-Marakwet","Marakwet East","Chicken(Indigenous)",35008
+"Elgeyo-Marakwet","Marakwet East","Chicken(Layers)",1372
+"Elgeyo-Marakwet","Marakwet East","Donkeys",300
+"Elgeyo-Marakwet","Marakwet East","Goats",37273
+"Elgeyo-Marakwet","Marakwet East","Pigs",41
+"Elgeyo-Marakwet","Marakwet East","Rabbits",128
+"Elgeyo-Marakwet","Marakwet East","Sheep",64274
+"Elgeyo-Marakwet","Marakwet West","Camels",4
+"Elgeyo-Marakwet","Marakwet West","Cattle(Beef)",1285
+"Elgeyo-Marakwet","Marakwet West","Cattle(Dairy)",13002
+"Elgeyo-Marakwet","Marakwet West","Cattle(Indigenous)",29505
+"Elgeyo-Marakwet","Marakwet West","Chicken(Broilers)",1521
+"Elgeyo-Marakwet","Marakwet West","Chicken(Indigenous)",82403
+"Elgeyo-Marakwet","Marakwet West","Chicken(Layers)",4738
+"Elgeyo-Marakwet","Marakwet West","Donkeys",1328
+"Elgeyo-Marakwet","Marakwet West","Goats",16565
+"Elgeyo-Marakwet","Marakwet West","Pigs",156
+"Elgeyo-Marakwet","Marakwet West","Rabbits",728
+"Elgeyo-Marakwet","Marakwet West","Sheep",57783
+"Embu","Embu","Camels",228
+"Embu","Embu","Cattle(Beef)",9167
+"Embu","Embu","Cattle(Dairy)",40843
+"Embu","Embu","Cattle(Indigenous)",88405
+"Embu","Embu","Chicken(Broilers)",36297
+"Embu","Embu","Chicken(Indigenous)",756202
+"Embu","Embu","Chicken(Layers)",104390
+"Embu","Embu","Donkeys",11521
+"Embu","Embu","Goats",269133
+"Embu","Embu","Pigs",12837
+"Embu","Embu","Rabbits",29746
+"Embu","Embu","Sheep",45246
+"Embu","Runyenjes","Camels",14
+"Embu","Runyenjes","Cattle(Beef)",2775
+"Embu","Runyenjes","Cattle(Dairy)",15151
+"Embu","Runyenjes","Cattle(Indigenous)",7908
+"Embu","Runyenjes","Chicken(Broilers)",5986
+"Embu","Runyenjes","Chicken(Indigenous)",168591
+"Embu","Runyenjes","Chicken(Layers)",20467
+"Embu","Runyenjes","Donkeys",37
+"Embu","Runyenjes","Goats",29471
+"Embu","Runyenjes","Pigs",2538
+"Embu","Runyenjes","Rabbits",8153
+"Embu","Runyenjes","Sheep",5264
+"Embu","Manyatta","Camels",32
+"Embu","Manyatta","Cattle(Beef)",4284
+"Embu","Manyatta","Cattle(Dairy)",20525
+"Embu","Manyatta","Cattle(Indigenous)",6826
+"Embu","Manyatta","Chicken(Broilers)",20183
+"Embu","Manyatta","Chicken(Indigenous)",195102
+"Embu","Manyatta","Chicken(Layers)",36788
+"Embu","Manyatta","Donkeys",70
+"Embu","Manyatta","Goats",30661
+"Embu","Manyatta","Pigs",6957
+"Embu","Manyatta","Rabbits",12960
+"Embu","Manyatta","Sheep",6126
+"Embu","Mbeere North","Camels",71
+"Embu","Mbeere North","Cattle(Beef)",510
+"Embu","Mbeere North","Cattle(Dairy)",2473
+"Embu","Mbeere North","Cattle(Indigenous)",24206
+"Embu","Mbeere North","Chicken(Broilers)",3433
+"Embu","Mbeere North","Chicken(Indigenous)",151987
+"Embu","Mbeere North","Chicken(Layers)",15526
+"Embu","Mbeere North","Donkeys",3542
+"Embu","Mbeere North","Goats",80415
+"Embu","Mbeere North","Pigs",965
+"Embu","Mbeere North","Rabbits",3773
+"Embu","Mbeere North","Sheep",12337
+"Embu","Mbeere South","Camels",111
+"Embu","Mbeere South","Cattle(Beef)",1598
+"Embu","Mbeere South","Cattle(Dairy)",2694
+"Embu","Mbeere South","Cattle(Indigenous)",49465
+"Embu","Mbeere South","Chicken(Broilers)",6695
+"Embu","Mbeere South","Chicken(Indigenous)",240522
+"Embu","Mbeere South","Chicken(Layers)",31609
+"Embu","Mbeere South","Donkeys",7872
+"Embu","Mbeere South","Goats",128586
+"Embu","Mbeere South","Pigs",2377
+"Embu","Mbeere South","Rabbits",4860
+"Embu","Mbeere South","Sheep",21519
+"Garissa","Balambala","Camels",62578
+"Garissa","Balambala","Cattle(Beef)",91
+"Garissa","Balambala","Cattle(Dairy)",169
+"Garissa","Balambala","Cattle(Indigenous)",35335
+"Garissa","Balambala","Chicken(Broilers)",74
+"Garissa","Balambala","Chicken(Indigenous)",580
+"Garissa","Balambala","Chicken(Layers)",492
+"Garissa","Balambala","Donkeys",5980
+"Garissa","Balambala","Goats",280662
+"Garissa","Balambala","Pigs",0
+"Garissa","Balambala","Rabbits",74
+"Garissa","Balambala","Sheep",74968
+"Garissa","Daadab","Camels",311898
+"Garissa","Daadab","Cattle(Beef)",1265
+"Garissa","Daadab","Cattle(Dairy)",1267
+"Garissa","Daadab","Cattle(Indigenous)",195636
+"Garissa","Daadab","Chicken(Broilers)",1442
+"Garissa","Daadab","Chicken(Indigenous)",9553
+"Garissa","Daadab","Chicken(Layers)",6895
+"Garissa","Daadab","Donkeys",24288
+"Garissa","Daadab","Goats",716705
+"Garissa","Daadab","Pigs",0
+"Garissa","Daadab","Rabbits",763
+"Garissa","Daadab","Sheep",522065
+"Garissa","Fafi","Camels",203651
+"Garissa","Fafi","Cattle(Beef)",1988
+"Garissa","Fafi","Cattle(Dairy)",1319
+"Garissa","Fafi","Cattle(Indigenous)",121918
+"Garissa","Fafi","Chicken(Broilers)",2294
+"Garissa","Fafi","Chicken(Indigenous)",3848
+"Garissa","Fafi","Chicken(Layers)",3813
+"Garissa","Fafi","Donkeys",22697
+"Garissa","Fafi","Goats",556534
+"Garissa","Fafi","Pigs",0
+"Garissa","Fafi","Rabbits",1039
+"Garissa","Fafi","Sheep",321745
+"Garissa","Garissa Township","Camels",880653
+"Garissa","Garissa Township","Cattle(Beef)",8221
+"Garissa","Garissa Township","Cattle(Dairy)",6843
+"Garissa","Garissa Township","Cattle(Indigenous)",1440107
+"Garissa","Garissa Township","Chicken(Broilers)",11584
+"Garissa","Garissa Township","Chicken(Indigenous)",91311
+"Garissa","Garissa Township","Chicken(Layers)",25534
+"Garissa","Garissa Township","Donkeys",109375
+"Garissa","Garissa Township","Goats",4011587
+"Garissa","Garissa Township","Pigs",0
+"Garissa","Garissa Township","Rabbits",3338
+"Garissa","Garissa Township","Sheep",2813874
+"Garissa","Ijara","Camels",49665
+"Garissa","Ijara","Cattle(Beef)",3283
+"Garissa","Ijara","Cattle(Dairy)",2318
+"Garissa","Ijara","Cattle(Indigenous)",940538
+"Garissa","Ijara","Chicken(Broilers)",7316
+"Garissa","Ijara","Chicken(Indigenous)",70193
+"Garissa","Ijara","Chicken(Layers)",11569
+"Garissa","Ijara","Donkeys",35452
+"Garissa","Ijara","Goats",1772952
+"Garissa","Ijara","Pigs",0
+"Garissa","Ijara","Rabbits",777
+"Garissa","Ijara","Sheep",1428507
+"Garissa","Lagdera","Camels",123669
+"Garissa","Lagdera","Cattle(Beef)",68
+"Garissa","Lagdera","Cattle(Dairy)",210
+"Garissa","Lagdera","Cattle(Indigenous)",80806
+"Garissa","Lagdera","Chicken(Broilers)",48
+"Garissa","Lagdera","Chicken(Indigenous)",1235
+"Garissa","Lagdera","Chicken(Layers)",89
+"Garissa","Lagdera","Donkeys",13294
+"Garissa","Lagdera","Goats",376144
+"Garissa","Lagdera","Pigs",0
+"Garissa","Lagdera","Rabbits",29
+"Garissa","Lagdera","Sheep",331995
+"Homa Bay","Homa bay","Camels",0
+"Homa Bay","Homa bay","Cattle(Beef)",7880
+"Homa Bay","Homa bay","Cattle(Dairy)",16660
+"Homa Bay","Homa bay","Cattle(Indigenous)",346578
+"Homa Bay","Homa bay","Chicken(Broilers)",28395
+"Homa Bay","Homa bay","Chicken(Indigenous)",1027231
+"Homa Bay","Homa bay","Chicken(Layers)",48886
+"Homa Bay","Homa bay","Donkeys",15123
+"Homa Bay","Homa bay","Goats",191714
+"Homa Bay","Homa bay","Pigs",4667
+"Homa Bay","Homa bay","Rabbits",3726
+"Homa Bay","Homa bay","Sheep",163493
+"Homa Bay","Ndhiwa","Camels",0
+"Homa Bay","Ndhiwa","Cattle(Beef)",1608
+"Homa Bay","Ndhiwa","Cattle(Dairy)",3332
+"Homa Bay","Ndhiwa","Cattle(Indigenous)",78950
+"Homa Bay","Ndhiwa","Chicken(Broilers)",1609
+"Homa Bay","Ndhiwa","Chicken(Indigenous)",197762
+"Homa Bay","Ndhiwa","Chicken(Layers)",3529
+"Homa Bay","Ndhiwa","Donkeys",1308
+"Homa Bay","Ndhiwa","Goats",20406
+"Homa Bay","Ndhiwa","Pigs",3160
+"Homa Bay","Ndhiwa","Rabbits",617
+"Homa Bay","Ndhiwa","Sheep",25237
+"Homa Bay","Kasipul","Camels",0
+"Homa Bay","Kasipul","Cattle(Beef)",1706
+"Homa Bay","Kasipul","Cattle(Dairy)",4016
+"Homa Bay","Kasipul","Cattle(Indigenous)",64710
+"Homa Bay","Kasipul","Chicken(Broilers)",5252
+"Homa Bay","Kasipul","Chicken(Indigenous)",236410
+"Homa Bay","Kasipul","Chicken(Layers)",11989
+"Homa Bay","Kasipul","Donkeys",1019
+"Homa Bay","Kasipul","Goats",23998
+"Homa Bay","Kasipul","Pigs",273
+"Homa Bay","Kasipul","Rabbits",1415
+"Homa Bay","Kasipul","Sheep",31556
+"Homa Bay","Karachuonyo","Camels",0
+"Homa Bay","Karachuonyo","Cattle(Beef)",837
+"Homa Bay","Karachuonyo","Cattle(Dairy)",1889
+"Homa Bay","Karachuonyo","Cattle(Indigenous)",57083
+"Homa Bay","Karachuonyo","Chicken(Broilers)",6266
+"Homa Bay","Karachuonyo","Chicken(Indigenous)",175363
+"Homa Bay","Karachuonyo","Chicken(Layers)",8527
+"Homa Bay","Karachuonyo","Donkeys",2535
+"Homa Bay","Karachuonyo","Goats",43947
+"Homa Bay","Karachuonyo","Pigs",117
+"Homa Bay","Karachuonyo","Rabbits",305
+"Homa Bay","Karachuonyo","Sheep",35815
+"Homa Bay","Rangwe","Camels",0
+"Homa Bay","Rangwe","Cattle(Beef)",1504
+"Homa Bay","Rangwe","Cattle(Dairy)",2582
+"Homa Bay","Rangwe","Cattle(Indigenous)",32678
+"Homa Bay","Rangwe","Chicken(Broilers)",4122
+"Homa Bay","Rangwe","Chicken(Indigenous)",98910
+"Homa Bay","Rangwe","Chicken(Layers)",6739
+"Homa Bay","Rangwe","Donkeys",715
+"Homa Bay","Rangwe","Goats",13415
+"Homa Bay","Rangwe","Pigs",108
+"Homa Bay","Rangwe","Rabbits",254
+"Homa Bay","Rangwe","Sheep",18224
+"Homa Bay","Suba","Camels",0
+"Homa Bay","Suba","Cattle(Beef)",937
+"Homa Bay","Suba","Cattle(Dairy)",1711
+"Homa Bay","Suba","Cattle(Indigenous)",57277
+"Homa Bay","Suba","Chicken(Broilers)",2692
+"Homa Bay","Suba","Chicken(Indigenous)",154930
+"Homa Bay","Suba","Chicken(Layers)",9302
+"Homa Bay","Suba","Donkeys",7392
+"Homa Bay","Suba","Goats",65630
+"Homa Bay","Suba","Pigs",589
+"Homa Bay","Suba","Rabbits",551
+"Homa Bay","Suba","Sheep",22423
+"Isiolo","Isiolo South","Camels",82312
+"Isiolo","Isiolo South","Cattle(Beef)",5811
+"Isiolo","Isiolo South","Cattle(Dairy)",8338
+"Isiolo","Isiolo South","Cattle(Indigenous)",121522
+"Isiolo","Isiolo South","Chicken(Broilers)",207
+"Isiolo","Isiolo South","Chicken(Indigenous)",22180
+"Isiolo","Isiolo South","Chicken(Layers)",429
+"Isiolo","Isiolo South","Donkeys",17531
+"Isiolo","Isiolo South","Goats",607921
+"Isiolo","Isiolo South","Pigs",0
+"Isiolo","Isiolo South","Rabbits",17
+"Isiolo","Isiolo South","Sheep",491857
+"Isiolo","Isiolo","Camels",170587
+"Isiolo","Isiolo","Cattle(Beef)",11505
+"Isiolo","Isiolo","Cattle(Dairy)",14976
+"Isiolo","Isiolo","Cattle(Indigenous)",295416
+"Isiolo","Isiolo","Chicken(Broilers)",14583
+"Isiolo","Isiolo","Chicken(Indigenous)",74759
+"Isiolo","Isiolo","Chicken(Layers)",22101
+"Isiolo","Isiolo","Donkeys",40431
+"Isiolo","Isiolo","Goats",1205888
+"Isiolo","Isiolo","Pigs",315
+"Isiolo","Isiolo","Rabbits",461
+"Isiolo","Isiolo","Sheep",966338
+"Isiolo","Isiolo North","Camels",44819
+"Isiolo","Isiolo North","Cattle(Beef)",2926
+"Isiolo","Isiolo North","Cattle(Dairy)",2486
+"Isiolo","Isiolo North","Cattle(Indigenous)",80216
+"Isiolo","Isiolo North","Chicken(Broilers)",122
+"Isiolo","Isiolo North","Chicken(Indigenous)",7445
+"Isiolo","Isiolo North","Chicken(Layers)",348
+"Isiolo","Isiolo North","Donkeys",9422
+"Isiolo","Isiolo North","Goats",246201
+"Isiolo","Isiolo North","Pigs",1
+"Isiolo","Isiolo North","Rabbits",6
+"Isiolo","Isiolo North","Sheep",251255
+"Kajiado","Kajiado East","Camels",108
+"Kajiado","Kajiado East","Cattle(Beef)",13157
+"Kajiado","Kajiado East","Cattle(Dairy)",6131
+"Kajiado","Kajiado East","Cattle(Indigenous)",93550
+"Kajiado","Kajiado East","Chicken(Broilers)",44042
+"Kajiado","Kajiado East","Chicken(Indigenous)",119244
+"Kajiado","Kajiado East","Chicken(Layers)",73574
+"Kajiado","Kajiado East","Donkeys",6228
+"Kajiado","Kajiado East","Goats",140351
+"Kajiado","Kajiado East","Pigs",3081
+"Kajiado","Kajiado East","Rabbits",2451
+"Kajiado","Kajiado East","Sheep",195597
+"Kajiado","Kajiado","Camels",3584
+"Kajiado","Kajiado","Cattle(Beef)",56696
+"Kajiado","Kajiado","Cattle(Dairy)",36547
+"Kajiado","Kajiado","Cattle(Indigenous)",484467
+"Kajiado","Kajiado","Chicken(Broilers)",150124
+"Kajiado","Kajiado","Chicken(Indigenous)",493473
+"Kajiado","Kajiado","Chicken(Layers)",174525
+"Kajiado","Kajiado","Donkeys",50153
+"Kajiado","Kajiado","Goats",877744
+"Kajiado","Kajiado","Pigs",12390
+"Kajiado","Kajiado","Rabbits",9100
+"Kajiado","Kajiado","Sheep",1120649
+"Kajiado","Kajiado Central","Camels",1802
+"Kajiado","Kajiado Central","Cattle(Beef)",12996
+"Kajiado","Kajiado Central","Cattle(Dairy)",6275
+"Kajiado","Kajiado Central","Cattle(Indigenous)",141523
+"Kajiado","Kajiado Central","Chicken(Broilers)",14810
+"Kajiado","Kajiado Central","Chicken(Indigenous)",55842
+"Kajiado","Kajiado Central","Chicken(Layers)",15059
+"Kajiado","Kajiado Central","Donkeys",20797
+"Kajiado","Kajiado Central","Goats",236509
+"Kajiado","Kajiado Central","Pigs",1155
+"Kajiado","Kajiado Central","Rabbits",360
+"Kajiado","Kajiado Central","Sheep",294077
+"Kajiado","Kajiado North","Camels",444
+"Kajiado","Kajiado North","Cattle(Beef)",4663
+"Kajiado","Kajiado North","Cattle(Dairy)",5712
+"Kajiado","Kajiado North","Cattle(Indigenous)",10682
+"Kajiado","Kajiado North","Chicken(Broilers)",73883
+"Kajiado","Kajiado North","Chicken(Indigenous)",147547
+"Kajiado","Kajiado North","Chicken(Layers)",62004
+"Kajiado","Kajiado North","Donkeys",531
+"Kajiado","Kajiado North","Goats",21110
+"Kajiado","Kajiado North","Pigs",5472
+"Kajiado","Kajiado North","Rabbits",3229
+"Kajiado","Kajiado North","Sheep",21728
+"Kajiado","Kajiado West","Camels",744
+"Kajiado","Kajiado West","Cattle(Beef)",18729
+"Kajiado","Kajiado West","Cattle(Dairy)",9708
+"Kajiado","Kajiado West","Cattle(Indigenous)",141436
+"Kajiado","Kajiado West","Chicken(Broilers)",14130
+"Kajiado","Kajiado West","Chicken(Indigenous)",68586
+"Kajiado","Kajiado West","Chicken(Layers)",14366
+"Kajiado","Kajiado West","Donkeys",17978
+"Kajiado","Kajiado West","Goats",323370
+"Kajiado","Kajiado West","Pigs",1977
+"Kajiado","Kajiado West","Rabbits",1275
+"Kajiado","Kajiado West","Sheep",433289
+"Kajiado","Kajiado South","Camels",486
+"Kajiado","Kajiado South","Cattle(Beef)",7151
+"Kajiado","Kajiado South","Cattle(Dairy)",8721
+"Kajiado","Kajiado South","Cattle(Indigenous)",97276
+"Kajiado","Kajiado South","Chicken(Broilers)",3259
+"Kajiado","Kajiado South","Chicken(Indigenous)",102254
+"Kajiado","Kajiado South","Chicken(Layers)",9522
+"Kajiado","Kajiado South","Donkeys",4619
+"Kajiado","Kajiado South","Goats",156404
+"Kajiado","Kajiado South","Pigs",705
+"Kajiado","Kajiado South","Rabbits",1785
+"Kajiado","Kajiado South","Sheep",175958
+"Kakamega","Butere","Camels",0
+"Kakamega","Butere","Cattle(Beef)",725
+"Kakamega","Butere","Cattle(Dairy)",3510
+"Kakamega","Butere","Cattle(Indigenous)",34310
+"Kakamega","Butere","Chicken(Broilers)",1703
+"Kakamega","Butere","Chicken(Indigenous)",119554
+"Kakamega","Butere","Chicken(Layers)",10362
+"Kakamega","Butere","Donkeys",18
+"Kakamega","Butere","Goats",8509
+"Kakamega","Butere","Pigs",1436
+"Kakamega","Butere","Rabbits",1283
+"Kakamega","Butere","Sheep",3768
+"Kakamega","Kakamega","Camels",0
+"Kakamega","Kakamega","Cattle(Beef)",11322
+"Kakamega","Kakamega","Cattle(Dairy)",69173
+"Kakamega","Kakamega","Cattle(Indigenous)",322955
+"Kakamega","Kakamega","Chicken(Broilers)",43620
+"Kakamega","Kakamega","Chicken(Indigenous)",1415652
+"Kakamega","Kakamega","Chicken(Layers)",102673
+"Kakamega","Kakamega","Donkeys",1080
+"Kakamega","Kakamega","Goats",78144
+"Kakamega","Kakamega","Pigs",28634
+"Kakamega","Kakamega","Rabbits",15986
+"Kakamega","Kakamega","Sheep",56884
+"Kakamega","Lurambi","Camels",0
+"Kakamega","Lurambi","Cattle(Beef)",974
+"Kakamega","Lurambi","Cattle(Dairy)",5875
+"Kakamega","Lurambi","Cattle(Indigenous)",20153
+"Kakamega","Lurambi","Chicken(Broilers)",11811
+"Kakamega","Lurambi","Chicken(Indigenous)",135679
+"Kakamega","Lurambi","Chicken(Layers)",15066
+"Kakamega","Lurambi","Donkeys",16
+"Kakamega","Lurambi","Goats",5997
+"Kakamega","Lurambi","Pigs",2555
+"Kakamega","Lurambi","Rabbits",1905
+"Kakamega","Lurambi","Sheep",2934
+"Kakamega","Shinyalu","Camels",0
+"Kakamega","Shinyalu","Cattle(Beef)",1428
+"Kakamega","Shinyalu","Cattle(Dairy)",5474
+"Kakamega","Shinyalu","Cattle(Indigenous)",29978
+"Kakamega","Shinyalu","Chicken(Broilers)",3556
+"Kakamega","Shinyalu","Chicken(Indigenous)",130015
+"Kakamega","Shinyalu","Chicken(Layers)",8663
+"Kakamega","Shinyalu","Donkeys",171
+"Kakamega","Shinyalu","Goats",3677
+"Kakamega","Shinyalu","Pigs",6911
+"Kakamega","Shinyalu","Rabbits",2189
+"Kakamega","Shinyalu","Sheep",3138
+"Kakamega","Malava","Camels",0
+"Kakamega","Malava","Cattle(Beef)",2394
+"Kakamega","Malava","Cattle(Dairy)",15279
+"Kakamega","Malava","Cattle(Indigenous)",38343
+"Kakamega","Malava","Chicken(Broilers)",3258
+"Kakamega","Malava","Chicken(Indigenous)",185984
+"Kakamega","Malava","Chicken(Layers)",10650
+"Kakamega","Malava","Donkeys",446
+"Kakamega","Malava","Goats",12319
+"Kakamega","Malava","Pigs",934
+"Kakamega","Malava","Rabbits",1925
+"Kakamega","Malava","Sheep",5438
+"Kakamega","Ikolomani","Camels",0
+"Kakamega","Ikolomani","Cattle(Beef)",483
+"Kakamega","Ikolomani","Cattle(Dairy)",3170
+"Kakamega","Ikolomani","Cattle(Indigenous)",21403
+"Kakamega","Ikolomani","Chicken(Broilers)",1905
+"Kakamega","Ikolomani","Chicken(Indigenous)",88116
+"Kakamega","Ikolomani","Chicken(Layers)",6130
+"Kakamega","Ikolomani","Donkeys",19
+"Kakamega","Ikolomani","Goats",2728
+"Kakamega","Ikolomani","Pigs",4887
+"Kakamega","Ikolomani","Rabbits",1570
+"Kakamega","Ikolomani","Sheep",1755
+"Kakamega","Khwisero","Camels",0
+"Kakamega","Khwisero","Cattle(Beef)",376
+"Kakamega","Khwisero","Cattle(Dairy)",2290
+"Kakamega","Khwisero","Cattle(Indigenous)",26256
+"Kakamega","Khwisero","Chicken(Broilers)",2222
+"Kakamega","Khwisero","Chicken(Indigenous)",98653
+"Kakamega","Khwisero","Chicken(Layers)",4524
+"Kakamega","Khwisero","Donkeys",88
+"Kakamega","Khwisero","Goats",6552
+"Kakamega","Khwisero","Pigs",1369
+"Kakamega","Khwisero","Rabbits",1541
+"Kakamega","Khwisero","Sheep",2201
+"Kakamega","Likuyani","Camels",0
+"Kakamega","Likuyani","Cattle(Beef)",932
+"Kakamega","Likuyani","Cattle(Dairy)",8665
+"Kakamega","Likuyani","Cattle(Indigenous)",14756
+"Kakamega","Likuyani","Chicken(Broilers)",4783
+"Kakamega","Likuyani","Chicken(Indigenous)",101573
+"Kakamega","Likuyani","Chicken(Layers)",11018
+"Kakamega","Likuyani","Donkeys",172
+"Kakamega","Likuyani","Goats",3051
+"Kakamega","Likuyani","Pigs",1486
+"Kakamega","Likuyani","Rabbits",593
+"Kakamega","Likuyani","Sheep",13532
+"Kakamega","Lugari","Camels",0
+"Kakamega","Lugari","Cattle(Beef)",1423
+"Kakamega","Lugari","Cattle(Dairy)",9938
+"Kakamega","Lugari","Cattle(Indigenous)",31414
+"Kakamega","Lugari","Chicken(Broilers)",3523
+"Kakamega","Lugari","Chicken(Indigenous)",147152
+"Kakamega","Lugari","Chicken(Layers)",14241
+"Kakamega","Lugari","Donkeys",71
+"Kakamega","Lugari","Goats",10305
+"Kakamega","Lugari","Pigs",4339
+"Kakamega","Lugari","Rabbits",1270
+"Kakamega","Lugari","Sheep",9157
+"Kakamega","Matungu","Camels",0
+"Kakamega","Matungu","Cattle(Beef)",968
+"Kakamega","Matungu","Cattle(Dairy)",3849
+"Kakamega","Matungu","Cattle(Indigenous)",33834
+"Kakamega","Matungu","Chicken(Broilers)",2781
+"Kakamega","Matungu","Chicken(Indigenous)",119758
+"Kakamega","Matungu","Chicken(Layers)",5689
+"Kakamega","Matungu","Donkeys",33
+"Kakamega","Matungu","Goats",7544
+"Kakamega","Matungu","Pigs",1718
+"Kakamega","Matungu","Rabbits",706
+"Kakamega","Matungu","Sheep",3926
+"Kakamega","Mumias East","Camels",0
+"Kakamega","Mumias East","Cattle(Beef)",428
+"Kakamega","Mumias East","Cattle(Dairy)",3413
+"Kakamega","Mumias East","Cattle(Indigenous)",22040
+"Kakamega","Mumias East","Chicken(Broilers)",4552
+"Kakamega","Mumias East","Chicken(Indigenous)",87785
+"Kakamega","Mumias East","Chicken(Layers)",6770
+"Kakamega","Mumias East","Donkeys",9
+"Kakamega","Mumias East","Goats",3861
+"Kakamega","Mumias East","Pigs",775
+"Kakamega","Mumias East","Rabbits",1196
+"Kakamega","Mumias East","Sheep",2980
+"Kakamega","Mumias West","Camels",0
+"Kakamega","Mumias West","Cattle(Beef)",510
+"Kakamega","Mumias West","Cattle(Dairy)",2517
+"Kakamega","Mumias West","Cattle(Indigenous)",20215
+"Kakamega","Mumias West","Chicken(Broilers)",1942
+"Kakamega","Mumias West","Chicken(Indigenous)",82090
+"Kakamega","Mumias West","Chicken(Layers)",5448
+"Kakamega","Mumias West","Donkeys",12
+"Kakamega","Mumias West","Goats",3881
+"Kakamega","Mumias West","Pigs",1128
+"Kakamega","Mumias West","Rabbits",877
+"Kakamega","Mumias West","Sheep",4327
+"Kakamega","Navakholo","Camels",0
+"Kakamega","Navakholo","Cattle(Beef)",681
+"Kakamega","Navakholo","Cattle(Dairy)",5193
+"Kakamega","Navakholo","Cattle(Indigenous)",30253
+"Kakamega","Navakholo","Chicken(Broilers)",1584
+"Kakamega","Navakholo","Chicken(Indigenous)",119293
+"Kakamega","Navakholo","Chicken(Layers)",4112
+"Kakamega","Navakholo","Donkeys",25
+"Kakamega","Navakholo","Goats",9720
+"Kakamega","Navakholo","Pigs",1096
+"Kakamega","Navakholo","Rabbits",931
+"Kakamega","Navakholo","Sheep",3728
+"Kericho","Belgut","Camels",0
+"Kericho","Belgut","Cattle(Beef)",704
+"Kericho","Belgut","Cattle(Dairy)",14598
+"Kericho","Belgut","Cattle(Indigenous)",15609
+"Kericho","Belgut","Chicken(Broilers)",4438
+"Kericho","Belgut","Chicken(Indigenous)",80617
+"Kericho","Belgut","Chicken(Layers)",16583
+"Kericho","Belgut","Donkeys",214
+"Kericho","Belgut","Goats",5150
+"Kericho","Belgut","Pigs",74
+"Kericho","Belgut","Rabbits",399
+"Kericho","Belgut","Sheep",2645
+"Kericho","Bureti","Camels",0
+"Kericho","Bureti","Cattle(Beef)",1040
+"Kericho","Bureti","Cattle(Dairy)",24570
+"Kericho","Bureti","Cattle(Indigenous)",27223
+"Kericho","Bureti","Chicken(Broilers)",4317
+"Kericho","Bureti","Chicken(Indigenous)",125421
+"Kericho","Bureti","Chicken(Layers)",28434
+"Kericho","Bureti","Donkeys",423
+"Kericho","Bureti","Goats",4495
+"Kericho","Bureti","Pigs",115
+"Kericho","Bureti","Rabbits",837
+"Kericho","Bureti","Sheep",7304
+"Kericho","Kericho","Camels",0
+"Kericho","Kericho","Cattle(Beef)",5430
+"Kericho","Kericho","Cattle(Dairy)",80670
+"Kericho","Kericho","Cattle(Indigenous)",155548
+"Kericho","Kericho","Chicken(Broilers)",20163
+"Kericho","Kericho","Chicken(Indigenous)",577529
+"Kericho","Kericho","Chicken(Layers)",87531
+"Kericho","Kericho","Donkeys",11940
+"Kericho","Kericho","Goats",71875
+"Kericho","Kericho","Pigs",794
+"Kericho","Kericho","Rabbits",3843
+"Kericho","Kericho","Sheep",56238
+"Kericho","Ainamoi","Camels",0
+"Kericho","Ainamoi","Cattle(Beef)",979
+"Kericho","Ainamoi","Cattle(Dairy)",14549
+"Kericho","Ainamoi","Cattle(Indigenous)",19056
+"Kericho","Ainamoi","Chicken(Broilers)",7388
+"Kericho","Ainamoi","Chicken(Indigenous)",98114
+"Kericho","Ainamoi","Chicken(Layers)",24421
+"Kericho","Ainamoi","Donkeys",793
+"Kericho","Ainamoi","Goats",9303
+"Kericho","Ainamoi","Pigs",175
+"Kericho","Ainamoi","Rabbits",714
+"Kericho","Ainamoi","Sheep",4641
+"Kericho","Kipkelion West","Camels",0
+"Kericho","Kipkelion West","Cattle(Beef)",700
+"Kericho","Kipkelion West","Cattle(Dairy)",6081
+"Kericho","Kipkelion West","Cattle(Indigenous)",28503
+"Kericho","Kipkelion West","Chicken(Broilers)",1200
+"Kericho","Kipkelion West","Chicken(Indigenous)",86374
+"Kericho","Kipkelion West","Chicken(Layers)",4013
+"Kericho","Kipkelion West","Donkeys",4177
+"Kericho","Kipkelion West","Goats",18386
+"Kericho","Kipkelion West","Pigs",37
+"Kericho","Kipkelion West","Rabbits",539
+"Kericho","Kipkelion West","Sheep",11004
+"Kericho","Kipkelion East","Camels",0
+"Kericho","Kipkelion East","Cattle(Beef)",1164
+"Kericho","Kipkelion East","Cattle(Dairy)",12842
+"Kericho","Kipkelion East","Cattle(Indigenous)",31260
+"Kericho","Kipkelion East","Chicken(Broilers)",1603
+"Kericho","Kipkelion East","Chicken(Indigenous)",97064
+"Kericho","Kipkelion East","Chicken(Layers)",8849
+"Kericho","Kipkelion East","Donkeys",2722
+"Kericho","Kipkelion East","Goats",7169
+"Kericho","Kipkelion East","Pigs",152
+"Kericho","Kipkelion East","Rabbits",1021
+"Kericho","Kipkelion East","Sheep",25598
+"Kericho","Sigowet/Soin","Camels",0
+"Kericho","Sigowet/Soin","Cattle(Beef)",843
+"Kericho","Sigowet/Soin","Cattle(Dairy)",8030
+"Kericho","Sigowet/Soin","Cattle(Indigenous)",33897
+"Kericho","Sigowet/Soin","Chicken(Broilers)",1217
+"Kericho","Sigowet/Soin","Chicken(Indigenous)",89939
+"Kericho","Sigowet/Soin","Chicken(Layers)",5231
+"Kericho","Sigowet/Soin","Donkeys",3611
+"Kericho","Sigowet/Soin","Goats",27372
+"Kericho","Sigowet/Soin","Pigs",241
+"Kericho","Sigowet/Soin","Rabbits",333
+"Kericho","Sigowet/Soin","Sheep",5046
+"Kiambu","Gatundu North","Camels",0
+"Kiambu","Gatundu North","Cattle(Beef)",2294
+"Kiambu","Gatundu North","Cattle(Dairy)",13753
+"Kiambu","Gatundu North","Cattle(Indigenous)",1731
+"Kiambu","Gatundu North","Chicken(Broilers)",33258
+"Kiambu","Gatundu North","Chicken(Indigenous)",82400
+"Kiambu","Gatundu North","Chicken(Layers)",389122
+"Kiambu","Gatundu North","Donkeys",44
+"Kiambu","Gatundu North","Goats",8147
+"Kiambu","Gatundu North","Pigs",2169
+"Kiambu","Gatundu North","Rabbits",3824
+"Kiambu","Gatundu North","Sheep",8725
+"Kiambu","Gatundu South","Camels",0
+"Kiambu","Gatundu South","Cattle(Beef)",2093
+"Kiambu","Gatundu South","Cattle(Dairy)",17476
+"Kiambu","Gatundu South","Cattle(Indigenous)",2150
+"Kiambu","Gatundu South","Chicken(Broilers)",50043
+"Kiambu","Gatundu South","Chicken(Indigenous)",96406
+"Kiambu","Gatundu South","Chicken(Layers)",24198
+"Kiambu","Gatundu South","Donkeys",37
+"Kiambu","Gatundu South","Goats",7492
+"Kiambu","Gatundu South","Pigs",4194
+"Kiambu","Gatundu South","Rabbits",3541
+"Kiambu","Gatundu South","Sheep",12110
+"Kiambu","Githunguri","Camels",0
+"Kiambu","Githunguri","Cattle(Beef)",2095
+"Kiambu","Githunguri","Cattle(Dairy)",35756
+"Kiambu","Githunguri","Cattle(Indigenous)",2784
+"Kiambu","Githunguri","Chicken(Broilers)",74118
+"Kiambu","Githunguri","Chicken(Indigenous)",110268
+"Kiambu","Githunguri","Chicken(Layers)",52693
+"Kiambu","Githunguri","Donkeys",133
+"Kiambu","Githunguri","Goats",5446
+"Kiambu","Githunguri","Pigs",6108
+"Kiambu","Githunguri","Rabbits",3571
+"Kiambu","Githunguri","Sheep",6788
+"Kiambu","Juja","Camels",0
+"Kiambu","Juja","Cattle(Beef)",2262
+"Kiambu","Juja","Cattle(Dairy)",5084
+"Kiambu","Juja","Cattle(Indigenous)",9417
+"Kiambu","Juja","Chicken(Broilers)",90316
+"Kiambu","Juja","Chicken(Indigenous)",157327
+"Kiambu","Juja","Chicken(Layers)",170584
+"Kiambu","Juja","Donkeys",286
+"Kiambu","Juja","Goats",15602
+"Kiambu","Juja","Pigs",6265
+"Kiambu","Juja","Rabbits",6390
+"Kiambu","Juja","Sheep",13903
+"Kiambu","Kabete","Camels",0
+"Kiambu","Kabete","Cattle(Beef)",951
+"Kiambu","Kabete","Cattle(Dairy)",8676
+"Kiambu","Kabete","Cattle(Indigenous)",1558
+"Kiambu","Kabete","Chicken(Broilers)",39241
+"Kiambu","Kabete","Chicken(Indigenous)",74366
+"Kiambu","Kabete","Chicken(Layers)",268899
+"Kiambu","Kabete","Donkeys",155
+"Kiambu","Kabete","Goats",2839
+"Kiambu","Kabete","Pigs",15110
+"Kiambu","Kabete","Rabbits",2085
+"Kiambu","Kabete","Sheep",4607
+"Kiambu","Kiambaa","Camels",0
+"Kiambu","Kiambaa","Cattle(Beef)",761
+"Kiambu","Kiambaa","Cattle(Dairy)",6417
+"Kiambu","Kiambaa","Cattle(Indigenous)",2362
+"Kiambu","Kiambaa","Chicken(Broilers)",58889
+"Kiambu","Kiambaa","Chicken(Indigenous)",70369
+"Kiambu","Kiambaa","Chicken(Layers)",71086
+"Kiambu","Kiambaa","Donkeys",130
+"Kiambu","Kiambaa","Goats",3739
+"Kiambu","Kiambaa","Pigs",9283
+"Kiambu","Kiambaa","Rabbits",1958
+"Kiambu","Kiambaa","Sheep",4833
+"Kiambu","Kiambu","Camels",0
+"Kiambu","Kiambu","Cattle(Beef)",21580
+"Kiambu","Kiambu","Cattle(Dairy)",152636
+"Kiambu","Kiambu","Cattle(Indigenous)",36787
+"Kiambu","Kiambu","Chicken(Broilers)",752684
+"Kiambu","Kiambu","Chicken(Indigenous)",1234820
+"Kiambu","Kiambu","Chicken(Layers)",1897720
+"Kiambu","Kiambu","Donkeys",5366
+"Kiambu","Kiambu","Goats",89012
+"Kiambu","Kiambu","Pigs",98725
+"Kiambu","Kiambu","Rabbits",41963
+"Kiambu","Kiambu","Sheep",122755
+"Kiambu","Kikuyu","Camels",0
+"Kiambu","Kikuyu","Cattle(Beef)",999
+"Kiambu","Kikuyu","Cattle(Dairy)",7929
+"Kiambu","Kikuyu","Cattle(Indigenous)",2042
+"Kiambu","Kikuyu","Chicken(Broilers)",50145
+"Kiambu","Kikuyu","Chicken(Indigenous)",123633
+"Kiambu","Kikuyu","Chicken(Layers)",203625
+"Kiambu","Kikuyu","Donkeys",1452
+"Kiambu","Kikuyu","Goats",7162
+"Kiambu","Kikuyu","Pigs",9967
+"Kiambu","Kikuyu","Rabbits",2556
+"Kiambu","Kikuyu","Sheep",10537
+"Kiambu","Lari","Camels",0
+"Kiambu","Lari","Cattle(Beef)",2525
+"Kiambu","Lari","Cattle(Dairy)",22115
+"Kiambu","Lari","Cattle(Indigenous)",3249
+"Kiambu","Lari","Chicken(Broilers)",6370
+"Kiambu","Lari","Chicken(Indigenous)",87922
+"Kiambu","Lari","Chicken(Layers)",32229
+"Kiambu","Lari","Donkeys",1283
+"Kiambu","Lari","Goats",2833
+"Kiambu","Lari","Pigs",1693
+"Kiambu","Lari","Rabbits",4862
+"Kiambu","Lari","Sheep",22837
+"Kiambu","Limuru","Camels",0
+"Kiambu","Limuru","Cattle(Beef)",1310
+"Kiambu","Limuru","Cattle(Dairy)",12251
+"Kiambu","Limuru","Cattle(Indigenous)",2163
+"Kiambu","Limuru","Chicken(Broilers)",33079
+"Kiambu","Limuru","Chicken(Indigenous)",97696
+"Kiambu","Limuru","Chicken(Layers)",260882
+"Kiambu","Limuru","Donkeys",1470
+"Kiambu","Limuru","Goats",5539
+"Kiambu","Limuru","Pigs",5975
+"Kiambu","Limuru","Rabbits",2507
+"Kiambu","Limuru","Sheep",18406
+"Kiambu","Ruiru","Camels",0
+"Kiambu","Ruiru","Cattle(Beef)",2297
+"Kiambu","Ruiru","Cattle(Dairy)",2737
+"Kiambu","Ruiru","Cattle(Indigenous)",2314
+"Kiambu","Ruiru","Chicken(Broilers)",76617
+"Kiambu","Ruiru","Chicken(Indigenous)",87115
+"Kiambu","Ruiru","Chicken(Layers)",85158
+"Kiambu","Ruiru","Donkeys",167
+"Kiambu","Ruiru","Goats",8034
+"Kiambu","Ruiru","Pigs",4746
+"Kiambu","Ruiru","Rabbits",2769
+"Kiambu","Ruiru","Sheep",5477
+"Kiambu","Thika Town","Camels",0
+"Kiambu","Thika Town","Cattle(Beef)",1349
+"Kiambu","Thika Town","Cattle(Dairy)",3792
+"Kiambu","Thika Town","Cattle(Indigenous)",5093
+"Kiambu","Thika Town","Chicken(Broilers)",81972
+"Kiambu","Thika Town","Chicken(Indigenous)",90746
+"Kiambu","Thika Town","Chicken(Layers)",207326
+"Kiambu","Thika Town","Donkeys",91
+"Kiambu","Thika Town","Goats",11349
+"Kiambu","Thika Town","Pigs",5747
+"Kiambu","Thika Town","Rabbits",3108
+"Kiambu","Thika Town","Sheep",5800
+"Kilifi","Chonyi","Camels",13
+"Kilifi","Chonyi","Cattle(Beef)",176
+"Kilifi","Chonyi","Cattle(Dairy)",440
+"Kilifi","Chonyi","Cattle(Indigenous)",3359
+"Kilifi","Chonyi","Chicken(Broilers)",2874
+"Kilifi","Chonyi","Chicken(Indigenous)",32943
+"Kilifi","Chonyi","Chicken(Layers)",621
+"Kilifi","Chonyi","Donkeys",1
+"Kilifi","Chonyi","Goats",12888
+"Kilifi","Chonyi","Pigs",77
+"Kilifi","Chonyi","Rabbits",77
+"Kilifi","Chonyi","Sheep",113
+"Kilifi","Ganze","Camels",1506
+"Kilifi","Ganze","Cattle(Beef)",1271
+"Kilifi","Ganze","Cattle(Dairy)",2239
+"Kilifi","Ganze","Cattle(Indigenous)",54587
+"Kilifi","Ganze","Chicken(Broilers)",1235
+"Kilifi","Ganze","Chicken(Indigenous)",121728
+"Kilifi","Ganze","Chicken(Layers)",3278
+"Kilifi","Ganze","Donkeys",151
+"Kilifi","Ganze","Goats",121746
+"Kilifi","Ganze","Pigs",22
+"Kilifi","Ganze","Rabbits",309
+"Kilifi","Ganze","Sheep",13910
+"Kilifi","Kaloleni","Camels",37
+"Kilifi","Kaloleni","Cattle(Beef)",1165
+"Kilifi","Kaloleni","Cattle(Dairy)",2033
+"Kilifi","Kaloleni","Cattle(Indigenous)",32645
+"Kilifi","Kaloleni","Chicken(Broilers)",10898
+"Kilifi","Kaloleni","Chicken(Indigenous)",98643
+"Kilifi","Kaloleni","Chicken(Layers)",8081
+"Kilifi","Kaloleni","Donkeys",335
+"Kilifi","Kaloleni","Goats",69041
+"Kilifi","Kaloleni","Pigs",333
+"Kilifi","Kaloleni","Rabbits",293
+"Kilifi","Kaloleni","Sheep",7194
+"Kilifi","Kilifi","Camels",2022
+"Kilifi","Kilifi","Cattle(Beef)",9646
+"Kilifi","Kilifi","Cattle(Dairy)",19918
+"Kilifi","Kilifi","Cattle(Indigenous)",206893
+"Kilifi","Kilifi","Chicken(Broilers)",249165
+"Kilifi","Kilifi","Chicken(Indigenous)",740657
+"Kilifi","Kilifi","Chicken(Layers)",75103
+"Kilifi","Kilifi","Donkeys",2754
+"Kilifi","Kilifi","Goats",542257
+"Kilifi","Kilifi","Pigs",3319
+"Kilifi","Kilifi","Rabbits",3434
+"Kilifi","Kilifi","Sheep",56481
+"Kilifi","Kilifi North","Camels",97
+"Kilifi","Kilifi North","Cattle(Beef)",1351
+"Kilifi","Kilifi North","Cattle(Dairy)",4446
+"Kilifi","Kilifi North","Cattle(Indigenous)",11633
+"Kilifi","Kilifi North","Chicken(Broilers)",36669
+"Kilifi","Kilifi North","Chicken(Indigenous)",99631
+"Kilifi","Kilifi North","Chicken(Layers)",11246
+"Kilifi","Kilifi North","Donkeys",69
+"Kilifi","Kilifi North","Goats",50728
+"Kilifi","Kilifi North","Pigs",691
+"Kilifi","Kilifi North","Rabbits",553
+"Kilifi","Kilifi North","Sheep",1560
+"Kilifi","Kilifi South","Camels",16
+"Kilifi","Kilifi South","Cattle(Beef)",1566
+"Kilifi","Kilifi South","Cattle(Dairy)",2524
+"Kilifi","Kilifi South","Cattle(Indigenous)",11906
+"Kilifi","Kilifi South","Chicken(Broilers)",112334
+"Kilifi","Kilifi South","Chicken(Indigenous)",76551
+"Kilifi","Kilifi South","Chicken(Layers)",30700
+"Kilifi","Kilifi South","Donkeys",55
+"Kilifi","Kilifi South","Goats",32589
+"Kilifi","Kilifi South","Pigs",1325
+"Kilifi","Kilifi South","Rabbits",605
+"Kilifi","Kilifi South","Sheep",1653
+"Kilifi","Magarini","Camels",102
+"Kilifi","Magarini","Cattle(Beef)",1414
+"Kilifi","Magarini","Cattle(Dairy)",2281
+"Kilifi","Magarini","Cattle(Indigenous)",39811
+"Kilifi","Magarini","Chicken(Broilers)",4469
+"Kilifi","Magarini","Chicken(Indigenous)",103315
+"Kilifi","Magarini","Chicken(Layers)",3097
+"Kilifi","Magarini","Donkeys",1220
+"Kilifi","Magarini","Goats",114274
+"Kilifi","Magarini","Pigs",97
+"Kilifi","Magarini","Rabbits",406
+"Kilifi","Magarini","Sheep",9451
+"Kilifi","Malindi","Camels",234
+"Kilifi","Malindi","Cattle(Beef)",2225
+"Kilifi","Malindi","Cattle(Dairy)",5251
+"Kilifi","Malindi","Cattle(Indigenous)",42292
+"Kilifi","Malindi","Chicken(Broilers)",73730
+"Kilifi","Malindi","Chicken(Indigenous)",150844
+"Kilifi","Malindi","Chicken(Layers)",14401
+"Kilifi","Malindi","Donkeys",911
+"Kilifi","Malindi","Goats",118158
+"Kilifi","Malindi","Pigs",254
+"Kilifi","Malindi","Rabbits",882
+"Kilifi","Malindi","Sheep",21091
+"Kilifi","Rabai","Camels",17
+"Kilifi","Rabai","Cattle(Beef)",478
+"Kilifi","Rabai","Cattle(Dairy)",704
+"Kilifi","Rabai","Cattle(Indigenous)",10660
+"Kilifi","Rabai","Chicken(Broilers)",6956
+"Kilifi","Rabai","Chicken(Indigenous)",57002
+"Kilifi","Rabai","Chicken(Layers)",3679
+"Kilifi","Rabai","Donkeys",12
+"Kilifi","Rabai","Goats",22833
+"Kilifi","Rabai","Pigs",520
+"Kilifi","Rabai","Rabbits",309
+"Kilifi","Rabai","Sheep",1509
+"Kirinyaga","Kirinyaga","Camels",0
+"Kirinyaga","Kirinyaga","Cattle(Beef)",12931
+"Kirinyaga","Kirinyaga","Cattle(Dairy)",48488
+"Kirinyaga","Kirinyaga","Cattle(Indigenous)",55022
+"Kirinyaga","Kirinyaga","Chicken(Broilers)",86098
+"Kirinyaga","Kirinyaga","Chicken(Indigenous)",675656
+"Kirinyaga","Kirinyaga","Chicken(Layers)",100845
+"Kirinyaga","Kirinyaga","Donkeys",2404
+"Kirinyaga","Kirinyaga","Goats",106844
+"Kirinyaga","Kirinyaga","Pigs",15909
+"Kirinyaga","Kirinyaga","Rabbits",36742
+"Kirinyaga","Kirinyaga","Sheep",26751
+"Kirinyaga","Kirinyaga central","Camels",0
+"Kirinyaga","Kirinyaga central","Cattle(Beef)",3241
+"Kirinyaga","Kirinyaga central","Cattle(Dairy)",12884
+"Kirinyaga","Kirinyaga central","Cattle(Indigenous)",5203
+"Kirinyaga","Kirinyaga central","Chicken(Broilers)",41224
+"Kirinyaga","Kirinyaga central","Chicken(Indigenous)",136490
+"Kirinyaga","Kirinyaga central","Chicken(Layers)",30359
+"Kirinyaga","Kirinyaga central","Donkeys",15
+"Kirinyaga","Kirinyaga central","Goats",18457
+"Kirinyaga","Kirinyaga central","Pigs",4166
+"Kirinyaga","Kirinyaga central","Rabbits",8162
+"Kirinyaga","Kirinyaga central","Sheep",3377
+"Kirinyaga","Gichugu","Camels",0
+"Kirinyaga","Gichugu","Cattle(Beef)",4228
+"Kirinyaga","Gichugu","Cattle(Dairy)",14849
+"Kirinyaga","Gichugu","Cattle(Indigenous)",9603
+"Kirinyaga","Gichugu","Chicken(Broilers)",10750
+"Kirinyaga","Gichugu","Chicken(Indigenous)",160514
+"Kirinyaga","Gichugu","Chicken(Layers)",23396
+"Kirinyaga","Gichugu","Donkeys",14
+"Kirinyaga","Gichugu","Goats",19659
+"Kirinyaga","Gichugu","Pigs",2624
+"Kirinyaga","Gichugu","Rabbits",8934
+"Kirinyaga","Gichugu","Sheep",5573
+"Kirinyaga","Ndia","Camels",0
+"Kirinyaga","Ndia","Cattle(Beef)",3455
+"Kirinyaga","Ndia","Cattle(Dairy)",13111
+"Kirinyaga","Ndia","Cattle(Indigenous)",7511
+"Kirinyaga","Ndia","Chicken(Broilers)",18114
+"Kirinyaga","Ndia","Chicken(Indigenous)",131900
+"Kirinyaga","Ndia","Chicken(Layers)",19892
+"Kirinyaga","Ndia","Donkeys",1023
+"Kirinyaga","Ndia","Goats",24860
+"Kirinyaga","Ndia","Pigs",4268
+"Kirinyaga","Ndia","Rabbits",8240
+"Kirinyaga","Ndia","Sheep",5643
+"Kirinyaga","Manyatta","Camels",0
+"Kirinyaga","Manyatta","Cattle(Beef)",1
+"Kirinyaga","Manyatta","Cattle(Dairy)",1
+"Kirinyaga","Manyatta","Cattle(Indigenous)",0
+"Kirinyaga","Manyatta","Chicken(Broilers)",0
+"Kirinyaga","Manyatta","Chicken(Indigenous)",13
+"Kirinyaga","Manyatta","Chicken(Layers)",0
+"Kirinyaga","Manyatta","Donkeys",0
+"Kirinyaga","Manyatta","Goats",0
+"Kirinyaga","Manyatta","Pigs",0
+"Kirinyaga","Manyatta","Rabbits",0
+"Kirinyaga","Manyatta","Sheep",0
+"Kirinyaga","Mwea East","Camels",0
+"Kirinyaga","Mwea East","Cattle(Beef)",1328
+"Kirinyaga","Mwea East","Cattle(Dairy)",4591
+"Kirinyaga","Mwea East","Cattle(Indigenous)",16617
+"Kirinyaga","Mwea East","Chicken(Broilers)",11815
+"Kirinyaga","Mwea East","Chicken(Indigenous)",134438
+"Kirinyaga","Mwea East","Chicken(Layers)",14817
+"Kirinyaga","Mwea East","Donkeys",509
+"Kirinyaga","Mwea East","Goats",27227
+"Kirinyaga","Mwea East","Pigs",2559
+"Kirinyaga","Mwea East","Rabbits",6787
+"Kirinyaga","Mwea East","Sheep",5977
+"Kirinyaga","Mwea West","Camels",0
+"Kirinyaga","Mwea West","Cattle(Beef)",678
+"Kirinyaga","Mwea West","Cattle(Dairy)",3052
+"Kirinyaga","Mwea West","Cattle(Indigenous)",16088
+"Kirinyaga","Mwea West","Chicken(Broilers)",4195
+"Kirinyaga","Mwea West","Chicken(Indigenous)",112301
+"Kirinyaga","Mwea West","Chicken(Layers)",12381
+"Kirinyaga","Mwea West","Donkeys",843
+"Kirinyaga","Mwea West","Goats",16641
+"Kirinyaga","Mwea West","Pigs",2292
+"Kirinyaga","Mwea West","Rabbits",4619
+"Kirinyaga","Mwea West","Sheep",6181
+"Kisii","South Mugirango","Camels",0
+"Kisii","South Mugirango","Cattle(Beef)",666
+"Kisii","South Mugirango","Cattle(Dairy)",5992
+"Kisii","South Mugirango","Cattle(Indigenous)",22562
+"Kisii","South Mugirango","Chicken(Broilers)",2531
+"Kisii","South Mugirango","Chicken(Indigenous)",119007
+"Kisii","South Mugirango","Chicken(Layers)",15289
+"Kisii","South Mugirango","Donkeys",159
+"Kisii","South Mugirango","Goats",5792
+"Kisii","South Mugirango","Pigs",22
+"Kisii","South Mugirango","Rabbits",709
+"Kisii","South Mugirango","Sheep",1063
+"Kisii","Bomachoge Chache","Camels",0
+"Kisii","Bomachoge Chache","Cattle(Beef)",515
+"Kisii","Bomachoge Chache","Cattle(Dairy)",2652
+"Kisii","Bomachoge Chache","Cattle(Indigenous)",12355
+"Kisii","Bomachoge Chache","Chicken(Broilers)",2774
+"Kisii","Bomachoge Chache","Chicken(Indigenous)",66773
+"Kisii","Bomachoge Chache","Chicken(Layers)",6263
+"Kisii","Bomachoge Chache","Donkeys",13
+"Kisii","Bomachoge Chache","Goats",3462
+"Kisii","Bomachoge Chache","Pigs",9
+"Kisii","Bomachoge Chache","Rabbits",237
+"Kisii","Bomachoge Chache","Sheep",489
+"Kisii","Bomachoge Borabu","Camels",0
+"Kisii","Bomachoge Borabu","Cattle(Beef)",546
+"Kisii","Bomachoge Borabu","Cattle(Dairy)",7056
+"Kisii","Bomachoge Borabu","Cattle(Indigenous)",15722
+"Kisii","Bomachoge Borabu","Chicken(Broilers)",2609
+"Kisii","Bomachoge Borabu","Chicken(Indigenous)",84050
+"Kisii","Bomachoge Borabu","Chicken(Layers)",16418
+"Kisii","Bomachoge Borabu","Donkeys",167
+"Kisii","Bomachoge Borabu","Goats",4244
+"Kisii","Bomachoge Borabu","Pigs",8
+"Kisii","Bomachoge Borabu","Rabbits",360
+"Kisii","Bomachoge Borabu","Sheep",1467
+"Kisii","Kisii","Camels",0
+"Kisii","Kisii","Cattle(Beef)",4883
+"Kisii","Kisii","Cattle(Dairy)",51458
+"Kisii","Kisii","Cattle(Indigenous)",160517
+"Kisii","Kisii","Chicken(Broilers)",26064
+"Kisii","Kisii","Chicken(Indigenous)",936213
+"Kisii","Kisii","Chicken(Layers)",122621
+"Kisii","Kisii","Donkeys",1381
+"Kisii","Kisii","Goats",56946
+"Kisii","Kisii","Pigs",1421
+"Kisii","Kisii","Rabbits",5030
+"Kisii","Kisii","Sheep",11001
+"Kisii","Nyaribari Chache","Camels",0
+"Kisii","Nyaribari Chache","Cattle(Beef)",383
+"Kisii","Nyaribari Chache","Cattle(Dairy)",6763
+"Kisii","Nyaribari Chache","Cattle(Indigenous)",17523
+"Kisii","Nyaribari Chache","Chicken(Broilers)",3469
+"Kisii","Nyaribari Chache","Chicken(Indigenous)",123662
+"Kisii","Nyaribari Chache","Chicken(Layers)",19193
+"Kisii","Nyaribari Chache","Donkeys",33
+"Kisii","Nyaribari Chache","Goats",6471
+"Kisii","Nyaribari Chache","Pigs",479
+"Kisii","Nyaribari Chache","Rabbits",727
+"Kisii","Nyaribari Chache","Sheep",1462
+"Kisii","Bonchari","Camels",0
+"Kisii","Bonchari","Cattle(Beef)",549
+"Kisii","Bonchari","Cattle(Dairy)",4764
+"Kisii","Bonchari","Cattle(Indigenous)",14971
+"Kisii","Bonchari","Chicken(Broilers)",3032
+"Kisii","Bonchari","Chicken(Indigenous)",102593
+"Kisii","Bonchari","Chicken(Layers)",12683
+"Kisii","Bonchari","Donkeys",14
+"Kisii","Bonchari","Goats",5200
+"Kisii","Bonchari","Pigs",203
+"Kisii","Bonchari","Rabbits",594
+"Kisii","Bonchari","Sheep",538
+"Kisii","Kitutu Chache South","Camels",0
+"Kisii","Kitutu Chache South","Cattle(Beef)",436
+"Kisii","Kitutu Chache South","Cattle(Dairy)",3743
+"Kisii","Kitutu Chache South","Cattle(Indigenous)",12989
+"Kisii","Kitutu Chache South","Chicken(Broilers)",3143
+"Kisii","Kitutu Chache South","Chicken(Indigenous)",96030
+"Kisii","Kitutu Chache South","Chicken(Layers)",14114
+"Kisii","Kitutu Chache South","Donkeys",63
+"Kisii","Kitutu Chache South","Goats",6727
+"Kisii","Kitutu Chache South","Pigs",249
+"Kisii","Kitutu Chache South","Rabbits",658
+"Kisii","Kitutu Chache South","Sheep",1181
+"Kisii","Kitutu Chache North","Camels",0
+"Kisii","Kitutu Chache North","Cattle(Beef)",301
+"Kisii","Kitutu Chache North","Cattle(Dairy)",3507
+"Kisii","Kitutu Chache North","Cattle(Indigenous)",17142
+"Kisii","Kitutu Chache North","Chicken(Broilers)",1919
+"Kisii","Kitutu Chache North","Chicken(Indigenous)",81634
+"Kisii","Kitutu Chache North","Chicken(Layers)",7707
+"Kisii","Kitutu Chache North","Donkeys",103
+"Kisii","Kitutu Chache North","Goats",7969
+"Kisii","Kitutu Chache North","Pigs",29
+"Kisii","Kitutu Chache North","Rabbits",346
+"Kisii","Kitutu Chache North","Sheep",1226
+"Kisii","Nyaribari Masaba","Camels",0
+"Kisii","Nyaribari Masaba","Cattle(Beef)",514
+"Kisii","Nyaribari Masaba","Cattle(Dairy)",6134
+"Kisii","Nyaribari Masaba","Cattle(Indigenous)",21439
+"Kisii","Nyaribari Masaba","Chicken(Broilers)",2381
+"Kisii","Nyaribari Masaba","Chicken(Indigenous)",113067
+"Kisii","Nyaribari Masaba","Chicken(Layers)",13976
+"Kisii","Nyaribari Masaba","Donkeys",682
+"Kisii","Nyaribari Masaba","Goats",8428
+"Kisii","Nyaribari Masaba","Pigs",61
+"Kisii","Nyaribari Masaba","Rabbits",626
+"Kisii","Nyaribari Masaba","Sheep",1928
+"Kisii","Bobasi","Camels",0
+"Kisii","Bobasi","Cattle(Beef)",973
+"Kisii","Bobasi","Cattle(Dairy)",10847
+"Kisii","Bobasi","Cattle(Indigenous)",25814
+"Kisii","Bobasi","Chicken(Broilers)",4206
+"Kisii","Bobasi","Chicken(Indigenous)",149397
+"Kisii","Bobasi","Chicken(Layers)",16978
+"Kisii","Bobasi","Donkeys",147
+"Kisii","Bobasi","Goats",8653
+"Kisii","Bobasi","Pigs",361
+"Kisii","Bobasi","Rabbits",773
+"Kisii","Bobasi","Sheep",1647
+"Kisumu","Kisumu","Camels",0
+"Kisumu","Kisumu","Cattle(Beef)",6474
+"Kisumu","Kisumu","Cattle(Dairy)",13799
+"Kisumu","Kisumu","Cattle(Indigenous)",222723
+"Kisumu","Kisumu","Chicken(Broilers)",74235
+"Kisumu","Kisumu","Chicken(Indigenous)",733465
+"Kisumu","Kisumu","Chicken(Layers)",71699
+"Kisumu","Kisumu","Donkeys",3542
+"Kisumu","Kisumu","Goats",137696
+"Kisumu","Kisumu","Pigs",4755
+"Kisumu","Kisumu","Rabbits",5836
+"Kisumu","Kisumu","Sheep",163537
+"Kisumu","Kisumu Central","Camels",0
+"Kisumu","Kisumu Central","Cattle(Beef)",605
+"Kisumu","Kisumu Central","Cattle(Dairy)",819
+"Kisumu","Kisumu Central","Cattle(Indigenous)",3882
+"Kisumu","Kisumu Central","Chicken(Broilers)",20156
+"Kisumu","Kisumu Central","Chicken(Indigenous)",52984
+"Kisumu","Kisumu Central","Chicken(Layers)",19248
+"Kisumu","Kisumu Central","Donkeys",46
+"Kisumu","Kisumu Central","Goats",5696
+"Kisumu","Kisumu Central","Pigs",940
+"Kisumu","Kisumu Central","Rabbits",348
+"Kisumu","Kisumu Central","Sheep",3481
+"Kisumu","Kisumu East","Camels",0
+"Kisumu","Kisumu East","Cattle(Beef)",823
+"Kisumu","Kisumu East","Cattle(Dairy)",1695
+"Kisumu","Kisumu East","Cattle(Indigenous)",20518
+"Kisumu","Kisumu East","Chicken(Broilers)",29429
+"Kisumu","Kisumu East","Chicken(Indigenous)",83699
+"Kisumu","Kisumu East","Chicken(Layers)",18621
+"Kisumu","Kisumu East","Donkeys",107
+"Kisumu","Kisumu East","Goats",12416
+"Kisumu","Kisumu East","Pigs",913
+"Kisumu","Kisumu East","Rabbits",823
+"Kisumu","Kisumu East","Sheep",13584
+"Kisumu","Kisumu West","Camels",0
+"Kisumu","Kisumu West","Cattle(Beef)",581
+"Kisumu","Kisumu West","Cattle(Dairy)",1710
+"Kisumu","Kisumu West","Cattle(Indigenous)",28850
+"Kisumu","Kisumu West","Chicken(Broilers)",10340
+"Kisumu","Kisumu West","Chicken(Indigenous)",111531
+"Kisumu","Kisumu West","Chicken(Layers)",13272
+"Kisumu","Kisumu West","Donkeys",74
+"Kisumu","Kisumu West","Goats",15219
+"Kisumu","Kisumu West","Pigs",631
+"Kisumu","Kisumu West","Rabbits",1174
+"Kisumu","Kisumu West","Sheep",10727
+"Kisumu","Muhoroni","Camels",0
+"Kisumu","Muhoroni","Cattle(Beef)",1595
+"Kisumu","Muhoroni","Cattle(Dairy)",3036
+"Kisumu","Muhoroni","Cattle(Indigenous)",41057
+"Kisumu","Muhoroni","Chicken(Broilers)",3134
+"Kisumu","Muhoroni","Chicken(Indigenous)",109105
+"Kisumu","Muhoroni","Chicken(Layers)",7493
+"Kisumu","Muhoroni","Donkeys",774
+"Kisumu","Muhoroni","Goats",22166
+"Kisumu","Muhoroni","Pigs",863
+"Kisumu","Muhoroni","Rabbits",1157
+"Kisumu","Muhoroni","Sheep",30339
+"Kisumu","Nyakach","Camels",0
+"Kisumu","Nyakach","Cattle(Beef)",1169
+"Kisumu","Nyakach","Cattle(Dairy)",2501
+"Kisumu","Nyakach","Cattle(Indigenous)",36924
+"Kisumu","Nyakach","Chicken(Broilers)",2524
+"Kisumu","Nyakach","Chicken(Indigenous)",128658
+"Kisumu","Nyakach","Chicken(Layers)",6524
+"Kisumu","Nyakach","Donkeys",827
+"Kisumu","Nyakach","Goats",30765
+"Kisumu","Nyakach","Pigs",379
+"Kisumu","Nyakach","Rabbits",998
+"Kisumu","Nyakach","Sheep",38908
+"Kisumu","Nyando","Camels",0
+"Kisumu","Nyando","Cattle(Beef)",1216
+"Kisumu","Nyando","Cattle(Dairy)",2356
+"Kisumu","Nyando","Cattle(Indigenous)",52172
+"Kisumu","Nyando","Chicken(Broilers)",6111
+"Kisumu","Nyando","Chicken(Indigenous)",129709
+"Kisumu","Nyando","Chicken(Layers)",2301
+"Kisumu","Nyando","Donkeys",920
+"Kisumu","Nyando","Goats",31327
+"Kisumu","Nyando","Pigs",374
+"Kisumu","Nyando","Rabbits",652
+"Kisumu","Nyando","Sheep",49243
+"Kisumu","Seme","Camels",0
+"Kisumu","Seme","Cattle(Beef)",485
+"Kisumu","Seme","Cattle(Dairy)",1682
+"Kisumu","Seme","Cattle(Indigenous)",39320
+"Kisumu","Seme","Chicken(Broilers)",2541
+"Kisumu","Seme","Chicken(Indigenous)",117779
+"Kisumu","Seme","Chicken(Layers)",4240
+"Kisumu","Seme","Donkeys",794
+"Kisumu","Seme","Goats",20107
+"Kisumu","Seme","Pigs",655
+"Kisumu","Seme","Rabbits",684
+"Kisumu","Seme","Sheep",17255
+"Kitui","Kitui South","Camels",27
+"Kitui","Kitui South","Cattle(Beef)",678
+"Kitui","Kitui South","Cattle(Dairy)",808
+"Kitui","Kitui South","Cattle(Indigenous)",23671
+"Kitui","Kitui South","Chicken(Broilers)",1319
+"Kitui","Kitui South","Chicken(Indigenous)",83618
+"Kitui","Kitui South","Chicken(Layers)",2163
+"Kitui","Kitui South","Donkeys",14773
+"Kitui","Kitui South","Goats",108481
+"Kitui","Kitui South","Pigs",26
+"Kitui","Kitui South","Rabbits",114
+"Kitui","Kitui South","Sheep",7016
+"Kitui","Kitui Rural","Camels",134
+"Kitui","Kitui Rural","Cattle(Beef)",1857
+"Kitui","Kitui Rural","Cattle(Dairy)",2040
+"Kitui","Kitui Rural","Cattle(Indigenous)",59562
+"Kitui","Kitui Rural","Chicken(Broilers)",6907
+"Kitui","Kitui Rural","Chicken(Indigenous)",271596
+"Kitui","Kitui Rural","Chicken(Layers)",10204
+"Kitui","Kitui Rural","Donkeys",22908
+"Kitui","Kitui Rural","Goats",208416
+"Kitui","Kitui Rural","Pigs",258
+"Kitui","Kitui Rural","Rabbits",811
+"Kitui","Kitui Rural","Sheep",11827
+"Kitui","Kitui","Camels",5202
+"Kitui","Kitui","Cattle(Beef)",8869
+"Kitui","Kitui","Cattle(Dairy)",10412
+"Kitui","Kitui","Cattle(Indigenous)",324351
+"Kitui","Kitui","Chicken(Broilers)",27054
+"Kitui","Kitui","Chicken(Indigenous)",1361190
+"Kitui","Kitui","Chicken(Layers)",56769
+"Kitui","Kitui","Donkeys",162609
+"Kitui","Kitui","Goats",1370560
+"Kitui","Kitui","Pigs",1254
+"Kitui","Kitui","Rabbits",3209
+"Kitui","Kitui","Sheep",105830
+"Kitui","Kitui Central","Camels",32
+"Kitui","Kitui Central","Cattle(Beef)",692
+"Kitui","Kitui Central","Cattle(Dairy)",1455
+"Kitui","Kitui Central","Cattle(Indigenous)",15654
+"Kitui","Kitui Central","Chicken(Broilers)",4914
+"Kitui","Kitui Central","Chicken(Indigenous)",97856
+"Kitui","Kitui Central","Chicken(Layers)",8673
+"Kitui","Kitui Central","Donkeys",4538
+"Kitui","Kitui Central","Goats",48910
+"Kitui","Kitui Central","Pigs",168
+"Kitui","Kitui Central","Rabbits",339
+"Kitui","Kitui Central","Sheep",1682
+"Kitui","Kitui West","Camels",49
+"Kitui","Kitui West","Cattle(Beef)",807
+"Kitui","Kitui West","Cattle(Dairy)",1216
+"Kitui","Kitui West","Cattle(Indigenous)",27016
+"Kitui","Kitui West","Chicken(Broilers)",3437
+"Kitui","Kitui West","Chicken(Indigenous)",164631
+"Kitui","Kitui West","Chicken(Layers)",3504
+"Kitui","Kitui West","Donkeys",12060
+"Kitui","Kitui West","Goats",90771
+"Kitui","Kitui West","Pigs",215
+"Kitui","Kitui West","Rabbits",922
+"Kitui","Kitui West","Sheep",7002
+"Kitui","Mwingi North","Camels",239
+"Kitui","Mwingi North","Cattle(Beef)",1798
+"Kitui","Mwingi North","Cattle(Dairy)",1205
+"Kitui","Mwingi North","Cattle(Indigenous)",52747
+"Kitui","Mwingi North","Chicken(Broilers)",2828
+"Kitui","Mwingi North","Chicken(Indigenous)",176918
+"Kitui","Mwingi North","Chicken(Layers)",7370
+"Kitui","Mwingi North","Donkeys",34095
+"Kitui","Mwingi North","Goats",280113
+"Kitui","Mwingi North","Pigs",107
+"Kitui","Mwingi North","Rabbits",122
+"Kitui","Mwingi North","Sheep",44032
+"Kitui","Mwingi West","Camels",10
+"Kitui","Mwingi West","Cattle(Beef)",405
+"Kitui","Mwingi West","Cattle(Dairy)",444
+"Kitui","Mwingi West","Cattle(Indigenous)",16496
+"Kitui","Mwingi West","Chicken(Broilers)",2062
+"Kitui","Mwingi West","Chicken(Indigenous)",120700
+"Kitui","Mwingi West","Chicken(Layers)",7071
+"Kitui","Mwingi West","Donkeys",8528
+"Kitui","Mwingi West","Goats",84366
+"Kitui","Mwingi West","Pigs",34
+"Kitui","Mwingi West","Rabbits",492
+"Kitui","Mwingi West","Sheep",5984
+"Kitui","Kitui East","Camels",4010
+"Kitui","Kitui East","Cattle(Beef)",937
+"Kitui","Kitui East","Cattle(Dairy)",1856
+"Kitui","Kitui East","Cattle(Indigenous)",72062
+"Kitui","Kitui East","Chicken(Broilers)",2087
+"Kitui","Kitui East","Chicken(Indigenous)",219941
+"Kitui","Kitui East","Chicken(Layers)",5842
+"Kitui","Kitui East","Donkeys",31870
+"Kitui","Kitui East","Goats",259639
+"Kitui","Kitui East","Pigs",218
+"Kitui","Kitui East","Rabbits",126
+"Kitui","Kitui East","Sheep",17047
+"Kitui","Mwingi Central","Camels",50
+"Kitui","Mwingi Central","Cattle(Beef)",991
+"Kitui","Mwingi Central","Cattle(Dairy)",991
+"Kitui","Mwingi Central","Cattle(Indigenous)",25837
+"Kitui","Mwingi Central","Chicken(Broilers)",2569
+"Kitui","Mwingi Central","Chicken(Indigenous)",129315
+"Kitui","Mwingi Central","Chicken(Layers)",5685
+"Kitui","Mwingi Central","Donkeys",16384
+"Kitui","Mwingi Central","Goats",151894
+"Kitui","Mwingi Central","Pigs",205
+"Kitui","Mwingi Central","Rabbits",235
+"Kitui","Mwingi Central","Sheep",7502
+"Kitui","Mwingi East","Camels",651
+"Kitui","Mwingi East","Cattle(Beef)",704
+"Kitui","Mwingi East","Cattle(Dairy)",397
+"Kitui","Mwingi East","Cattle(Indigenous)",31306
+"Kitui","Mwingi East","Chicken(Broilers)",931
+"Kitui","Mwingi East","Chicken(Indigenous)",96615
+"Kitui","Mwingi East","Chicken(Layers)",6257
+"Kitui","Mwingi East","Donkeys",17453
+"Kitui","Mwingi East","Goats",137970
+"Kitui","Mwingi East","Pigs",23
+"Kitui","Mwingi East","Rabbits",48
+"Kitui","Mwingi East","Sheep",3738
+"Kwale","Kinango","Camels",895
+"Kwale","Kinango","Cattle(Beef)",2779
+"Kwale","Kinango","Cattle(Dairy)",4064
+"Kwale","Kinango","Cattle(Indigenous)",123002
+"Kwale","Kinango","Chicken(Broilers)",8599
+"Kwale","Kinango","Chicken(Indigenous)",192080
+"Kwale","Kinango","Chicken(Layers)",4015
+"Kwale","Kinango","Donkeys",632
+"Kwale","Kinango","Goats",187240
+"Kwale","Kinango","Pigs",76
+"Kwale","Kinango","Rabbits",112
+"Kwale","Kinango","Sheep",42750
+"Kwale","Kwale","Camels",1096
+"Kwale","Kwale","Cattle(Beef)",6117
+"Kwale","Kwale","Cattle(Dairy)",10811
+"Kwale","Kwale","Cattle(Indigenous)",293506
+"Kwale","Kwale","Chicken(Broilers)",47266
+"Kwale","Kwale","Chicken(Indigenous)",528984
+"Kwale","Kwale","Chicken(Layers)",28394
+"Kwale","Kwale","Donkeys",1190
+"Kwale","Kwale","Goats",382410
+"Kwale","Kwale","Pigs",675
+"Kwale","Kwale","Rabbits",1183
+"Kwale","Kwale","Sheep",90615
+"Kwale","Lungalunga","Camels",138
+"Kwale","Lungalunga","Cattle(Beef)",1084
+"Kwale","Lungalunga","Cattle(Dairy)",3406
+"Kwale","Lungalunga","Cattle(Indigenous)",106975
+"Kwale","Lungalunga","Chicken(Broilers)",2564
+"Kwale","Lungalunga","Chicken(Indigenous)",135988
+"Kwale","Lungalunga","Chicken(Layers)",4131
+"Kwale","Lungalunga","Donkeys",331
+"Kwale","Lungalunga","Goats",108306
+"Kwale","Lungalunga","Pigs",219
+"Kwale","Lungalunga","Rabbits",290
+"Kwale","Lungalunga","Sheep",39844
+"Kwale","Matuga","Camels",41
+"Kwale","Matuga","Cattle(Beef)",1019
+"Kwale","Matuga","Cattle(Dairy)",1871
+"Kwale","Matuga","Cattle(Indigenous)",39601
+"Kwale","Matuga","Chicken(Broilers)",10893
+"Kwale","Matuga","Chicken(Indigenous)",122903
+"Kwale","Matuga","Chicken(Layers)",7541
+"Kwale","Matuga","Donkeys",176
+"Kwale","Matuga","Goats",63035
+"Kwale","Matuga","Pigs",226
+"Kwale","Matuga","Rabbits",270
+"Kwale","Matuga","Sheep",5443
+"Kwale","Msambweni","Camels",22
+"Kwale","Msambweni","Cattle(Beef)",1235
+"Kwale","Msambweni","Cattle(Dairy)",1470
+"Kwale","Msambweni","Cattle(Indigenous)",23928
+"Kwale","Msambweni","Chicken(Broilers)",25210
+"Kwale","Msambweni","Chicken(Indigenous)",78013
+"Kwale","Msambweni","Chicken(Layers)",12707
+"Kwale","Msambweni","Donkeys",51
+"Kwale","Msambweni","Goats",23829
+"Kwale","Msambweni","Pigs",154
+"Kwale","Msambweni","Rabbits",511
+"Kwale","Msambweni","Sheep",2578
+"Laikipia","Laikipia","Camels",7827
+"Laikipia","Laikipia","Cattle(Beef)",14935
+"Laikipia","Laikipia","Cattle(Dairy)",25846
+"Laikipia","Laikipia","Cattle(Indigenous)",229284
+"Laikipia","Laikipia","Chicken(Broilers)",23110
+"Laikipia","Laikipia","Chicken(Indigenous)",506808
+"Laikipia","Laikipia","Chicken(Layers)",44016
+"Laikipia","Laikipia","Donkeys",8967
+"Laikipia","Laikipia","Goats",402526
+"Laikipia","Laikipia","Pigs",2685
+"Laikipia","Laikipia","Rabbits",10218
+"Laikipia","Laikipia","Sheep",613782
+"Laikipia","Laikipia Central","Camels",134
+"Laikipia","Laikipia Central","Cattle(Beef)",2052
+"Laikipia","Laikipia Central","Cattle(Dairy)",6696
+"Laikipia","Laikipia Central","Cattle(Indigenous)",29517
+"Laikipia","Laikipia Central","Chicken(Broilers)",3488
+"Laikipia","Laikipia Central","Chicken(Indigenous)",132735
+"Laikipia","Laikipia Central","Chicken(Layers)",11334
+"Laikipia","Laikipia Central","Donkeys",1393
+"Laikipia","Laikipia Central","Goats",34257
+"Laikipia","Laikipia Central","Pigs",789
+"Laikipia","Laikipia Central","Rabbits",4557
+"Laikipia","Laikipia Central","Sheep",111940
+"Laikipia","Laikipia East","Camels",1548
+"Laikipia","Laikipia East","Cattle(Beef)",2610
+"Laikipia","Laikipia East","Cattle(Dairy)",4499
+"Laikipia","Laikipia East","Cattle(Indigenous)",36430
+"Laikipia","Laikipia East","Chicken(Broilers)",13274
+"Laikipia","Laikipia East","Chicken(Indigenous)",73238
+"Laikipia","Laikipia East","Chicken(Layers)",13834
+"Laikipia","Laikipia East","Donkeys",969
+"Laikipia","Laikipia East","Goats",59480
+"Laikipia","Laikipia East","Pigs",661
+"Laikipia","Laikipia East","Rabbits",1636
+"Laikipia","Laikipia East","Sheep",116812
+"Laikipia","Laikipia North","Camels",4150
+"Laikipia","Laikipia North","Cattle(Beef)",1826
+"Laikipia","Laikipia North","Cattle(Dairy)",392
+"Laikipia","Laikipia North","Cattle(Indigenous)",41642
+"Laikipia","Laikipia North","Chicken(Broilers)",205
+"Laikipia","Laikipia North","Chicken(Indigenous)",18626
+"Laikipia","Laikipia North","Chicken(Layers)",350
+"Laikipia","Laikipia North","Donkeys",2158
+"Laikipia","Laikipia North","Goats",137532
+"Laikipia","Laikipia North","Pigs",20
+"Laikipia","Laikipia North","Rabbits",23
+"Laikipia","Laikipia North","Sheep",119564
+"Laikipia","Laikipia West","Camels",1938
+"Laikipia","Laikipia West","Cattle(Beef)",7111
+"Laikipia","Laikipia West","Cattle(Dairy)",4772
+"Laikipia","Laikipia West","Cattle(Indigenous)",95485
+"Laikipia","Laikipia West","Chicken(Broilers)",1768
+"Laikipia","Laikipia West","Chicken(Indigenous)",116223
+"Laikipia","Laikipia West","Chicken(Layers)",5541
+"Laikipia","Laikipia West","Donkeys",2526
+"Laikipia","Laikipia West","Goats",146259
+"Laikipia","Laikipia West","Pigs",275
+"Laikipia","Laikipia West","Rabbits",1196
+"Laikipia","Laikipia West","Sheep",206375
+"Laikipia","Nyahururu","Camels",57
+"Laikipia","Nyahururu","Cattle(Beef)",1336
+"Laikipia","Nyahururu","Cattle(Dairy)",9487
+"Laikipia","Nyahururu","Cattle(Indigenous)",26210
+"Laikipia","Nyahururu","Chicken(Broilers)",4375
+"Laikipia","Nyahururu","Chicken(Indigenous)",165986
+"Laikipia","Nyahururu","Chicken(Layers)",12957
+"Laikipia","Nyahururu","Donkeys",1921
+"Laikipia","Nyahururu","Goats",24998
+"Laikipia","Nyahururu","Pigs",940
+"Laikipia","Nyahururu","Rabbits",2806
+"Laikipia","Nyahururu","Sheep",59091
+"Lamu","Lamu","Camels",125
+"Lamu","Lamu","Cattle(Beef)",1618
+"Lamu","Lamu","Cattle(Dairy)",12415
+"Lamu","Lamu","Cattle(Indigenous)",84288
+"Lamu","Lamu","Chicken(Broilers)",9419
+"Lamu","Lamu","Chicken(Indigenous)",128599
+"Lamu","Lamu","Chicken(Layers)",11913
+"Lamu","Lamu","Donkeys",1964
+"Lamu","Lamu","Goats",97879
+"Lamu","Lamu","Pigs",280
+"Lamu","Lamu","Rabbits",292
+"Lamu","Lamu","Sheep",42145
+"Lamu","Lamu East","Camels",0
+"Lamu","Lamu East","Cattle(Beef)",201
+"Lamu","Lamu East","Cattle(Dairy)",461
+"Lamu","Lamu East","Cattle(Indigenous)",1677
+"Lamu","Lamu East","Chicken(Broilers)",147
+"Lamu","Lamu East","Chicken(Indigenous)",7643
+"Lamu","Lamu East","Chicken(Layers)",512
+"Lamu","Lamu East","Donkeys",878
+"Lamu","Lamu East","Goats",5242
+"Lamu","Lamu East","Pigs",0
+"Lamu","Lamu East","Rabbits",13
+"Lamu","Lamu East","Sheep",207
+"Lamu","Lamu West","Camels",125
+"Lamu","Lamu West","Cattle(Beef)",1417
+"Lamu","Lamu West","Cattle(Dairy)",11954
+"Lamu","Lamu West","Cattle(Indigenous)",82611
+"Lamu","Lamu West","Chicken(Broilers)",9272
+"Lamu","Lamu West","Chicken(Indigenous)",120956
+"Lamu","Lamu West","Chicken(Layers)",11401
+"Lamu","Lamu West","Donkeys",1086
+"Lamu","Lamu West","Goats",92637
+"Lamu","Lamu West","Pigs",280
+"Lamu","Lamu West","Rabbits",279
+"Lamu","Lamu West","Sheep",41938
+"Machakos","Mavoko","Camels",104
+"Machakos","Mavoko","Cattle(Beef)",3598
+"Machakos","Mavoko","Cattle(Dairy)",4844
+"Machakos","Mavoko","Cattle(Indigenous)",31791
+"Machakos","Mavoko","Chicken(Broilers)",58098
+"Machakos","Mavoko","Chicken(Indigenous)",140150
+"Machakos","Mavoko","Chicken(Layers)",79801
+"Machakos","Mavoko","Donkeys",1262
+"Machakos","Mavoko","Goats",42656
+"Machakos","Mavoko","Pigs",2162
+"Machakos","Mavoko","Rabbits",3248
+"Machakos","Mavoko","Sheep",29396
+"Machakos","Machakos Town","Camels",1566
+"Machakos","Machakos Town","Cattle(Beef)",14661
+"Machakos","Machakos Town","Cattle(Dairy)",35809
+"Machakos","Machakos Town","Cattle(Indigenous)",356094
+"Machakos","Machakos Town","Chicken(Broilers)",170488
+"Machakos","Machakos Town","Chicken(Indigenous)",1677093
+"Machakos","Machakos Town","Chicken(Layers)",217538
+"Machakos","Machakos Town","Donkeys",26297
+"Machakos","Machakos Town","Goats",695058
+"Machakos","Machakos Town","Pigs",5970
+"Machakos","Machakos Town","Rabbits",46882
+"Machakos","Machakos Town","Sheep",185888
+"Machakos","Kangundo","Camels",34
+"Machakos","Kangundo","Cattle(Beef)",651
+"Machakos","Kangundo","Cattle(Dairy)",3946
+"Machakos","Kangundo","Cattle(Indigenous)",17852
+"Machakos","Kangundo","Chicken(Broilers)",3303
+"Machakos","Kangundo","Chicken(Indigenous)",122924
+"Machakos","Kangundo","Chicken(Layers)",8303
+"Machakos","Kangundo","Donkeys",934
+"Machakos","Kangundo","Goats",26887
+"Machakos","Kangundo","Pigs",329
+"Machakos","Kangundo","Rabbits",7409
+"Machakos","Kangundo","Sheep",7342
+"Machakos","Kathiani","Camels",16
+"Machakos","Kathiani","Cattle(Beef)",642
+"Machakos","Kathiani","Cattle(Dairy)",2851
+"Machakos","Kathiani","Cattle(Indigenous)",18791
+"Machakos","Kathiani","Chicken(Broilers)",5778
+"Machakos","Kathiani","Chicken(Indigenous)",127892
+"Machakos","Kathiani","Chicken(Layers)",8253
+"Machakos","Kathiani","Donkeys",624
+"Machakos","Kathiani","Goats",26396
+"Machakos","Kathiani","Pigs",160
+"Machakos","Kathiani","Rabbits",4884
+"Machakos","Kathiani","Sheep",10910
+"Machakos","Masinga","Camels",81
+"Machakos","Masinga","Cattle(Beef)",1098
+"Machakos","Masinga","Cattle(Dairy)",1579
+"Machakos","Masinga","Cattle(Indigenous)",56602
+"Machakos","Masinga","Chicken(Broilers)",2797
+"Machakos","Masinga","Chicken(Indigenous)",199956
+"Machakos","Masinga","Chicken(Layers)",8668
+"Machakos","Masinga","Donkeys",4102
+"Machakos","Masinga","Goats",143151
+"Machakos","Masinga","Pigs",360
+"Machakos","Masinga","Rabbits",3197
+"Machakos","Masinga","Sheep",36375
+"Machakos","Matungulu","Camels",1037
+"Machakos","Matungulu","Cattle(Beef)",957
+"Machakos","Matungulu","Cattle(Dairy)",2500
+"Machakos","Matungulu","Cattle(Indigenous)",40675
+"Machakos","Matungulu","Chicken(Broilers)",22677
+"Machakos","Matungulu","Chicken(Indigenous)",160773
+"Machakos","Matungulu","Chicken(Layers)",19153
+"Machakos","Matungulu","Donkeys",368
+"Machakos","Matungulu","Goats",42417
+"Machakos","Matungulu","Pigs",828
+"Machakos","Matungulu","Rabbits",8186
+"Machakos","Matungulu","Sheep",32753
+"Machakos","Mwala","Camels",64
+"Machakos","Mwala","Cattle(Beef)",2451
+"Machakos","Mwala","Cattle(Dairy)",5688
+"Machakos","Mwala","Cattle(Indigenous)",65181
+"Machakos","Mwala","Chicken(Broilers)",7891
+"Machakos","Mwala","Chicken(Indigenous)",280163
+"Machakos","Mwala","Chicken(Layers)",20803
+"Machakos","Mwala","Donkeys",8683
+"Machakos","Mwala","Goats",143149
+"Machakos","Mwala","Pigs",644
+"Machakos","Mwala","Rabbits",4299
+"Machakos","Mwala","Sheep",15198
+"Machakos","Yatta","Camels",44
+"Machakos","Yatta","Cattle(Beef)",1254
+"Machakos","Yatta","Cattle(Dairy)",3521
+"Machakos","Yatta","Cattle(Indigenous)",51666
+"Machakos","Yatta","Chicken(Broilers)",8136
+"Machakos","Yatta","Chicken(Indigenous)",190379
+"Machakos","Yatta","Chicken(Layers)",10055
+"Machakos","Yatta","Donkeys",7318
+"Machakos","Yatta","Goats",130068
+"Machakos","Yatta","Pigs",581
+"Machakos","Yatta","Rabbits",3049
+"Machakos","Yatta","Sheep",25188
+"Makueni","Makueni","Camels",1203
+"Makueni","Makueni","Cattle(Beef)",10381
+"Makueni","Makueni","Cattle(Dairy)",26426
+"Makueni","Makueni","Cattle(Indigenous)",361830
+"Makueni","Makueni","Chicken(Broilers)",59499
+"Makueni","Makueni","Chicken(Indigenous)",1734830
+"Makueni","Makueni","Chicken(Layers)",91883
+"Makueni","Makueni","Donkeys",55656
+"Makueni","Makueni","Goats",974232
+"Makueni","Makueni","Pigs",1919
+"Makueni","Makueni","Rabbits",20915
+"Makueni","Makueni","Sheep",153109
+"Makueni","Kibwezi East","Camels",35
+"Makueni","Kibwezi East","Cattle(Beef)",1207
+"Makueni","Kibwezi East","Cattle(Dairy)",1691
+"Makueni","Kibwezi East","Cattle(Indigenous)",52617
+"Makueni","Kibwezi East","Chicken(Broilers)",9484
+"Makueni","Kibwezi East","Chicken(Indigenous)",224541
+"Makueni","Kibwezi East","Chicken(Layers)",13270
+"Makueni","Kibwezi East","Donkeys",3906
+"Makueni","Kibwezi East","Goats",194390
+"Makueni","Kibwezi East","Pigs",191
+"Makueni","Kibwezi East","Rabbits",1198
+"Makueni","Kibwezi East","Sheep",28534
+"Makueni","Kaiti","Camels",59
+"Makueni","Kaiti","Cattle(Beef)",477
+"Makueni","Kaiti","Cattle(Dairy)",1980
+"Makueni","Kaiti","Cattle(Indigenous)",10570
+"Makueni","Kaiti","Chicken(Broilers)",2302
+"Makueni","Kaiti","Chicken(Indigenous)",73682
+"Makueni","Kaiti","Chicken(Layers)",4645
+"Makueni","Kaiti","Donkeys",664
+"Makueni","Kaiti","Goats",20315
+"Makueni","Kaiti","Pigs",113
+"Makueni","Kaiti","Rabbits",2585
+"Makueni","Kaiti","Sheep",3698
+"Makueni","Kibwezi West","Camels",875
+"Makueni","Kibwezi West","Cattle(Beef)",1830
+"Makueni","Kibwezi West","Cattle(Dairy)",3760
+"Makueni","Kibwezi West","Cattle(Indigenous)",61532
+"Makueni","Kibwezi West","Chicken(Broilers)",13111
+"Makueni","Kibwezi West","Chicken(Indigenous)",294022
+"Makueni","Kibwezi West","Chicken(Layers)",19163
+"Makueni","Kibwezi West","Donkeys",7764
+"Makueni","Kibwezi West","Goats",190326
+"Makueni","Kibwezi West","Pigs",201
+"Makueni","Kibwezi West","Rabbits",2897
+"Makueni","Kibwezi West","Sheep",37448
+"Makueni","Mbooni","Camels",36
+"Makueni","Mbooni","Cattle(Beef)",2053
+"Makueni","Mbooni","Cattle(Dairy)",5698
+"Makueni","Mbooni","Cattle(Indigenous)",55755
+"Makueni","Mbooni","Chicken(Broilers)",9443
+"Makueni","Mbooni","Chicken(Indigenous)",300186
+"Makueni","Mbooni","Chicken(Layers)",16692
+"Makueni","Mbooni","Donkeys",10314
+"Makueni","Mbooni","Goats",133708
+"Makueni","Mbooni","Pigs",76
+"Makueni","Mbooni","Rabbits",3573
+"Makueni","Mbooni","Sheep",14339
+"Makueni","Kilome","Camels",14
+"Makueni","Kilome","Cattle(Beef)",1504
+"Makueni","Kilome","Cattle(Dairy)",3479
+"Makueni","Kilome","Cattle(Indigenous)",48816
+"Makueni","Kilome","Chicken(Broilers)",2759
+"Makueni","Kilome","Chicken(Indigenous)",167161
+"Makueni","Kilome","Chicken(Layers)",5459
+"Makueni","Kilome","Donkeys",2318
+"Makueni","Kilome","Goats",86305
+"Makueni","Kilome","Pigs",504
+"Makueni","Kilome","Rabbits",2352
+"Makueni","Kilome","Sheep",29102
+"Mandera","Banissa","Camels",541338
+"Mandera","Banissa","Cattle(Beef)",562
+"Mandera","Banissa","Cattle(Dairy)",1536
+"Mandera","Banissa","Cattle(Indigenous)",281547
+"Mandera","Banissa","Chicken(Broilers)",5901
+"Mandera","Banissa","Chicken(Indigenous)",39072
+"Mandera","Banissa","Chicken(Layers)",8195
+"Mandera","Banissa","Donkeys",37256
+"Mandera","Banissa","Goats",1158405
+"Mandera","Banissa","Pigs",0
+"Mandera","Banissa","Rabbits",884
+"Mandera","Banissa","Sheep",527824
+"Mandera","Mandera South","Camels",387537
+"Mandera","Mandera South","Cattle(Beef)",787
+"Mandera","Mandera South","Cattle(Dairy)",1166
+"Mandera","Mandera South","Cattle(Indigenous)",328462
+"Mandera","Mandera South","Chicken(Broilers)",1114
+"Mandera","Mandera South","Chicken(Indigenous)",30203
+"Mandera","Mandera South","Chicken(Layers)",2777
+"Mandera","Mandera South","Donkeys",34069
+"Mandera","Mandera South","Goats",1340007
+"Mandera","Mandera South","Pigs",0
+"Mandera","Mandera South","Rabbits",251
+"Mandera","Mandera South","Sheep",600340
+"Mandera","Lafey","Camels",214452
+"Mandera","Lafey","Cattle(Beef)",318
+"Mandera","Lafey","Cattle(Dairy)",414
+"Mandera","Lafey","Cattle(Indigenous)",119638
+"Mandera","Lafey","Chicken(Broilers)",3696
+"Mandera","Lafey","Chicken(Indigenous)",13188
+"Mandera","Lafey","Chicken(Layers)",2948
+"Mandera","Lafey","Donkeys",21744
+"Mandera","Lafey","Goats",605607
+"Mandera","Lafey","Pigs",0
+"Mandera","Lafey","Rabbits",476
+"Mandera","Lafey","Sheep",276012
+"Mandera","Mandera","Camels",1828665
+"Mandera","Mandera","Cattle(Beef)",2706
+"Mandera","Mandera","Cattle(Dairy)",5433
+"Mandera","Mandera","Cattle(Indigenous)",1174850
+"Mandera","Mandera","Chicken(Broilers)",21183
+"Mandera","Mandera","Chicken(Indigenous)",151394
+"Mandera","Mandera","Chicken(Layers)",23270
+"Mandera","Mandera","Donkeys",155390
+"Mandera","Mandera","Goats",4898807
+"Mandera","Mandera","Pigs",0
+"Mandera","Mandera","Rabbits",5110
+"Mandera","Mandera","Sheep",2226033
+"Mandera","Mandera East","Camels",91646
+"Mandera","Mandera East","Cattle(Beef)",388
+"Mandera","Mandera East","Cattle(Dairy)",955
+"Mandera","Mandera East","Cattle(Indigenous)",101498
+"Mandera","Mandera East","Chicken(Broilers)",4104
+"Mandera","Mandera East","Chicken(Indigenous)",14969
+"Mandera","Mandera East","Chicken(Layers)",3524
+"Mandera","Mandera East","Donkeys",18544
+"Mandera","Mandera East","Goats",394266
+"Mandera","Mandera East","Pigs",0
+"Mandera","Mandera East","Rabbits",29
+"Mandera","Mandera East","Sheep",220542
+"Mandera","Mandera North","Camels",198288
+"Mandera","Mandera North","Cattle(Beef)",453
+"Mandera","Mandera North","Cattle(Dairy)",947
+"Mandera","Mandera North","Cattle(Indigenous)",64832
+"Mandera","Mandera North","Chicken(Broilers)",2585
+"Mandera","Mandera North","Chicken(Indigenous)",12605
+"Mandera","Mandera North","Chicken(Layers)",2384
+"Mandera","Mandera North","Donkeys",24611
+"Mandera","Mandera North","Goats",683396
+"Mandera","Mandera North","Pigs",0
+"Mandera","Mandera North","Rabbits",65
+"Mandera","Mandera North","Sheep",269812
+"Mandera","Mandera West","Camels",395404
+"Mandera","Mandera West","Cattle(Beef)",198
+"Mandera","Mandera West","Cattle(Dairy)",415
+"Mandera","Mandera West","Cattle(Indigenous)",278873
+"Mandera","Mandera West","Chicken(Broilers)",3783
+"Mandera","Mandera West","Chicken(Indigenous)",41357
+"Mandera","Mandera West","Chicken(Layers)",3442
+"Mandera","Mandera West","Donkeys",19166
+"Mandera","Mandera West","Goats",717126
+"Mandera","Mandera West","Pigs",0
+"Mandera","Mandera West","Rabbits",3405
+"Mandera","Mandera West","Sheep",331503
+"Marsabit","Laisamis","Camels",143308
+"Marsabit","Laisamis","Cattle(Beef)",2458
+"Marsabit","Laisamis","Cattle(Dairy)",6307
+"Marsabit","Laisamis","Cattle(Indigenous)",118855
+"Marsabit","Laisamis","Chicken(Broilers)",1226
+"Marsabit","Laisamis","Chicken(Indigenous)",13819
+"Marsabit","Laisamis","Chicken(Layers)",1821
+"Marsabit","Laisamis","Donkeys",28386
+"Marsabit","Laisamis","Goats",470090
+"Marsabit","Laisamis","Pigs",47
+"Marsabit","Laisamis","Rabbits",79
+"Marsabit","Laisamis","Sheep",391185
+"Marsabit","Marsabit","Camels",215234
+"Marsabit","Marsabit","Cattle(Beef)",7116
+"Marsabit","Marsabit","Cattle(Dairy)",13693
+"Marsabit","Marsabit","Cattle(Indigenous)",219927
+"Marsabit","Marsabit","Chicken(Broilers)",1500
+"Marsabit","Marsabit","Chicken(Indigenous)",21239
+"Marsabit","Marsabit","Chicken(Layers)",3326
+"Marsabit","Marsabit","Donkeys",50006
+"Marsabit","Marsabit","Goats",744475
+"Marsabit","Marsabit","Pigs",65
+"Marsabit","Marsabit","Rabbits",95
+"Marsabit","Marsabit","Sheep",627832
+"Marsabit","Moyale","Camels",26829
+"Marsabit","Moyale","Cattle(Beef)",1045
+"Marsabit","Moyale","Cattle(Dairy)",2473
+"Marsabit","Moyale","Cattle(Indigenous)",33996
+"Marsabit","Moyale","Chicken(Broilers)",243
+"Marsabit","Moyale","Chicken(Indigenous)",6656
+"Marsabit","Moyale","Chicken(Layers)",1391
+"Marsabit","Moyale","Donkeys",5376
+"Marsabit","Moyale","Goats",79717
+"Marsabit","Moyale","Pigs",10
+"Marsabit","Moyale","Rabbits",6
+"Marsabit","Moyale","Sheep",44596
+"Marsabit","North Horr","Camels",45097
+"Marsabit","North Horr","Cattle(Beef)",3613
+"Marsabit","North Horr","Cattle(Dairy)",4913
+"Marsabit","North Horr","Cattle(Indigenous)",67076
+"Marsabit","North Horr","Chicken(Broilers)",31
+"Marsabit","North Horr","Chicken(Indigenous)",764
+"Marsabit","North Horr","Chicken(Layers)",114
+"Marsabit","North Horr","Donkeys",16244
+"Marsabit","North Horr","Goats",194668
+"Marsabit","North Horr","Pigs",8
+"Marsabit","North Horr","Rabbits",10
+"Marsabit","North Horr","Sheep",192051
+"Meru","Buuri","Camels",130
+"Meru","Buuri","Cattle(Beef)",6430
+"Meru","Buuri","Cattle(Dairy)",17175
+"Meru","Buuri","Cattle(Indigenous)",29573
+"Meru","Buuri","Chicken(Broilers)",5061
+"Meru","Buuri","Chicken(Indigenous)",153926
+"Meru","Buuri","Chicken(Layers)",16430
+"Meru","Buuri","Donkeys",773
+"Meru","Buuri","Goats",36590
+"Meru","Buuri","Pigs",4077
+"Meru","Buuri","Rabbits",10035
+"Meru","Buuri","Sheep",51847
+"Meru","Igembe Central","Camels",1479
+"Meru","Igembe Central","Cattle(Beef)",1551
+"Meru","Igembe Central","Cattle(Dairy)",4865
+"Meru","Igembe Central","Cattle(Indigenous)",20042
+"Meru","Igembe Central","Chicken(Broilers)",6151
+"Meru","Igembe Central","Chicken(Indigenous)",72413
+"Meru","Igembe Central","Chicken(Layers)",5828
+"Meru","Igembe Central","Donkeys",1167
+"Meru","Igembe Central","Goats",52861
+"Meru","Igembe Central","Pigs",824
+"Meru","Igembe Central","Rabbits",1229
+"Meru","Igembe Central","Sheep",11727
+"Meru","Igembe North","Camels",717
+"Meru","Igembe North","Cattle(Beef)",1427
+"Meru","Igembe North","Cattle(Dairy)",3492
+"Meru","Igembe North","Cattle(Indigenous)",26790
+"Meru","Igembe North","Chicken(Broilers)",1841
+"Meru","Igembe North","Chicken(Indigenous)",36013
+"Meru","Igembe North","Chicken(Layers)",3718
+"Meru","Igembe North","Donkeys",690
+"Meru","Igembe North","Goats",29431
+"Meru","Igembe North","Pigs",272
+"Meru","Igembe North","Rabbits",547
+"Meru","Igembe North","Sheep",10397
+"Meru","Igembe south","Camels",12
+"Meru","Igembe south","Cattle(Beef)",1148
+"Meru","Igembe south","Cattle(Dairy)",4990
+"Meru","Igembe south","Cattle(Indigenous)",8215
+"Meru","Igembe south","Chicken(Broilers)",11242
+"Meru","Igembe south","Chicken(Indigenous)",46715
+"Meru","Igembe south","Chicken(Layers)",9122
+"Meru","Igembe south","Donkeys",193
+"Meru","Igembe south","Goats",23352
+"Meru","Igembe south","Pigs",2546
+"Meru","Igembe south","Rabbits",1542
+"Meru","Igembe south","Sheep",3274
+"Meru","North Imenti","Camels",77
+"Meru","North Imenti","Cattle(Beef)",2278
+"Meru","North Imenti","Cattle(Dairy)",12865
+"Meru","North Imenti","Cattle(Indigenous)",11875
+"Meru","North Imenti","Chicken(Broilers)",17178
+"Meru","North Imenti","Chicken(Indigenous)",150678
+"Meru","North Imenti","Chicken(Layers)",45452
+"Meru","North Imenti","Donkeys",143
+"Meru","North Imenti","Goats",27710
+"Meru","North Imenti","Pigs",7270
+"Meru","North Imenti","Rabbits",6765
+"Meru","North Imenti","Sheep",8592
+"Meru","South Imenti","Camels",92
+"Meru","South Imenti","Cattle(Beef)",5508
+"Meru","South Imenti","Cattle(Dairy)",39517
+"Meru","South Imenti","Cattle(Indigenous)",10429
+"Meru","South Imenti","Chicken(Broilers)",13101
+"Meru","South Imenti","Chicken(Indigenous)",205385
+"Meru","South Imenti","Chicken(Layers)",27122
+"Meru","South Imenti","Donkeys",67
+"Meru","South Imenti","Goats",38213
+"Meru","South Imenti","Pigs",3212
+"Meru","South Imenti","Rabbits",9394
+"Meru","South Imenti","Sheep",9688
+"Meru","Meru","Camels",5732
+"Meru","Meru","Cattle(Beef)",24656
+"Meru","Meru","Cattle(Dairy)",114251
+"Meru","Meru","Cattle(Indigenous)",173277
+"Meru","Meru","Chicken(Broilers)",69083
+"Meru","Meru","Chicken(Indigenous)",1006744
+"Meru","Meru","Chicken(Layers)",140951
+"Meru","Meru","Donkeys",5822
+"Meru","Meru","Goats",342198
+"Meru","Meru","Pigs",30789
+"Meru","Meru","Rabbits",45935
+"Meru","Meru","Sheep",138771
+"Meru","Central Imenti","Camels",14
+"Meru","Central Imenti","Cattle(Beef)",3521
+"Meru","Central Imenti","Cattle(Dairy)",21656
+"Meru","Central Imenti","Cattle(Indigenous)",11138
+"Meru","Central Imenti","Chicken(Broilers)",7059
+"Meru","Central Imenti","Chicken(Indigenous)",145741
+"Meru","Central Imenti","Chicken(Layers)",17996
+"Meru","Central Imenti","Donkeys",225
+"Meru","Central Imenti","Goats",30713
+"Meru","Central Imenti","Pigs",3755
+"Meru","Central Imenti","Rabbits",8626
+"Meru","Central Imenti","Sheep",8825
+"Meru","Meru national park","Camels",0
+"Meru","Meru national park","Cattle(Beef)",0
+"Meru","Meru national park","Cattle(Dairy)",0
+"Meru","Meru national park","Cattle(Indigenous)",0
+"Meru","Meru national park","Chicken(Broilers)",0
+"Meru","Meru national park","Chicken(Indigenous)",0
+"Meru","Meru national park","Chicken(Layers)",0
+"Meru","Meru national park","Donkeys",0
+"Meru","Meru national park","Goats",0
+"Meru","Meru national park","Pigs",0
+"Meru","Meru national park","Rabbits",0
+"Meru","Meru national park","Sheep",0
+"Meru","Manyatta","Camels",0
+"Meru","Manyatta","Cattle(Beef)",88
+"Meru","Manyatta","Cattle(Dairy)",81
+"Meru","Manyatta","Cattle(Indigenous)",212
+"Meru","Manyatta","Chicken(Broilers)",39
+"Meru","Manyatta","Chicken(Indigenous)",516
+"Meru","Manyatta","Chicken(Layers)",49
+"Meru","Manyatta","Donkeys",8
+"Meru","Manyatta","Goats",114
+"Meru","Manyatta","Pigs",9
+"Meru","Manyatta","Rabbits",70
+"Meru","Manyatta","Sheep",211
+"Meru","Tigania Central","Camels",31
+"Meru","Tigania Central","Cattle(Beef)",803
+"Meru","Tigania Central","Cattle(Dairy)",3645
+"Meru","Tigania Central","Cattle(Indigenous)",13374
+"Meru","Tigania Central","Chicken(Broilers)",3410
+"Meru","Tigania Central","Chicken(Indigenous)",57541
+"Meru","Tigania Central","Chicken(Layers)",4826
+"Meru","Tigania Central","Donkeys",59
+"Meru","Tigania Central","Goats",22811
+"Meru","Tigania Central","Pigs",3669
+"Meru","Tigania Central","Rabbits",2313
+"Meru","Tigania Central","Sheep",3844
+"Meru","Tigania East","Camels",3047
+"Meru","Tigania East","Cattle(Beef)",792
+"Meru","Tigania East","Cattle(Dairy)",2397
+"Meru","Tigania East","Cattle(Indigenous)",12428
+"Meru","Tigania East","Chicken(Broilers)",1286
+"Meru","Tigania East","Chicken(Indigenous)",33384
+"Meru","Tigania East","Chicken(Layers)",2922
+"Meru","Tigania East","Donkeys",975
+"Meru","Tigania East","Goats",33907
+"Meru","Tigania East","Pigs",217
+"Meru","Tigania East","Rabbits",1128
+"Meru","Tigania East","Sheep",18188
+"Meru","Tigania West","Camels",133
+"Meru","Tigania West","Cattle(Beef)",1110
+"Meru","Tigania West","Cattle(Dairy)",3568
+"Meru","Tigania West","Cattle(Indigenous)",29201
+"Meru","Tigania West","Chicken(Broilers)",2715
+"Meru","Tigania West","Chicken(Indigenous)",104432
+"Meru","Tigania West","Chicken(Layers)",7486
+"Meru","Tigania West","Donkeys",1522
+"Meru","Tigania West","Goats",46496
+"Meru","Tigania West","Pigs",4938
+"Meru","Tigania West","Rabbits",4286
+"Meru","Tigania West","Sheep",12178
+"Migori","Awendo","Camels",0
+"Migori","Awendo","Cattle(Beef)",784
+"Migori","Awendo","Cattle(Dairy)",1819
+"Migori","Awendo","Cattle(Indigenous)",20814
+"Migori","Awendo","Chicken(Broilers)",1038
+"Migori","Awendo","Chicken(Indigenous)",83939
+"Migori","Awendo","Chicken(Layers)",3451
+"Migori","Awendo","Donkeys",46
+"Migori","Awendo","Goats",6544
+"Migori","Awendo","Pigs",625
+"Migori","Awendo","Rabbits",608
+"Migori","Awendo","Sheep",7045
+"Migori","Kuria East","Camels",0
+"Migori","Kuria East","Cattle(Beef)",1587
+"Migori","Kuria East","Cattle(Dairy)",2663
+"Migori","Kuria East","Cattle(Indigenous)",32985
+"Migori","Kuria East","Chicken(Broilers)",2449
+"Migori","Kuria East","Chicken(Indigenous)",94811
+"Migori","Kuria East","Chicken(Layers)",2940
+"Migori","Kuria East","Donkeys",304
+"Migori","Kuria East","Goats",19623
+"Migori","Kuria East","Pigs",31
+"Migori","Kuria East","Rabbits",242
+"Migori","Kuria East","Sheep",8994
+"Migori","Kuria West","Camels",0
+"Migori","Kuria West","Cattle(Beef)",1270
+"Migori","Kuria West","Cattle(Dairy)",6022
+"Migori","Kuria West","Cattle(Indigenous)",61459
+"Migori","Kuria West","Chicken(Broilers)",2591
+"Migori","Kuria West","Chicken(Indigenous)",216058
+"Migori","Kuria West","Chicken(Layers)",8904
+"Migori","Kuria West","Donkeys",123
+"Migori","Kuria West","Goats",24691
+"Migori","Kuria West","Pigs",178
+"Migori","Kuria West","Rabbits",1023
+"Migori","Kuria West","Sheep",7601
+"Migori","Migori","Camels",0
+"Migori","Migori","Cattle(Beef)",8997
+"Migori","Migori","Cattle(Dairy)",21062
+"Migori","Migori","Cattle(Indigenous)",293261
+"Migori","Migori","Chicken(Broilers)",17816
+"Migori","Migori","Chicken(Indigenous)",913634
+"Migori","Migori","Chicken(Layers)",41179
+"Migori","Migori","Donkeys",5894
+"Migori","Migori","Goats",142204
+"Migori","Migori","Pigs",2922
+"Migori","Migori","Rabbits",3856
+"Migori","Migori","Sheep",70852
+"Migori","Nyatike","Camels",0
+"Migori","Nyatike","Cattle(Beef)",925
+"Migori","Nyatike","Cattle(Dairy)",1812
+"Migori","Nyatike","Cattle(Indigenous)",71197
+"Migori","Nyatike","Chicken(Broilers)",2514
+"Migori","Nyatike","Chicken(Indigenous)",134434
+"Migori","Nyatike","Chicken(Layers)",5510
+"Migori","Nyatike","Donkeys",3927
+"Migori","Nyatike","Goats",49042
+"Migori","Nyatike","Pigs",387
+"Migori","Nyatike","Rabbits",226
+"Migori","Nyatike","Sheep",17734
+"Migori","Rongo","Camels",0
+"Migori","Rongo","Cattle(Beef)",2210
+"Migori","Rongo","Cattle(Dairy)",4007
+"Migori","Rongo","Cattle(Indigenous)",21668
+"Migori","Rongo","Chicken(Broilers)",1689
+"Migori","Rongo","Chicken(Indigenous)",87916
+"Migori","Rongo","Chicken(Layers)",8499
+"Migori","Rongo","Donkeys",38
+"Migori","Rongo","Goats",5996
+"Migori","Rongo","Pigs",268
+"Migori","Rongo","Rabbits",461
+"Migori","Rongo","Sheep",6915
+"Migori","Suna East","Camels",0
+"Migori","Suna East","Cattle(Beef)",443
+"Migori","Suna East","Cattle(Dairy)",1673
+"Migori","Suna East","Cattle(Indigenous)",24652
+"Migori","Suna East","Chicken(Broilers)",2122
+"Migori","Suna East","Chicken(Indigenous)",106342
+"Migori","Suna East","Chicken(Layers)",3179
+"Migori","Suna East","Donkeys",424
+"Migori","Suna East","Goats",11248
+"Migori","Suna East","Pigs",274
+"Migori","Suna East","Rabbits",412
+"Migori","Suna East","Sheep",7193
+"Migori","Suna West","Camels",0
+"Migori","Suna West","Cattle(Beef)",943
+"Migori","Suna West","Cattle(Dairy)",1337
+"Migori","Suna West","Cattle(Indigenous)",25301
+"Migori","Suna West","Chicken(Broilers)",3877
+"Migori","Suna West","Chicken(Indigenous)",74085
+"Migori","Suna West","Chicken(Layers)",5020
+"Migori","Suna West","Donkeys",300
+"Migori","Suna West","Goats",11187
+"Migori","Suna West","Pigs",300
+"Migori","Suna West","Rabbits",215
+"Migori","Suna West","Sheep",7099
+"Migori","Uriri","Camels",0
+"Migori","Uriri","Cattle(Beef)",835
+"Migori","Uriri","Cattle(Dairy)",1729
+"Migori","Uriri","Cattle(Indigenous)",35185
+"Migori","Uriri","Chicken(Broilers)",1536
+"Migori","Uriri","Chicken(Indigenous)",116049
+"Migori","Uriri","Chicken(Layers)",3676
+"Migori","Uriri","Donkeys",732
+"Migori","Uriri","Goats",13873
+"Migori","Uriri","Pigs",859
+"Migori","Uriri","Rabbits",669
+"Migori","Uriri","Sheep",8271
+"Mombasa","Changamwe","Camels",0
+"Mombasa","Changamwe","Cattle(Beef)",39
+"Mombasa","Changamwe","Cattle(Dairy)",49
+"Mombasa","Changamwe","Cattle(Indigenous)",119
+"Mombasa","Changamwe","Chicken(Broilers)",9211
+"Mombasa","Changamwe","Chicken(Indigenous)",8201
+"Mombasa","Changamwe","Chicken(Layers)",990
+"Mombasa","Changamwe","Donkeys",1
+"Mombasa","Changamwe","Goats",905
+"Mombasa","Changamwe","Pigs",134
+"Mombasa","Changamwe","Rabbits",162
+"Mombasa","Changamwe","Sheep",50
+"Mombasa","Jomvu","Camels",0
+"Mombasa","Jomvu","Cattle(Beef)",86
+"Mombasa","Jomvu","Cattle(Dairy)",904
+"Mombasa","Jomvu","Cattle(Indigenous)",1106
+"Mombasa","Jomvu","Chicken(Broilers)",15600
+"Mombasa","Jomvu","Chicken(Indigenous)",19152
+"Mombasa","Jomvu","Chicken(Layers)",4276
+"Mombasa","Jomvu","Donkeys",22
+"Mombasa","Jomvu","Goats",4347
+"Mombasa","Jomvu","Pigs",447
+"Mombasa","Jomvu","Rabbits",209
+"Mombasa","Jomvu","Sheep",340
+"Mombasa","Kisauni","Camels",7
+"Mombasa","Kisauni","Cattle(Beef)",552
+"Mombasa","Kisauni","Cattle(Dairy)",1034
+"Mombasa","Kisauni","Cattle(Indigenous)",3332
+"Mombasa","Kisauni","Chicken(Broilers)",46725
+"Mombasa","Kisauni","Chicken(Indigenous)",53473
+"Mombasa","Kisauni","Chicken(Layers)",15169
+"Mombasa","Kisauni","Donkeys",19
+"Mombasa","Kisauni","Goats",12211
+"Mombasa","Kisauni","Pigs",1426
+"Mombasa","Kisauni","Rabbits",543
+"Mombasa","Kisauni","Sheep",855
+"Mombasa","Likoni","Camels",0
+"Mombasa","Likoni","Cattle(Beef)",443
+"Mombasa","Likoni","Cattle(Dairy)",527
+"Mombasa","Likoni","Cattle(Indigenous)",1151
+"Mombasa","Likoni","Chicken(Broilers)",16340
+"Mombasa","Likoni","Chicken(Indigenous)",16978
+"Mombasa","Likoni","Chicken(Layers)",5470
+"Mombasa","Likoni","Donkeys",10
+"Mombasa","Likoni","Goats",5259
+"Mombasa","Likoni","Pigs",78
+"Mombasa","Likoni","Rabbits",188
+"Mombasa","Likoni","Sheep",477
+"Mombasa","Mombasa","Camels",58
+"Mombasa","Mombasa","Cattle(Beef)",1384
+"Mombasa","Mombasa","Cattle(Dairy)",3015
+"Mombasa","Mombasa","Cattle(Indigenous)",6252
+"Mombasa","Mombasa","Chicken(Broilers)",119186
+"Mombasa","Mombasa","Chicken(Indigenous)",115315
+"Mombasa","Mombasa","Chicken(Layers)",37591
+"Mombasa","Mombasa","Donkeys",68
+"Mombasa","Mombasa","Goats",25411
+"Mombasa","Mombasa","Pigs",3032
+"Mombasa","Mombasa","Rabbits",1343
+"Mombasa","Mombasa","Sheep",2292
+"Mombasa","Mvita","Camels",50
+"Mombasa","Mvita","Cattle(Beef)",81
+"Mombasa","Mvita","Cattle(Dairy)",114
+"Mombasa","Mvita","Cattle(Indigenous)",93
+"Mombasa","Mvita","Chicken(Broilers)",3118
+"Mombasa","Mvita","Chicken(Indigenous)",3278
+"Mombasa","Mvita","Chicken(Layers)",965
+"Mombasa","Mvita","Donkeys",5
+"Mombasa","Mvita","Goats",648
+"Mombasa","Mvita","Pigs",823
+"Mombasa","Mvita","Rabbits",41
+"Mombasa","Mvita","Sheep",128
+"Mombasa","Nyali","Camels",1
+"Mombasa","Nyali","Cattle(Beef)",183
+"Mombasa","Nyali","Cattle(Dairy)",387
+"Mombasa","Nyali","Cattle(Indigenous)",451
+"Mombasa","Nyali","Chicken(Broilers)",28192
+"Mombasa","Nyali","Chicken(Indigenous)",14233
+"Mombasa","Nyali","Chicken(Layers)",10721
+"Mombasa","Nyali","Donkeys",11
+"Mombasa","Nyali","Goats",2041
+"Mombasa","Nyali","Pigs",124
+"Mombasa","Nyali","Rabbits",200
+"Mombasa","Nyali","Sheep",442
+"Muranga","Mathioya","Camels",0
+"Muranga","Mathioya","Cattle(Beef)",2431
+"Muranga","Mathioya","Cattle(Dairy)",15982
+"Muranga","Mathioya","Cattle(Indigenous)",3540
+"Muranga","Mathioya","Chicken(Broilers)",11670
+"Muranga","Mathioya","Chicken(Indigenous)",64907
+"Muranga","Mathioya","Chicken(Layers)",14936
+"Muranga","Mathioya","Donkeys",6
+"Muranga","Mathioya","Goats",16298
+"Muranga","Mathioya","Pigs",1112
+"Muranga","Mathioya","Rabbits",5388
+"Muranga","Mathioya","Sheep",5176
+"Muranga","Gatanga","Camels",0
+"Muranga","Gatanga","Cattle(Beef)",4453
+"Muranga","Gatanga","Cattle(Dairy)",16244
+"Muranga","Gatanga","Cattle(Indigenous)",12930
+"Muranga","Gatanga","Chicken(Broilers)",51281
+"Muranga","Gatanga","Chicken(Indigenous)",140592
+"Muranga","Gatanga","Chicken(Layers)",126728
+"Muranga","Gatanga","Donkeys",345
+"Muranga","Gatanga","Goats",31149
+"Muranga","Gatanga","Pigs",10177
+"Muranga","Gatanga","Rabbits",9894
+"Muranga","Gatanga","Sheep",9719
+"Muranga","Kiharu","Camels",0
+"Muranga","Kiharu","Cattle(Beef)",4508
+"Muranga","Kiharu","Cattle(Dairy)",28006
+"Muranga","Kiharu","Cattle(Indigenous)",11830
+"Muranga","Kiharu","Chicken(Broilers)",26817
+"Muranga","Kiharu","Chicken(Indigenous)",196130
+"Muranga","Kiharu","Chicken(Layers)",36883
+"Muranga","Kiharu","Donkeys",27
+"Muranga","Kiharu","Goats",43305
+"Muranga","Kiharu","Pigs",4472
+"Muranga","Kiharu","Rabbits",9447
+"Muranga","Kiharu","Sheep",11111
+"Muranga","Kandara","Camels",0
+"Muranga","Kandara","Cattle(Beef)",3158
+"Muranga","Kandara","Cattle(Dairy)",21910
+"Muranga","Kandara","Cattle(Indigenous)",6479
+"Muranga","Kandara","Chicken(Broilers)",10051
+"Muranga","Kandara","Chicken(Indigenous)",151642
+"Muranga","Kandara","Chicken(Layers)",223466
+"Muranga","Kandara","Donkeys",156
+"Muranga","Kandara","Goats",18823
+"Muranga","Kandara","Pigs",14416
+"Muranga","Kandara","Rabbits",8727
+"Muranga","Kandara","Sheep",6144
+"Muranga","Kangema","Camels",0
+"Muranga","Kangema","Cattle(Beef)",2852
+"Muranga","Kangema","Cattle(Dairy)",12366
+"Muranga","Kangema","Cattle(Indigenous)",3287
+"Muranga","Kangema","Chicken(Broilers)",4765
+"Muranga","Kangema","Chicken(Indigenous)",52273
+"Muranga","Kangema","Chicken(Layers)",18019
+"Muranga","Kangema","Donkeys",0
+"Muranga","Kangema","Goats",14671
+"Muranga","Kangema","Pigs",1023
+"Muranga","Kangema","Rabbits",5776
+"Muranga","Kangema","Sheep",6581
+"Muranga","Kigumo","Camels",0
+"Muranga","Kigumo","Cattle(Beef)",3331
+"Muranga","Kigumo","Cattle(Dairy)",20055
+"Muranga","Kigumo","Cattle(Indigenous)",6113
+"Muranga","Kigumo","Chicken(Broilers)",9914
+"Muranga","Kigumo","Chicken(Indigenous)",112565
+"Muranga","Kigumo","Chicken(Layers)",62028
+"Muranga","Kigumo","Donkeys",43
+"Muranga","Kigumo","Goats",12146
+"Muranga","Kigumo","Pigs",4490
+"Muranga","Kigumo","Rabbits",6262
+"Muranga","Kigumo","Sheep",10115
+"Muranga","Murang'a","Camels",0
+"Muranga","Murang'a","Cattle(Beef)",23311
+"Muranga","Murang'a","Cattle(Dairy)",130152
+"Muranga","Murang'a","Cattle(Indigenous)",56640
+"Muranga","Murang'a","Chicken(Broilers)",132311
+"Muranga","Murang'a","Chicken(Indigenous)",922054
+"Muranga","Murang'a","Chicken(Layers)",531781
+"Muranga","Murang'a","Donkeys",914
+"Muranga","Murang'a","Goats",173763
+"Muranga","Murang'a","Pigs",48775
+"Muranga","Murang'a","Rabbits",58710
+"Muranga","Murang'a","Sheep",56475
+"Muranga","Maragwa","Camels",0
+"Muranga","Maragwa","Cattle(Beef)",2578
+"Muranga","Maragwa","Cattle(Dairy)",15589
+"Muranga","Maragwa","Cattle(Indigenous)",12461
+"Muranga","Maragwa","Chicken(Broilers)",17813
+"Muranga","Maragwa","Chicken(Indigenous)",203945
+"Muranga","Maragwa","Chicken(Layers)",49721
+"Muranga","Maragwa","Donkeys",337
+"Muranga","Maragwa","Goats",37371
+"Muranga","Maragwa","Pigs",13085
+"Muranga","Maragwa","Rabbits",13216
+"Muranga","Maragwa","Sheep",7629
+"Nairobi","Dagoretti","Camels",0
+"Nairobi","Dagoretti","Cattle(Beef)",526
+"Nairobi","Dagoretti","Cattle(Dairy)",1682
+"Nairobi","Dagoretti","Cattle(Indigenous)",919
+"Nairobi","Dagoretti","Chicken(Broilers)",18728
+"Nairobi","Dagoretti","Chicken(Indigenous)",36806
+"Nairobi","Dagoretti","Chicken(Layers)",29805
+"Nairobi","Dagoretti","Donkeys",20
+"Nairobi","Dagoretti","Goats",2639
+"Nairobi","Dagoretti","Pigs",3863
+"Nairobi","Dagoretti","Rabbits",1501
+"Nairobi","Dagoretti","Sheep",1659
+"Nairobi","Embakasi","Camels",0
+"Nairobi","Embakasi","Cattle(Beef)",744
+"Nairobi","Embakasi","Cattle(Dairy)",955
+"Nairobi","Embakasi","Cattle(Indigenous)",1271
+"Nairobi","Embakasi","Chicken(Broilers)",6438
+"Nairobi","Embakasi","Chicken(Indigenous)",37315
+"Nairobi","Embakasi","Chicken(Layers)",23932
+"Nairobi","Embakasi","Donkeys",87
+"Nairobi","Embakasi","Goats",3276
+"Nairobi","Embakasi","Pigs",1761
+"Nairobi","Embakasi","Rabbits",1840
+"Nairobi","Embakasi","Sheep",1764
+"Nairobi","Kamukunji","Camels",0
+"Nairobi","Kamukunji","Cattle(Beef)",179
+"Nairobi","Kamukunji","Cattle(Dairy)",211
+"Nairobi","Kamukunji","Cattle(Indigenous)",56
+"Nairobi","Kamukunji","Chicken(Broilers)",1407
+"Nairobi","Kamukunji","Chicken(Indigenous)",3076
+"Nairobi","Kamukunji","Chicken(Layers)",1718
+"Nairobi","Kamukunji","Donkeys",7
+"Nairobi","Kamukunji","Goats",295
+"Nairobi","Kamukunji","Pigs",28
+"Nairobi","Kamukunji","Rabbits",165
+"Nairobi","Kamukunji","Sheep",241
+"Nairobi","Roysambu","Camels",0
+"Nairobi","Roysambu","Cattle(Beef)",913
+"Nairobi","Roysambu","Cattle(Dairy)",2519
+"Nairobi","Roysambu","Cattle(Indigenous)",1396
+"Nairobi","Roysambu","Chicken(Broilers)",45452
+"Nairobi","Roysambu","Chicken(Indigenous)",62937
+"Nairobi","Roysambu","Chicken(Layers)",28336
+"Nairobi","Roysambu","Donkeys",47
+"Nairobi","Roysambu","Goats",4063
+"Nairobi","Roysambu","Pigs",3661
+"Nairobi","Roysambu","Rabbits",2565
+"Nairobi","Roysambu","Sheep",2672
+"Nairobi","Kibra","Camels",0
+"Nairobi","Kibra","Cattle(Beef)",86
+"Nairobi","Kibra","Cattle(Dairy)",158
+"Nairobi","Kibra","Cattle(Indigenous)",215
+"Nairobi","Kibra","Chicken(Broilers)",11545
+"Nairobi","Kibra","Chicken(Indigenous)",5790
+"Nairobi","Kibra","Chicken(Layers)",1608
+"Nairobi","Kibra","Donkeys",27
+"Nairobi","Kibra","Goats",838
+"Nairobi","Kibra","Pigs",43
+"Nairobi","Kibra","Rabbits",755
+"Nairobi","Kibra","Sheep",239
+"Nairobi","Langata","Camels",0
+"Nairobi","Langata","Cattle(Beef)",322
+"Nairobi","Langata","Cattle(Dairy)",868
+"Nairobi","Langata","Cattle(Indigenous)",2663
+"Nairobi","Langata","Chicken(Broilers)",14934
+"Nairobi","Langata","Chicken(Indigenous)",18079
+"Nairobi","Langata","Chicken(Layers)",12785
+"Nairobi","Langata","Donkeys",44
+"Nairobi","Langata","Goats",2196
+"Nairobi","Langata","Pigs",613
+"Nairobi","Langata","Rabbits",689
+"Nairobi","Langata","Sheep",3254
+"Nairobi","Makadara","Camels",0
+"Nairobi","Makadara","Cattle(Beef)",27
+"Nairobi","Makadara","Cattle(Dairy)",1126
+"Nairobi","Makadara","Cattle(Indigenous)",64
+"Nairobi","Makadara","Chicken(Broilers)",1046
+"Nairobi","Makadara","Chicken(Indigenous)",5658
+"Nairobi","Makadara","Chicken(Layers)",1562
+"Nairobi","Makadara","Donkeys",10
+"Nairobi","Makadara","Goats",715
+"Nairobi","Makadara","Pigs",459
+"Nairobi","Makadara","Rabbits",851
+"Nairobi","Makadara","Sheep",130
+"Nairobi","Mathare","Camels",0
+"Nairobi","Mathare","Cattle(Beef)",281
+"Nairobi","Mathare","Cattle(Dairy)",259
+"Nairobi","Mathare","Cattle(Indigenous)",268
+"Nairobi","Mathare","Chicken(Broilers)",859
+"Nairobi","Mathare","Chicken(Indigenous)",5959
+"Nairobi","Mathare","Chicken(Layers)",3380
+"Nairobi","Mathare","Donkeys",21
+"Nairobi","Mathare","Goats",954
+"Nairobi","Mathare","Pigs",393
+"Nairobi","Mathare","Rabbits",256
+"Nairobi","Mathare","Sheep",353
+"Nairobi","Nairobi city","Camels",0
+"Nairobi","Nairobi city","Cattle(Beef)",4923
+"Nairobi","Nairobi city","Cattle(Dairy)",11780
+"Nairobi","Nairobi city","Cattle(Indigenous)",12626
+"Nairobi","Nairobi city","Chicken(Broilers)",248141
+"Nairobi","Nairobi city","Chicken(Indigenous)",354335
+"Nairobi","Nairobi city","Chicken(Layers)",244733
+"Nairobi","Nairobi city","Donkeys",542
+"Nairobi","Nairobi city","Goats",28415
+"Nairobi","Nairobi city","Pigs",16412
+"Nairobi","Nairobi city","Rabbits",13036
+"Nairobi","Nairobi city","Sheep",19109
+"Nairobi","Kasarani","Camels",0
+"Nairobi","Kasarani","Cattle(Beef)",829
+"Nairobi","Kasarani","Cattle(Dairy)",2282
+"Nairobi","Kasarani","Cattle(Indigenous)",4493
+"Nairobi","Kasarani","Chicken(Broilers)",121914
+"Nairobi","Kasarani","Chicken(Indigenous)",146398
+"Nairobi","Kasarani","Chicken(Layers)",114383
+"Nairobi","Kasarani","Donkeys",242
+"Nairobi","Kasarani","Goats",10605
+"Nairobi","Kasarani","Pigs",4402
+"Nairobi","Kasarani","Rabbits",3610
+"Nairobi","Kasarani","Sheep",7023
+"Nairobi","Starehe","Camels",0
+"Nairobi","Starehe","Cattle(Beef)",143
+"Nairobi","Starehe","Cattle(Dairy)",239
+"Nairobi","Starehe","Cattle(Indigenous)",213
+"Nairobi","Starehe","Chicken(Broilers)",6501
+"Nairobi","Starehe","Chicken(Indigenous)",3738
+"Nairobi","Starehe","Chicken(Layers)",6510
+"Nairobi","Starehe","Donkeys",13
+"Nairobi","Starehe","Goats",647
+"Nairobi","Starehe","Pigs",135
+"Nairobi","Starehe","Rabbits",352
+"Nairobi","Starehe","Sheep",263
+"Nairobi","Westlands","Camels",0
+"Nairobi","Westlands","Cattle(Beef)",873
+"Nairobi","Westlands","Cattle(Dairy)",1481
+"Nairobi","Westlands","Cattle(Indigenous)",1068
+"Nairobi","Westlands","Chicken(Broilers)",19317
+"Nairobi","Westlands","Chicken(Indigenous)",28579
+"Nairobi","Westlands","Chicken(Layers)",20714
+"Nairobi","Westlands","Donkeys",24
+"Nairobi","Westlands","Goats",2187
+"Nairobi","Westlands","Pigs",1054
+"Nairobi","Westlands","Rabbits",452
+"Nairobi","Westlands","Sheep",1511
+"Nakuru","Gilgil","Camels",27
+"Nakuru","Gilgil","Cattle(Beef)",3482
+"Nakuru","Gilgil","Cattle(Dairy)",5497
+"Nakuru","Gilgil","Cattle(Indigenous)",32153
+"Nakuru","Gilgil","Chicken(Broilers)",15455
+"Nakuru","Gilgil","Chicken(Indigenous)",181318
+"Nakuru","Gilgil","Chicken(Layers)",30013
+"Nakuru","Gilgil","Donkeys",2767
+"Nakuru","Gilgil","Goats",32945
+"Nakuru","Gilgil","Pigs",1842
+"Nakuru","Gilgil","Rabbits",4081
+"Nakuru","Gilgil","Sheep",73135
+"Nakuru","Kuresoi North","Camels",2
+"Nakuru","Kuresoi North","Cattle(Beef)",2036
+"Nakuru","Kuresoi North","Cattle(Dairy)",20177
+"Nakuru","Kuresoi North","Cattle(Indigenous)",26143
+"Nakuru","Kuresoi North","Chicken(Broilers)",1724
+"Nakuru","Kuresoi North","Chicken(Indigenous)",103017
+"Nakuru","Kuresoi North","Chicken(Layers)",9473
+"Nakuru","Kuresoi North","Donkeys",3771
+"Nakuru","Kuresoi North","Goats",7987
+"Nakuru","Kuresoi North","Pigs",132
+"Nakuru","Kuresoi North","Rabbits",1880
+"Nakuru","Kuresoi North","Sheep",40646
+"Nakuru","Kuresoi South","Camels",1
+"Nakuru","Kuresoi South","Cattle(Beef)",2378
+"Nakuru","Kuresoi South","Cattle(Dairy)",25897
+"Nakuru","Kuresoi South","Cattle(Indigenous)",30365
+"Nakuru","Kuresoi South","Chicken(Broilers)",2303
+"Nakuru","Kuresoi South","Chicken(Indigenous)",113428
+"Nakuru","Kuresoi South","Chicken(Layers)",10569
+"Nakuru","Kuresoi South","Donkeys",1550
+"Nakuru","Kuresoi South","Goats",7281
+"Nakuru","Kuresoi South","Pigs",30
+"Nakuru","Kuresoi South","Rabbits",760
+"Nakuru","Kuresoi South","Sheep",28168
+"Nakuru","Molo","Camels",32
+"Nakuru","Molo","Cattle(Beef)",1757
+"Nakuru","Molo","Cattle(Dairy)",14185
+"Nakuru","Molo","Cattle(Indigenous)",12101
+"Nakuru","Molo","Chicken(Broilers)",4459
+"Nakuru","Molo","Chicken(Indigenous)",116833
+"Nakuru","Molo","Chicken(Layers)",17116
+"Nakuru","Molo","Donkeys",1660
+"Nakuru","Molo","Goats",6471
+"Nakuru","Molo","Pigs",401
+"Nakuru","Molo","Rabbits",3757
+"Nakuru","Molo","Sheep",40078
+"Nakuru","Naivasha","Camels",190
+"Nakuru","Naivasha","Cattle(Beef)",5729
+"Nakuru","Naivasha","Cattle(Dairy)",13874
+"Nakuru","Naivasha","Cattle(Indigenous)",44991
+"Nakuru","Naivasha","Chicken(Broilers)",34933
+"Nakuru","Naivasha","Chicken(Indigenous)",201189
+"Nakuru","Naivasha","Chicken(Layers)",57599
+"Nakuru","Naivasha","Donkeys",5098
+"Nakuru","Naivasha","Goats",57918
+"Nakuru","Naivasha","Pigs",4896
+"Nakuru","Naivasha","Rabbits",6651
+"Nakuru","Naivasha","Sheep",165744
+"Nakuru","Nakuru","Camels",388
+"Nakuru","Nakuru","Cattle(Beef)",23774
+"Nakuru","Nakuru","Cattle(Dairy)",135235
+"Nakuru","Nakuru","Cattle(Indigenous)",237517
+"Nakuru","Nakuru","Chicken(Broilers)",152761
+"Nakuru","Nakuru","Chicken(Indigenous)",1539144
+"Nakuru","Nakuru","Chicken(Layers)",329912
+"Nakuru","Nakuru","Donkeys",22792
+"Nakuru","Nakuru","Goats",205392
+"Nakuru","Nakuru","Pigs",16895
+"Nakuru","Nakuru","Rabbits",35368
+"Nakuru","Nakuru","Sheep",532221
+"Nakuru","Nakuru Town East","Camels",24
+"Nakuru","Nakuru Town East","Cattle(Beef)",1395
+"Nakuru","Nakuru Town East","Cattle(Dairy)",3259
+"Nakuru","Nakuru Town East","Cattle(Indigenous)",2219
+"Nakuru","Nakuru Town East","Chicken(Broilers)",30037
+"Nakuru","Nakuru Town East","Chicken(Indigenous)",72616
+"Nakuru","Nakuru Town East","Chicken(Layers)",61263
+"Nakuru","Nakuru Town East","Donkeys",72
+"Nakuru","Nakuru Town East","Goats",6992
+"Nakuru","Nakuru Town East","Pigs",1595
+"Nakuru","Nakuru Town East","Rabbits",1550
+"Nakuru","Nakuru Town East","Sheep",10302
+"Nakuru","Bahati","Camels",42
+"Nakuru","Bahati","Cattle(Beef)",1093
+"Nakuru","Bahati","Cattle(Dairy)",10375
+"Nakuru","Bahati","Cattle(Indigenous)",7547
+"Nakuru","Bahati","Chicken(Broilers)",22888
+"Nakuru","Bahati","Chicken(Indigenous)",207577
+"Nakuru","Bahati","Chicken(Layers)",63227
+"Nakuru","Bahati","Donkeys",644
+"Nakuru","Bahati","Goats",9961
+"Nakuru","Bahati","Pigs",3026
+"Nakuru","Bahati","Rabbits",5070
+"Nakuru","Bahati","Sheep",33505
+"Nakuru","Nakuru Town West","Camels",3
+"Nakuru","Nakuru Town West","Cattle(Beef)",1055
+"Nakuru","Nakuru Town West","Cattle(Dairy)",4082
+"Nakuru","Nakuru Town West","Cattle(Indigenous)",3809
+"Nakuru","Nakuru Town West","Chicken(Broilers)",11845
+"Nakuru","Nakuru Town West","Chicken(Indigenous)",53773
+"Nakuru","Nakuru Town West","Chicken(Layers)",20163
+"Nakuru","Nakuru Town West","Donkeys",90
+"Nakuru","Nakuru Town West","Goats",5853
+"Nakuru","Nakuru Town West","Pigs",1213
+"Nakuru","Nakuru Town West","Rabbits",680
+"Nakuru","Nakuru Town West","Sheep",7081
+"Nakuru","Njoro","Camels",24
+"Nakuru","Njoro","Cattle(Beef)",1377
+"Nakuru","Njoro","Cattle(Dairy)",14547
+"Nakuru","Njoro","Cattle(Indigenous)",26498
+"Nakuru","Njoro","Chicken(Broilers)",4509
+"Nakuru","Njoro","Chicken(Indigenous)",200883
+"Nakuru","Njoro","Chicken(Layers)",18369
+"Nakuru","Njoro","Donkeys",5101
+"Nakuru","Njoro","Goats",15324
+"Nakuru","Njoro","Pigs",1535
+"Nakuru","Njoro","Rabbits",5968
+"Nakuru","Njoro","Sheep",56464
+"Nakuru","Rongai","Camels",33
+"Nakuru","Rongai","Cattle(Beef)",2694
+"Nakuru","Rongai","Cattle(Dairy)",18138
+"Nakuru","Rongai","Cattle(Indigenous)",39132
+"Nakuru","Rongai","Chicken(Broilers)",23128
+"Nakuru","Rongai","Chicken(Indigenous)",190862
+"Nakuru","Rongai","Chicken(Layers)",34258
+"Nakuru","Rongai","Donkeys",952
+"Nakuru","Rongai","Goats",35726
+"Nakuru","Rongai","Pigs",1146
+"Nakuru","Rongai","Rabbits",2863
+"Nakuru","Rongai","Sheep",55527
+"Nakuru","Subukia","Camels",10
+"Nakuru","Subukia","Cattle(Beef)",778
+"Nakuru","Subukia","Cattle(Dairy)",5204
+"Nakuru","Subukia","Cattle(Indigenous)",12559
+"Nakuru","Subukia","Chicken(Broilers)",1480
+"Nakuru","Subukia","Chicken(Indigenous)",97648
+"Nakuru","Subukia","Chicken(Layers)",7862
+"Nakuru","Subukia","Donkeys",1087
+"Nakuru","Subukia","Goats",18934
+"Nakuru","Subukia","Pigs",1079
+"Nakuru","Subukia","Rabbits",2108
+"Nakuru","Subukia","Sheep",21571
+"Nandi","Chesumei","Camels",0
+"Nandi","Chesumei","Cattle(Beef)",2148
+"Nandi","Chesumei","Cattle(Dairy)",33443
+"Nandi","Chesumei","Cattle(Indigenous)",10121
+"Nandi","Chesumei","Chicken(Broilers)",4116
+"Nandi","Chesumei","Chicken(Indigenous)",122680
+"Nandi","Chesumei","Chicken(Layers)",17116
+"Nandi","Chesumei","Donkeys",49
+"Nandi","Chesumei","Goats",2208
+"Nandi","Chesumei","Pigs",154
+"Nandi","Chesumei","Rabbits",954
+"Nandi","Chesumei","Sheep",20788
+"Nandi","Nandi","Camels",0
+"Nandi","Nandi","Cattle(Beef)",11376
+"Nandi","Nandi","Cattle(Dairy)",125566
+"Nandi","Nandi","Cattle(Indigenous)",106476
+"Nandi","Nandi","Chicken(Broilers)",20771
+"Nandi","Nandi","Chicken(Indigenous)",639134
+"Nandi","Nandi","Chicken(Layers)",65254
+"Nandi","Nandi","Donkeys",4344
+"Nandi","Nandi","Goats",35096
+"Nandi","Nandi","Pigs",862
+"Nandi","Nandi","Rabbits",4382
+"Nandi","Nandi","Sheep",97712
+"Nandi","Emgwen","Camels",0
+"Nandi","Emgwen","Cattle(Beef)",1736
+"Nandi","Emgwen","Cattle(Dairy)",20046
+"Nandi","Emgwen","Cattle(Indigenous)",13902
+"Nandi","Emgwen","Chicken(Broilers)",3332
+"Nandi","Emgwen","Chicken(Indigenous)",95671
+"Nandi","Emgwen","Chicken(Layers)",13380
+"Nandi","Emgwen","Donkeys",94
+"Nandi","Emgwen","Goats",3288
+"Nandi","Emgwen","Pigs",244
+"Nandi","Emgwen","Rabbits",935
+"Nandi","Emgwen","Sheep",12613
+"Nandi","Nandi Hills","Camels",0
+"Nandi","Nandi Hills","Cattle(Beef)",1190
+"Nandi","Nandi Hills","Cattle(Dairy)",14262
+"Nandi","Nandi Hills","Cattle(Indigenous)",8830
+"Nandi","Nandi Hills","Chicken(Broilers)",2128
+"Nandi","Nandi Hills","Chicken(Indigenous)",61070
+"Nandi","Nandi Hills","Chicken(Layers)",10607
+"Nandi","Nandi Hills","Donkeys",640
+"Nandi","Nandi Hills","Goats",2517
+"Nandi","Nandi Hills","Pigs",92
+"Nandi","Nandi Hills","Rabbits",313
+"Nandi","Nandi Hills","Sheep",9048
+"Nandi","Mosop","Camels",0
+"Nandi","Mosop","Cattle(Beef)",3099
+"Nandi","Mosop","Cattle(Dairy)",32304
+"Nandi","Mosop","Cattle(Indigenous)",20576
+"Nandi","Mosop","Chicken(Broilers)",2904
+"Nandi","Mosop","Chicken(Indigenous)",142621
+"Nandi","Mosop","Chicken(Layers)",11597
+"Nandi","Mosop","Donkeys",473
+"Nandi","Mosop","Goats",3795
+"Nandi","Mosop","Pigs",181
+"Nandi","Mosop","Rabbits",571
+"Nandi","Mosop","Sheep",31905
+"Nandi","Aldai","Camels",0
+"Nandi","Aldai","Cattle(Beef)",1955
+"Nandi","Aldai","Cattle(Dairy)",18248
+"Nandi","Aldai","Cattle(Indigenous)",27406
+"Nandi","Aldai","Chicken(Broilers)",2252
+"Nandi","Aldai","Chicken(Indigenous)",136397
+"Nandi","Aldai","Chicken(Layers)",9194
+"Nandi","Aldai","Donkeys",705
+"Nandi","Aldai","Goats",10053
+"Nandi","Aldai","Pigs",154
+"Nandi","Aldai","Rabbits",948
+"Nandi","Aldai","Sheep",14453
+"Nandi","Tinderet","Camels",0
+"Nandi","Tinderet","Cattle(Beef)",1248
+"Nandi","Tinderet","Cattle(Dairy)",7263
+"Nandi","Tinderet","Cattle(Indigenous)",25641
+"Nandi","Tinderet","Chicken(Broilers)",6039
+"Nandi","Tinderet","Chicken(Indigenous)",80695
+"Nandi","Tinderet","Chicken(Layers)",3360
+"Nandi","Tinderet","Donkeys",2383
+"Nandi","Tinderet","Goats",13235
+"Nandi","Tinderet","Pigs",37
+"Nandi","Tinderet","Rabbits",661
+"Nandi","Tinderet","Sheep",8905
+"Narok","Mau forest","Camels",0
+"Narok","Mau forest","Cattle(Beef)",0
+"Narok","Mau forest","Cattle(Dairy)",0
+"Narok","Mau forest","Cattle(Indigenous)",0
+"Narok","Mau forest","Chicken(Broilers)",0
+"Narok","Mau forest","Chicken(Indigenous)",0
+"Narok","Mau forest","Chicken(Layers)",0
+"Narok","Mau forest","Donkeys",0
+"Narok","Mau forest","Goats",0
+"Narok","Mau forest","Pigs",0
+"Narok","Mau forest","Rabbits",0
+"Narok","Mau forest","Sheep",0
+"Narok","Narok","Camels",1619
+"Narok","Narok","Cattle(Beef)",89203
+"Narok","Narok","Cattle(Dairy)",93562
+"Narok","Narok","Cattle(Indigenous)",1306126
+"Narok","Narok","Chicken(Broilers)",25819
+"Narok","Narok","Chicken(Indigenous)",878467
+"Narok","Narok","Chicken(Layers)",50387
+"Narok","Narok","Donkeys",81932
+"Narok","Narok","Goats",1015845
+"Narok","Narok","Pigs",2054
+"Narok","Narok","Rabbits",3679
+"Narok","Narok","Sheep",2603542
+"Narok","Narok East","Camels",92
+"Narok","Narok East","Cattle(Beef)",10667
+"Narok","Narok East","Cattle(Dairy)",10733
+"Narok","Narok East","Cattle(Indigenous)",113965
+"Narok","Narok East","Chicken(Broilers)",3450
+"Narok","Narok East","Chicken(Indigenous)",82188
+"Narok","Narok East","Chicken(Layers)",4502
+"Narok","Narok East","Donkeys",10166
+"Narok","Narok East","Goats",148084
+"Narok","Narok East","Pigs",686
+"Narok","Narok East","Rabbits",319
+"Narok","Narok East","Sheep",357048
+"Narok","Narok North","Camels",164
+"Narok","Narok North","Cattle(Beef)",20957
+"Narok","Narok North","Cattle(Dairy)",18954
+"Narok","Narok North","Cattle(Indigenous)",188480
+"Narok","Narok North","Chicken(Broilers)",9851
+"Narok","Narok North","Chicken(Indigenous)",150095
+"Narok","Narok North","Chicken(Layers)",15995
+"Narok","Narok North","Donkeys",23753
+"Narok","Narok North","Goats",132370
+"Narok","Narok North","Pigs",636
+"Narok","Narok North","Rabbits",990
+"Narok","Narok North","Sheep",516086
+"Narok","Narok South","Camels",243
+"Narok","Narok South","Cattle(Beef)",20610
+"Narok","Narok South","Cattle(Dairy)",23495
+"Narok","Narok South","Cattle(Indigenous)",288551
+"Narok","Narok South","Chicken(Broilers)",4683
+"Narok","Narok South","Chicken(Indigenous)",165383
+"Narok","Narok South","Chicken(Layers)",8872
+"Narok","Narok South","Donkeys",18470
+"Narok","Narok South","Goats",324265
+"Narok","Narok South","Pigs",563
+"Narok","Narok South","Rabbits",1078
+"Narok","Narok South","Sheep",599935
+"Narok","Narok West","Camels",991
+"Narok","Narok West","Cattle(Beef)",22291
+"Narok","Narok West","Cattle(Dairy)",17282
+"Narok","Narok West","Cattle(Indigenous)",361102
+"Narok","Narok West","Chicken(Broilers)",3046
+"Narok","Narok West","Chicken(Indigenous)",141524
+"Narok","Narok West","Chicken(Layers)",8853
+"Narok","Narok West","Donkeys",9083
+"Narok","Narok West","Goats",286004
+"Narok","Narok West","Pigs",109
+"Narok","Narok West","Rabbits",576
+"Narok","Narok West","Sheep",904921
+"Narok","Emurua Dikirr","Camels",48
+"Narok","Emurua Dikirr","Cattle(Beef)",2044
+"Narok","Emurua Dikirr","Cattle(Dairy)",7300
+"Narok","Emurua Dikirr","Cattle(Indigenous)",46398
+"Narok","Emurua Dikirr","Chicken(Broilers)",1200
+"Narok","Emurua Dikirr","Chicken(Indigenous)",127513
+"Narok","Emurua Dikirr","Chicken(Layers)",5062
+"Narok","Emurua Dikirr","Donkeys",3427
+"Narok","Emurua Dikirr","Goats",13516
+"Narok","Emurua Dikirr","Pigs",16
+"Narok","Emurua Dikirr","Rabbits",438
+"Narok","Emurua Dikirr","Sheep",26575
+"Narok","Kilgoris","Camels",81
+"Narok","Kilgoris","Cattle(Beef)",12634
+"Narok","Kilgoris","Cattle(Dairy)",15798
+"Narok","Kilgoris","Cattle(Indigenous)",307630
+"Narok","Kilgoris","Chicken(Broilers)",3589
+"Narok","Kilgoris","Chicken(Indigenous)",211764
+"Narok","Kilgoris","Chicken(Layers)",7103
+"Narok","Kilgoris","Donkeys",17033
+"Narok","Kilgoris","Goats",111606
+"Narok","Kilgoris","Pigs",44
+"Narok","Kilgoris","Rabbits",278
+"Narok","Kilgoris","Sheep",198977
+"Nyamira","Borabu","Camels",0
+"Nyamira","Borabu","Cattle(Beef)",558
+"Nyamira","Borabu","Cattle(Dairy)",8486
+"Nyamira","Borabu","Cattle(Indigenous)",10675
+"Nyamira","Borabu","Chicken(Broilers)",1633
+"Nyamira","Borabu","Chicken(Indigenous)",67757
+"Nyamira","Borabu","Chicken(Layers)",13694
+"Nyamira","Borabu","Donkeys",148
+"Nyamira","Borabu","Goats",7318
+"Nyamira","Borabu","Pigs",198
+"Nyamira","Borabu","Rabbits",479
+"Nyamira","Borabu","Sheep",4041
+"Nyamira","Kitutu Masaba","Camels",0
+"Nyamira","Kitutu Masaba","Cattle(Beef)",877
+"Nyamira","Kitutu Masaba","Cattle(Dairy)",9931
+"Nyamira","Kitutu Masaba","Cattle(Indigenous)",30789
+"Nyamira","Kitutu Masaba","Chicken(Broilers)",3057
+"Nyamira","Kitutu Masaba","Chicken(Indigenous)",175690
+"Nyamira","Kitutu Masaba","Chicken(Layers)",20577
+"Nyamira","Kitutu Masaba","Donkeys",166
+"Nyamira","Kitutu Masaba","Goats",11087
+"Nyamira","Kitutu Masaba","Pigs",23
+"Nyamira","Kitutu Masaba","Rabbits",1091
+"Nyamira","Kitutu Masaba","Sheep",2956
+"Nyamira","Nyamira","Camels",0
+"Nyamira","Nyamira","Cattle(Beef)",2735
+"Nyamira","Nyamira","Cattle(Dairy)",34276
+"Nyamira","Nyamira","Cattle(Indigenous)",82614
+"Nyamira","Nyamira","Chicken(Broilers)",10264
+"Nyamira","Nyamira","Chicken(Indigenous)",478429
+"Nyamira","Nyamira","Chicken(Layers)",64429
+"Nyamira","Nyamira","Donkeys",728
+"Nyamira","Nyamira","Goats",39335
+"Nyamira","Nyamira","Pigs",1341
+"Nyamira","Nyamira","Rabbits",2925
+"Nyamira","Nyamira","Sheep",11787
+"Nyamira","North Mugirango","Camels",0
+"Nyamira","North Mugirango","Cattle(Beef)",781
+"Nyamira","North Mugirango","Cattle(Dairy)",7303
+"Nyamira","North Mugirango","Cattle(Indigenous)",21739
+"Nyamira","North Mugirango","Chicken(Broilers)",3338
+"Nyamira","North Mugirango","Chicken(Indigenous)",119053
+"Nyamira","North Mugirango","Chicken(Layers)",17554
+"Nyamira","North Mugirango","Donkeys",235
+"Nyamira","North Mugirango","Goats",12453
+"Nyamira","North Mugirango","Pigs",117
+"Nyamira","North Mugirango","Rabbits",796
+"Nyamira","North Mugirango","Sheep",2319
+"Nyamira","West Mugirango","Camels",0
+"Nyamira","West Mugirango","Cattle(Beef)",519
+"Nyamira","West Mugirango","Cattle(Dairy)",8556
+"Nyamira","West Mugirango","Cattle(Indigenous)",19411
+"Nyamira","West Mugirango","Chicken(Broilers)",2236
+"Nyamira","West Mugirango","Chicken(Indigenous)",115929
+"Nyamira","West Mugirango","Chicken(Layers)",12604
+"Nyamira","West Mugirango","Donkeys",179
+"Nyamira","West Mugirango","Goats",8477
+"Nyamira","West Mugirango","Pigs",1003
+"Nyamira","West Mugirango","Rabbits",559
+"Nyamira","West Mugirango","Sheep",2471
+"Nyandarua","Kinangop","Camels",0
+"Nyandarua","Kinangop","Cattle(Beef)",2636
+"Nyandarua","Kinangop","Cattle(Dairy)",27100
+"Nyandarua","Kinangop","Cattle(Indigenous)",2956
+"Nyandarua","Kinangop","Chicken(Broilers)",1124
+"Nyandarua","Kinangop","Chicken(Indigenous)",86673
+"Nyandarua","Kinangop","Chicken(Layers)",11665
+"Nyandarua","Kinangop","Donkeys",942
+"Nyandarua","Kinangop","Goats",2216
+"Nyandarua","Kinangop","Pigs",1035
+"Nyandarua","Kinangop","Rabbits",7483
+"Nyandarua","Kinangop","Sheep",39850
+"Nyandarua","Kipipiri","Camels",0
+"Nyandarua","Kipipiri","Cattle(Beef)",3039
+"Nyandarua","Kipipiri","Cattle(Dairy)",18323
+"Nyandarua","Kipipiri","Cattle(Indigenous)",12469
+"Nyandarua","Kipipiri","Chicken(Broilers)",2429
+"Nyandarua","Kipipiri","Chicken(Indigenous)",112930
+"Nyandarua","Kipipiri","Chicken(Layers)",11164
+"Nyandarua","Kipipiri","Donkeys",1274
+"Nyandarua","Kipipiri","Goats",3982
+"Nyandarua","Kipipiri","Pigs",541
+"Nyandarua","Kipipiri","Rabbits",5062
+"Nyandarua","Kipipiri","Sheep",47484
+"Nyandarua","Ol Kalou","Camels",0
+"Nyandarua","Ol Kalou","Cattle(Beef)",4267
+"Nyandarua","Ol Kalou","Cattle(Dairy)",32074
+"Nyandarua","Ol Kalou","Cattle(Indigenous)",9929
+"Nyandarua","Ol Kalou","Chicken(Broilers)",2400
+"Nyandarua","Ol Kalou","Chicken(Indigenous)",173975
+"Nyandarua","Ol Kalou","Chicken(Layers)",16154
+"Nyandarua","Ol Kalou","Donkeys",3548
+"Nyandarua","Ol Kalou","Goats",7652
+"Nyandarua","Ol Kalou","Pigs",799
+"Nyandarua","Ol Kalou","Rabbits",7544
+"Nyandarua","Ol Kalou","Sheep",61350
+"Nyandarua","Nyandarua","Camels",0
+"Nyandarua","Nyandarua","Cattle(Beef)",16879
+"Nyandarua","Nyandarua","Cattle(Dairy)",135895
+"Nyandarua","Nyandarua","Cattle(Indigenous)",58589
+"Nyandarua","Nyandarua","Chicken(Broilers)",11591
+"Nyandarua","Nyandarua","Chicken(Indigenous)",738187
+"Nyandarua","Nyandarua","Chicken(Layers)",78274
+"Nyandarua","Nyandarua","Donkeys",9458
+"Nyandarua","Nyandarua","Goats",37009
+"Nyandarua","Nyandarua","Pigs",4017
+"Nyandarua","Nyandarua","Rabbits",39833
+"Nyandarua","Nyandarua","Sheep",277762
+"Nyandarua","Ndaragwa","Camels",0
+"Nyandarua","Ndaragwa","Cattle(Beef)",1797
+"Nyandarua","Ndaragwa","Cattle(Dairy)",13923
+"Nyandarua","Ndaragwa","Cattle(Indigenous)",20520
+"Nyandarua","Ndaragwa","Chicken(Broilers)",2275
+"Nyandarua","Ndaragwa","Chicken(Indigenous)",147728
+"Nyandarua","Ndaragwa","Chicken(Layers)",15785
+"Nyandarua","Ndaragwa","Donkeys",1543
+"Nyandarua","Ndaragwa","Goats",15968
+"Nyandarua","Ndaragwa","Pigs",902
+"Nyandarua","Ndaragwa","Rabbits",5711
+"Nyandarua","Ndaragwa","Sheep",49411
+"Nyandarua","Nyandarua South","Camels",0
+"Nyandarua","Nyandarua South","Cattle(Beef)",3270
+"Nyandarua","Nyandarua South","Cattle(Dairy)",27133
+"Nyandarua","Nyandarua South","Cattle(Indigenous)",4911
+"Nyandarua","Nyandarua South","Chicken(Broilers)",1563
+"Nyandarua","Nyandarua South","Chicken(Indigenous)",87859
+"Nyandarua","Nyandarua South","Chicken(Layers)",10941
+"Nyandarua","Nyandarua South","Donkeys",871
+"Nyandarua","Nyandarua South","Goats",1195
+"Nyandarua","Nyandarua South","Pigs",121
+"Nyandarua","Nyandarua South","Rabbits",8331
+"Nyandarua","Nyandarua South","Sheep",40115
+"Nyandarua","Ol Jorok","Camels",0
+"Nyandarua","Ol Jorok","Cattle(Beef)",1870
+"Nyandarua","Ol Jorok","Cattle(Dairy)",17342
+"Nyandarua","Ol Jorok","Cattle(Indigenous)",7804
+"Nyandarua","Ol Jorok","Chicken(Broilers)",1800
+"Nyandarua","Ol Jorok","Chicken(Indigenous)",129022
+"Nyandarua","Ol Jorok","Chicken(Layers)",12565
+"Nyandarua","Ol Jorok","Donkeys",1280
+"Nyandarua","Ol Jorok","Goats",5996
+"Nyandarua","Ol Jorok","Pigs",619
+"Nyandarua","Ol Jorok","Rabbits",5702
+"Nyandarua","Ol Jorok","Sheep",39552
+"Nyeri","Mathioya","Camels",0
+"Nyeri","Mathioya","Cattle(Beef)",0
+"Nyeri","Mathioya","Cattle(Dairy)",4
+"Nyeri","Mathioya","Cattle(Indigenous)",0
+"Nyeri","Mathioya","Chicken(Broilers)",0
+"Nyeri","Mathioya","Chicken(Indigenous)",0
+"Nyeri","Mathioya","Chicken(Layers)",0
+"Nyeri","Mathioya","Donkeys",0
+"Nyeri","Mathioya","Goats",0
+"Nyeri","Mathioya","Pigs",0
+"Nyeri","Mathioya","Rabbits",0
+"Nyeri","Mathioya","Sheep",0
+"Nyeri","Kieni","Camels",0
+"Nyeri","Kieni","Cattle(Beef)",2972
+"Nyeri","Kieni","Cattle(Dairy)",21280
+"Nyeri","Kieni","Cattle(Indigenous)",38436
+"Nyeri","Kieni","Chicken(Broilers)",17245
+"Nyeri","Kieni","Chicken(Indigenous)",246392
+"Nyeri","Kieni","Chicken(Layers)",30013
+"Nyeri","Kieni","Donkeys",559
+"Nyeri","Kieni","Goats",30188
+"Nyeri","Kieni","Pigs",2861
+"Nyeri","Kieni","Rabbits",14743
+"Nyeri","Kieni","Sheep",91772
+"Nyeri","Mathira","Camels",0
+"Nyeri","Mathira","Cattle(Beef)",2071
+"Nyeri","Mathira","Cattle(Dairy)",19718
+"Nyeri","Mathira","Cattle(Indigenous)",8619
+"Nyeri","Mathira","Chicken(Broilers)",31421
+"Nyeri","Mathira","Chicken(Indigenous)",150352
+"Nyeri","Mathira","Chicken(Layers)",35208
+"Nyeri","Mathira","Donkeys",86
+"Nyeri","Mathira","Goats",19568
+"Nyeri","Mathira","Pigs",4917
+"Nyeri","Mathira","Rabbits",7799
+"Nyeri","Mathira","Sheep",20933
+"Nyeri","Manyatta","Camels",0
+"Nyeri","Manyatta","Cattle(Beef)",12
+"Nyeri","Manyatta","Cattle(Dairy)",1
+"Nyeri","Manyatta","Cattle(Indigenous)",28
+"Nyeri","Manyatta","Chicken(Broilers)",0
+"Nyeri","Manyatta","Chicken(Indigenous)",45
+"Nyeri","Manyatta","Chicken(Layers)",0
+"Nyeri","Manyatta","Donkeys",0
+"Nyeri","Manyatta","Goats",0
+"Nyeri","Manyatta","Pigs",0
+"Nyeri","Manyatta","Rabbits",0
+"Nyeri","Manyatta","Sheep",70
+"Nyeri","Mukurweini","Camels",0
+"Nyeri","Mukurweini","Cattle(Beef)",2036
+"Nyeri","Mukurweini","Cattle(Dairy)",16550
+"Nyeri","Mukurweini","Cattle(Indigenous)",2685
+"Nyeri","Mukurweini","Chicken(Broilers)",3549
+"Nyeri","Mukurweini","Chicken(Indigenous)",93410
+"Nyeri","Mukurweini","Chicken(Layers)",15485
+"Nyeri","Mukurweini","Donkeys",8
+"Nyeri","Mukurweini","Goats",24312
+"Nyeri","Mukurweini","Pigs",1092
+"Nyeri","Mukurweini","Rabbits",5039
+"Nyeri","Mukurweini","Sheep",3519
+"Nyeri","Nyeri","Camels",0
+"Nyeri","Nyeri","Cattle(Beef)",11501
+"Nyeri","Nyeri","Cattle(Dairy)",92486
+"Nyeri","Nyeri","Cattle(Indigenous)",60520
+"Nyeri","Nyeri","Chicken(Broilers)",131985
+"Nyeri","Nyeri","Chicken(Indigenous)",734889
+"Nyeri","Nyeri","Chicken(Layers)",150195
+"Nyeri","Nyeri","Donkeys",772
+"Nyeri","Nyeri","Goats",107460
+"Nyeri","Nyeri","Pigs",15188
+"Nyeri","Nyeri","Rabbits",40982
+"Nyeri","Nyeri","Sheep",153728
+"Nyeri","Nyeri Town","Camels",0
+"Nyeri","Nyeri Town","Cattle(Beef)",1353
+"Nyeri","Nyeri Town","Cattle(Dairy)",9539
+"Nyeri","Nyeri Town","Cattle(Indigenous)",3467
+"Nyeri","Nyeri Town","Chicken(Broilers)",56515
+"Nyeri","Nyeri Town","Chicken(Indigenous)",91538
+"Nyeri","Nyeri Town","Chicken(Layers)",31438
+"Nyeri","Nyeri Town","Donkeys",62
+"Nyeri","Nyeri Town","Goats",12060
+"Nyeri","Nyeri Town","Pigs",2715
+"Nyeri","Nyeri Town","Rabbits",3603
+"Nyeri","Nyeri Town","Sheep",11908
+"Nyeri","Othaya","Camels",0
+"Nyeri","Othaya","Cattle(Beef)",1494
+"Nyeri","Othaya","Cattle(Dairy)",12042
+"Nyeri","Othaya","Cattle(Indigenous)",4114
+"Nyeri","Othaya","Chicken(Broilers)",8432
+"Nyeri","Othaya","Chicken(Indigenous)",67728
+"Nyeri","Othaya","Chicken(Layers)",20035
+"Nyeri","Othaya","Donkeys",3
+"Nyeri","Othaya","Goats",10569
+"Nyeri","Othaya","Pigs",1443
+"Nyeri","Othaya","Rabbits",4869
+"Nyeri","Othaya","Sheep",16449
+"Nyeri","Tetu","Camels",0
+"Nyeri","Tetu","Cattle(Beef)",1563
+"Nyeri","Tetu","Cattle(Dairy)",13352
+"Nyeri","Tetu","Cattle(Indigenous)",3171
+"Nyeri","Tetu","Chicken(Broilers)",14823
+"Nyeri","Tetu","Chicken(Indigenous)",85424
+"Nyeri","Tetu","Chicken(Layers)",18016
+"Nyeri","Tetu","Donkeys",54
+"Nyeri","Tetu","Goats",10763
+"Nyeri","Tetu","Pigs",2160
+"Nyeri","Tetu","Rabbits",4929
+"Nyeri","Tetu","Sheep",9077
+"Samburu","Samburu","Camels",48172
+"Samburu","Samburu","Cattle(Beef)",12558
+"Samburu","Samburu","Cattle(Dairy)",7691
+"Samburu","Samburu","Cattle(Indigenous)",265384
+"Samburu","Samburu","Chicken(Broilers)",2350
+"Samburu","Samburu","Chicken(Indigenous)",94825
+"Samburu","Samburu","Chicken(Layers)",4994
+"Samburu","Samburu","Donkeys",29875
+"Samburu","Samburu","Goats",716587
+"Samburu","Samburu","Pigs",270
+"Samburu","Samburu","Rabbits",353
+"Samburu","Samburu","Sheep",566772
+"Samburu","Samburu West","Camels",13676
+"Samburu","Samburu West","Cattle(Beef)",6789
+"Samburu","Samburu West","Cattle(Dairy)",4601
+"Samburu","Samburu West","Cattle(Indigenous)",146652
+"Samburu","Samburu West","Chicken(Broilers)",1529
+"Samburu","Samburu West","Chicken(Indigenous)",69107
+"Samburu","Samburu West","Chicken(Layers)",4031
+"Samburu","Samburu West","Donkeys",8545
+"Samburu","Samburu West","Goats",279764
+"Samburu","Samburu West","Pigs",127
+"Samburu","Samburu West","Rabbits",267
+"Samburu","Samburu West","Sheep",330491
+"Samburu","Samburu East","Camels",17397
+"Samburu","Samburu East","Cattle(Beef)",4700
+"Samburu","Samburu East","Cattle(Dairy)",1871
+"Samburu","Samburu East","Cattle(Indigenous)",61868
+"Samburu","Samburu East","Chicken(Broilers)",330
+"Samburu","Samburu East","Chicken(Indigenous)",17602
+"Samburu","Samburu East","Chicken(Layers)",643
+"Samburu","Samburu East","Donkeys",13081
+"Samburu","Samburu East","Goats",249275
+"Samburu","Samburu East","Pigs",45
+"Samburu","Samburu East","Rabbits",66
+"Samburu","Samburu East","Sheep",138601
+"Samburu","Samburu North","Camels",17099
+"Samburu","Samburu North","Cattle(Beef)",1069
+"Samburu","Samburu North","Cattle(Dairy)",1219
+"Samburu","Samburu North","Cattle(Indigenous)",56864
+"Samburu","Samburu North","Chicken(Broilers)",491
+"Samburu","Samburu North","Chicken(Indigenous)",8116
+"Samburu","Samburu North","Chicken(Layers)",320
+"Samburu","Samburu North","Donkeys",8249
+"Samburu","Samburu North","Goats",187548
+"Samburu","Samburu North","Pigs",98
+"Samburu","Samburu North","Rabbits",20
+"Samburu","Samburu North","Sheep",97680
+"Siaya","Bondo","Camels",0
+"Siaya","Bondo","Cattle(Beef)",802
+"Siaya","Bondo","Cattle(Dairy)",1829
+"Siaya","Bondo","Cattle(Indigenous)",61908
+"Siaya","Bondo","Chicken(Broilers)",9771
+"Siaya","Bondo","Chicken(Indigenous)",178198
+"Siaya","Bondo","Chicken(Layers)",9442
+"Siaya","Bondo","Donkeys",2255
+"Siaya","Bondo","Goats",58621
+"Siaya","Bondo","Pigs",2430
+"Siaya","Bondo","Rabbits",711
+"Siaya","Bondo","Sheep",27855
+"Siaya","Gem","Camels",0
+"Siaya","Gem","Cattle(Beef)",681
+"Siaya","Gem","Cattle(Dairy)",2407
+"Siaya","Gem","Cattle(Indigenous)",54095
+"Siaya","Gem","Chicken(Broilers)",4216
+"Siaya","Gem","Chicken(Indigenous)",157622
+"Siaya","Gem","Chicken(Layers)",8398
+"Siaya","Gem","Donkeys",700
+"Siaya","Gem","Goats",18930
+"Siaya","Gem","Pigs",2909
+"Siaya","Gem","Rabbits",1237
+"Siaya","Gem","Sheep",22289
+"Siaya","Rarieda","Camels",0
+"Siaya","Rarieda","Cattle(Beef)",736
+"Siaya","Rarieda","Cattle(Dairy)",1314
+"Siaya","Rarieda","Cattle(Indigenous)",51652
+"Siaya","Rarieda","Chicken(Broilers)",2473
+"Siaya","Rarieda","Chicken(Indigenous)",166766
+"Siaya","Rarieda","Chicken(Layers)",5855
+"Siaya","Rarieda","Donkeys",2600
+"Siaya","Rarieda","Goats",38701
+"Siaya","Rarieda","Pigs",683
+"Siaya","Rarieda","Rabbits",313
+"Siaya","Rarieda","Sheep",31551
+"Siaya","Alego Usonga","Camels",0
+"Siaya","Alego Usonga","Cattle(Beef)",5911
+"Siaya","Alego Usonga","Cattle(Dairy)",13043
+"Siaya","Alego Usonga","Cattle(Indigenous)",386994
+"Siaya","Alego Usonga","Chicken(Broilers)",35681
+"Siaya","Alego Usonga","Chicken(Indigenous)",1121570
+"Siaya","Alego Usonga","Chicken(Layers)",49774
+"Siaya","Alego Usonga","Donkeys",6356
+"Siaya","Alego Usonga","Goats",190737
+"Siaya","Alego Usonga","Pigs",18032
+"Siaya","Alego Usonga","Rabbits",6784
+"Siaya","Alego Usonga","Sheep",161077
+"Siaya","Ugenya","Camels",0
+"Siaya","Ugenya","Cattle(Beef)",715
+"Siaya","Ugenya","Cattle(Dairy)",1100
+"Siaya","Ugenya","Cattle(Indigenous)",37618
+"Siaya","Ugenya","Chicken(Broilers)",2086
+"Siaya","Ugenya","Chicken(Indigenous)",106360
+"Siaya","Ugenya","Chicken(Layers)",7237
+"Siaya","Ugenya","Donkeys",34
+"Siaya","Ugenya","Goats",12501
+"Siaya","Ugenya","Pigs",2640
+"Siaya","Ugenya","Rabbits",968
+"Siaya","Ugenya","Sheep",12916
+"Siaya","Ugunja","Camels",0
+"Siaya","Ugunja","Cattle(Beef)",209
+"Siaya","Ugunja","Cattle(Dairy)",955
+"Siaya","Ugunja","Cattle(Indigenous)",30393
+"Siaya","Ugunja","Chicken(Broilers)",1345
+"Siaya","Ugunja","Chicken(Indigenous)",103508
+"Siaya","Ugunja","Chicken(Layers)",3614
+"Siaya","Ugunja","Donkeys",29
+"Siaya","Ugunja","Goats",6954
+"Siaya","Ugunja","Pigs",1656
+"Siaya","Ugunja","Rabbits",815
+"Siaya","Ugunja","Sheep",10532
+"Taita Taveta","Mwatate","Camels",74
+"Taita Taveta","Mwatate","Cattle(Beef)",1547
+"Taita Taveta","Mwatate","Cattle(Dairy)",6103
+"Taita Taveta","Mwatate","Cattle(Indigenous)",22325
+"Taita Taveta","Mwatate","Chicken(Broilers)",2539
+"Taita Taveta","Mwatate","Chicken(Indigenous)",84734
+"Taita Taveta","Mwatate","Chicken(Layers)",5740
+"Taita Taveta","Mwatate","Donkeys",957
+"Taita Taveta","Mwatate","Goats",49563
+"Taita Taveta","Mwatate","Pigs",347
+"Taita Taveta","Mwatate","Rabbits",2216
+"Taita Taveta","Mwatate","Sheep",9436
+"Taita Taveta","Wundanyi","Camels",5
+"Taita Taveta","Wundanyi","Cattle(Beef)",1294
+"Taita Taveta","Wundanyi","Cattle(Dairy)",7057
+"Taita Taveta","Wundanyi","Cattle(Indigenous)",11088
+"Taita Taveta","Wundanyi","Chicken(Broilers)",1538
+"Taita Taveta","Wundanyi","Chicken(Indigenous)",67436
+"Taita Taveta","Wundanyi","Chicken(Layers)",3444
+"Taita Taveta","Wundanyi","Donkeys",1228
+"Taita Taveta","Wundanyi","Goats",24811
+"Taita Taveta","Wundanyi","Pigs",147
+"Taita Taveta","Wundanyi","Rabbits",2783
+"Taita Taveta","Wundanyi","Sheep",7618
+"Taita Taveta","Taita Taveta","Camels",2630
+"Taita Taveta","Taita Taveta","Cattle(Beef)",6661
+"Taita Taveta","Taita Taveta","Cattle(Dairy)",17236
+"Taita Taveta","Taita Taveta","Cattle(Indigenous)",90917
+"Taita Taveta","Taita Taveta","Chicken(Broilers)",20743
+"Taita Taveta","Taita Taveta","Chicken(Indigenous)",332843
+"Taita Taveta","Taita Taveta","Chicken(Layers)",25086
+"Taita Taveta","Taita Taveta","Donkeys",2938
+"Taita Taveta","Taita Taveta","Goats",202113
+"Taita Taveta","Taita Taveta","Pigs",1605
+"Taita Taveta","Taita Taveta","Rabbits",10122
+"Taita Taveta","Taita Taveta","Sheep",46535
+"Taita Taveta","Taveta","Camels",1087
+"Taita Taveta","Taveta","Cattle(Beef)",2043
+"Taita Taveta","Taveta","Cattle(Dairy)",1927
+"Taita Taveta","Taveta","Cattle(Indigenous)",30074
+"Taita Taveta","Taveta","Chicken(Broilers)",3244
+"Taita Taveta","Taveta","Chicken(Indigenous)",89911
+"Taita Taveta","Taveta","Chicken(Layers)",2261
+"Taita Taveta","Taveta","Donkeys",393
+"Taita Taveta","Taveta","Goats",60425
+"Taita Taveta","Taveta","Pigs",770
+"Taita Taveta","Taveta","Rabbits",3242
+"Taita Taveta","Taveta","Sheep",19806
+"Taita Taveta","Voi","Camels",1464
+"Taita Taveta","Voi","Cattle(Beef)",1777
+"Taita Taveta","Voi","Cattle(Dairy)",2149
+"Taita Taveta","Voi","Cattle(Indigenous)",27430
+"Taita Taveta","Voi","Chicken(Broilers)",13422
+"Taita Taveta","Voi","Chicken(Indigenous)",90762
+"Taita Taveta","Voi","Chicken(Layers)",13641
+"Taita Taveta","Voi","Donkeys",360
+"Taita Taveta","Voi","Goats",67314
+"Taita Taveta","Voi","Pigs",341
+"Taita Taveta","Voi","Rabbits",1881
+"Taita Taveta","Voi","Sheep",9675
+"Tana River","Garsen","Camels",2309
+"Tana River","Garsen","Cattle(Beef)",624
+"Tana River","Garsen","Cattle(Dairy)",2409
+"Tana River","Garsen","Cattle(Indigenous)",168667
+"Tana River","Garsen","Chicken(Broilers)",2680
+"Tana River","Garsen","Chicken(Indigenous)",55386
+"Tana River","Garsen","Chicken(Layers)",3983
+"Tana River","Garsen","Donkeys",4329
+"Tana River","Garsen","Goats",224807
+"Tana River","Garsen","Pigs",0
+"Tana River","Garsen","Rabbits",135
+"Tana River","Garsen","Sheep",263084
+"Tana River","Bura","Camels",37454
+"Tana River","Bura","Cattle(Beef)",135
+"Tana River","Bura","Cattle(Dairy)",1936
+"Tana River","Bura","Cattle(Indigenous)",26355
+"Tana River","Bura","Chicken(Broilers)",717
+"Tana River","Bura","Chicken(Indigenous)",12138
+"Tana River","Bura","Chicken(Layers)",1516
+"Tana River","Bura","Donkeys",6620
+"Tana River","Bura","Goats",251341
+"Tana River","Bura","Pigs",15
+"Tana River","Bura","Rabbits",70
+"Tana River","Bura","Sheep",101130
+"Tana River","Galole","Camels",66833
+"Tana River","Galole","Cattle(Beef)",1629
+"Tana River","Galole","Cattle(Dairy)",8187
+"Tana River","Galole","Cattle(Indigenous)",333724
+"Tana River","Galole","Chicken(Broilers)",7025
+"Tana River","Galole","Chicken(Indigenous)",115164
+"Tana River","Galole","Chicken(Layers)",7729
+"Tana River","Galole","Donkeys",19685
+"Tana River","Galole","Goats",705564
+"Tana River","Galole","Pigs",23
+"Tana River","Galole","Rabbits",279
+"Tana River","Galole","Sheep",531918
+"Tharaka Nithi","Chuka/Igambang'Ombe","Camels",19
+"Tharaka Nithi","Chuka/Igambang'Ombe","Cattle(Beef)",525
+"Tharaka Nithi","Chuka/Igambang'Ombe","Cattle(Dairy)",1848
+"Tharaka Nithi","Chuka/Igambang'Ombe","Cattle(Indigenous)",9071
+"Tharaka Nithi","Chuka/Igambang'Ombe","Chicken(Broilers)",1444
+"Tharaka Nithi","Chuka/Igambang'Ombe","Chicken(Indigenous)",54848
+"Tharaka Nithi","Chuka/Igambang'Ombe","Chicken(Layers)",2657
+"Tharaka Nithi","Chuka/Igambang'Ombe","Donkeys",121
+"Tharaka Nithi","Chuka/Igambang'Ombe","Goats",31322
+"Tharaka Nithi","Chuka/Igambang'Ombe","Pigs",663
+"Tharaka Nithi","Chuka/Igambang'Ombe","Rabbits",1473
+"Tharaka Nithi","Chuka/Igambang'Ombe","Sheep",6267
+"Tharaka Nithi","Maara","Camels",36
+"Tharaka Nithi","Maara","Cattle(Beef)",3031
+"Tharaka Nithi","Maara","Cattle(Dairy)",20129
+"Tharaka Nithi","Maara","Cattle(Indigenous)",6905
+"Tharaka Nithi","Maara","Chicken(Broilers)",4795
+"Tharaka Nithi","Maara","Chicken(Indigenous)",133050
+"Tharaka Nithi","Maara","Chicken(Layers)",14099
+"Tharaka Nithi","Maara","Donkeys",6
+"Tharaka Nithi","Maara","Goats",34860
+"Tharaka Nithi","Maara","Pigs",3365
+"Tharaka Nithi","Maara","Rabbits",5236
+"Tharaka Nithi","Maara","Sheep",5322
+"Tharaka Nithi","South Imenti","Camels",2
+"Tharaka Nithi","South Imenti","Cattle(Beef)",1321
+"Tharaka Nithi","South Imenti","Cattle(Dairy)",9901
+"Tharaka Nithi","South Imenti","Cattle(Indigenous)",5876
+"Tharaka Nithi","South Imenti","Chicken(Broilers)",3712
+"Tharaka Nithi","South Imenti","Chicken(Indigenous)",110308
+"Tharaka Nithi","South Imenti","Chicken(Layers)",12190
+"Tharaka Nithi","South Imenti","Donkeys",15
+"Tharaka Nithi","South Imenti","Goats",25181
+"Tharaka Nithi","South Imenti","Pigs",3112
+"Tharaka Nithi","South Imenti","Rabbits",6072
+"Tharaka Nithi","South Imenti","Sheep",4441
+"Tharaka Nithi","Manyatta","Camels",0
+"Tharaka Nithi","Manyatta","Cattle(Beef)",0
+"Tharaka Nithi","Manyatta","Cattle(Dairy)",0
+"Tharaka Nithi","Manyatta","Cattle(Indigenous)",0
+"Tharaka Nithi","Manyatta","Chicken(Broilers)",0
+"Tharaka Nithi","Manyatta","Chicken(Indigenous)",24
+"Tharaka Nithi","Manyatta","Chicken(Layers)",56
+"Tharaka Nithi","Manyatta","Donkeys",0
+"Tharaka Nithi","Manyatta","Goats",0
+"Tharaka Nithi","Manyatta","Pigs",0
+"Tharaka Nithi","Manyatta","Rabbits",0
+"Tharaka Nithi","Manyatta","Sheep",0
+"Tharaka Nithi","Tharaka north","Camels",34
+"Tharaka Nithi","Tharaka north","Cattle(Beef)",35
+"Tharaka Nithi","Tharaka north","Cattle(Dairy)",156
+"Tharaka Nithi","Tharaka north","Cattle(Indigenous)",14673
+"Tharaka Nithi","Tharaka north","Chicken(Broilers)",294
+"Tharaka Nithi","Tharaka north","Chicken(Indigenous)",46121
+"Tharaka Nithi","Tharaka north","Chicken(Layers)",806
+"Tharaka Nithi","Tharaka north","Donkeys",4278
+"Tharaka Nithi","Tharaka north","Goats",59533
+"Tharaka Nithi","Tharaka north","Pigs",732
+"Tharaka Nithi","Tharaka north","Rabbits",69
+"Tharaka Nithi","Tharaka north","Sheep",24792
+"Tharaka Nithi","Igembe South","Camels",33
+"Tharaka Nithi","Igembe South","Cattle(Beef)",225
+"Tharaka Nithi","Igembe South","Cattle(Dairy)",600
+"Tharaka Nithi","Igembe South","Cattle(Indigenous)",16410
+"Tharaka Nithi","Igembe South","Chicken(Broilers)",540
+"Tharaka Nithi","Igembe South","Chicken(Indigenous)",73842
+"Tharaka Nithi","Igembe South","Chicken(Layers)",2068
+"Tharaka Nithi","Igembe South","Donkeys",1447
+"Tharaka Nithi","Igembe South","Goats",63321
+"Tharaka Nithi","Igembe South","Pigs",881
+"Tharaka Nithi","Igembe South","Rabbits",471
+"Tharaka Nithi","Igembe South","Sheep",12994
+"Tharaka Nithi","Tharaka-nithi","Camels",124
+"Tharaka Nithi","Tharaka-nithi","Cattle(Beef)",5137
+"Tharaka Nithi","Tharaka-nithi","Cattle(Dairy)",32634
+"Tharaka Nithi","Tharaka-nithi","Cattle(Indigenous)",52935
+"Tharaka Nithi","Tharaka-nithi","Chicken(Broilers)",10785
+"Tharaka Nithi","Tharaka-nithi","Chicken(Indigenous)",418193
+"Tharaka Nithi","Tharaka-nithi","Chicken(Layers)",31876
+"Tharaka Nithi","Tharaka-nithi","Donkeys",5867
+"Tharaka Nithi","Tharaka-nithi","Goats",214217
+"Tharaka Nithi","Tharaka-nithi","Pigs",8753
+"Tharaka Nithi","Tharaka-nithi","Rabbits",13321
+"Tharaka Nithi","Tharaka-nithi","Sheep",53816
+"Trans Nzoia","Endebess","Camels",0
+"Trans Nzoia","Endebess","Cattle(Beef)",856
+"Trans Nzoia","Endebess","Cattle(Dairy)",6676
+"Trans Nzoia","Endebess","Cattle(Indigenous)",17380
+"Trans Nzoia","Endebess","Chicken(Broilers)",1007
+"Trans Nzoia","Endebess","Chicken(Indigenous)",57728
+"Trans Nzoia","Endebess","Chicken(Layers)",2656
+"Trans Nzoia","Endebess","Donkeys",1421
+"Trans Nzoia","Endebess","Goats",9041
+"Trans Nzoia","Endebess","Pigs",276
+"Trans Nzoia","Endebess","Rabbits",488
+"Trans Nzoia","Endebess","Sheep",23418
+"Trans Nzoia","Kiminini","Camels",0
+"Trans Nzoia","Kiminini","Cattle(Beef)",1630
+"Trans Nzoia","Kiminini","Cattle(Dairy)",20286
+"Trans Nzoia","Kiminini","Cattle(Indigenous)",16362
+"Trans Nzoia","Kiminini","Chicken(Broilers)",11353
+"Trans Nzoia","Kiminini","Chicken(Indigenous)",199709
+"Trans Nzoia","Kiminini","Chicken(Layers)",39123
+"Trans Nzoia","Kiminini","Donkeys",313
+"Trans Nzoia","Kiminini","Goats",6229
+"Trans Nzoia","Kiminini","Pigs",1717
+"Trans Nzoia","Kiminini","Rabbits",2010
+"Trans Nzoia","Kiminini","Sheep",21721
+"Trans Nzoia","Kwanza","Camels",0
+"Trans Nzoia","Kwanza","Cattle(Beef)",1607
+"Trans Nzoia","Kwanza","Cattle(Dairy)",16405
+"Trans Nzoia","Kwanza","Cattle(Indigenous)",18356
+"Trans Nzoia","Kwanza","Chicken(Broilers)",5410
+"Trans Nzoia","Kwanza","Chicken(Indigenous)",141682
+"Trans Nzoia","Kwanza","Chicken(Layers)",14522
+"Trans Nzoia","Kwanza","Donkeys",601
+"Trans Nzoia","Kwanza","Goats",3414
+"Trans Nzoia","Kwanza","Pigs",999
+"Trans Nzoia","Kwanza","Rabbits",732
+"Trans Nzoia","Kwanza","Sheep",28095
+"Trans Nzoia","Trans Nzoia","Camels",0
+"Trans Nzoia","Trans Nzoia","Cattle(Beef)",6998
+"Trans Nzoia","Trans Nzoia","Cattle(Dairy)",88662
+"Trans Nzoia","Trans Nzoia","Cattle(Indigenous)",87808
+"Trans Nzoia","Trans Nzoia","Chicken(Broilers)",26787
+"Trans Nzoia","Trans Nzoia","Chicken(Indigenous)",689222
+"Trans Nzoia","Trans Nzoia","Chicken(Layers)",127352
+"Trans Nzoia","Trans Nzoia","Donkeys",5032
+"Trans Nzoia","Trans Nzoia","Goats",28199
+"Trans Nzoia","Trans Nzoia","Pigs",4832
+"Trans Nzoia","Trans Nzoia","Rabbits",4623
+"Trans Nzoia","Trans Nzoia","Sheep",136345
+"Trans Nzoia","Cherangany","Camels",0
+"Trans Nzoia","Cherangany","Cattle(Beef)",1906
+"Trans Nzoia","Cherangany","Cattle(Dairy)",35957
+"Trans Nzoia","Cherangany","Cattle(Indigenous)",16737
+"Trans Nzoia","Cherangany","Chicken(Broilers)",3778
+"Trans Nzoia","Cherangany","Chicken(Indigenous)",192926
+"Trans Nzoia","Cherangany","Chicken(Layers)",62380
+"Trans Nzoia","Cherangany","Donkeys",905
+"Trans Nzoia","Cherangany","Goats",3667
+"Trans Nzoia","Cherangany","Pigs",585
+"Trans Nzoia","Cherangany","Rabbits",732
+"Trans Nzoia","Cherangany","Sheep",43307
+"Trans Nzoia","Saboti","Camels",0
+"Trans Nzoia","Saboti","Cattle(Beef)",999
+"Trans Nzoia","Saboti","Cattle(Dairy)",9338
+"Trans Nzoia","Saboti","Cattle(Indigenous)",18973
+"Trans Nzoia","Saboti","Chicken(Broilers)",5239
+"Trans Nzoia","Saboti","Chicken(Indigenous)",97177
+"Trans Nzoia","Saboti","Chicken(Layers)",8671
+"Trans Nzoia","Saboti","Donkeys",1792
+"Trans Nzoia","Saboti","Goats",5848
+"Trans Nzoia","Saboti","Pigs",1255
+"Trans Nzoia","Saboti","Rabbits",661
+"Trans Nzoia","Saboti","Sheep",19804
+"Turkana","Kibish","Camels",3736
+"Turkana","Kibish","Cattle(Beef)",244
+"Turkana","Kibish","Cattle(Dairy)",378
+"Turkana","Kibish","Cattle(Indigenous)",57377
+"Turkana","Kibish","Chicken(Broilers)",78
+"Turkana","Kibish","Chicken(Indigenous)",1105
+"Turkana","Kibish","Chicken(Layers)",81
+"Turkana","Kibish","Donkeys",13340
+"Turkana","Kibish","Goats",201686
+"Turkana","Kibish","Pigs",1
+"Turkana","Kibish","Rabbits",105
+"Turkana","Kibish","Sheep",120613
+"Turkana","Loima","Camels",20950
+"Turkana","Loima","Cattle(Beef)",337
+"Turkana","Loima","Cattle(Dairy)",349
+"Turkana","Loima","Cattle(Indigenous)",18974
+"Turkana","Loima","Chicken(Broilers)",579
+"Turkana","Loima","Chicken(Indigenous)",4780
+"Turkana","Loima","Chicken(Layers)",546
+"Turkana","Loima","Donkeys",9650
+"Turkana","Loima","Goats",216815
+"Turkana","Loima","Pigs",56
+"Turkana","Loima","Rabbits",42
+"Turkana","Loima","Sheep",76347
+"Turkana","Turkana","Camels",261923
+"Turkana","Turkana","Cattle(Beef)",2173
+"Turkana","Turkana","Cattle(Dairy)",2206
+"Turkana","Turkana","Cattle(Indigenous)",320425
+"Turkana","Turkana","Chicken(Broilers)",2501
+"Turkana","Turkana","Chicken(Indigenous)",43158
+"Turkana","Turkana","Chicken(Layers)",7663
+"Turkana","Turkana","Donkeys",116806
+"Turkana","Turkana","Goats",1990929
+"Turkana","Turkana","Pigs",992
+"Turkana","Turkana","Rabbits",234
+"Turkana","Turkana","Sheep",1053756
+"Turkana","Turkana West","Camels",62991
+"Turkana","Turkana West","Cattle(Beef)",998
+"Turkana","Turkana West","Cattle(Dairy)",684
+"Turkana","Turkana West","Cattle(Indigenous)",100468
+"Turkana","Turkana West","Chicken(Broilers)",688
+"Turkana","Turkana West","Chicken(Indigenous)",17456
+"Turkana","Turkana West","Chicken(Layers)",1552
+"Turkana","Turkana West","Donkeys",30848
+"Turkana","Turkana West","Goats",430449
+"Turkana","Turkana West","Pigs",643
+"Turkana","Turkana West","Rabbits",67
+"Turkana","Turkana West","Sheep",278867
+"Turkana","Turkana East","Camels",135617
+"Turkana","Turkana East","Cattle(Beef)",344
+"Turkana","Turkana East","Cattle(Dairy)",310
+"Turkana","Turkana East","Cattle(Indigenous)",123321
+"Turkana","Turkana East","Chicken(Broilers)",641
+"Turkana","Turkana East","Chicken(Indigenous)",10924
+"Turkana","Turkana East","Chicken(Layers)",760
+"Turkana","Turkana East","Donkeys",47121
+"Turkana","Turkana East","Goats",685226
+"Turkana","Turkana East","Pigs",195
+"Turkana","Turkana East","Rabbits",4
+"Turkana","Turkana East","Sheep",399496
+"Turkana","Turkana North","Camels",8110
+"Turkana","Turkana North","Cattle(Beef)",127
+"Turkana","Turkana North","Cattle(Dairy)",206
+"Turkana","Turkana North","Cattle(Indigenous)",5133
+"Turkana","Turkana North","Chicken(Broilers)",112
+"Turkana","Turkana North","Chicken(Indigenous)",2333
+"Turkana","Turkana North","Chicken(Layers)",293
+"Turkana","Turkana North","Donkeys",5749
+"Turkana","Turkana North","Goats",123728
+"Turkana","Turkana North","Pigs",80
+"Turkana","Turkana North","Rabbits",5
+"Turkana","Turkana North","Sheep",52210
+"Turkana","Turkana South","Camels",30519
+"Turkana","Turkana South","Cattle(Beef)",123
+"Turkana","Turkana South","Cattle(Dairy)",279
+"Turkana","Turkana South","Cattle(Indigenous)",15152
+"Turkana","Turkana South","Chicken(Broilers)",403
+"Turkana","Turkana South","Chicken(Indigenous)",6560
+"Turkana","Turkana South","Chicken(Layers)",4431
+"Turkana","Turkana South","Donkeys",10098
+"Turkana","Turkana South","Goats",333025
+"Turkana","Turkana South","Pigs",17
+"Turkana","Turkana South","Rabbits",11
+"Turkana","Turkana South","Sheep",126223
+"Uasin Gishu","Ainabkoi","Camels",22
+"Uasin Gishu","Ainabkoi","Cattle(Beef)",2488
+"Uasin Gishu","Ainabkoi","Cattle(Dairy)",22875
+"Uasin Gishu","Ainabkoi","Cattle(Indigenous)",15664
+"Uasin Gishu","Ainabkoi","Chicken(Broilers)",8020
+"Uasin Gishu","Ainabkoi","Chicken(Indigenous)",98422
+"Uasin Gishu","Ainabkoi","Chicken(Layers)",22697
+"Uasin Gishu","Ainabkoi","Donkeys",199
+"Uasin Gishu","Ainabkoi","Goats",3809
+"Uasin Gishu","Ainabkoi","Pigs",909
+"Uasin Gishu","Ainabkoi","Rabbits",631
+"Uasin Gishu","Ainabkoi","Sheep",35533
+"Uasin Gishu","Kapseret","Camels",70
+"Uasin Gishu","Kapseret","Cattle(Beef)",1878
+"Uasin Gishu","Kapseret","Cattle(Dairy)",20580
+"Uasin Gishu","Kapseret","Cattle(Indigenous)",8820
+"Uasin Gishu","Kapseret","Chicken(Broilers)",10151
+"Uasin Gishu","Kapseret","Chicken(Indigenous)",106094
+"Uasin Gishu","Kapseret","Chicken(Layers)",25772
+"Uasin Gishu","Kapseret","Donkeys",86
+"Uasin Gishu","Kapseret","Goats",14437
+"Uasin Gishu","Kapseret","Pigs",2417
+"Uasin Gishu","Kapseret","Rabbits",738
+"Uasin Gishu","Kapseret","Sheep",20268
+"Uasin Gishu","Kesses","Camels",15
+"Uasin Gishu","Kesses","Cattle(Beef)",1733
+"Uasin Gishu","Kesses","Cattle(Dairy)",27049
+"Uasin Gishu","Kesses","Cattle(Indigenous)",18756
+"Uasin Gishu","Kesses","Chicken(Broilers)",4673
+"Uasin Gishu","Kesses","Chicken(Indigenous)",112544
+"Uasin Gishu","Kesses","Chicken(Layers)",12889
+"Uasin Gishu","Kesses","Donkeys",966
+"Uasin Gishu","Kesses","Goats",2335
+"Uasin Gishu","Kesses","Pigs",615
+"Uasin Gishu","Kesses","Rabbits",902
+"Uasin Gishu","Kesses","Sheep",35058
+"Uasin Gishu","Moiben","Camels",8
+"Uasin Gishu","Moiben","Cattle(Beef)",1399
+"Uasin Gishu","Moiben","Cattle(Dairy)",17938
+"Uasin Gishu","Moiben","Cattle(Indigenous)",33970
+"Uasin Gishu","Moiben","Chicken(Broilers)",6918
+"Uasin Gishu","Moiben","Chicken(Indigenous)",133718
+"Uasin Gishu","Moiben","Chicken(Layers)",18257
+"Uasin Gishu","Moiben","Donkeys",384
+"Uasin Gishu","Moiben","Goats",12099
+"Uasin Gishu","Moiben","Pigs",2267
+"Uasin Gishu","Moiben","Rabbits",940
+"Uasin Gishu","Moiben","Sheep",57052
+"Uasin Gishu","Soy","Camels",8
+"Uasin Gishu","Soy","Cattle(Beef)",1357
+"Uasin Gishu","Soy","Cattle(Dairy)",31389
+"Uasin Gishu","Soy","Cattle(Indigenous)",28329
+"Uasin Gishu","Soy","Chicken(Broilers)",7199
+"Uasin Gishu","Soy","Chicken(Indigenous)",191130
+"Uasin Gishu","Soy","Chicken(Layers)",18557
+"Uasin Gishu","Soy","Donkeys",539
+"Uasin Gishu","Soy","Goats",6586
+"Uasin Gishu","Soy","Pigs",1109
+"Uasin Gishu","Soy","Rabbits",699
+"Uasin Gishu","Soy","Sheep",47125
+"Uasin Gishu","Turbo","Camels",25
+"Uasin Gishu","Turbo","Cattle(Beef)",1709
+"Uasin Gishu","Turbo","Cattle(Dairy)",19891
+"Uasin Gishu","Turbo","Cattle(Indigenous)",22597
+"Uasin Gishu","Turbo","Chicken(Broilers)",10761
+"Uasin Gishu","Turbo","Chicken(Indigenous)",137967
+"Uasin Gishu","Turbo","Chicken(Layers)",19605
+"Uasin Gishu","Turbo","Donkeys",106
+"Uasin Gishu","Turbo","Goats",6588
+"Uasin Gishu","Turbo","Pigs",1815
+"Uasin Gishu","Turbo","Rabbits",589
+"Uasin Gishu","Turbo","Sheep",24889
+"Uasin Gishu","Uasin gishu","Camels",148
+"Uasin Gishu","Uasin gishu","Cattle(Beef)",10564
+"Uasin Gishu","Uasin gishu","Cattle(Dairy)",139722
+"Uasin Gishu","Uasin gishu","Cattle(Indigenous)",128136
+"Uasin Gishu","Uasin gishu","Chicken(Broilers)",47722
+"Uasin Gishu","Uasin gishu","Chicken(Indigenous)",779875
+"Uasin Gishu","Uasin gishu","Chicken(Layers)",117777
+"Uasin Gishu","Uasin gishu","Donkeys",2280
+"Uasin Gishu","Uasin gishu","Goats",45854
+"Uasin Gishu","Uasin gishu","Pigs",9132
+"Uasin Gishu","Uasin gishu","Rabbits",4499
+"Uasin Gishu","Uasin gishu","Sheep",219925
+"Vihiga","Emuhaya","Camels",0
+"Vihiga","Emuhaya","Cattle(Beef)",257
+"Vihiga","Emuhaya","Cattle(Dairy)",2951
+"Vihiga","Emuhaya","Cattle(Indigenous)",20572
+"Vihiga","Emuhaya","Chicken(Broilers)",1597
+"Vihiga","Emuhaya","Chicken(Indigenous)",84979
+"Vihiga","Emuhaya","Chicken(Layers)",5422
+"Vihiga","Emuhaya","Donkeys",50
+"Vihiga","Emuhaya","Goats",3966
+"Vihiga","Emuhaya","Pigs",877
+"Vihiga","Emuhaya","Rabbits",2524
+"Vihiga","Emuhaya","Sheep",975
+"Vihiga","Hamisi","Camels",0
+"Vihiga","Hamisi","Cattle(Beef)",501
+"Vihiga","Hamisi","Cattle(Dairy)",4751
+"Vihiga","Hamisi","Cattle(Indigenous)",26085
+"Vihiga","Hamisi","Chicken(Broilers)",3712
+"Vihiga","Hamisi","Chicken(Indigenous)",107856
+"Vihiga","Hamisi","Chicken(Layers)",7315
+"Vihiga","Hamisi","Donkeys",4
+"Vihiga","Hamisi","Goats",7939
+"Vihiga","Hamisi","Pigs",720
+"Vihiga","Hamisi","Rabbits",1806
+"Vihiga","Hamisi","Sheep",1694
+"Vihiga","Luanda","Camels",0
+"Vihiga","Luanda","Cattle(Beef)",433
+"Vihiga","Luanda","Cattle(Dairy)",3156
+"Vihiga","Luanda","Cattle(Indigenous)",16905
+"Vihiga","Luanda","Chicken(Broilers)",3133
+"Vihiga","Luanda","Chicken(Indigenous)",79903
+"Vihiga","Luanda","Chicken(Layers)",2896
+"Vihiga","Luanda","Donkeys",14
+"Vihiga","Luanda","Goats",5357
+"Vihiga","Luanda","Pigs",1203
+"Vihiga","Luanda","Rabbits",2386
+"Vihiga","Luanda","Sheep",1160
+"Vihiga","Sabatia","Camels",0
+"Vihiga","Sabatia","Cattle(Beef)",347
+"Vihiga","Sabatia","Cattle(Dairy)",7632
+"Vihiga","Sabatia","Cattle(Indigenous)",20147
+"Vihiga","Sabatia","Chicken(Broilers)",2926
+"Vihiga","Sabatia","Chicken(Indigenous)",117735
+"Vihiga","Sabatia","Chicken(Layers)",8171
+"Vihiga","Sabatia","Donkeys",7
+"Vihiga","Sabatia","Goats",5862
+"Vihiga","Sabatia","Pigs",1365
+"Vihiga","Sabatia","Rabbits",2035
+"Vihiga","Sabatia","Sheep",1564
+"Vihiga","Vihiga","Camels",0
+"Vihiga","Vihiga","Cattle(Beef)",1912
+"Vihiga","Vihiga","Cattle(Dairy)",27644
+"Vihiga","Vihiga","Cattle(Indigenous)",119943
+"Vihiga","Vihiga","Chicken(Broilers)",15186
+"Vihiga","Vihiga","Chicken(Indigenous)",563673
+"Vihiga","Vihiga","Chicken(Layers)",30764
+"Vihiga","Vihiga","Donkeys",79
+"Vihiga","Vihiga","Goats",38584
+"Vihiga","Vihiga","Pigs",5091
+"Vihiga","Vihiga","Rabbits",10315
+"Vihiga","Vihiga","Sheep",6897
+"Wajir","Buna","Camels",65531
+"Wajir","Buna","Cattle(Beef)",554
+"Wajir","Buna","Cattle(Dairy)",640
+"Wajir","Buna","Cattle(Indigenous)",41762
+"Wajir","Buna","Chicken(Broilers)",379
+"Wajir","Buna","Chicken(Indigenous)",4397
+"Wajir","Buna","Chicken(Layers)",590
+"Wajir","Buna","Donkeys",7656
+"Wajir","Buna","Goats",132002
+"Wajir","Buna","Pigs",0
+"Wajir","Buna","Rabbits",6
+"Wajir","Buna","Sheep",77239
+"Wajir","Eldas","Camels",228560
+"Wajir","Eldas","Cattle(Beef)",1053
+"Wajir","Eldas","Cattle(Dairy)",480
+"Wajir","Eldas","Cattle(Indigenous)",65796
+"Wajir","Eldas","Chicken(Broilers)",601
+"Wajir","Eldas","Chicken(Indigenous)",12563
+"Wajir","Eldas","Chicken(Layers)",1425
+"Wajir","Eldas","Donkeys",19250
+"Wajir","Eldas","Goats",445134
+"Wajir","Eldas","Pigs",0
+"Wajir","Eldas","Rabbits",101
+"Wajir","Eldas","Sheep",272989
+"Wajir","Habaswein","Camels",370680
+"Wajir","Habaswein","Cattle(Beef)",565
+"Wajir","Habaswein","Cattle(Dairy)",2952
+"Wajir","Habaswein","Cattle(Indigenous)",323070
+"Wajir","Habaswein","Chicken(Broilers)",936
+"Wajir","Habaswein","Chicken(Indigenous)",20995
+"Wajir","Habaswein","Chicken(Layers)",1740
+"Wajir","Habaswein","Donkeys",36954
+"Wajir","Habaswein","Goats",1025808
+"Wajir","Habaswein","Pigs",0
+"Wajir","Habaswein","Rabbits",30
+"Wajir","Habaswein","Sheep",727873
+"Wajir","Tarbaj","Camels",100030
+"Wajir","Tarbaj","Cattle(Beef)",85
+"Wajir","Tarbaj","Cattle(Dairy)",386
+"Wajir","Tarbaj","Cattle(Indigenous)",16994
+"Wajir","Tarbaj","Chicken(Broilers)",232
+"Wajir","Tarbaj","Chicken(Indigenous)",2652
+"Wajir","Tarbaj","Chicken(Layers)",562
+"Wajir","Tarbaj","Donkeys",8201
+"Wajir","Tarbaj","Goats",332380
+"Wajir","Tarbaj","Pigs",0
+"Wajir","Tarbaj","Rabbits",18
+"Wajir","Tarbaj","Sheep",201877
+"Wajir","Wajir","Camels",1176532
+"Wajir","Wajir","Cattle(Beef)",3634
+"Wajir","Wajir","Cattle(Dairy)",7352
+"Wajir","Wajir","Cattle(Indigenous)",856245
+"Wajir","Wajir","Chicken(Broilers)",5456
+"Wajir","Wajir","Chicken(Indigenous)",72071
+"Wajir","Wajir","Chicken(Layers)",8816
+"Wajir","Wajir","Donkeys",123751
+"Wajir","Wajir","Goats",3198284
+"Wajir","Wajir","Pigs",0
+"Wajir","Wajir","Rabbits",215
+"Wajir","Wajir","Sheep",2190638
+"Wajir","Wajir East","Camels",39645
+"Wajir","Wajir East","Cattle(Beef)",65
+"Wajir","Wajir East","Cattle(Dairy)",434
+"Wajir","Wajir East","Cattle(Indigenous)",5576
+"Wajir","Wajir East","Chicken(Broilers)",1100
+"Wajir","Wajir East","Chicken(Indigenous)",2357
+"Wajir","Wajir East","Chicken(Layers)",1180
+"Wajir","Wajir East","Donkeys",3617
+"Wajir","Wajir East","Goats",114423
+"Wajir","Wajir East","Pigs",0
+"Wajir","Wajir East","Rabbits",23
+"Wajir","Wajir East","Sheep",55716
+"Wajir","Wajir North","Camels",77801
+"Wajir","Wajir North","Cattle(Beef)",282
+"Wajir","Wajir North","Cattle(Dairy)",515
+"Wajir","Wajir North","Cattle(Indigenous)",63804
+"Wajir","Wajir North","Chicken(Broilers)",287
+"Wajir","Wajir North","Chicken(Indigenous)",9273
+"Wajir","Wajir North","Chicken(Layers)",1136
+"Wajir","Wajir North","Donkeys",7078
+"Wajir","Wajir North","Goats",168934
+"Wajir","Wajir North","Pigs",0
+"Wajir","Wajir North","Rabbits",0
+"Wajir","Wajir North","Sheep",72921
+"Wajir","Wajir South","Camels",199439
+"Wajir","Wajir South","Cattle(Beef)",847
+"Wajir","Wajir South","Cattle(Dairy)",1340
+"Wajir","Wajir South","Cattle(Indigenous)",267976
+"Wajir","Wajir South","Chicken(Broilers)",1535
+"Wajir","Wajir South","Chicken(Indigenous)",12081
+"Wajir","Wajir South","Chicken(Layers)",1323
+"Wajir","Wajir South","Donkeys",26630
+"Wajir","Wajir South","Goats",674127
+"Wajir","Wajir South","Pigs",0
+"Wajir","Wajir South","Rabbits",35
+"Wajir","Wajir South","Sheep",503224
+"Wajir","Wajir West","Camels",94846
+"Wajir","Wajir West","Cattle(Beef)",183
+"Wajir","Wajir West","Cattle(Dairy)",605
+"Wajir","Wajir West","Cattle(Indigenous)",71267
+"Wajir","Wajir West","Chicken(Broilers)",386
+"Wajir","Wajir West","Chicken(Indigenous)",7753
+"Wajir","Wajir West","Chicken(Layers)",860
+"Wajir","Wajir West","Donkeys",14365
+"Wajir","Wajir West","Goats",305476
+"Wajir","Wajir West","Pigs",0
+"Wajir","Wajir West","Rabbits",2
+"Wajir","Wajir West","Sheep",278799
+"West Pokot","Pokot South","Camels",118
+"West Pokot","Pokot South","Cattle(Beef)",4211
+"West Pokot","Pokot South","Cattle(Dairy)",32096
+"West Pokot","Pokot South","Cattle(Indigenous)",62202
+"West Pokot","Pokot South","Chicken(Broilers)",3345
+"West Pokot","Pokot South","Chicken(Indigenous)",140297
+"West Pokot","Pokot South","Chicken(Layers)",6744
+"West Pokot","Pokot South","Donkeys",2499
+"West Pokot","Pokot South","Goats",93690
+"West Pokot","Pokot South","Pigs",73
+"West Pokot","Pokot South","Rabbits",383
+"West Pokot","Pokot South","Sheep",115620
+"West Pokot","Sigor","Camels",3713
+"West Pokot","Sigor","Cattle(Beef)",1860
+"West Pokot","Sigor","Cattle(Dairy)",2757
+"West Pokot","Sigor","Cattle(Indigenous)",74957
+"West Pokot","Sigor","Chicken(Broilers)",678
+"West Pokot","Sigor","Chicken(Indigenous)",73541
+"West Pokot","Sigor","Chicken(Layers)",2651
+"West Pokot","Sigor","Donkeys",532
+"West Pokot","Sigor","Goats",257140
+"West Pokot","Sigor","Pigs",7
+"West Pokot","Sigor","Rabbits",56
+"West Pokot","Sigor","Sheep",58773
+"West Pokot","Kacheliba","Camels",13599
+"West Pokot","Kacheliba","Cattle(Beef)",5756
+"West Pokot","Kacheliba","Cattle(Dairy)",4525
+"West Pokot","Kacheliba","Cattle(Indigenous)",130290
+"West Pokot","Kacheliba","Chicken(Broilers)",1850
+"West Pokot","Kacheliba","Chicken(Indigenous)",79362
+"West Pokot","Kacheliba","Chicken(Layers)",3497
+"West Pokot","Kacheliba","Donkeys",3148
+"West Pokot","Kacheliba","Goats",256677
+"West Pokot","Kacheliba","Pigs",117
+"West Pokot","Kacheliba","Rabbits",195
+"West Pokot","Kacheliba","Sheep",91514
+"West Pokot","West Pokot","Camels",21348
+"West Pokot","West Pokot","Cattle(Beef)",23437
+"West Pokot","West Pokot","Cattle(Dairy)",60348
+"West Pokot","West Pokot","Cattle(Indigenous)",431237
+"West Pokot","West Pokot","Chicken(Broilers)",18827
+"West Pokot","West Pokot","Chicken(Indigenous)",555158
+"West Pokot","West Pokot","Chicken(Layers)",33456
+"West Pokot","West Pokot","Donkeys",10687
+"West Pokot","West Pokot","Goats",920843
+"West Pokot","West Pokot","Pigs",485
+"West Pokot","West Pokot","Rabbits",1372
+"West Pokot","West Pokot","Sheep",450679
