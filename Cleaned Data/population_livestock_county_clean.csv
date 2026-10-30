@@ -1,0 +1,565 @@
+county_iso,county,species,species_category,population
+KE-01,Baringo,Camel,,38500.0
+KE-01,Baringo,Cattle,Beef,16157.0
+KE-01,Baringo,Cattle,Dairy,46244.0
+KE-01,Baringo,Cattle,Indigenous,347445.0
+KE-01,Baringo,Chicken,Broilers,17317.0
+KE-01,Baringo,Chicken,Indigenous,536949.0
+KE-01,Baringo,Chicken,Layers,29239.0
+KE-01,Baringo,Donkey,,18109.0
+KE-01,Baringo,Goats,,933727.0
+KE-01,Baringo,Pigs,,432.0
+KE-01,Baringo,Rabbits,,2700.0
+KE-01,Baringo,Sheep,,343343.0
+KE-02,Bomet,Camel,,0.0
+KE-02,Bomet,Cattle,Beef,7342.0
+KE-02,Bomet,Cattle,Dairy,99188.0
+KE-02,Bomet,Cattle,Indigenous,211679.0
+KE-02,Bomet,Chicken,Broilers,12917.0
+KE-02,Bomet,Chicken,Indigenous,816840.0
+KE-02,Bomet,Chicken,Layers,87282.0
+KE-02,Bomet,Donkey,,10985.0
+KE-02,Bomet,Goats,,76459.0
+KE-02,Bomet,Pigs,,306.0
+KE-02,Bomet,Rabbits,,5940.0
+KE-02,Bomet,Sheep,,80492.0
+KE-03,Bungoma,Camel,,0.0
+KE-03,Bungoma,Cattle,Beef,9822.0
+KE-03,Bungoma,Cattle,Dairy,62009.0
+KE-03,Bungoma,Cattle,Indigenous,279428.0
+KE-03,Bungoma,Chicken,Broilers,28328.0
+KE-03,Bungoma,Chicken,Indigenous,1191092.0
+KE-03,Bungoma,Chicken,Layers,73189.0
+KE-03,Bungoma,Donkey,,6058.0
+KE-03,Bungoma,Goats,,109693.0
+KE-03,Bungoma,Pigs,,15930.0
+KE-03,Bungoma,Rabbits,,12911.0
+KE-03,Bungoma,Sheep,,78494.0
+KE-04,Busia,Camel,,0.0
+KE-04,Busia,Cattle,Beef,9346.0
+KE-04,Busia,Cattle,Dairy,23480.0
+KE-04,Busia,Cattle,Indigenous,380430.0
+KE-04,Busia,Chicken,Broilers,27980.0
+KE-04,Busia,Chicken,Indigenous,1463248.0
+KE-04,Busia,Chicken,Layers,62064.0
+KE-04,Busia,Donkey,,466.0
+KE-04,Busia,Goats,,164606.0
+KE-04,Busia,Pigs,,114008.0
+KE-04,Busia,Rabbits,,9592.0
+KE-04,Busia,Sheep,,43408.0
+KE-05,Elgeyo-Marakwet,Camel,,89.0
+KE-05,Elgeyo-Marakwet,Cattle,Beef,5273.0
+KE-05,Elgeyo-Marakwet,Cattle,Dairy,38735.0
+KE-05,Elgeyo-Marakwet,Cattle,Indigenous,106445.0
+KE-05,Elgeyo-Marakwet,Chicken,Broilers,8042.0
+KE-05,Elgeyo-Marakwet,Chicken,Indigenous,267674.0
+KE-05,Elgeyo-Marakwet,Chicken,Layers,21742.0
+KE-05,Elgeyo-Marakwet,Donkey,,2766.0
+KE-05,Elgeyo-Marakwet,Goats,,99926.0
+KE-05,Elgeyo-Marakwet,Pigs,,412.0
+KE-05,Elgeyo-Marakwet,Rabbits,,1982.0
+KE-05,Elgeyo-Marakwet,Sheep,,190031.0
+KE-06,Embu,Camel,,228.0
+KE-06,Embu,Cattle,Beef,9167.0
+KE-06,Embu,Cattle,Dairy,40843.0
+KE-06,Embu,Cattle,Indigenous,88405.0
+KE-06,Embu,Chicken,Broilers,36297.0
+KE-06,Embu,Chicken,Indigenous,756202.0
+KE-06,Embu,Chicken,Layers,104390.0
+KE-06,Embu,Donkey,,11521.0
+KE-06,Embu,Goats,,269133.0
+KE-06,Embu,Pigs,,12837.0
+KE-06,Embu,Rabbits,,29746.0
+KE-06,Embu,Sheep,,45246.0
+KE-07,Garissa,Camel,,1632114.0
+KE-07,Garissa,Cattle,Beef,14916.0
+KE-07,Garissa,Cattle,Dairy,12126.0
+KE-07,Garissa,Cattle,Indigenous,2814340.0
+KE-07,Garissa,Chicken,Broilers,22758.0
+KE-07,Garissa,Chicken,Indigenous,176720.0
+KE-07,Garissa,Chicken,Layers,48392.0
+KE-07,Garissa,Donkey,,211086.0
+KE-07,Garissa,Goats,,7714584.0
+KE-07,Garissa,Pigs,,0.0
+KE-07,Garissa,Rabbits,,6020.0
+KE-07,Garissa,Sheep,,5493154.0
+KE-08,Homa Bay,Camel,,0.0
+KE-08,Homa Bay,Cattle,Beef,14472.0
+KE-08,Homa Bay,Cattle,Dairy,30190.0
+KE-08,Homa Bay,Cattle,Indigenous,637276.0
+KE-08,Homa Bay,Chicken,Broilers,48336.0
+KE-08,Homa Bay,Chicken,Indigenous,1890606.0
+KE-08,Homa Bay,Chicken,Layers,88972.0
+KE-08,Homa Bay,Donkey,,28092.0
+KE-08,Homa Bay,Goats,,359110.0
+KE-08,Homa Bay,Pigs,,8914.0
+KE-08,Homa Bay,Rabbits,,6868.0
+KE-08,Homa Bay,Sheep,,296748.0
+KE-09,Isiolo,Camel,,297718.0
+KE-09,Isiolo,Cattle,Beef,20242.0
+KE-09,Isiolo,Cattle,Dairy,25800.0
+KE-09,Isiolo,Cattle,Indigenous,497154.0
+KE-09,Isiolo,Chicken,Broilers,14912.0
+KE-09,Isiolo,Chicken,Indigenous,104384.0
+KE-09,Isiolo,Chicken,Layers,22878.0
+KE-09,Isiolo,Donkey,,67384.0
+KE-09,Isiolo,Goats,,2060010.0
+KE-09,Isiolo,Pigs,,316.0
+KE-09,Isiolo,Rabbits,,484.0
+KE-09,Isiolo,Sheep,,1709450.0
+KE-10,Kajiado,Camel,,3584.0
+KE-10,Kajiado,Cattle,Beef,56696.0
+KE-10,Kajiado,Cattle,Dairy,36547.0
+KE-10,Kajiado,Cattle,Indigenous,484467.0
+KE-10,Kajiado,Chicken,Broilers,150124.0
+KE-10,Kajiado,Chicken,Indigenous,493473.0
+KE-10,Kajiado,Chicken,Layers,174525.0
+KE-10,Kajiado,Donkey,,50153.0
+KE-10,Kajiado,Goats,,877744.0
+KE-10,Kajiado,Pigs,,12390.0
+KE-10,Kajiado,Rabbits,,9100.0
+KE-10,Kajiado,Sheep,,1120649.0
+KE-11,Kakamega,Camel,,0.0
+KE-11,Kakamega,Cattle,Beef,11322.0
+KE-11,Kakamega,Cattle,Dairy,69173.0
+KE-11,Kakamega,Cattle,Indigenous,322955.0
+KE-11,Kakamega,Chicken,Broilers,43620.0
+KE-11,Kakamega,Chicken,Indigenous,1415652.0
+KE-11,Kakamega,Chicken,Layers,102673.0
+KE-11,Kakamega,Donkey,,1080.0
+KE-11,Kakamega,Goats,,78144.0
+KE-11,Kakamega,Pigs,,28634.0
+KE-11,Kakamega,Rabbits,,15986.0
+KE-11,Kakamega,Sheep,,56884.0
+KE-12,Kericho,Camel,,0.0
+KE-12,Kericho,Cattle,Beef,5430.0
+KE-12,Kericho,Cattle,Dairy,80670.0
+KE-12,Kericho,Cattle,Indigenous,155548.0
+KE-12,Kericho,Chicken,Broilers,20163.0
+KE-12,Kericho,Chicken,Indigenous,577529.0
+KE-12,Kericho,Chicken,Layers,87531.0
+KE-12,Kericho,Donkey,,11940.0
+KE-12,Kericho,Goats,,71875.0
+KE-12,Kericho,Pigs,,794.0
+KE-12,Kericho,Rabbits,,3843.0
+KE-12,Kericho,Sheep,,56238.0
+KE-13,Kiambu,Camel,,0.0
+KE-13,Kiambu,Cattle,Beef,40516.0
+KE-13,Kiambu,Cattle,Dairy,288622.0
+KE-13,Kiambu,Cattle,Indigenous,71650.0
+KE-13,Kiambu,Chicken,Broilers,1346732.0
+KE-13,Kiambu,Chicken,Indigenous,2313068.0
+KE-13,Kiambu,Chicken,Layers,3663522.0
+KE-13,Kiambu,Donkey,,10614.0
+KE-13,Kiambu,Goats,,167194.0
+KE-13,Kiambu,Pigs,,169982.0
+KE-13,Kiambu,Rabbits,,79134.0
+KE-13,Kiambu,Sheep,,236778.0
+KE-14,Kilifi,Camel,,2022.0
+KE-14,Kilifi,Cattle,Beef,9646.0
+KE-14,Kilifi,Cattle,Dairy,19918.0
+KE-14,Kilifi,Cattle,Indigenous,206893.0
+KE-14,Kilifi,Chicken,Broilers,249165.0
+KE-14,Kilifi,Chicken,Indigenous,740657.0
+KE-14,Kilifi,Chicken,Layers,75103.0
+KE-14,Kilifi,Donkey,,2754.0
+KE-14,Kilifi,Goats,,542257.0
+KE-14,Kilifi,Pigs,,3319.0
+KE-14,Kilifi,Rabbits,,3434.0
+KE-14,Kilifi,Sheep,,56481.0
+KE-15,Kirinyaga,Camel,,0.0
+KE-15,Kirinyaga,Cattle,Beef,12931.0
+KE-15,Kirinyaga,Cattle,Dairy,48488.0
+KE-15,Kirinyaga,Cattle,Indigenous,55022.0
+KE-15,Kirinyaga,Chicken,Broilers,86098.0
+KE-15,Kirinyaga,Chicken,Indigenous,675656.0
+KE-15,Kirinyaga,Chicken,Layers,100845.0
+KE-15,Kirinyaga,Donkey,,2404.0
+KE-15,Kirinyaga,Goats,,106844.0
+KE-15,Kirinyaga,Pigs,,15909.0
+KE-15,Kirinyaga,Rabbits,,36742.0
+KE-15,Kirinyaga,Sheep,,26751.0
+KE-16,Kisii,Camel,,0.0
+KE-16,Kisii,Cattle,Beef,4883.0
+KE-16,Kisii,Cattle,Dairy,51458.0
+KE-16,Kisii,Cattle,Indigenous,160517.0
+KE-16,Kisii,Chicken,Broilers,26064.0
+KE-16,Kisii,Chicken,Indigenous,936213.0
+KE-16,Kisii,Chicken,Layers,122621.0
+KE-16,Kisii,Donkey,,1381.0
+KE-16,Kisii,Goats,,56946.0
+KE-16,Kisii,Pigs,,1421.0
+KE-16,Kisii,Rabbits,,5030.0
+KE-16,Kisii,Sheep,,11001.0
+KE-17,Kisumu,Camel,,0.0
+KE-17,Kisumu,Cattle,Beef,6474.0
+KE-17,Kisumu,Cattle,Dairy,13799.0
+KE-17,Kisumu,Cattle,Indigenous,222723.0
+KE-17,Kisumu,Chicken,Broilers,74235.0
+KE-17,Kisumu,Chicken,Indigenous,733465.0
+KE-17,Kisumu,Chicken,Layers,71699.0
+KE-17,Kisumu,Donkey,,3542.0
+KE-17,Kisumu,Goats,,137696.0
+KE-17,Kisumu,Pigs,,4755.0
+KE-17,Kisumu,Rabbits,,5836.0
+KE-17,Kisumu,Sheep,,163537.0
+KE-18,Kitui,Camel,,5202.0
+KE-18,Kitui,Cattle,Beef,8869.0
+KE-18,Kitui,Cattle,Dairy,10412.0
+KE-18,Kitui,Cattle,Indigenous,324351.0
+KE-18,Kitui,Chicken,Broilers,27054.0
+KE-18,Kitui,Chicken,Indigenous,1361190.0
+KE-18,Kitui,Chicken,Layers,56769.0
+KE-18,Kitui,Donkey,,162609.0
+KE-18,Kitui,Goats,,1370560.0
+KE-18,Kitui,Pigs,,1254.0
+KE-18,Kitui,Rabbits,,3209.0
+KE-18,Kitui,Sheep,,105830.0
+KE-19,Kwale,Camel,,1096.0
+KE-19,Kwale,Cattle,Beef,6117.0
+KE-19,Kwale,Cattle,Dairy,10811.0
+KE-19,Kwale,Cattle,Indigenous,293506.0
+KE-19,Kwale,Chicken,Broilers,47266.0
+KE-19,Kwale,Chicken,Indigenous,528984.0
+KE-19,Kwale,Chicken,Layers,28394.0
+KE-19,Kwale,Donkey,,1190.0
+KE-19,Kwale,Goats,,382410.0
+KE-19,Kwale,Pigs,,675.0
+KE-19,Kwale,Rabbits,,1183.0
+KE-19,Kwale,Sheep,,90615.0
+KE-20,Laikipia,Camel,,7827.0
+KE-20,Laikipia,Cattle,Beef,14935.0
+KE-20,Laikipia,Cattle,Dairy,25846.0
+KE-20,Laikipia,Cattle,Indigenous,229284.0
+KE-20,Laikipia,Chicken,Broilers,23110.0
+KE-20,Laikipia,Chicken,Indigenous,506808.0
+KE-20,Laikipia,Chicken,Layers,44016.0
+KE-20,Laikipia,Donkey,,8967.0
+KE-20,Laikipia,Goats,,402526.0
+KE-20,Laikipia,Pigs,,2685.0
+KE-20,Laikipia,Rabbits,,10218.0
+KE-20,Laikipia,Sheep,,613782.0
+KE-21,Lamu,Camel,,125.0
+KE-21,Lamu,Cattle,Beef,1618.0
+KE-21,Lamu,Cattle,Dairy,12415.0
+KE-21,Lamu,Cattle,Indigenous,84288.0
+KE-21,Lamu,Chicken,Broilers,9419.0
+KE-21,Lamu,Chicken,Indigenous,128599.0
+KE-21,Lamu,Chicken,Layers,11913.0
+KE-21,Lamu,Donkey,,1964.0
+KE-21,Lamu,Goats,,97879.0
+KE-21,Lamu,Pigs,,280.0
+KE-21,Lamu,Rabbits,,292.0
+KE-21,Lamu,Sheep,,42145.0
+KE-22,Machakos,Camel,,2946.0
+KE-22,Machakos,Cattle,Beef,25312.0
+KE-22,Machakos,Cattle,Dairy,60738.0
+KE-22,Machakos,Cattle,Indigenous,638652.0
+KE-22,Machakos,Chicken,Broilers,279168.0
+KE-22,Machakos,Chicken,Indigenous,2899330.0
+KE-22,Machakos,Chicken,Layers,372574.0
+KE-22,Machakos,Donkey,,49588.0
+KE-22,Machakos,Goats,,1249782.0
+KE-22,Machakos,Pigs,,11034.0
+KE-22,Machakos,Rabbits,,81154.0
+KE-22,Machakos,Sheep,,343050.0
+KE-23,Makueni,Camel,,2222.0
+KE-23,Makueni,Cattle,Beef,17452.0
+KE-23,Makueni,Cattle,Dairy,43034.0
+KE-23,Makueni,Cattle,Indigenous,591120.0
+KE-23,Makueni,Chicken,Broilers,96598.0
+KE-23,Makueni,Chicken,Indigenous,2794422.0
+KE-23,Makueni,Chicken,Layers,151112.0
+KE-23,Makueni,Donkey,,80622.0
+KE-23,Makueni,Goats,,1599276.0
+KE-23,Makueni,Pigs,,3004.0
+KE-23,Makueni,Rabbits,,33520.0
+KE-23,Makueni,Sheep,,266230.0
+KE-24,Mandera,Camel,,1828665.0
+KE-24,Mandera,Cattle,Beef,2706.0
+KE-24,Mandera,Cattle,Dairy,5433.0
+KE-24,Mandera,Cattle,Indigenous,1174850.0
+KE-24,Mandera,Chicken,Broilers,21183.0
+KE-24,Mandera,Chicken,Indigenous,151394.0
+KE-24,Mandera,Chicken,Layers,23270.0
+KE-24,Mandera,Donkey,,155390.0
+KE-24,Mandera,Goats,,4898807.0
+KE-24,Mandera,Pigs,,0.0
+KE-24,Mandera,Rabbits,,5110.0
+KE-24,Mandera,Sheep,,2226033.0
+KE-25,Marsabit,Camel,,215234.0
+KE-25,Marsabit,Cattle,Beef,7116.0
+KE-25,Marsabit,Cattle,Dairy,13693.0
+KE-25,Marsabit,Cattle,Indigenous,219927.0
+KE-25,Marsabit,Chicken,Broilers,1500.0
+KE-25,Marsabit,Chicken,Indigenous,21239.0
+KE-25,Marsabit,Chicken,Layers,3326.0
+KE-25,Marsabit,Donkey,,50006.0
+KE-25,Marsabit,Goats,,744475.0
+KE-25,Marsabit,Pigs,,65.0
+KE-25,Marsabit,Rabbits,,95.0
+KE-25,Marsabit,Sheep,,627832.0
+KE-26,Meru,Camel,,5732.0
+KE-26,Meru,Cattle,Beef,24656.0
+KE-26,Meru,Cattle,Dairy,114251.0
+KE-26,Meru,Cattle,Indigenous,173277.0
+KE-26,Meru,Chicken,Broilers,69083.0
+KE-26,Meru,Chicken,Indigenous,1006744.0
+KE-26,Meru,Chicken,Layers,140951.0
+KE-26,Meru,Donkey,,5822.0
+KE-26,Meru,Goats,,342198.0
+KE-26,Meru,Pigs,,30789.0
+KE-26,Meru,Rabbits,,45935.0
+KE-26,Meru,Sheep,,138771.0
+KE-27,Migori,Camel,,0.0
+KE-27,Migori,Cattle,Beef,8997.0
+KE-27,Migori,Cattle,Dairy,21062.0
+KE-27,Migori,Cattle,Indigenous,293261.0
+KE-27,Migori,Chicken,Broilers,17816.0
+KE-27,Migori,Chicken,Indigenous,913634.0
+KE-27,Migori,Chicken,Layers,41179.0
+KE-27,Migori,Donkey,,5894.0
+KE-27,Migori,Goats,,142204.0
+KE-27,Migori,Pigs,,2922.0
+KE-27,Migori,Rabbits,,3856.0
+KE-27,Migori,Sheep,,70852.0
+KE-28,Mombasa,Camel,,58.0
+KE-28,Mombasa,Cattle,Beef,1384.0
+KE-28,Mombasa,Cattle,Dairy,3015.0
+KE-28,Mombasa,Cattle,Indigenous,6252.0
+KE-28,Mombasa,Chicken,Broilers,119186.0
+KE-28,Mombasa,Chicken,Indigenous,115315.0
+KE-28,Mombasa,Chicken,Layers,37591.0
+KE-28,Mombasa,Donkey,,68.0
+KE-28,Mombasa,Goats,,25411.0
+KE-28,Mombasa,Pigs,,3032.0
+KE-28,Mombasa,Rabbits,,1343.0
+KE-28,Mombasa,Sheep,,2292.0
+KE-29,Murang'a,Camel,,0.0
+KE-29,Murang'a,Cattle,Beef,23311.0
+KE-29,Murang'a,Cattle,Dairy,130152.0
+KE-29,Murang'a,Cattle,Indigenous,56640.0
+KE-29,Murang'a,Chicken,Broilers,132311.0
+KE-29,Murang'a,Chicken,Indigenous,922054.0
+KE-29,Murang'a,Chicken,Layers,531781.0
+KE-29,Murang'a,Donkey,,914.0
+KE-29,Murang'a,Goats,,173763.0
+KE-29,Murang'a,Pigs,,48775.0
+KE-29,Murang'a,Rabbits,,58710.0
+KE-29,Murang'a,Sheep,,56475.0
+KE-30,Nairobi,Camel,,0.0
+KE-30,Nairobi,Cattle,Beef,4923.0
+KE-30,Nairobi,Cattle,Dairy,11780.0
+KE-30,Nairobi,Cattle,Indigenous,12626.0
+KE-30,Nairobi,Chicken,Broilers,248141.0
+KE-30,Nairobi,Chicken,Indigenous,354335.0
+KE-30,Nairobi,Chicken,Layers,244733.0
+KE-30,Nairobi,Donkey,,542.0
+KE-30,Nairobi,Goats,,28415.0
+KE-30,Nairobi,Pigs,,16412.0
+KE-30,Nairobi,Rabbits,,13036.0
+KE-30,Nairobi,Sheep,,19109.0
+KE-31,Nakuru,Camel,,388.0
+KE-31,Nakuru,Cattle,Beef,23774.0
+KE-31,Nakuru,Cattle,Dairy,135235.0
+KE-31,Nakuru,Cattle,Indigenous,237517.0
+KE-31,Nakuru,Chicken,Broilers,152761.0
+KE-31,Nakuru,Chicken,Indigenous,1539144.0
+KE-31,Nakuru,Chicken,Layers,329912.0
+KE-31,Nakuru,Donkey,,22792.0
+KE-31,Nakuru,Goats,,205392.0
+KE-31,Nakuru,Pigs,,16895.0
+KE-31,Nakuru,Rabbits,,35368.0
+KE-31,Nakuru,Sheep,,532221.0
+KE-32,Nandi,Camel,,0.0
+KE-32,Nandi,Cattle,Beef,11376.0
+KE-32,Nandi,Cattle,Dairy,125566.0
+KE-32,Nandi,Cattle,Indigenous,106476.0
+KE-32,Nandi,Chicken,Broilers,20771.0
+KE-32,Nandi,Chicken,Indigenous,639134.0
+KE-32,Nandi,Chicken,Layers,65254.0
+KE-32,Nandi,Donkey,,4344.0
+KE-32,Nandi,Goats,,35096.0
+KE-32,Nandi,Pigs,,862.0
+KE-32,Nandi,Rabbits,,4382.0
+KE-32,Nandi,Sheep,,97712.0
+KE-33,Narok,Camel,,1619.0
+KE-33,Narok,Cattle,Beef,89203.0
+KE-33,Narok,Cattle,Dairy,93562.0
+KE-33,Narok,Cattle,Indigenous,1306126.0
+KE-33,Narok,Chicken,Broilers,25819.0
+KE-33,Narok,Chicken,Indigenous,878467.0
+KE-33,Narok,Chicken,Layers,50387.0
+KE-33,Narok,Donkey,,81932.0
+KE-33,Narok,Goats,,1015845.0
+KE-33,Narok,Pigs,,2054.0
+KE-33,Narok,Rabbits,,3679.0
+KE-33,Narok,Sheep,,2603542.0
+KE-34,Nyamira,Camel,,0.0
+KE-34,Nyamira,Cattle,Beef,2735.0
+KE-34,Nyamira,Cattle,Dairy,34276.0
+KE-34,Nyamira,Cattle,Indigenous,82614.0
+KE-34,Nyamira,Chicken,Broilers,10264.0
+KE-34,Nyamira,Chicken,Indigenous,478429.0
+KE-34,Nyamira,Chicken,Layers,64429.0
+KE-34,Nyamira,Donkey,,728.0
+KE-34,Nyamira,Goats,,39335.0
+KE-34,Nyamira,Pigs,,1341.0
+KE-34,Nyamira,Rabbits,,2925.0
+KE-34,Nyamira,Sheep,,11787.0
+KE-35,Nyandarua,Camel,,0.0
+KE-35,Nyandarua,Cattle,Beef,16879.0
+KE-35,Nyandarua,Cattle,Dairy,135895.0
+KE-35,Nyandarua,Cattle,Indigenous,58589.0
+KE-35,Nyandarua,Chicken,Broilers,11591.0
+KE-35,Nyandarua,Chicken,Indigenous,738187.0
+KE-35,Nyandarua,Chicken,Layers,78274.0
+KE-35,Nyandarua,Donkey,,9458.0
+KE-35,Nyandarua,Goats,,37009.0
+KE-35,Nyandarua,Pigs,,4017.0
+KE-35,Nyandarua,Rabbits,,39833.0
+KE-35,Nyandarua,Sheep,,277762.0
+KE-36,Nyeri,Camel,,0.0
+KE-36,Nyeri,Cattle,Beef,11501.0
+KE-36,Nyeri,Cattle,Dairy,92486.0
+KE-36,Nyeri,Cattle,Indigenous,60520.0
+KE-36,Nyeri,Chicken,Broilers,131985.0
+KE-36,Nyeri,Chicken,Indigenous,734889.0
+KE-36,Nyeri,Chicken,Layers,150195.0
+KE-36,Nyeri,Donkey,,772.0
+KE-36,Nyeri,Goats,,107460.0
+KE-36,Nyeri,Pigs,,15188.0
+KE-36,Nyeri,Rabbits,,40982.0
+KE-36,Nyeri,Sheep,,153728.0
+KE-37,Samburu,Camel,,48172.0
+KE-37,Samburu,Cattle,Beef,12558.0
+KE-37,Samburu,Cattle,Dairy,7691.0
+KE-37,Samburu,Cattle,Indigenous,265384.0
+KE-37,Samburu,Chicken,Broilers,2350.0
+KE-37,Samburu,Chicken,Indigenous,94825.0
+KE-37,Samburu,Chicken,Layers,4994.0
+KE-37,Samburu,Donkey,,29875.0
+KE-37,Samburu,Goats,,716587.0
+KE-37,Samburu,Pigs,,270.0
+KE-37,Samburu,Rabbits,,353.0
+KE-37,Samburu,Sheep,,566772.0
+KE-38,Siaya,Camel,,0.0
+KE-38,Siaya,Cattle,Beef,9054.0
+KE-38,Siaya,Cattle,Dairy,20648.0
+KE-38,Siaya,Cattle,Indigenous,622660.0
+KE-38,Siaya,Chicken,Broilers,55572.0
+KE-38,Siaya,Chicken,Indigenous,1834024.0
+KE-38,Siaya,Chicken,Layers,84320.0
+KE-38,Siaya,Donkey,,11974.0
+KE-38,Siaya,Goats,,326444.0
+KE-38,Siaya,Pigs,,28350.0
+KE-38,Siaya,Rabbits,,10828.0
+KE-38,Siaya,Sheep,,266220.0
+KE-39,Taita Taveta,Camel,,2630.0
+KE-39,Taita Taveta,Cattle,Beef,6661.0
+KE-39,Taita Taveta,Cattle,Dairy,17236.0
+KE-39,Taita Taveta,Cattle,Indigenous,90917.0
+KE-39,Taita Taveta,Chicken,Broilers,20743.0
+KE-39,Taita Taveta,Chicken,Indigenous,332843.0
+KE-39,Taita Taveta,Chicken,Layers,25086.0
+KE-39,Taita Taveta,Donkey,,2938.0
+KE-39,Taita Taveta,Goats,,202113.0
+KE-39,Taita Taveta,Pigs,,1605.0
+KE-39,Taita Taveta,Rabbits,,10122.0
+KE-39,Taita Taveta,Sheep,,46535.0
+KE-40,Tana River,Camel,,106596.0
+KE-40,Tana River,Cattle,Beef,2388.0
+KE-40,Tana River,Cattle,Dairy,12532.0
+KE-40,Tana River,Cattle,Indigenous,528746.0
+KE-40,Tana River,Chicken,Broilers,10422.0
+KE-40,Tana River,Chicken,Indigenous,182688.0
+KE-40,Tana River,Chicken,Layers,13228.0
+KE-40,Tana River,Donkey,,30634.0
+KE-40,Tana River,Goats,,1181712.0
+KE-40,Tana River,Pigs,,38.0
+KE-40,Tana River,Rabbits,,484.0
+KE-40,Tana River,Sheep,,896132.0
+KE-41,Tharaka,Camel,,124.0
+KE-41,Tharaka,Cattle,Beef,5137.0
+KE-41,Tharaka,Cattle,Dairy,32634.0
+KE-41,Tharaka,Cattle,Indigenous,52935.0
+KE-41,Tharaka,Chicken,Broilers,10785.0
+KE-41,Tharaka,Chicken,Indigenous,418193.0
+KE-41,Tharaka,Chicken,Layers,31876.0
+KE-41,Tharaka,Donkey,,5867.0
+KE-41,Tharaka,Goats,,214217.0
+KE-41,Tharaka,Pigs,,8753.0
+KE-41,Tharaka,Rabbits,,13321.0
+KE-41,Tharaka,Sheep,,53816.0
+KE-42,Trans Nzoia,Camel,,0.0
+KE-42,Trans Nzoia,Cattle,Beef,6998.0
+KE-42,Trans Nzoia,Cattle,Dairy,88662.0
+KE-42,Trans Nzoia,Cattle,Indigenous,87808.0
+KE-42,Trans Nzoia,Chicken,Broilers,26787.0
+KE-42,Trans Nzoia,Chicken,Indigenous,689222.0
+KE-42,Trans Nzoia,Chicken,Layers,127352.0
+KE-42,Trans Nzoia,Donkey,,5032.0
+KE-42,Trans Nzoia,Goats,,28199.0
+KE-42,Trans Nzoia,Pigs,,4832.0
+KE-42,Trans Nzoia,Rabbits,,4623.0
+KE-42,Trans Nzoia,Sheep,,136345.0
+KE-43,Turkana,Camel,,261923.0
+KE-43,Turkana,Cattle,Beef,2173.0
+KE-43,Turkana,Cattle,Dairy,2206.0
+KE-43,Turkana,Cattle,Indigenous,320425.0
+KE-43,Turkana,Chicken,Broilers,2501.0
+KE-43,Turkana,Chicken,Indigenous,43158.0
+KE-43,Turkana,Chicken,Layers,7663.0
+KE-43,Turkana,Donkey,,116806.0
+KE-43,Turkana,Goats,,1990929.0
+KE-43,Turkana,Pigs,,992.0
+KE-43,Turkana,Rabbits,,234.0
+KE-43,Turkana,Sheep,,1053756.0
+KE-44,Uasin Gishu,Camel,,148.0
+KE-44,Uasin Gishu,Cattle,Beef,10564.0
+KE-44,Uasin Gishu,Cattle,Dairy,139722.0
+KE-44,Uasin Gishu,Cattle,Indigenous,128136.0
+KE-44,Uasin Gishu,Chicken,Broilers,47722.0
+KE-44,Uasin Gishu,Chicken,Indigenous,779875.0
+KE-44,Uasin Gishu,Chicken,Layers,117777.0
+KE-44,Uasin Gishu,Donkey,,2280.0
+KE-44,Uasin Gishu,Goats,,45854.0
+KE-44,Uasin Gishu,Pigs,,9132.0
+KE-44,Uasin Gishu,Rabbits,,4499.0
+KE-44,Uasin Gishu,Sheep,,219925.0
+KE-45,Vihiga,Camel,,0.0
+KE-45,Vihiga,Cattle,Beef,3450.0
+KE-45,Vihiga,Cattle,Dairy,46134.0
+KE-45,Vihiga,Cattle,Indigenous,203652.0
+KE-45,Vihiga,Chicken,Broilers,26554.0
+KE-45,Vihiga,Chicken,Indigenous,954146.0
+KE-45,Vihiga,Chicken,Layers,54568.0
+KE-45,Vihiga,Donkey,,154.0
+KE-45,Vihiga,Goats,,61708.0
+KE-45,Vihiga,Pigs,,9256.0
+KE-45,Vihiga,Rabbits,,19066.0
+KE-45,Vihiga,Sheep,,12290.0
+KE-46,Wajir,Camel,,1176532.0
+KE-46,Wajir,Cattle,Beef,3634.0
+KE-46,Wajir,Cattle,Dairy,7352.0
+KE-46,Wajir,Cattle,Indigenous,856245.0
+KE-46,Wajir,Chicken,Broilers,5456.0
+KE-46,Wajir,Chicken,Indigenous,72071.0
+KE-46,Wajir,Chicken,Layers,8816.0
+KE-46,Wajir,Donkey,,123751.0
+KE-46,Wajir,Goats,,3198284.0
+KE-46,Wajir,Pigs,,0.0
+KE-46,Wajir,Rabbits,,215.0
+KE-46,Wajir,Sheep,,2190638.0
+KE-47,West Pokot,Camel,,38778.0
+KE-47,West Pokot,Cattle,Beef,35264.0
+KE-47,West Pokot,Cattle,Dairy,99726.0
+KE-47,West Pokot,Cattle,Indigenous,698686.0
+KE-47,West Pokot,Chicken,Broilers,24700.0
+KE-47,West Pokot,Chicken,Indigenous,848358.0
+KE-47,West Pokot,Chicken,Layers,46348.0
+KE-47,West Pokot,Donkey,,16866.0
+KE-47,West Pokot,Goats,,1528350.0
+KE-47,West Pokot,Pigs,,682.0
+KE-47,West Pokot,Rabbits,,2006.0
+KE-47,West Pokot,Sheep,,716586.0

@@ -1,12 +1,27 @@
 """
-KABS ND1 (disease event) harmonisation.
-Maps the KABS 1.0 export (CamelCase, epoch-ms dates) and the KABS 2.0 export
-(snake_case, text dates) onto one schema and stacks them into a single CSV.
+KABS ND1 (disease event) harmonisation: one complete, de-duplicated event dataset.
+
+Sources, mapped onto one schema (source / record_id say where each row came from):
+  KABS 1.0                data/kabs1.0_raw/nd1_*.csv          2007-2026, CamelCase, epoch-ms dates
+  KABS 2.0                data/kabs2.0_raw/nd1_*.csv          2025-2026, snake_case, text dates
+  KABS reports export     Raw_Datasets/combined_reports.xlsx  2020-Aug 2026, ND1 form v15-v27, with Id
+  KABS live export        data/live_kabs_export.csv           2019-2026, with id, no syndromes
+  KABS events export      data/kabs_events_admin_corrected.csv one row per sign, with id
+  KABS 2020-2026 export   data/kabs_2020_2026.xlsx            no id, no syndromes
+
+No single export is complete, so the exports are merged without double counting:
+  1. KABS 1.0 exact duplicate rows are dropped (identical to the millisecond submission
+     timestamp = export repeats). KABS 1.0 + KABS 2.0 form the base.
+  2. Each further export only adds events the base does not already have. Records with
+     an id already taken from an earlier export are skipped. Otherwise, per report date x
+     county x ward x species, the export adds only its surplus over what is already there
+     (rows that also match on at-risk / sick / dead are treated as the same event first).
+     The same event recorded with different detail (e.g. 'Other' vs 'Milk Fever') is
+     therefore not counted twice.
+  Fields an export does not have (e.g. syndromes in the live export) stay blank, never 'No'.
 
 Run from the project root:
     python 02cleaning_scripts/00cleaning.py
-    python 02cleaning_scripts/00cleaning.py --v1 data/kabs1.0_raw/nd1_28102026.csv \
-        --v2 data/kabs2.0_raw/nd1_29102026.csv --out "Cleaned Data/nd1_final.csv"
 """
 from __future__ import annotations
 
@@ -18,6 +33,8 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
+
+from harmonise import latest_export
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("kabs_nd1_harmonise")
@@ -49,7 +66,7 @@ COUNT_COLS = [
 ]
 
 OUTPUT_COLS = [
-    "source", "report_date", "outbreak_event_date", "submission_date",
+    "source", "record_id", "report_date", "outbreak_event_date", "submission_date",
     "county", "subcounty", "ward", "locality", "latitude", "longitude", "onsite",
     "species", "production_system",
     *[c for s in SYNDROMES.values() for c in (s, f"{s}_number")],
@@ -188,10 +205,14 @@ def harmonise_v1(path: Path) -> pd.DataFrame:
     log.info("Loading KABS 1.0: %s", path)
     v1 = pd.read_csv(path, dtype=str)
     log.info("KABS 1.0: %d rows, %d columns", *v1.shape)
+    before = len(v1)
+    v1 = v1.drop_duplicates().reset_index(drop=True)
+    log.info("KABS 1.0: dropped %d exact duplicate rows (export repeats)", before - len(v1))
     v1 = collapse_old_form(v1)
 
     out = pd.DataFrame(index=v1.index)
     out["source"] = "KABS 1.0"
+    out["record_id"] = "K1-" + v1["submissionDate"]
     out["report_date"] = epoch_ms_to_date(v1["ReportDate"])
     out["outbreak_event_date"] = epoch_ms_to_date(v1["OutbreakStart"])
     out["submission_date"] = epoch_ms_to_date(v1["submissionDate"])
@@ -258,6 +279,7 @@ def harmonise_v2(path: Path) -> pd.DataFrame:
 
     out = pd.DataFrame(index=v2.index)
     out["source"] = "KABS 2.0"
+    out["record_id"] = np.nan
     out["report_date"] = text_to_date(v2["report_date"])
     out["outbreak_event_date"] = text_to_date(v2["outbreak_event_date"])
     out["submission_date"] = np.nan
@@ -289,6 +311,192 @@ def harmonise_v2(path: Path) -> pd.DataFrame:
     out["control_methods"] = [join_list(resolve_other(parse_list(c), o))
                               for c, o in zip(v2["control_methods"], v2["other_control_methods"])]
     return out
+
+
+# --------------------------------------------------------------------------- #
+# other exports
+# --------------------------------------------------------------------------- #
+# combined_reports: syndrome -> its 'Number Affected' column
+COMBINED_SYNDROMES = {
+    "abortion": ("Abortion", "Number Affected"),
+    "sudden_death": ("Sudden Death", "Number Affected.1"),
+    "death": ("Death", "Number Affected.2"),
+    "haemorrhagic": ("Hemorrhagic Signs", "Number Affected.3"),
+    "neurologic": ("Neurologic signs", "Number Affected.4"),
+    "animal_bites": ("Animal Bites", "Number Affected.5"),
+    "respiratory_signs": ("Respiratory Signs", "Number Affected.6"),
+    "oral_foot_lesions": ("Oral/Foot Lesions", "Number Affected.7"),
+    "cutaneous_skin_lesions": ("Cutaneous/Skin Lesions", "Number Affected.8"),
+    "gastrointestinal_tract_syndromes": ("Gastrointestinal tract syndromes", "Number Affected.9"),
+    "other_syndromes": ("Other Syndromes", "Number Affected.10"),
+}
+# events export: sign code -> syndrome
+EVENT_SIGNS = {
+    "abortion": "abortion", "sudden_death": "sudden_death", "hemorrhagic": "haemorrhagic",
+    "neurologic": "neurologic", "animal_bites": "animal_bites", "respiratory": "respiratory_signs",
+    "oral_foot": "oral_foot_lesions", "cutaneous": "cutaneous_skin_lesions",
+    "gi": "gastrointestinal_tract_syndromes", "other_syndrome": "other_syndromes",
+}
+
+
+def empty_frame(index) -> pd.DataFrame:
+    return pd.DataFrame(np.nan, index=index, columns=OUTPUT_COLS, dtype=object)
+
+
+def iso_date(s: pd.Series) -> pd.Series:
+    return pd.to_datetime(s, errors="coerce", format="%Y-%m-%d").dt.date
+
+
+def us_or_iso_date(s: pd.Series) -> pd.Series:
+    d = pd.to_datetime(s, format="%m/%d/%y", errors="coerce")
+    return d.fillna(pd.to_datetime(s, format="%Y-%m-%d", errors="coerce")).dt.date
+
+
+def comma_list(value, other=None) -> str | float:
+    items = [] if pd.isna(value) else [x.strip() for x in str(value).strip("[]").split(",") if x.strip()]
+    return join_list(resolve_other(items, other))
+
+
+def harmonise_combined(path: Path) -> pd.DataFrame:
+    c = pd.read_excel(path, dtype=str)
+    log.info("KABS reports export: %d rows (%s)", len(c), path.name)
+    out = empty_frame(c.index)
+    out["source"], out["record_id"] = "KABS reports export", c["Id"]
+    out["report_date"] = iso_date(c["Date of Report"])
+    out["outbreak_event_date"] = iso_date(c["Date of Start of Outbreak/Event"])
+    for src, dst in [("County", "county"), ("Sub-County", "subcounty"), ("Ward", "ward"), ("Locality", "locality"),
+                     ("Production System", "production_system"), ("Nature of Diagnosis", "diagnosis_nature"),
+                     ("Test Used", "laboratory_test_taken"), ("Number at Risk", "number_at_risk"),
+                     ("Number Dead", "number_dead"), ("Number of Humans Affected (If zoonosis)", "humans_affected_number"),
+                     ("Number Slaughtered", "number_slaughtered"), ("Number Destroyed", "number_destroyed"),
+                     ("Number Vaccinated", "number_vaccinated")]:
+        out[dst] = c[src]
+    out["latitude"] = pd.to_numeric(c["Latitude"], errors="coerce")
+    out["longitude"] = pd.to_numeric(c["Longitude"], errors="coerce")
+    out["species"] = [join_list(resolve_other([s] if pd.notna(s) else [], o))
+                      for s, o in zip(c["Species Affected"], c["Other Species"])]
+    out["number_sick"] = c["Number Sick / Bitten"].fillna(c["Number Sick"])
+    for dst, (flag, num) in COMBINED_SYNDROMES.items():
+        out[dst], out[f"{dst}_number"] = c[flag], c[num]
+    out["disease_condition"] = [join_list(resolve_other([d] if pd.notna(d) else [], o))
+                                for d, o in zip(c["Disease/Condition"], c["Other Disease"])]
+    out["control_methods"] = [comma_list(m, o) for m, o in zip(c["Disease Control Method"], c["Other Control Method"])]
+    return out
+
+
+def harmonise_live(path: Path) -> pd.DataFrame:
+    l = pd.read_csv(path, dtype=str)
+    log.info("KABS live export: %d rows (%s)", len(l), path.name)
+    out = empty_frame(l.index)
+    out["source"], out["record_id"] = "KABS live export", l["id"]
+    out["report_date"] = iso_date(l["Date of Report"])
+    for src, dst in [("County", "county"), ("Sub-County", "subcounty"), ("Ward", "ward"),
+                     ("Reporting Site", "locality"), ("production_system", "production_system"),
+                     ("Species Affected", "species"), ("Disease/Condition", "disease_condition"),
+                     ("diagnosis_basis", "diagnosis_nature"), ("Number at Risk", "number_at_risk"),
+                     ("Number Sick", "number_sick"), ("Number Dead", "number_dead"),
+                     ("Number Vaccinated", "number_vaccinated")]:
+        out[dst] = l[src]
+    out["latitude"] = pd.to_numeric(l["Latitude"], errors="coerce")
+    out["longitude"] = pd.to_numeric(l["Longitude"], errors="coerce")
+    out["control_methods"] = l["control_method"].map(comma_list)
+    return out
+
+
+def harmonise_events(path: Path) -> pd.DataFrame:
+    e = pd.read_csv(path, dtype=str)
+    log.info("KABS events export: %d rows / %d events (%s)", len(e), e["id"].nunique(), path.name)
+    first = e.drop_duplicates("id").set_index("id")
+    signs = e.dropna(subset=["sign"]).drop_duplicates(["id", "sign"])
+    out = empty_frame(first.index)
+    out["source"], out["record_id"] = "KABS events export", first.index
+    out["report_date"] = us_or_iso_date(first["date"])
+    out["outbreak_event_date"] = us_or_iso_date(first["date_start"])
+    for src, dst in [("county", "county"), ("subcounty", "subcounty"), ("ward", "ward"), ("locality", "locality"),
+                     ("production_system", "production_system"), ("diagnosis_basis", "diagnosis_nature"),
+                     ("test_used", "laboratory_test_taken"), ("at_risk", "number_at_risk"), ("sick", "number_sick"),
+                     ("dead", "number_dead"), ("humans_affected", "humans_affected_number"),
+                     ("n_slaughtered", "number_slaughtered"), ("n_destroyed", "number_destroyed"),
+                     ("n_vaccinated", "number_vaccinated"), ("field_notes", "comments")]:
+        out[dst] = first[src]
+    out["latitude"] = pd.to_numeric(first["lat_clean"], errors="coerce")
+    out["longitude"] = pd.to_numeric(first["lon_clean"], errors="coerce")
+    out["species"] = [join_list(resolve_other([s] if pd.notna(s) else [], o))
+                      for s, o in zip(first["species"], first["other_species"])]
+    out["disease_condition"] = [join_list(resolve_other([d] if pd.notna(d) else [], o if o != "0" else np.nan))
+                                for d, o in zip(first["disease"], first["other_disease"])]
+    out["control_methods"] = [comma_list(m, o) for m, o in zip(first["control_method"], first["other_control"])]
+    out["other_syndromes_list"] = first["other_syndrome_detail"].replace({"0": np.nan})
+    # Only the signs present are listed; signs not listed stay blank (not asked vs 'No' is unknown).
+    for code, dst in EVENT_SIGNS.items():
+        hit = signs[signs["sign"] == code].set_index("id")["n_affected"]
+        out.loc[hit.index, dst] = "Yes"
+        out.loc[hit.index, f"{dst}_number"] = hit
+    return out.reset_index(drop=True)
+
+
+def harmonise_xlsx(path: Path) -> pd.DataFrame:
+    x = pd.read_excel(path, dtype=str)
+    log.info("KABS 2020-2026 export: %d rows (%s)", len(x), path.name)
+    out = empty_frame(x.index)
+    out["source"] = "KABS 2020-2026 export"
+    out["report_date"] = iso_date(x["Report_Date"].str[:10])
+    out["outbreak_event_date"] = iso_date(x["Start_Date"].str[:10])
+    for src, dst in [("county", "county"), ("sub_county", "subcounty"), ("Ward", "ward"), ("Locality", "locality"),
+                     ("Species_Affected", "species"), ("Production_System", "production_system"),
+                     ("Disease_Condition", "disease_condition"), ("Number_at_Risk", "number_at_risk"),
+                     ("Number_Sick", "number_sick"), ("Number_Dead", "number_dead"),
+                     ("Humans_Affected", "humans_affected_number"), ("Number_Slaughtered", "number_slaughtered"),
+                     ("Number_Destroyed", "number_destroyed"), ("Number_Vaccinated", "number_vaccinated")]:
+        out[dst] = x[src]
+    out["latitude"] = pd.to_numeric(x["Latitude"], errors="coerce")
+    out["longitude"] = pd.to_numeric(x["Longitude"], errors="coerce")
+    return out
+
+
+# --------------------------------------------------------------------------- #
+# merge without double counting
+# --------------------------------------------------------------------------- #
+def _norm(s: pd.Series, drop_words: str = "") -> pd.Series:
+    s = s.astype("string").str.lower()
+    if drop_words:
+        s = s.str.replace(drop_words, "", regex=True)
+    return s.str.replace(r"[^a-z]", "", regex=True).replace({"tharakanithi": "tharaka"}).fillna("")
+
+
+def event_keys(df: pd.DataFrame) -> tuple[pd.Series, pd.Series]:
+    """(group key: date x county x ward x species, detail key: group + at risk / sick / dead)."""
+    date = pd.to_datetime(df["report_date"], errors="coerce").dt.strftime("%Y-%m-%d").fillna("")
+    species = _norm(df["species"]).str.rstrip("s")
+    group = date + "|" + _norm(df["county"], r"county") + "|" + _norm(df["ward"], r"\bward\b") + "|" + species
+    num = lambda c: pd.to_numeric(df[c], errors="coerce").round().astype("Int64").astype("string").fillna("")
+    detail = group + "|" + num("number_at_risk") + "|" + num("number_sick") + "|" + num("number_dead")
+    return group, detail
+
+
+def add_missing(master: pd.DataFrame, new: pd.DataFrame, seen_ids: set) -> pd.DataFrame:
+    """Rows of `new` that are not already in `master` (see module docstring)."""
+    name = new["source"].iloc[0]
+    known = new["record_id"].isin(seen_ids)
+    new = new[~known].copy()
+
+    m_group, m_detail = event_keys(master)
+    n_group, n_detail = event_keys(new)
+    # Exact detail matches are the same event: consume them first.
+    avail = m_detail.value_counts().to_dict()
+    exact = []
+    for d in n_detail:
+        exact.append(avail.get(d, 0) > 0)
+        if exact[-1]:
+            avail[d] -= 1
+    new["_exact"], new["_group"] = exact, n_group.to_numpy()
+    surplus = (n_group.value_counts() - m_group.value_counts().reindex(n_group.value_counts().index).fillna(0)).clip(lower=0)
+    new = new.sort_values("_exact", kind="stable")  # unmatched rows first within each group
+    new["_rank"] = new.groupby("_group").cumcount()
+    keep = new["_rank"] < new["_group"].map(surplus)
+    log.info("%s: %d rows; %d skipped (id already used), %d already in the data, %d added",
+             name, len(new) + known.sum(), known.sum(), (~keep).sum(), keep.sum())
+    return new[keep].drop(columns=["_exact", "_group", "_rank"])
 
 
 # --------------------------------------------------------------------------- #
@@ -325,8 +533,17 @@ def finalise(df: pd.DataFrame) -> pd.DataFrame:
     return df[OUTPUT_COLS].sort_values(["report_date", "source"], kind="stable").reset_index(drop=True)
 
 
-def run_pipeline(v1_path: Path, v2_path: Path, out_path: Path) -> pd.DataFrame:
+def run_pipeline(v1_path: Path, v2_path: Path, extra: list[tuple], out_path: Path) -> pd.DataFrame:
     df = pd.concat([harmonise_v1(v1_path), harmonise_v2(v2_path)], ignore_index=True)
+    seen_ids: set = set()
+    for loader, path in extra:
+        if not path.exists():
+            log.warning("Skipping missing export %s", path)
+            continue
+        new = loader(path)
+        added = add_missing(df, new, seen_ids)
+        seen_ids |= set(new["record_id"].dropna())
+        df = pd.concat([df, added], ignore_index=True)
     df = finalise(df)
 
     nulls = df.isna().mean().mul(100).round(1)
@@ -341,8 +558,14 @@ def run_pipeline(v1_path: Path, v2_path: Path, out_path: Path) -> pd.DataFrame:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--v1", type=Path, default=ROOT / "data/kabs1.0_raw/nd1_28102026.csv")
-    parser.add_argument("--v2", type=Path, default=ROOT / "data/kabs2.0_raw/nd1_29102026.csv")
+    parser.add_argument("--v1", type=Path, default=latest_export(ROOT / "data/kabs1.0_raw", "nd1"))
+    parser.add_argument("--v2", type=Path, default=latest_export(ROOT / "data/kabs2.0_raw", "nd1"))
+    parser.add_argument("--combined", type=Path, default=ROOT / "Raw_Datasets/combined_reports.xlsx")
+    parser.add_argument("--live", type=Path, default=ROOT / "data/live_kabs_export.csv")
+    parser.add_argument("--events", type=Path, default=ROOT / "data/kabs_events_admin_corrected.csv")
+    parser.add_argument("--xlsx", type=Path, default=ROOT / "data/kabs_2020_2026.xlsx")
     parser.add_argument("--out", type=Path, default=ROOT / "Cleaned Data/nd1_final.csv")
     args = parser.parse_args()
-    run_pipeline(args.v1, args.v2, args.out)
+    extra = [(harmonise_combined, args.combined), (harmonise_live, args.live),
+             (harmonise_events, args.events), (harmonise_xlsx, args.xlsx)]
+    run_pipeline(args.v1, args.v2, extra, args.out)

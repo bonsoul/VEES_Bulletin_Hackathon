@@ -10,6 +10,7 @@ Cleaning pipelines and PostgreSQL loaders for the VEES Bulletin datasets.
 
 - `Raw_Datasets/`: Original Excel and CSV files.
 - `Cleaning_Scripts/`: Python and notebook-based cleaning workflows.
+- `02cleaning_scripts/`: automated cleaning pipeline for all datasets (see below).
 - `Cleaned Data/`: Generated CSV files used for analysis and database loading.
 - `Postgre_Schemes/`: PostgreSQL schema and dataset-specific loaders.
 
@@ -27,6 +28,38 @@ cd "C:\Users\ADMIN\Documents\VEES_Bulletin_Hackathon"
 ```
 
 `openpyxl` and `xlrd` provide support for reading `.xlsx` and `.xls` files.
+
+## Automated Cleaning Pipeline (`02cleaning_scripts/`)
+
+One command cleans every dataset. Run it from the project root:
+
+```bash
+.venv/bin/python 02cleaning_scripts/run_all_cleaning.py          # macOS / Linux
+.venv\Scripts\python.exe 02cleaning_scripts\run_all_cleaning.py  # Windows
+python 02cleaning_scripts/run_all_cleaning.py --only zero_report_cleaning clean_amr   # a subset
+```
+
+**After a new data pull:** drop the new exports into `data/kabs1.0_raw/` and `data/kabs2.0_raw/`, keeping the export naming `<form>_DDMMYYYY.csv` (e.g. `nd1_15112026.csv`, `zrf_15112026.csv`). Each script uses the newest dated file automatically. Any input can also be set by hand with the script's `--src` / `--v1` / `--v2` options.
+
+Rules shared by every dataset:
+
+- `clean_admin_names.py`: county, sub-county and ward names are changed to the Kenya shapefile names (`data/reference/kenya_shapefile_admin_lookup.csv`), so all cleaned data joins to the maps. Where a form has GPS but no place names, they are taken from the GPS point.
+- `harmonise.py`: one spelling per disease, sign/syndrome and species; dates parsed; GPS checked against Kenya. Missing values are never turned into 0, and the text `N/A` is kept distinct from a blank.
+- `build_admin_lookup.py`: rebuilds the shapefile name lookup. Only needed if the boundary files in `data/*.geojson` change.
+
+| Step | Script | Sources | Output in `Cleaned Data/` |
+| --- | --- | --- | --- |
+| 1 | `00cleaning.py` | ND1 from KABS 1.0 and 2.0, plus older exports (`combined_reports.xlsx`, `live_kabs_export.csv`, `kabs_events_admin_corrected.csv`, `kabs_2020_2026.xlsx`). Events found in more than one source are counted once. | `nd1_final.csv` |
+| 2 | `automated_cleaning_script.py` | `nd1_final.csv` | `nd1_final_clean.csv`, `admin_lookup.csv`, `disease_name_mapping.csv` |
+| 3 | `zero_report_cleaning.py` | KABS 1.0 zero report + archive, KABS 2.0 ZRF, `Zero Report_KABS.xls`. Only the zero-reported diseases for each species count; other species–disease pairs are marked `Out of scope`. | `zero_report_combined_clean.csv`, `zero_report_combined_long.csv` |
+| 4 | `clean_wildlife.py` | KABS 1.0 wildlife syndrome | `wildlife_clean.csv` |
+| 5 | `clean_meat_inspection.py` | KABS 1.0 `food_safety_clean.rds`, KABS 2.0 meat inspection, Kiserian JSON | `meat_inspection_reports_clean.csv`, `meat_inspection_conditions_clean.csv`, `meat_inspection_organs_clean.csv` |
+| 6 | `clean_vaccination.py` | KABS 2.0 vaccination form | `vaccination_clean.csv` |
+| 7 | `clean_community_reports.py` | Community reports | `community_reports_clean.csv` |
+| 8 | `clean_amr.py` | NVLS active AMR surveillance | `amr_clean.csv` |
+| 9 | `clean_population.py` | Human and livestock population | `population_human_county_clean.csv`, `population_livestock_county_clean.csv`, `population_livestock_subcounty_clean.csv` |
+
+Requirements: the packages in `requirements.txt`, plus R (`Rscript`) for step 5's KABS 1.0 `.rds` file. If one step fails, the other steps still run, and the failed steps are listed at the end. The full run takes about 40 seconds.
 
 ## Cleaning Scripts
 
