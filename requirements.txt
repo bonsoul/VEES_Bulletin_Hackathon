@@ -4,3 +4,4 @@ openpyxl
 xlrd
 SQLAlchemy
 psycopg2-binary
+matplotlib
