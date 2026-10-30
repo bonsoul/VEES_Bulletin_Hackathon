@@ -1,0 +1,221 @@
+county,subcounty,ward,vaccination_site,gps_location,vaccination_date,species,disease,total_number_vaccinated,vaccination_type,batch_number,number_of_beneficiaries,other_disease
+Busia County,Bunyala Sub County,Bunyala West Ward,Sinyenye,"[0.1109223, 33.9976727]",2026-10-28,Dogs,Rabies,1,Routine vaccination,0707256,1,Not applicable
+West Pokot County,Pokot South Sub County,Chepareria Ward,Chepkorniswo,"[1.3076546, 35.2054987]",2026-10-28,Goats,Peste des Petits Ruminants (PPR),100,Routine vaccination,1054,3,Not applicable
+Tana River County,Bura Sub County,Sala Ward,DiiD,"[-0.491203, 39.5301472]",2026-10-28,Goats,Peste des Petits Ruminants (PPR),2000,Mass vaccination,1/2026,3,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Mutithi Ward,Karaba,"[-0.7241232, 37.2759758]",2026-10-23,Cattle,Rift Valley Fever (RVF),40,Routine vaccination,Not reported,15,Not applicable
+Kwale County,Lunga Lunga Sub County,Vanga Ward,Village,"[-4.5483767, 39.139285]",2026-10-28,Cattle,Foot and Mouth Disease (FMD),31,Routine vaccination,K01515,2,Not applicable
+Kwale County,Lunga Lunga Sub County,Vanga Ward,Mtsongo cattle dip,"[-4.5946833, 39.1486317]",2026-10-24,Cattle,Foot and Mouth Disease (FMD),35,Routine vaccination,K01515,5,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Thiba Ward,Shauri moyo,"[-0.6899125, 37.4109288]",2026-10-27,Sheep,Rift Valley Fever (RVF),40,Routine vaccination,01/2026,10,Not applicable
+Busia County,Bunyala Sub County,Bunyala West Ward,Budiera,"[0.1102863, 33.9975575]",2026-10-27,Dogs,"Canine Distemper, Hepatitis, Leptospirosis, Parvovirus (DHLP)",2,Routine vaccination,1,1,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Thiba Ward,Huruma,"[-0.4710263, 37.2205823]",2026-10-27,Goats,Rift Valley Fever (RVF),50,Routine vaccination,Not reported,25,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Wamumu Ward,Nganga and kanduma,"[-0.4761249, 37.23573]",2026-10-22,Cattle,Rift Valley Fever (RVF),80,Routine vaccination,Not reported,50,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Wamumu Ward,Nganga and,"[-0.4759745, 37.2356403]",2026-10-22,Cattle,Rift Valley Fever (RVF),50,Routine vaccination,Not reported,40,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Wamumu Ward,MNganga,"[-0.4755638, 37.2363355]",2026-10-22,Cattle,Rift Valley Fever (RVF),50,Routine vaccination,Not reported,40,Not applicable
+Turkana County,Turkana West Sub County,Lokichoggio Ward,Iria,"[4.1515859, 34.3152618]",2026-10-27,Goats,Peste des Petits Ruminants (PPR),5000,Routine vaccination,Not reported,10,Not applicable
+Kwale County,Matuga Sub County,Tsimba Golini Ward,Tsimba,"[-4.1869566, 39.4882397]",2026-10-23,Dogs,"Canine Distemper, Hepatitis, Leptospirosis, Parvovirus (DHLP)",1,Routine vaccination,871425,1,Not applicable
+Kwale County,Matuga Sub County,Tsimba Golini Ward,Tsimba,"[-4.1853725, 39.4881206]",2026-10-23,Dogs,"Canine Distemper, Hepatitis, Leptospirosis, Parvovirus (DHLP)",1,Routine vaccination,863670B,1,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Mutithi Ward,Kangobo,"[-0.7131813, 37.3786956]",2026-10-22,Cattle,Rift Valley Fever (RVF),20,Mass vaccination,02/2026,6,Not applicable
+Tana River County,Garsen Sub County,Garsen South Ward,Dibe,"[-2.3193753, 40.1094258]",2026-10-27,Chicken,Newcastle Disease,234,Routine vaccination,NCD26,2,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Mutithi Ward,Ukenye,"[-0.65402, 37.2499133]",2026-10-23,Cattle,Rift Valley Fever (RVF),18,Outbreak/Ring Vaccination,01/2026,3,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Mutithi Ward,Riga,"[-0.73522, 37.3149833]",2026-10-22,Cattle,Rift Valley Fever (RVF),34,Outbreak/Ring Vaccination,01/2026,7,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Wamumu Ward,Makutano,"[-0.6227459, 37.2628442]",2026-10-22,Cattle,Rift Valley Fever (RVF),30,Routine vaccination,1/2026,15,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Thiba Ward,Nyaikungu,"[-0.6492453, 37.3036378]",2026-10-26,Cattle,Rift Valley Fever (RVF),26,Routine vaccination,01/2026,8,Not applicable
+Tana River County,Bura Sub County,Madogo Ward,Bafis-Farburo,"[-0.5228483, 39.4341183]",2026-10-23,Goats,Contagious Caprine Pleuropneumonia (CCPP),141,Routine vaccination,04/2026,1,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Mutithi Ward,Marabaini A/B,"[-0.6407894, 37.2795205]",2026-10-26,Cattle,Rift Valley Fever (RVF),50,Mass vaccination,01/2026,30,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Mutithi Ward,Kirwara,"[-0.7477219, 37.3050176]",2026-10-22,Cattle,Rift Valley Fever (RVF),50,Mass vaccination,01/2026,30,Not applicable
+West Pokot County,Pokot South Sub County,Lelan Ward,Farm,"[1.2152266, 35.2864651]",2026-10-22,Chicken,Fowl pox,450,Routine vaccination,Fp26-08-2027,1,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Wamumu Ward,Gitoboto A and B,"[-0.7889742, 37.4342857]",2026-10-21,Cattle,Rift Valley Fever (RVF),50,Routine vaccination,01/2026,20,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Wamumu Ward,Rurii secondary,"[-0.7331249, 37.3287077]",2026-10-21,Cattle,Rift Valley Fever (RVF),34,Mass vaccination,01/2026,13,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Wamumu Ward,Wamumu,"[-0.7461599999999999, 37.3184183]",2026-10-21,Cattle,Rift Valley Fever (RVF),50,Routine vaccination,01/2026,20,Not applicable
+Wajir County,Wajir West Sub County,Arbajahan Ward,Garse qoftu,"[2.0585688, 39.2791011]",2026-10-20,Sheep,Peste des Petits Ruminants (PPR),12500,Routine vaccination,Not reported,35,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Wamumu Ward,Kiandegwa,"[-0.7554292, 37.3389696]",2026-10-21,Cattle,Rift Valley Fever (RVF),19,Mass vaccination,01/026,8,Not applicable
+Wajir County,Wajir West Sub County,Arbajahan Ward,Griftu,"[2.0005345, 39.75752720000001]",2026-10-21,Goats,Peste des Petits Ruminants (PPR),15000,Mass vaccination,Xxxx,40,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Wamumu Ward,Gategi,"[-0.750637, 37.422521]",2026-10-21,Goats,Rift Valley Fever (RVF),24,Mass vaccination,VD09/026,5,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Wamumu Ward,Gategi,"[-0.7609017, 37.4307827]",2026-10-21,Cattle,Rift Valley Fever (RVF),76,Mass vaccination,VD09/026,19,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Wamumu Ward,Siberia A and B,"[-0.7351009, 37.3260327]",2026-10-21,Cattle,Rift Valley Fever (RVF),50,Mass vaccination,VD 09/026,40,Not applicable
+Kirinyaga County,Kirinyaga North/Mwea West Sub County,Wamumu Ward,Wakara west,"[-0.7330795, 37.3311237]",2026-10-21,Cattle,Rift Valley Fever (RVF),21,Outbreak/Ring Vaccination,01/026,3,Not applicable
+Wajir County,Eldas Sub County,Della Ward,Dela,"[2.3536781, 39.6930912]",2026-10-17,Goats,Peste des Petits Ruminants (PPR),4129,Mass vaccination,23D1526,4129,Not applicable
+Wajir County,Eldas Sub County,Elnur/Tula Tula Ward,Elnur,"[1.9003839, 40.001764]",2026-10-19,Goats,Peste des Petits Ruminants (PPR),4338,Mass vaccination,23D1526,10,Not applicable
+Wajir County,Eldas Sub County,Elnur/Tula Tula Ward,Elnur,"[1.9003839, 40.001764]",2026-10-20,Sheep,Peste des Petits Ruminants (PPR),3901,Mass vaccination,23D1526,9,Not applicable
+Wajir County,Eldas Sub County,Elnur/Tula Tula Ward,Abdiqeyrot,"[1.9003839, 40.001764]",2026-10-20,Goats,Peste des Petits Ruminants (PPR),4867,Mass vaccination,23D1526,10,Not applicable
+Wajir County,Eldas Sub County,Elnur/Tula Tula Ward,Barquqe,"[2.3536781, 39.6930912]",2026-10-19,Goats,Peste des Petits Ruminants (PPR),3700,Mass vaccination,23D1526,8,Not applicable
+Wajir County,Eldas Sub County,Elnur/Tula Tula Ward,Biyaad,"[1.9003839, 40.001764]",2026-10-18,Goats,Peste des Petits Ruminants (PPR),4866,Mass vaccination,43D0426,10,Not applicable
+Wajir County,Wajir West Sub County,Hadado/Athibohol Ward,Lolkuta,"[1.7485868, 40.0599459]",2026-10-18,Sheep,Peste des Petits Ruminants (PPR),10000,Routine vaccination,xxxxx,30,Not applicable
+Wajir County,Eldas Sub County,Della Ward,Eldas,"[2.4917293, 39.5664273]",2026-10-17,Sheep,Peste des Petits Ruminants (PPR),4199,Mass vaccination,Not reported,8,Not applicable
+Wajir County,Wajir South Sub County,Habasswein Ward,Karu,"[1.0440042, 39.7318107]",2026-10-17,Goats,Peste des Petits Ruminants (PPR),17500,Outbreak/Ring Vaccination,Not reported,28,Not applicable
+Wajir County,Eldas Sub County,Eldas Ward,No sutrp,"[2.4896425, 39.5797049]",2026-10-19,Goats,Peste des Petits Ruminants (PPR),5000,Mass vaccination,23D1526,6,Not applicable
+Kitui County,Kitui West Sub County,Kauwi Ward,Kitamwiki,"[-1.2358163, 37.9304301]",2026-10-20,Goats,Contagious Caprine Pleuropneumonia (CCPP),68,Routine vaccination,Not reported,1,Not applicable
+Kwale County,Msambweni Sub County,Gambato Bongwe Ward,Home,"[-4.2801614, 39.5591195]",2026-10-20,Chicken,Fowl pox,7,Routine vaccination,50A007,1,Not applicable
+Laikipia County,Laikipia North Sub County,Segera Ward,Laikiten farm,"[0.1222579, 36.8904359]",2026-10-15,Cattle,Foot and Mouth Disease (FMD),100,Routine vaccination,Not reported,1,Not applicable
+Busia County,Teso South Sub County,Chakol North Ward,Home,"[0.5671231, 34.3139474]",2026-10-18,Dogs,Rabies,6,Routine vaccination,01RAB02425,1,Not applicable
+Wajir County,Eldas Sub County,Della Ward,Anole,"[2.4917293, 39.5664273]",2026-10-15,Goats,Peste des Petits Ruminants (PPR),5000,Routine vaccination,Not reported,8,Not applicable
+West Pokot County,Pokot South Sub County,Chepareria Ward,Ywalateke cattle dip,"[0.5081148, 35.2503804]",2026-10-15,Cattle,Foot and Mouth Disease (FMD),100,Outbreak/Ring Vaccination,Not reported,12,Not applicable
+Kitui County,Kitui West Sub County,Matinyani Ward,Soweto,"[-1.3132572, 37.9725]",2026-10-13,Goats,Contagious Caprine Pleuropneumonia (CCPP),34,Routine vaccination,Not reported,1,Not applicable
+Kitui County,Mwingi Central Sub County,Kivou Ward,Mwingi Livestock market,"[-0.930725, 38.0527367]",2026-10-14,Goats,Contagious Caprine Pleuropneumonia (CCPP),20,Routine vaccination,04/2025,1,Not applicable
+Busia County,Samia Sub County,Bwiri Ward,Poultry farm in Nasali,"[0.1645667, 34.0100067]",2026-10-13,Chicken,Fowl pox,100,Routine vaccination,Not reported,4,Not applicable
+Nandi County,Nandi Hills Sub County,Chepkunyuk Ward,Vaccination Crushes,"[0.1546371, 35.2285836]",2026-10-12,Cattle,Black Quarter & Anthrax,900,Mass vaccination,Not reported,670,Not applicable
+Samburu County,Samburu Central Sub County,Porro Ward,Ladara,"[1.0036082, 36.6820818]",2026-10-12,Sheep,Peste des Petits Ruminants (PPR),100,Routine vaccination,Not reported,1,Not applicable
+Busia County,Bunyala Sub County,Bunyala West Ward,Bubango,"[0.09385, 33.9893698]",2026-10-13,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+Busia County,Butula Sub County,Marachi North Ward,Sikarira,"[0.3342616, 34.257268]",2026-10-10,Dogs,Rabies,5,Routine vaccination,Not reported,3,Not applicable
+Nandi County,Tinderet Sub County,Chemelil/Chemase Ward,Kipsiwo,"[-0.0095112, 35.3329082]",2026-10-12,Cattle,Other,72,Routine vaccination,Not reported,15,Black quarter/Anthrax
+Wajir County,Wajir West Sub County,Ganyure/Wagalla Ward,Hafka,"[1.6360475, 40.3088626]",2026-10-11,Goats,Peste des Petits Ruminants (PPR),4449,Routine vaccination,Not reported,6,Not applicable
+Wajir County,Wajir West Sub County,Hadado/Athibohol Ward,Shandarua,"[1.6360475, 40.3088626]",2026-10-10,Sheep,Peste des Petits Ruminants (PPR),3991,Mass vaccination,Not reported,4,Not applicable
+Wajir County,Wajir West Sub County,Ademasajide Ward,Wara Location,"[1.6360475, 40.3088626]",2026-10-10,Goats,Peste des Petits Ruminants (PPR),4876,Routine vaccination,Not reported,7,Not applicable
+Wajir County,Wajir West Sub County,Ganyure/Wagalla Ward,Iftin,"[1.6360475, 40.3088626]",2026-10-10,Sheep,Peste des Petits Ruminants (PPR),4956,Routine vaccination,Not reported,6,Not applicable
+Wajir County,Wajir West Sub County,Ganyure/Wagalla Ward,Boji heri,"[1.6360475, 40.3088626]",2026-10-09,Goats,Peste des Petits Ruminants (PPR),4868,Routine vaccination,Not reported,5,Not applicable
+Wajir County,Wajir West Sub County,Arbajahan Ward,Adan Awale,"[1.6360475, 40.3088626]",2026-10-08,Goats,Peste des Petits Ruminants (PPR),4908,Routine vaccination,Not reported,6,Not applicable
+Wajir County,Wajir West Sub County,Hadado/Athibohol Ward,Hadado location,"[1.7482227, 40.0583179]",2026-10-07,Sheep,Peste des Petits Ruminants (PPR),3661,Routine vaccination,Not reported,4,Not applicable
+Wajir County,Eldas Sub County,Elnur/Tula Tula Ward,Tulatula location,"[1.9060901, 39.7961562]",2026-10-10,Sheep,Peste des Petits Ruminants (PPR),2537,Outbreak/Ring Vaccination,Not reported,2,Not applicable
+Wajir County,Eldas Sub County,Della Ward,Anole,"[1.6360475, 40.3088626]",2026-10-08,Sheep,Peste des Petits Ruminants (PPR),2324,Mass vaccination,Not reported,2,Not applicable
+Wajir County,Eldas Sub County,Della Ward,Yaqo location,"[-1.3028217, 36.8336426]",2026-10-07,Sheep,Peste des Petits Ruminants (PPR),3817,Routine vaccination,Not reported,3,Not applicable
+Wajir County,Eldas Sub County,Della Ward,Yaqo location,"[-1.3028217, 36.8336426]",2026-10-07,Goats,Peste des Petits Ruminants (PPR),4523,Routine vaccination,Not reported,5,Not applicable
+Wajir County,Eldas Sub County,Elnur/Tula Tula Ward,Biad location,"[1.7488388, 40.058633]",2026-10-07,Sheep,Peste des Petits Ruminants (PPR),3421,Outbreak/Ring Vaccination,Not reported,3,Not applicable
+Wajir County,Eldas Sub County,Della Ward,Abdiwako location,"[1.7484474, 40.0564749]",2026-10-06,Goats,Peste des Petits Ruminants (PPR),4809,Routine vaccination,Not reported,4,Not applicable
+Wajir County,Eldas Sub County,Della Ward,Anole town,"[1.7488388, 40.058633]",2026-10-06,Goats,Peste des Petits Ruminants (PPR),3882,Mass vaccination,Not reported,4,Not applicable
+Kwale County,Kinango Sub County,Ndavaya Ward,Mgotoni,"[-4.0886063, 39.1542051]",2026-10-07,Goats,Peste des Petits Ruminants (PPR),100,Routine vaccination,Not reported,2,Not applicable
+Wajir County,Eldas Sub County,Elnur/Tula Tula Ward,Elnur location,"[1.7599247, 40.0531316]",2026-10-04,Goats,Peste des Petits Ruminants (PPR),4687,Routine vaccination,Not reported,3,Not applicable
+Kwale County,Kinango Sub County,Mackinon Road Ward,Makina,"[-3.7304786, 39.0351827]",2026-10-07,Chicken,Fowl pox,100,Routine vaccination,Not reported,1,Not applicable
+Nandi County,Nandi Hills Sub County,Ol'lessos Ward,Vaccination Crushes,"[0.1850216, 35.3383954]",2026-10-07,Cattle,Black Quarter & Anthrax,744,Mass vaccination,Not reported,503,Not applicable
+Nandi County,Nandi Hills Sub County,Ol'lessos Ward,Vaccination Crushes,"[0.1857679, 35.2737271]",2026-10-06,Cattle,Black Quarter & Anthrax,523,Mass vaccination,Not reported,398,Not applicable
+Nandi County,Mosop Sub County,Kabiyet Ward,Farm,"[0.4043568, 35.0706741]",2026-10-08,Chicken,Newcastle Disease,147,Routine vaccination,Not reported,1,Not applicable
+Nandi County,Nandi Hills Sub County,Chepkunyuk Ward,Lolduga,"[0.2022133, 35.3044217]",2026-10-07,Cattle,Black Quarter & Anthrax,96,Mass vaccination,Not reported,30,Not applicable
+Nandi County,Nandi Hills Sub County,Ol'lessos Ward,Keben,"[0.1765856, 35.314558]",2026-10-06,Cattle,Black Quarter & Anthrax,70,Mass vaccination,Not reported,20,Not applicable
+Nandi County,Nandi Hills Sub County,Ol'lessos Ward,Mass vaccination Crushes,"[0.1946082, 35.3301645]",2026-10-05,Cattle,Black Quarter & Anthrax,652,Mass vaccination,Not reported,287,Not applicable
+Nandi County,Chesumei Sub County,Lelmoko/Ngechek Ward,AinopmoI village nearing Chebilat primary,"[-0.6233042999999999, 35.2337343]",2026-10-05,Dogs,Rabies,8,Outbreak/Ring Vaccination,Not reported,6,Not applicable
+Nandi County,Nandi Hills Sub County,Ol'lessos Ward,Cheboror,"[0.1765856, 35.314558]",2026-10-05,Cattle,Black Quarter & Anthrax,136,Mass vaccination,Not reported,31,Not applicable
+Kisumu County,Seme Sub County,Central Seme Ward,Kombewa,"[-0.2276669, 34.8261726]",2026-10-05,Dogs,Canine Parvovirus,3,Routine vaccination,Not reported,1,Not applicable
+Kwale County,Kinango Sub County,Chengoni/Samburu Ward,"Samburu, Slaughter","[-3.7921545, 39.26758]",2026-10-04,Dogs,Rabies,4,Routine vaccination,Not reported,1,Not applicable
+Uasin Gishu County,Ainabkoi Sub County,Ainabkoi/Olare Ward,"Saito,korongoi,kimuruk,Arangaa,Drys,kipkabus,kapngetuny and Siliboi","[0.1652621, 35.52488040000001]",2026-10-03,Cattle,Foot and Mouth Disease (FMD),350,Routine vaccination,Not reported,180,Not applicable
+Wajir County,Wajir West Sub County,Hadado/Athibohol Ward,Athibohol,"[1.7030216, 39.2149233]",2026-09-29,Cattle,Black Quarter & Anthrax,200,Routine vaccination,Not reported,12,Not applicable
+Kwale County,Kinango Sub County,Mackinon Road Ward,Mackinnon Road,"[-3.7248349, 39.0341232]",2026-10-01,Chicken,Fowl pox,30,Routine vaccination,Not reported,1,Not applicable
+Embu County,Mbeere North Sub County,Muminji Ward,Michengethio,"[-0.5776702, 37.6404775]",2026-10-01,Goats,Contagious Caprine Pleuropneumonia (CCPP),42,Routine vaccination,Not reported,4,Not applicable
+Embu County,Mbeere North Sub County,Muminji Ward,Michengethio,"[-0.5776702, 37.6404775]",2026-10-01,Cattle,Foot and Mouth Disease (FMD),33,Routine vaccination,Not reported,9,Not applicable
+Nandi County,Nandi Hills Sub County,Ol'lessos Ward,Koilot,"[0.1773038, 35.314215]",2026-09-29,Cattle,Lumpy Skin Disease (LSD),88,Outbreak/Ring Vaccination,Not reported,26,Not applicable
+Wajir County,Wajir East Sub County,Khorof/Harar Ward,Qarsa outskirt,"[2.4803089, 39.6105142]",2026-10-01,Goats,Sheep and Goat Pox,1500,Outbreak/Ring Vaccination,Not reported,10,Not applicable
+Nandi County,Mosop Sub County,Chepterwai Ward,Teresia East,"[0.5202145, 34.9451498]",2026-09-30,Dogs,Rabies,18,Outbreak/Ring Vaccination,Not reported,5,Not applicable
+Uasin Gishu County,Ainabkoi Sub County,Ainabkoi/Olare Ward,Kapsengwet,"[0.09979249999999999, 35.5323728]",2026-09-28,Cattle,Foot and Mouth Disease (FMD),150,Outbreak/Ring Vaccination,Not reported,21,Not applicable
+Wajir County,Wajir East Sub County,Barwago Ward,Khamis,"[1.6360475, 40.3088626]",2026-09-28,Sheep,Peste des Petits Ruminants (PPR),27,Routine vaccination,Not reported,1,Not applicable
+Kisumu County,Nyakach Sub County,Central Nyakach Ward,Olwalo water point,"[-0.33, 34.92]",2026-09-28,Donkeys,Rabies,45,Mass vaccination,Not reported,28,Not applicable
+Kisumu County,Nyakach Sub County,Central Nyakach Ward,Olwalo Water Point,"[-0.33, 34.92]",2026-09-28,Dogs,Rabies,96,Mass vaccination,Not reported,33,Not applicable
+Wajir County,Wajir East Sub County,Khorof/Harar Ward,Riba- wajir,"[1.8320207, 40.8374011]",2026-09-25,Sheep,Sheep and Goat Pox,1200,Routine vaccination,Not reported,3,Not applicable
+Samburu County,Samburu Central Sub County,Loosuk Ward,Ngweta,"[0.9819843, 36.5974208]",2026-09-26,Cattle,Foot and Mouth Disease (FMD),16,Routine vaccination,Not reported,1,Not applicable
+Samburu County,Samburu Central Sub County,Maralal Ward,AIC,"[1.0871535, 36.7010156]",2026-09-26,Cattle,Foot and Mouth Disease (FMD),5,Routine vaccination,Not reported,1,Not applicable
+Wajir County,Tarbaj Sub County,Sarman Ward,Sarman,"[2.5298153, 39.9603839]",2026-09-25,Goats,Sheep and Goat Pox,2000,Outbreak/Ring Vaccination,Not reported,4,Not applicable
+Kwale County,Kinango Sub County,Ndavaya Ward,Mwandimu,"[-4.1137088, 39.146401]",2026-09-24,Goats,Contagious Caprine Pleuropneumonia (CCPP),174,Outbreak/Ring Vaccination,Not reported,3,Not applicable
+Wajir County,Wajir West Sub County,Arbajahan Ward,"Celderow, Matahama,","[2.1819052, 39.2791011]",2026-09-19,Goats,Sheep and Goat Pox,7800,Outbreak/Ring Vaccination,Not reported,25,Not applicable
+Samburu County,Samburu Central Sub County,Suguta Marmar Ward,Lolmolok-Simiti,"[0.9479043, 36.6134186]",2026-09-16,Sheep,Peste des Petits Ruminants (PPR),500,Routine vaccination,Not reported,2,Not applicable
+Samburu County,Samburu Central Sub County,Suguta Marmar Ward,Lolmolok,"[0.9526233000000001, 36.59205]",2026-09-17,Cattle,Foot and Mouth Disease (FMD),203,Routine vaccination,Not reported,2,Not applicable
+Samburu County,Samburu Central Sub County,Maralal Ward,Nomotio,"[1.0833333, 36.6666667]",2026-09-14,Goats,Peste des Petits Ruminants (PPR),223,Routine vaccination,Not reported,6,Not applicable
+Narok County,Narok West Sub County,Mara Ward,Mara-rianda,"[-1.2354309, 35.0569785]",2026-09-08,Cattle,Contagious Bovine Pleuropneumonia (CBPP),212,Routine vaccination,Not reported,3,Not applicable
+Narok County,Transmara West Sub County,Lolgorian Ward,Olkiloriti,"[-1.2771494, 34.835141]",2026-08-07,Dogs,Rabies,203,Mass vaccination,Not reported,210,Not applicable
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.9774967, 36.5851486]",2026-08-05,Chicken,Fowl pox,200,Routine vaccination,Not reported,5,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5721533, 34.5807854]",2026-08-14,Dogs,Rabies,1,Mass vaccination,Not reported,1,Not applicable
+Narok County,Transmara West Sub County,Keyian Ward,Moita,"[-0.9998999, 34.8783849]",2026-08-06,Dogs,Rabies,196,Mass vaccination,Not reported,205,Not applicable
+Narok County,Narok West Sub County,Mara Ward,Olororok,"[-1.3334116, 35.150583]",2026-07-23,Cattle,Foot and Mouth Disease (FMD),1123,Routine vaccination,Not reported,25,Not applicable
+Bungoma County,Kabuchai Sub County,West Nalondo Ward,Village,"[0.6086901, 34.5899432]",2026-07-19,Cats,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5899988, 34.6346037]",2026-07-13,Chicken,Fowl pox,25,Routine vaccination,Not reported,1,Not applicable
+Narok County,Narok West Sub County,Siana Ward,Sekenani,"[-1.4816496, 35.3659679]",2026-07-11,Cattle,East Coast Fever (ECF),40,Routine vaccination,Not reported,1,Not applicable
+Narok County,Narok West Sub County,Siana Ward,Sekenani,"[-1.4816241, 35.3659118]",2026-07-11,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+Narok County,Narok West Sub County,Siana Ward,Talek tipilikuani,"[-1.4411115, 35.2162519]",2026-07-10,Cattle,Foot and Mouth Disease (FMD),800,Routine vaccination,Not reported,10,Not applicable
+Narok County,Transmara West Sub County,Kilgoris Central Ward,Poroko centre,"[-0.9561823, 34.8596612]",2026-06-20,Dogs,Rabies,250,Routine vaccination,Not reported,100,Not applicable
+Narok County,Narok West Sub County,Siana Ward,Esiati,"[-1.3561702, 35.55458]",2026-07-10,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+Narok County,Narok West Sub County,Siana Ward,Esiati,"[-1.3553534, 35.553656]",2026-07-10,Cattle,East Coast Fever (ECF),40,Routine vaccination,Not reported,1,Not applicable
+Narok County,Narok West Sub County,Siana Ward,Esiati,"[-1.3552259, 35.553706]",2026-07-10,Dogs,"Canine Distemper, Hepatitis, Leptospirosis, Parvovirus (DHLP)",2,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5990721, 34.5960468]",2026-07-10,Chicken,Fowl Typhoid,78,Mass vaccination,Not reported,1,Not applicable
+Narok County,Transmara West Sub County,Shankoe Ward,Ilmeshuki,"[-1.0543419, 34.8915548]",2026-07-09,Cattle,Foot and Mouth Disease (FMD),87,Outbreak/Ring Vaccination,Not reported,1,Not applicable
+Narok County,Transmara West Sub County,Shankoe Ward,Osinoni,"[-1.0062556, 34.8790129]",2026-07-08,Cattle,Foot and Mouth Disease (FMD),97,Outbreak/Ring Vaccination,Not reported,3,Not applicable
+Narok County,Narok West Sub County,Siana Ward,Kampasi Camp,"[-1.4328464, 35.2108777]",2026-07-07,Dogs,Rabies,5,Routine vaccination,Not reported,1,Not applicable
+Narok County,Narok West Sub County,Siana Ward,Esiati,"[-1.3565216, 35.554683]",2026-07-03,Dogs,Rabies,5,Routine vaccination,Not reported,1,Not applicable
+Narok County,Narok West Sub County,Siana Ward,Esiati,"[-1.3565789, 35.5546888]",2026-07-03,Goats,Contagious Caprine Pleuropneumonia (CCPP),296,Routine vaccination,Not reported,1,Not applicable
+Narok County,Narok West Sub County,Siana Ward,Esiati,"[-1.3566196, 35.5547082]",2026-07-03,Cattle,Lumpy Skin Disease (LSD),173,Outbreak/Ring Vaccination,Not reported,1,Not applicable
+Narok County,Narok West Sub County,Siana Ward,Olkinyei,"[-1.3978746, 35.5944391]",2026-06-20,Cattle,East Coast Fever (ECF),140,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kabuchai Sub County,West Nalondo Ward,Village,"[0.6089172, 34.5894267]",2026-07-02,Chicken,Newcastle Disease,46,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Township Ward,Village,"[0.5764707, 34.5506551]",2026-06-26,Dogs,"Canine Distemper, Hepatitis, Leptospirosis, Parvovirus (DHLP)",2,Routine vaccination,Not reported,1,Not applicable
+Narok County,Narok West Sub County,Siana Ward,Olochura,"[-1.4764242, 35.2933455]",2026-06-19,Cattle,Contagious Bovine Pleuropneumonia (CBPP),452,Routine vaccination,Not reported,5,Not applicable
+Narok County,Narok West Sub County,Mara Ward,Orkiu village,"[-1.2115908, 35.0499692]",2026-06-13,Cattle,Contagious Bovine Pleuropneumonia (CBPP),116,Routine vaccination,Not reported,3,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5967044, 34.592874]",2026-06-17,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5966789, 34.5890535]",2026-06-15,Chicken,Fowl pox,100,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5968013, 34.5892495]",2026-06-08,Cats,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+Narok County,Transmara West Sub County,Kilgoris Central Ward,Oronkai village,"[-0.9603754000000001, 34.9895855]",2026-06-11,Cattle,Clostridial infections,116,Outbreak/Ring Vaccination,Not reported,2,Not applicable
+Narok County,Narok West Sub County,Ilmotiook Ward,Rigat,"[-0.8999999999999999, 35.55]",2026-06-10,Dogs,Rabies,200,Routine vaccination,Not reported,122,Not applicable
+Narok County,Narok West Sub County,Ilmotiook Ward,Irigat,"[-0.8999999999999999, 35.55]",2026-06-10,Cattle,Lumpy Skin Disease (LSD),200,Outbreak/Ring Vaccination,Not reported,60,Not applicable
+Narok County,Transmara West Sub County,Keyian Ward,Oloontare,"[-1.0053452, 34.6303372]",2026-06-09,Cattle,East Coast Fever (ECF),20,Routine vaccination,Not reported,2,Not applicable
+Narok County,Narok South Sub County,Sagamian Ward,"Tendwet,Botoret,Choronok and Mogoto","[-0.77847, 35.5931305]",2026-06-06,Dogs,Rabies,933,Outbreak/Ring Vaccination,Not reported,648,Not applicable
+Narok County,Transmara West Sub County,Kilgoris Central Ward,Orongai village,"[-1.0925817, 36.6481855]",2026-06-06,Cattle,Clostridial infections,270,Routine vaccination,Not reported,2,Not applicable
+Narok County,Narok East Sub County,Mosiro Ward,Olosokon,"[-1.3148151, 35.1443196]",2026-06-05,Cattle,East Coast Fever (ECF),240,Routine vaccination,Not reported,2,Not applicable
+Narok County,Narok East Sub County,Ildamat Ward,Homestead,"[-1.157217, 35.9873699]",2026-05-26,Cattle,East Coast Fever (ECF),120,Routine vaccination,Not reported,3,Not applicable
+Narok County,Narok South Sub County,Sogoo Ward,"Four sites; Kimogoro Ndogo, Kamungei, Chumbek and Nkaroni. (Mass Rabies Vaccination)","[-0.8485145, 35.5820543]",2026-05-02,Dogs,Rabies,1710,Mass vaccination,Not reported,984,Not applicable
+Narok County,Transmara West Sub County,Shankoe Ward,Osinoni,"[-1.0187193, 34.8293008]",2026-06-05,Cattle,Black Quarter & Anthrax,200,Outbreak/Ring Vaccination,Not reported,8,Not applicable
+Narok County,Narok West Sub County,Mara Ward,Mara-rianda,"[-1.2081517, 35.0651356]",2026-06-04,Goats,Contagious Caprine Pleuropneumonia (CCPP),102,Routine vaccination,Not reported,2,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5978242, 34.5882006]",2026-05-27,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5967353, 34.5941137]",2026-05-20,Chicken,Fowl pox,78,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5864089, 34.5872144]",2026-05-06,Dogs,"Canine Distemper, Hepatitis, Leptospirosis, Parvovirus (DHLP)",4,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Marakaru/Tuuti Ward,Village,"[0.5958944, 34.5438604]",2026-04-14,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Musikoma Ward,Village,"[0.5218531, 34.5478162]",2026-03-18,Chicken,Newcastle Disease,52,Routine vaccination,Not reported,1,Not applicable
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.9762546, 36.576754]",2026-03-12,Chicken,Fowl pox,100,Outbreak/Ring Vaccination,Not reported,5,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5966088, 34.5892877]",2026-02-17,Chicken,Newcastle Disease,138,Routine vaccination,Not reported,3,Not applicable
+Marsabit County,Saku Sub County,Sagante/Jaldesa Ward,Rach gotho,"[2.290235, 38.0814333]",2026-02-19,Cattle,Other,12,Outbreak/Ring Vaccination,Not reported,3,Rabies
+Bungoma County,Kabuchai Sub County,Mukuyuni Ward,Village,"[0.600918, 34.581383]",2026-02-09,Chicken,Newcastle Disease,65,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5961145, 34.587752]",2026-02-05,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,East Sang'alo Ward,Water point,"[0.4247851, 34.587986]",2026-02-02,Chicken,Infectious Bursal Disease (Gumboro),123,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.6006586, 34.5949545]",2026-01-24,Dogs,"Canine Distemper, Hepatitis, Leptospirosis, Parvovirus (DHLP)",2,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5905695, 34.5945687]",2026-01-18,Chicken,Fowl Typhoid,33,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5907348, 34.5829174]",2025-12-23,Cats,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5907324, 34.5829111]",2025-12-23,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kabuchai Sub County,West Nalondo Ward,Village,"[0.6027419, 34.5823071]",2025-12-18,Chicken,Fowl Typhoid,70,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kabuchai Sub County,West Nalondo Ward,Village,"[0.6099427, 34.5851314]",2025-12-11,Dogs,"Canine Distemper, Hepatitis, Leptospirosis, Parvovirus (DHLP)",2,Routine vaccination,Not reported,1,Not applicable
+Marsabit County,North Horr Sub County,Dukana Ward,Dukana Health centre,"[4.1093856, 37.0400339]",2025-11-30,Sheep,Other,0,Routine vaccination,Not reported,3,Animal Bites
+Marsabit County,North Horr Sub County,Dukana Ward,Tatesa Hill,"[4.1, 37.1166667]",2025-11-29,Goats,Peste des Petits Ruminants (PPR),98,Routine vaccination,Not reported,54,Not applicable
+Marsabit County,North Horr Sub County,Dukana Ward,Dukana Health centre,"[3.9670914, 37.2115829]",2025-11-29,Goats,Peste des Petits Ruminants (PPR),352,Routine vaccination,Not reported,225,Not applicable
+Marsabit County,North Horr Sub County,Dukana Ward,Dukana health centre,"[3.9670914, 37.2115829]",2025-11-29,Donkeys,Rabies,5,Outbreak/Ring Vaccination,Not reported,5,Not applicable
+Marsabit County,North Horr Sub County,Dukana Ward,Dukana Health centre,"[3.9670914, 37.2115829]",2025-11-28,Cats,Rabies,16,Mass vaccination,Not reported,16,Not applicable
+Busia County,Samia Sub County,Nangina Ward,87,"[-1.1858857, 36.9069054]",2025-11-24,Cats,Rabies,50,Routine vaccination,Not reported,100,Not applicable
+Kiambu County,Kabete Sub County,Kabete Ward,Fgt5676,"[-1.2596738, 36.7310417]",2025-11-27,Sheep,Feline Panleukopenia,558,Mass vaccination,Not reported,55,Not applicable
+Elgeyo Marakwet County,Keiyo South Sub County,Kaptarakwa Ward,gght,"[-1.2578907, 36.7280586]",2025-11-26,Cattle,East Coast Fever (ECF),9,Routine vaccination,Not reported,1,Not applicable
+Uasin Gishu County,Moiben Sub County,Kimumu Ward,Kimumu,"[0.5565981, 35.3082117]",2025-11-27,Cattle,Lumpy Skin Disease (LSD),30,Routine vaccination,Not reported,2,Not applicable
+Uasin Gishu County,Moiben Sub County,Kimumu Ward,Kimumu Centre,"[0.5591898925587415, 35.31290934286778]",2025-11-27,Cattle,Lumpy Skin Disease (LSD),50,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5894913, 34.5864299]",2025-11-25,Chicken,Newcastle Disease,32,Routine vaccination,Not reported,1,Not applicable
+Marsabit County,Saku Sub County,Sagante/Jaldesa Ward,Jardesa,"[2.3241079, 37.9970304]",2025-11-20,Sheep,Peste des Petits Ruminants (PPR),146,Routine vaccination,Not reported,2,Not applicable
+Marsabit County,Saku Sub County,Sagante/Jaldesa Ward,Jardesa,"[2.324106, 37.9970327]",2025-11-20,Goats,Peste des Petits Ruminants (PPR),354,Routine vaccination,Not reported,2,Not applicable
+Bungoma County,Kabuchai Sub County,West Nalondo Ward,Village,"[0.6178851, 34.6128586]",2025-11-18,Chicken,Fowl pox,73,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.596563, 34.5892438]",2025-11-07,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+Marsabit County,Saku Sub County,Marsabit Central Ward,Dekabaricha,"[2.324857, 37.9976218]",2025-11-03,Dogs,Rabies,6,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Home,"[0.5925307, 34.5999387]",2025-10-25,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5765281, 34.5913608]",2025-10-21,Chicken,Fowl Typhoid,50,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kabuchai Sub County,Bwake/Luuya Ward,Village,"[0.6289275, 34.6158643]",2025-10-19,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5843946, 34.5965748]",2025-10-09,Dogs,"Canine Distemper, Hepatitis, Leptospirosis, Parvovirus (DHLP)",4,Routine vaccination,Not reported,1,Not applicable
+Marsabit County,Saku Sub County,Marsabit Central Ward,Garigacha and Dub gomba,"[2.3321957, 37.9900898]",2025-10-03,Cattle,Other,290,Outbreak/Ring Vaccination,Not reported,18,Rabies
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.9473185, 36.5947135]",2025-10-07,Chicken,Newcastle Disease,150,Routine vaccination,Not reported,2,Not applicable
+Marsabit County,Saku Sub County,Sagante/Jaldesa Ward,Badassa,"[2.3241392, 37.9970385]",2025-09-17,Dogs,Rabies,15,Outbreak/Ring Vaccination,Not reported,11,Not applicable
+Marsabit County,Saku Sub County,Sagante/Jaldesa Ward,Badassa,"[2.3241252, 37.9970601]",2025-09-17,Cattle,Other,225,Outbreak/Ring Vaccination,Not reported,15,Rabies
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.9844066, 36.5842173]",2025-09-12,Chicken,Fowl pox,105,Routine vaccination,Not reported,2,Not applicable
+Marsabit County,Saku Sub County,Sagante/Jaldesa Ward,Badassa,"[2.2554201, 38.0366921]",2025-09-08,Cattle,Other,82,Outbreak/Ring Vaccination,Not reported,12,Rabies
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5795966, 34.5810932]",2025-09-03,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5756433, 34.5915998]",2025-09-02,Chicken,Infectious Bursal Disease (Gumboro),37,Routine vaccination,Not reported,1,Not applicable
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.9863364, 36.5798628]",2025-08-30,Chicken,Fowl pox,20,Routine vaccination,Not reported,1,Not applicable
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.988405, 36.5879635]",2025-08-30,Chicken,Fowl pox,70,Routine vaccination,Not reported,1,Not applicable
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.985287, 36.5834083]",2025-08-30,Chicken,Fowl Typhoid,120,Routine vaccination,Not reported,2,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe East Ward,Village,"[0.5900102, 34.5853564]",2025-08-29,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5798516, 34.5760088]",2025-08-23,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+Nakuru County,Kuresoi South Sub County,Keringet Ward,Village farms,"[-0.4260762, 35.6901698]",2025-08-14,Cattle,Other,300,Outbreak/Ring Vaccination,Not reported,70,Rabies
+Tana River County,Garsen Sub County,Garsen West Ward,Homestead,"[-2.2701567, 40.1125808]",2025-08-13,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+Nakuru County,Rongai Sub County,Mosop Ward,Kirobon,"[-0.2757201, 35.9951451]",2025-08-13,Cattle,Lumpy Skin Disease (LSD),234,Outbreak/Ring Vaccination,Not reported,27,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5948887, 34.6026202]",2025-08-11,Chicken,Infectious Bursal Disease (Gumboro),50,Routine vaccination,Not reported,1,Not applicable
+Nairobi County,Westlands Sub County,Kitisuru Ward,Thiongo,"[-1.2650546, 36.7365953]",2025-08-06,Dogs,Rabies,3,Routine vaccination,Not reported,1,Not applicable
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.990605, 36.5827283]",2025-08-08,Chicken,Infectious Bursal Disease (Gumboro),170,Routine vaccination,Not reported,21,Not applicable
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.9516641, 36.5506836]",2025-08-08,Chicken,Newcastle Disease,300,Routine vaccination,Not reported,20,Not applicable
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.939595, 36.5457784]",2025-08-01,Cattle,East Coast Fever (ECF),1,Routine vaccination,Not reported,1,Not applicable
+Nairobi County,Dagoretti South Sub County,Uthiru/Ruthimitu Ward,Muthua,"[-1.2687273, 36.7182565]",2025-08-02,Dogs,Rabies,3,Routine vaccination,Not reported,1,Not applicable
+Marsabit County,Laisamis Sub County,Laisamis Ward,Merille Livestock Market,"[1.4233157, 37.724792]",2025-08-03,Goats,Contagious Caprine Pleuropneumonia (CCPP),23,Mass vaccination,Not reported,1,Not applicable
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.9329417, 36.5384983]",2025-08-01,Chicken,Fowl pox,50,Routine vaccination,Not reported,1,Not applicable
+Tana River County,Garsen Sub County,Garsen North Ward,Sailon Farm,"[-2.1378483, 40.1784583]",2025-08-01,Dogs,Rabies,2,Routine vaccination,Not reported,2,Not applicable
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.9905, 36.5715667]",2025-07-31,Chicken,Infectious Bursal Disease (Gumboro),277,Routine vaccination,Not reported,14,Not applicable
+Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.596826, 34.5890961]",2025-07-30,Chicken,Fowl pox,71,Routine vaccination,Not reported,1,Not applicable
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.988, 36.581888]",2025-07-31,Chicken,Newcastle Disease,75,Routine vaccination,Not reported,2,Not applicable
+Nakuru County,Naivasha Sub County,Mai Mahiu Ward,Farm,"[-0.9818294, 36.5849123]",2025-07-25,Chicken,Infectious Bursal Disease (Gumboro),50,Not reported,Not reported,1,Not applicable
+Bungoma County,Kanduyi Sub County,Township Ward,Office,"[0.5724944, 34.5588601]",2025-07-24,Dogs,Rabies,5,Not reported,Not reported,2,Not applicable
+Mombasa County,Likoni Sub County,Mtongwe Ward,Mvita Market,"[-4.058055599999999, 39.68138890000001]",2025-07-16,Camel,Camel Pox,167,Not reported,Not reported,4,Not applicable
+Homa Bay County,Kabondo Kasipul Sub County,Kabondo East Ward,⁸Vmytssd,"[-0.758694, 36.4308845]",2025-07-15,Pigs,African Swine Fever (ASF),50,Not reported,Not reported,10,Not applicable
+Marsabit County,Saku Sub County,Marsabit Central Ward,Harro Girisaa,"[2.4127001, 38.0472747]",2025-07-15,Cattle,Rabies,160,Not reported,Not reported,1,Not applicable
+Vihiga County,Vihiga Sub County,Mungoma Ward,Somewhere,"[0.07731249999999999, 34.7020625]",2025-07-15,Cats,PanLeukemia (Distemper),22,Not reported,Not reported,6,Not applicable
+Kajiado County,Kajiado Central Sub County,Dalalekutuk Ward,my site,"[-1.2531333, 36.7027382]",2025-07-14,Cats,Animal Bites,45,Not reported,Not reported,12,Not applicable

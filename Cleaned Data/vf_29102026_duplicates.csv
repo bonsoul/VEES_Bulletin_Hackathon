@@ -1,0 +1,46 @@
+source_row,duplicate_reason,county,subcounty,ward,vaccination_site,gps_location,vaccination_date,species,disease,total_number_vaccinated,vaccination_type,batch_number,number_of_beneficiaries,other_disease
+116,identical normalized record,Bungoma County,Kabuchai Sub County,West Nalondo Ward,Village,"[0.6086901, 34.5899432]",2026-07-19,Cats,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+130,identical normalized record,Narok County,Narok West Sub County,Siana Ward,Esiati,"[-1.3565216, 35.554683]",2026-07-03,Dogs,Rabies,5,Routine vaccination,Not reported,1,Not applicable
+139,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5967044, 34.592874]",2026-06-17,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+140,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5967044, 34.592874]",2026-06-17,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+141,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5967044, 34.592874]",2026-06-17,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+142,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5967044, 34.592874]",2026-06-17,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+143,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5967044, 34.592874]",2026-06-17,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+145,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5966789, 34.5890535]",2026-06-15,Chicken,Fowl pox,100,Routine vaccination,Not reported,1,Not applicable
+161,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5864089, 34.5872144]",2026-05-06,Dogs,"Canine Distemper, Hepatitis, Leptospirosis, Parvovirus (DHLP)",4,Routine vaccination,Not reported,1,Not applicable
+162,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5864089, 34.5872144]",2026-05-06,Dogs,"Canine Distemper, Hepatitis, Leptospirosis, Parvovirus (DHLP)",4,Routine vaccination,Not reported,1,Not applicable
+167,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5966088, 34.5892877]",2026-02-17,Chicken,Newcastle Disease,138,Routine vaccination,Not reported,3,Not applicable
+168,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5966088, 34.5892877]",2026-02-17,Chicken,Newcastle Disease,138,Routine vaccination,Not reported,3,Not applicable
+169,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5966088, 34.5892877]",2026-02-17,Chicken,Newcastle Disease,138,Routine vaccination,Not reported,3,Not applicable
+170,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5966088, 34.5892877]",2026-02-17,Chicken,Newcastle Disease,138,Routine vaccination,Not reported,3,Not applicable
+171,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5966088, 34.5892877]",2026-02-17,Chicken,Newcastle Disease,138,Routine vaccination,Not reported,3,Not applicable
+173,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5966088, 34.5892877]",2026-02-17,Chicken,Newcastle Disease,138,Routine vaccination,Not reported,3,Not applicable
+174,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5966088, 34.5892877]",2026-02-17,Chicken,Newcastle Disease,138,Routine vaccination,Not reported,3,Not applicable
+175,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5966088, 34.5892877]",2026-02-17,Chicken,Newcastle Disease,138,Routine vaccination,Not reported,3,Not applicable
+176,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5966088, 34.5892877]",2026-02-17,Chicken,Newcastle Disease,138,Routine vaccination,Not reported,3,Not applicable
+177,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5966088, 34.5892877]",2026-02-17,Chicken,Newcastle Disease,138,Routine vaccination,Not reported,3,Not applicable
+179,identical normalized record,Bungoma County,Kabuchai Sub County,Mukuyuni Ward,Village,"[0.600918, 34.581383]",2026-02-09,Chicken,Newcastle Disease,65,Routine vaccination,Not reported,1,Not applicable
+180,identical normalized record,Bungoma County,Kabuchai Sub County,Mukuyuni Ward,Village,"[0.600918, 34.581383]",2026-02-09,Chicken,Newcastle Disease,65,Routine vaccination,Not reported,1,Not applicable
+181,identical normalized record,Bungoma County,Kabuchai Sub County,Mukuyuni Ward,Village,"[0.600918, 34.581383]",2026-02-09,Chicken,Newcastle Disease,65,Routine vaccination,Not reported,1,Not applicable
+182,identical normalized record,Bungoma County,Kabuchai Sub County,Mukuyuni Ward,Village,"[0.600918, 34.581383]",2026-02-09,Chicken,Newcastle Disease,65,Routine vaccination,Not reported,1,Not applicable
+200,identical normalized record,Uasin Gishu County,Moiben Sub County,Kimumu Ward,Kimumu,"[0.5565981, 35.3082117]",2025-11-27,Cattle,Lumpy Skin Disease (LSD),30,Routine vaccination,Not reported,2,Not applicable
+201,identical normalized record,Uasin Gishu County,Moiben Sub County,Kimumu Ward,Kimumu,"[0.5565981, 35.3082117]",2025-11-27,Cattle,Lumpy Skin Disease (LSD),30,Routine vaccination,Not reported,2,Not applicable
+207,identical normalized record,Bungoma County,Kabuchai Sub County,West Nalondo Ward,Village,"[0.6178851, 34.6128586]",2025-11-18,Chicken,Fowl pox,73,Routine vaccination,Not reported,1,Not applicable
+220,identical normalized record,Marsabit County,Saku Sub County,Sagante/Jaldesa Ward,Badassa,"[2.2554201, 38.0366921]",2025-09-08,Cattle,Other,82,Outbreak/Ring Vaccination,Not reported,12,Rabies
+222,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5795966, 34.5810932]",2025-09-03,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+223,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5795966, 34.5810932]",2025-09-03,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+225,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5756433, 34.5915998]",2025-09-02,Chicken,Infectious Bursal Disease (Gumboro),37,Routine vaccination,Not reported,1,Not applicable
+230,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe East Ward,Village,"[0.5900102, 34.5853564]",2025-08-29,Dogs,Rabies,2,Routine vaccination,Not reported,1,Not applicable
+232,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5798516, 34.5760088]",2025-08-23,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+233,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5798516, 34.5760088]",2025-08-23,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+234,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5798516, 34.5760088]",2025-08-23,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+235,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5798516, 34.5760088]",2025-08-23,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+236,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5798516, 34.5760088]",2025-08-23,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+237,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5798516, 34.5760088]",2025-08-23,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+238,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5798516, 34.5760088]",2025-08-23,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+239,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.5798516, 34.5760088]",2025-08-23,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+242,identical normalized record,Tana River County,Garsen Sub County,Garsen West Ward,Homestead,"[-2.2701567, 40.1125808]",2025-08-13,Dogs,Rabies,1,Routine vaccination,Not reported,1,Not applicable
+253,identical normalized record,Tana River County,Garsen Sub County,Garsen North Ward,Sailon Farm,"[-2.1378483, 40.1784583]",2025-08-01,Dogs,Rabies,2,Routine vaccination,Not reported,2,Not applicable
+254,identical normalized record,Tana River County,Garsen Sub County,Garsen North Ward,Sailon Farm,"[-2.1378483, 40.1784583]",2025-08-01,Dogs,Rabies,2,Routine vaccination,Not reported,2,Not applicable
+257,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.596826, 34.5890961]",2025-07-30,Chicken,Fowl pox,71,Routine vaccination,Not reported,1,Not applicable
+258,identical normalized record,Bungoma County,Kanduyi Sub County,Bukembe West Ward,Village,"[0.596826, 34.5890961]",2025-07-30,Chicken,Fowl pox,71,Routine vaccination,Not reported,1,Not applicable
